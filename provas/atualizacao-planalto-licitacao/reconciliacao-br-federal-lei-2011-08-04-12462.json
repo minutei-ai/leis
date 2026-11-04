@@ -1,0 +1,73 @@
+{
+  "documento": "br-federal-lei-2011-08-04-12462",
+  "fonte_principal": "planalto-l12462",
+  "sha256_fonte_principal": "eabebfdcf9559dfc16270ca51e6f51245d6d2d6f1e66448a38fe55a95759dcd4",
+  "sha256_conteudo": "86a270fbca32912063cbebbea96ac67e31585a6ef8346154444a8d3196d791fe",
+  "capturado_em": "2026-11-04T19:07:11Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12462.htm",
+  "snapshot": "provas/atualizacao-planalto-licitacao/fontes/planalto-l12462.htm.xz",
+  "sha256_snapshot_armazenado": "9226b5301697a7fe752c4ab88d95b624839b58f4a18568e6a5ea57e2392de7b8",
+  "cobertura_texto": {
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 72969,
+    "caracteres_normalizados_markdown": 72969,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 408,
+    "links": 327,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 641,
+    "artigos": 74
+  },
+  "regressao": [
+    {
+      "nome": "art63-par17",
+      "pattern": "§ 17\\..*capital de giro",
+      "ok": true
+    },
+    {
+      "nome": "nota-mp1349",
+      "pattern": "Medida Provisória nº 1\\.349",
+      "ok": true
+    }
+  ],
+  "identidade": {
+    "norma_id": "br-federal-lei-2011-08-04-12462",
+    "numero": "12462",
+    "data": "2011-08-04",
+    "titulo": "LEI Nº 12.462, DE 4 DE AGOSTO DE 2011",
+    "ementa": "Institui o Regime Diferenciado de Contratações Públicas - RDC; altera a Lei nº 10.683, de 28 de maio de 2003; e dá outras providências."
+  },
+  "limites": [
+    "Fonte única (Planalto); fonte_conferencia=nenhuma.",
+    "Edição consolidada do Planalto; não é fac-símile do DOU original.",
+    "situacao=nao-informada; vigencia_certificada=false.",
+    "Imagens institucionais omitidas; notas/riscados/tabelas preservados.",
+    "§ 17 reproduzido conforme Planalto; perda de eficácia da MP 1.349/2026 registrada a partir do Senado/Congresso (não inferida)."
+  ],
+  "mp_1349_status": {
+    "materia_codigo": "173530",
+    "processo_id": "9029245",
+    "identificacao": "MPV 1349/2026",
+    "url_materia": "https://legis.senado.leg.br/dadosabertos/materia/173530.json",
+    "url_processo": "https://legis.senado.leg.br/dadosabertos/processo/9029245.json",
+    "indicador_tramitando": "Não",
+    "situacao_atual": "SEM EFICÁCIA",
+    "sigla_situacao_atual": "SEFICA",
+    "data_situacao_atual": "2026-08-06",
+    "decisao": {
+      "data": "2026-08-04",
+      "sigla": "PERDA_EFICACIA",
+      "descricao": "Perda de eficácia, em decorrência do término do prazo para sua votação no Congresso"
+    },
+    "destino": {
+      "sigla": "ARQUIVO",
+      "descricao": "Ao arquivo"
+    },
+    "leitura": "O Planalto ainda exibe o § 17 do art. 63 da Lei 12.462 com nota da MP 1.349/2026. O Senado/Congresso registra perda de eficácia em 2026-08-04 (SEFICA). O acervo reproduz a compilação do Planalto e registra a perda de eficácia; não certifica vigência residual do § 17 nem reconstrói lei de conversão inexistente."
+  }
+}

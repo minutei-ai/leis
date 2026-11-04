@@ -1,0 +1,33 @@
+{
+  "gerado_em": "2026-11-04T18:55:44Z",
+  "documentos": {
+    "br-federal-decreto-2022-10-27-11246": {
+      "arquivo": "federal/br-federal-decreto-2022-10-27-11246.md",
+      "bytes": 29694,
+      "sha256": "4004c56d8f9ddd1506ed3f14e89622b3e6824f99c8b608c3d8a855ea4573ac5d",
+      "linhas": 341,
+      "nota": "corpo publicado em main antes da atualização Planalto do lote #93; preservado como baseline de edição anterior, sem certificar vigência"
+    },
+    "br-federal-decreto-2024-01-09-11878": {
+      "arquivo": "federal/br-federal-decreto-2024-01-09-11878.md",
+      "bytes": 19548,
+      "sha256": "85cbdb7d7382fb1dc262da5f8818b700d9e9ee69a1ca9b209d3b27f18f2d14ef",
+      "linhas": 279,
+      "nota": "corpo publicado em main antes da atualização Planalto do lote #93; preservado como baseline de edição anterior, sem certificar vigência"
+    },
+    "br-federal-lei-2011-11-18-12527": {
+      "arquivo": "federal/br-federal-lei-2011-11-18-12527.md",
+      "bytes": 55047,
+      "sha256": "df34f35832813755b85fed4be82df1c56579df248aacbfbe869ecaab534a5ff2",
+      "linhas": 577,
+      "nota": "corpo publicado em main antes da atualização Planalto do lote #93; preservado como baseline de edição anterior, sem certificar vigência"
+    },
+    "br-federal-lei-2011-08-04-12462": {
+      "arquivo": "federal/br-federal-lei-2011-08-04-12462.md",
+      "bytes": 59206,
+      "sha256": "a9cf74f327dbcb8955b2027313663a4626e87995c882feca89d107bd5225a5aa",
+      "linhas": 591,
+      "nota": "corpo publicado em main antes da atualização Planalto do lote #93; preservado como baseline de edição anterior, sem certificar vigência"
+    }
+  }
+}

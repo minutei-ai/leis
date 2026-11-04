@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-decreto-2024-01-09-11878",
+  "fonte_principal": "planalto-d11878",
+  "sha256_fonte_principal": "35c40b57c682d12eff0ff5537814dc2e4250cfad20aafbc7e23777d8d05fc276",
+  "sha256_conteudo": "b3f68cae175f429e885e4a82f78dc7c7c80dc27f14bbdae172d68b9a7248f564",
+  "capturado_em": "2026-11-04T19:07:11Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11878.htm",
+  "snapshot": "provas/atualizacao-planalto-licitacao/fontes/planalto-d11878.htm.xz",
+  "sha256_snapshot_armazenado": "296e4dd3c4cadd93bf099d9db9c9b31f98b314ac25fcabae14cbab75b2d750ae",
+  "cobertura_texto": {
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 14426,
+    "caracteres_normalizados_markdown": 14426,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 2,
+    "links": 18,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/LEIS/QUADRO/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 173,
+    "artigos": 27
+  },
+  "regressao": [
+    {
+      "nome": "art1-incisos",
+      "pattern": "art\\. 79, caput, incisos I a III",
+      "ok": true
+    },
+    {
+      "nome": "nota-13106",
+      "pattern": "Decreto nº 13\\.106",
+      "ok": true
+    }
+  ],
+  "identidade": {
+    "norma_id": "br-federal-decreto-2024-01-09-11878",
+    "numero": "11878",
+    "data": "2024-01-09",
+    "titulo": "DECRETO Nº 11.878, DE 9 DE JANEIRO DE 2024",
+    "ementa": "Regulamenta o art. 79, caput, incisos I a III, da Lei nº 14.133, de 1º de abril de 2021, para dispor sobre o procedimento auxiliar de credenciamento."
+  },
+  "limites": [
+    "Fonte única (Planalto); fonte_conferencia=nenhuma.",
+    "Edição consolidada do Planalto; não é fac-símile do DOU original.",
+    "situacao=nao-informada; vigencia_certificada=false.",
+    "Imagens institucionais omitidas; notas/riscados/tabelas preservados."
+  ]
+}
