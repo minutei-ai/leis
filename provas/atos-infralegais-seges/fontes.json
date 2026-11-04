@@ -143,14 +143,31 @@
     "paginas_pdf_integral": 138
   },
   "catalogo-portarias-investigacao": {
-    "papel": "investigacao-portarias-catalogo",
+    "papel": "inventario-portarias-catalogo-pca",
+    "inventario": "provas/atos-infralegais-seges/inventario-portarias-catalogo-pca.json",
     "urls_indice": [
       "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias",
-      "https://www.gov.br/compras/pt-br/nllc/legislacao-14-133-por-tema",
+      "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias-revogadas",
+      "https://www.gov.br/compras/pt-br/nllc/legislacao-14-133-por-tema/planejamento-da-contratacao-pgc-e-pca",
       "https://www.gov.br/compras/pt-br/nllc/legislacao-14-133-por-tema/planejamento-da-contratacao-pgc-e-pca/catalogo-eletronico-de-padronizacao",
-      "https://www.gov.br/pncp/pt-br/acesso-a-informacao/legislacao/legislacao-por-tema/catalogo-eletronico-de-padronizacao"
+      "https://www.gov.br/pncp/pt-br/acesso-a-informacao/legislacao/legislacao-por-tema/catalogo-eletronico-de-padronizacao",
+      "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/catalogo"
     ],
-    "resultado": "Índice de portarias vigentes amostrado sem ementa explícita de atualização CATMAT/CATSER. Página temática do Catálogo Eletrônico aponta ao PNCP, que retornou HTTP 404 nesta captura. Portaria 8.678/2021 cobre PCA. Inventário de portarias de catálogo permanece aberto (sem falso negativo).",
-    "capturado_em": "2026-11-04T20:15:00Z"
+    "resultado": "Catálogo paginado completo: 64 portarias vigentes (3 páginas) e 145 revogadas. Nenhum título nos índices com ementa literal de atualização CATMAT/CATSER. Portaria 938/2022 (catálogo eletrônico de padronização) recuperada no DOU; portal Compras restrito. Decreto 10.947/2022 é o regulamento PCA/PGC (espécie decreto). Portaria 8.678/2021 = governança das contratações (PCA como instrumento), sem equivaler ao regulamento PCA/PGC. Inventário ≠ falso negativo de inexistência de atos operacionais fora desses índices.",
+    "capturado_em": "2026-11-04T21:30:00Z"
+  },
+  "portaria-seges-me-938-2022": {
+    "chave": "portaria-seges-me-938-2022",
+    "url": "https://www.in.gov.br/web/dou/-/portaria-seges/me-n-938-de-2-de-fevereiro-de-2022-377800503",
+    "url_portal_compras_restrito": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias/portaria-seges-me-no-938-de-2-de-fevereiro-de-2022",
+    "orgao": "SEGES/ME",
+    "formato": "html",
+    "capturado_em": "2026-11-04T21:30:00Z",
+    "sha256": "0f125dc946625bd2aef0046d254a9c9a73a7c49074796a7931c1d7b760b323bc",
+    "snapshot": "provas/atos-infralegais-seges/fontes/br-federal-portaria-seges-me-2022-02-02-938.html.xz",
+    "sha256_snapshot_armazenado": "8e0877d57d71e6d308cc6144ccbb6dc18fd1f0e47920bd98ffe27a78466c5d6e",
+    "http_status": 200,
+    "edicao": "dou",
+    "nota": "Portal Compras.gov.br retornou conteúdo restrito; íntegra do DOU."
   }
 }

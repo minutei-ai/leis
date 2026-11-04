@@ -9,7 +9,7 @@ esfera: "federal"
 orgao_emissor: "seges-me"
 orgao_emissor_label: "SEGES/ME"
 lei_regulamentada: ["br-federal-lei-2021-04-01-14133"]
-tema: "governanca-contratacoes-pca-pgc"
+tema: "governanca-contratacoes"
 edicao_id: "br-federal-portaria-seges-me-2021-07-19-8678@compras-gov"
 edicao_tipo: "portal"
 edicao_integral: true
