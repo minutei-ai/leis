@@ -1,0 +1,293 @@
+{
+  "documento": "br-federal-lei-1990-09-11-8078",
+  "area": "consumidor",
+  "fonte_principal": "planalto-8078",
+  "sha256_fonte_principal": "40234bea6680a23d5b1441bd08ef22d37864980bd9f12ccd513103915e8f6e9f",
+  "sha256_conteudo_convertido": "f5c781ac651878d1e3bd84b78be03786ce96276eb981546c160ea572fa8f7051",
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte principal (após normalização estável de ordinais tipográficos, sem imagens) == texto do Markdown, após normalização strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados": 66680
+  },
+  "conversao": {
+    "trechos_riscados": 2,
+    "links": 131,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/leis/QUADRO/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 548,
+    "artigos": 121
+  },
+  "fontes_conferencia": [
+    {
+      "fonte": "camara-8078",
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html",
+      "sha256": "0f46ff9e5738563d855ff61d4d914017a7f265de248f331239da36d30af3a39d",
+      "artigos": {
+        "artigos_fonte_principal": 121,
+        "artigos_fonte_conferencia": 131,
+        "apenas_na_principal": [],
+        "apenas_na_conferencia": [
+          "11-A",
+          "111",
+          "112",
+          "113",
+          "114",
+          "115",
+          "116",
+          "117",
+          "118",
+          "119"
+        ],
+        "identicos": 106,
+        "divergentes": [
+          {
+            "artigo": "8",
+            "similaridade": 0.9992,
+            "diferencas": [
+              {
+                "operacao": "insert",
+                "principal": "",
+                "conferencia": "o",
+                "contexto": "osapropriadosquedevamacompanharoproduto2|fornecedordeverahigienizarosequipamentos"
+              }
+            ]
+          },
+          {
+            "artigo": "11",
+            "similaridade": 0.0,
+            "diferencas": [
+              {
+                "operacao": "delete",
+                "principal": "secaoiidaresponsabilidadepelofatodoprodutoedoservico",
+                "conferencia": "",
+                "contexto": "|"
+              }
+            ]
+          },
+          {
+            "artigo": "18",
+            "similaridade": 0.9997,
+            "diferencas": [
+              {
+                "operacao": "insert",
+                "principal": "",
+                "conferencia": "s",
+                "contexto": "moporaquelesdecorrentesdadisparidadecoma|indicacoesconstantesdorecipientedaembala"
+              }
+            ]
+          },
+          {
+            "artigo": "39",
+            "similaridade": 0.992,
+            "diferencas": [
+              {
+                "operacao": "replace",
+                "principal": "in",
+                "conferencia": "a",
+                "contexto": "aoprecodeprodutosouservicosxidispositivo|cluidopelampvno189067de22101999transform"
+              },
+              {
+                "operacao": "replace",
+                "principal": "lu",
+                "conferencia": "resc",
+                "contexto": "recodeprodutosouservicosxidispositivoinc|idopelampvno189067de22101999transformado"
+              },
+              {
+                "operacao": "insert",
+                "principal": "",
+                "conferencia": "edida",
+                "contexto": "utosouservicosxidispositivoincluidopelam|pvno189067de22101999transformadoeminciso"
+              }
+            ]
+          },
+          {
+            "artigo": "51",
+            "similaridade": 0.9998,
+            "diferencas": [
+              {
+                "operacao": "insert",
+                "principal": "",
+                "conferencia": "o",
+                "contexto": "zadocontratodetalmodoaameacarseuobjetoou|equilibriocontratualiiisemostraexcessiva"
+              }
+            ]
+          },
+          {
+            "artigo": "54",
+            "similaridade": 0.9994,
+            "diferencas": [
+              {
+                "operacao": "delete",
+                "principal": "a",
+                "conferencia": "",
+                "contexto": "desaoadmiteseclausularesolutoriadesdeque|alternativacabendoaescolhaaoconsumidorre"
+              }
+            ]
+          },
+          {
+            "artigo": "65",
+            "similaridade": 0.8441,
+            "diferencas": [
+              {
+                "operacao": "insert",
+                "principal": "",
+                "conferencia": "primitivoparagrafounicorenumeradopara1pelaleino13425de3032017publicadanodoude3132017emvigor180diasaposapublicacao",
+                "contexto": "odascorrespondentesalesaocorporaleamorte|2apraticadodispostonoincisoxivdoart39des"
+              }
+            ]
+          },
+          {
+            "artigo": "75",
+            "similaridade": 0.9985,
+            "diferencas": [
+              {
+                "operacao": "insert",
+                "principal": "",
+                "conferencia": "n",
+                "contexto": "erparaoscrimesreferidosnestecodigoincide|aspenasaessescominadasnamedidadesuaculpa"
+              }
+            ]
+          },
+          {
+            "artigo": "79",
+            "similaridade": 0.9971,
+            "diferencas": [
+              {
+                "operacao": "replace",
+                "principal": "o",
+                "conferencia": "e",
+                "contexto": "ureuafiancapoderaserareduzidaateametaded|seuvalorminimobaumentadapelojuizatevinte"
+              }
+            ]
+          },
+          {
+            "artigo": "90",
+            "similaridade": 0.9182,
+            "diferencas": [
+              {
+                "operacao": "insert",
+                "principal": "",
+                "conferencia": "o",
+                "contexto": "loasnormasdocodigodeprocessociviledalein|7347de24dejulhode1985inclusivenoquerespe"
+              },
+              {
+                "operacao": "insert",
+                "principal": "",
+                "conferencia": "civilnaquiloquenaocontrariarsuasdisposicoes",
+                "contexto": "ode1985inclusivenoquerespeitaaoinquerito|civilnaquiloquenaocontrariarsuasdisposic"
+              }
+            ]
+          },
+          {
+            "artigo": "99",
+            "similaridade": 0.998,
+            "diferencas": [
+              {
+                "operacao": "insert",
+                "principal": "",
+                "conferencia": "o",
+                "contexto": "tosdecorrentesdecondenacaoprevistanalein|7347de24dejulhode1985edeindenizacoespelo"
+              },
+              {
+                "operacao": "insert",
+                "principal": "",
+                "conferencia": "o",
+                "contexto": "mportanciarecolhidaaofundocriadopelalein|7347de24dejulhode1985ficarasustadaenquan"
+              }
+            ]
+          },
+          {
+            "artigo": "102",
+            "similaridade": 0.9986,
+            "diferencas": [
+              {
+                "operacao": "delete",
+                "principal": "a",
+                "conferencia": "",
+                "contexto": "ulgacaodistribuicaoouvendaouadeterminara|lteracaonacomposicaoestruturaformulaouac"
+              }
+            ]
+          },
+          {
+            "artigo": "103",
+            "similaridade": 0.9996,
+            "diferencas": [
+              {
+                "operacao": "insert",
+                "principal": "",
+                "conferencia": "o",
+                "contexto": "dequecuidaoart16combinadocomoart13dalein|7347de24dejulhode1985naoprejudicaraoasac"
+              }
+            ]
+          },
+          {
+            "artigo": "104",
+            "similaridade": 0.9987,
+            "diferencas": [
+              {
+                "operacao": "delete",
+                "principal": "e",
+                "conferencia": "",
+                "contexto": "4asacoescoletivasprevistasnosincisosieii|doparagrafounicodoart81naoinduzemlitispe"
+              }
+            ]
+          },
+          {
+            "artigo": "110",
+            "similaridade": 0.0899,
+            "diferencas": [
+              {
+                "operacao": "insert",
+                "principal": "",
+                "conferencia": "o",
+                "contexto": "crescenteseoseguinteincisoivaoart1dalein|7347de24dejulhode1985ivaqualqueroutroint"
+              },
+              {
+                "operacao": "delete",
+                "principal": "art111oincisoiidoart5dalein7347de24dejulhode1985passaateraseguinteredacaoiiincluaentresuasfinalidadesinstitucionaisaprotecaoaomeioambienteaoconsumidoraopatrimon",
+                "conferencia": "",
+                "contexto": "vaqualqueroutrointeressedifusooucoletivo|"
+              }
+            ]
+          }
+        ],
+        "divergencias_de_forma": [
+          "8",
+          "18",
+          "51",
+          "54",
+          "75",
+          "79",
+          "99",
+          "102",
+          "103",
+          "104"
+        ],
+        "divergencias_substanciais": [
+          "11",
+          "39",
+          "65",
+          "90",
+          "110"
+        ]
+      },
+      "titulos_e_capitulos": {
+        "iguais": false,
+        "principal": 33,
+        "conferencia": 33
+      }
+    }
+  ]
+}

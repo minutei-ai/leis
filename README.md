@@ -4,19 +4,21 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**229.963 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**229.965 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
 - [Constituição Federal](federal/br-federal-constituicao-1988-10-05.md)
 - [Código Civil](federal/br-federal-lei-2002-01-10-10406.md)
 - [Código de Processo Civil](federal/br-federal-lei-2015-03-16-13105.md)
+- [Código de Defesa do Consumidor](federal/br-federal-lei-1990-09-11-8078.md)
+- [Estatuto da Criança e do Adolescente](federal/br-federal-lei-1990-07-13-8069.md)
 
 ## Explore o acervo
 
 | Esfera | Legislação | Normas |
 | --- | --- | ---: |
-| Federal | [Brasil](federal/) | 97.219 |
+| Federal | [Brasil](federal/) | 97.221 |
 | Estadual | [Acre](estaduais/AC/) | 1.680 |
 | Estadual | [Alagoas](estaduais/AL/) | 5 |
 | Estadual | [Amapá](estaduais/AP/) | 24 |
