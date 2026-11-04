@@ -1,0 +1,15 @@
+HTTP/2 200 
+date: Wed, 04 Nov 2026 11:47:39 GMT
+content-type: application/json
+set-cookie: __goc_session__=tuadlmsuiqotueabqglojvbjvzxdtdfb; expires=Wed, 11-Nov-26 11:47:38 GMT; SameSite=Lax; path=/; secure; HttpOnly
+x-ratelimit-limit: 2500
+x-ratelimit-remaining: 2495
+access-control-allow-origin: https://dom-web.pbh.gov.br
+access-control-allow-credentials: true
+x-frame-options: SAMEORIGIN
+x-xss-protection: 1; mode=block
+x-content-type-options: nosniff
+set-cookie: ee167f5d5f82837159735a2404b0f40e=3628cd8f590ee4feb44f243b9e834f57; path=/; HttpOnly
+server: gocache
+x-gocache-cachestatus: BYPASS
+
