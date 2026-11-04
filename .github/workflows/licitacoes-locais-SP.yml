@@ -21,3 +21,6 @@ jobs:
       - run: python3 -m venv "$RUNNER_TEMP/venv" && "$RUNNER_TEMP/venv/bin/pip" install beautifulsoup4==4.15.0 lxml==6.1.3
       - name: Regressões do catálogo local SP
         run: $RUNNER_TEMP/venv/bin/python -m unittest tests.test_licitacoes_locais_SP -v
+
+      - name: Integridade e contagens do acervo
+        run: $RUNNER_TEMP/venv/bin/python scripts/verify-dou-assets.py

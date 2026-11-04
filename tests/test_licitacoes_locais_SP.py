@@ -9,10 +9,15 @@ import hashlib
 import json
 import lzma
 import re
+import sys
+
+from bs4 import BeautifulSoup
 import unittest
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / 'scripts'))
+import nucleo_licitacoes as nl
 CATALOG = ROOT / 'metadados/licitacoes-locais/SP.json'
 PROVAS = ROOT / 'provas/licitacoes-locais/SP'
 FONTES = PROVAS / 'fontes.json'
@@ -72,6 +77,21 @@ class TestCatalogoSP(unittest.TestCase):
         self.assertTrue(snap.is_file())
         raw = lzma.open(snap).read()
         self.assertEqual(sha256_bytes(raw), fonte['sha256_fonte'])
+
+    def test_reconversao_integral_do_snapshot_e_identica(self):
+        source = self.fontes['fontes']['prefeitura-sp-decreto-62100']
+        soup = BeautifulSoup(lzma.decompress((ROOT / source['arquivo']).read_bytes()), 'lxml')
+        candidates = [node for node in soup.select('.col.s12.customStyle')
+                      if node.get_text(' ', strip=True).startswith('DECRETO Nº 62.100')]
+        self.assertEqual(len(candidates), 1)
+        content = candidates[0]
+        converted = nl.convert_html(('<html><body>' + str(content) + '</body></html>').encode('utf-8'),
+                                    'utf-8', source['url'])
+        expected = nl.blocks_to_markdown(converted.blocks, r'^DECRETO N')
+        body = nl.strip_note(self.md)
+        self.assertEqual(expected, body)
+        # Conferência independente de todo o texto bruto, além da reconversão.
+        self.assertEqual(nl.strip_fold(content.get_text(' ')), nl.strip_fold(nl.md_text_all(body)))
 
     def test_markdown_preserva_alteracoes_notas_e_disclaimer(self):
         for trecho in self.cobertura['trechos_obrigatorios']:
