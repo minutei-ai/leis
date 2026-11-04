@@ -284,8 +284,13 @@ def iter_markdown_files() -> list[Path]:
     return files
 
 
-def _rg_markdown_hits(pattern: str) -> set[Path]:
+def _rg_markdown_hits(pattern: str) -> set[Path] | None:
+    """Usa ripgrep quando disponível; None se o binário não existir (ex.: CI mínimo)."""
+    import shutil
     import subprocess
+
+    if shutil.which('rg') is None:
+        return None
     cmd = [
         'rg', '-l', '--glob', '*.md', pattern,
         str(ROOT / 'federal'), str(ROOT / 'estaduais'), str(ROOT / 'municipais'),
@@ -297,10 +302,23 @@ def _rg_markdown_hits(pattern: str) -> set[Path]:
     return {Path(line) for line in proc.stdout.splitlines() if line.strip()}
 
 
+def _facsimile_candidate_paths() -> list[Path]:
+    hits_a = _rg_markdown_hits('fac-simile-oficial:inicio')
+    hits_b = _rg_markdown_hits('data:image/')
+    if hits_a is not None and hits_b is not None:
+        return sorted(hits_a | hits_b)
+    # Fallback portátil: varredura por bytes-marcadores, sem depender de rg.
+    out: list[Path] = []
+    for path in iter_markdown_files():
+        raw = path.read_bytes()
+        if b'fac-simile-oficial:inicio' in raw or b'data:image/' in raw:
+            out.append(path)
+    return out
+
+
 def build_facsimile_inventory() -> dict[str, Any]:
     rows = []
-    candidates = _rg_markdown_hits('fac-simile-oficial:inicio') | _rg_markdown_hits('data:image/')
-    for path in sorted(candidates):
+    for path in _facsimile_candidate_paths():
         raw = path.read_bytes()
         text = raw.decode('utf-8', errors='replace')
         if FAC_START not in text and 'data:image/' not in text:
