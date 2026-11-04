@@ -1,0 +1,74 @@
+{
+  "documento": "br-federal-emenda-constitucional-2022-05-10-121",
+  "fonte_principal": "planalto-emc121",
+  "sha256_fonte_principal": "75c4653c2b54df3987b17bee7bb9b42b3f3cc42904a19eaba3b70cdfb427607b",
+  "sha256_conteudo": "a1539362928010b9dfe61d013db1b0ca31cc06264f851a3e92548066d894a21c",
+  "capturado_em": "2026-11-04T12:54:08Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc121.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc121.htm.xz",
+  "sha256_snapshot_armazenado": "04a0c0cdc9fa14af13f6ef438ed9aaa72efa4a0b75c2d41185912c97c74c1015",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": null,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 1257,
+    "caracteres_normalizados_markdown": 1257,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 4,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/decreto/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 16,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2022-05-10-121",
+    "numero": "121",
+    "data": "2022-05-10",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 121, DE 10 DE MAIO DE 2022",
+    "ementa": "Altera o inciso IV do § 2º do art. 4º da Emenda Constitucional nº 109, de 15 de março de 2021.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2022-05-10;121",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}

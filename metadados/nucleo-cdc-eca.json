@@ -1,0 +1,173 @@
+{
+  "contrato": "metadados/CONTRATO-cdc-eca.md",
+  "contrato_versao": 1,
+  "lote": "cdc-eca",
+  "issue_refs": [
+    "https://github.com/minutei-ai/leis/issues/62"
+  ],
+  "escopo": "Lote independente do núcleo de licitações e do espaço LGPD: apenas CDC (Lei 8.078/1990) e ECA (Lei 8.069/1990).",
+  "vigencia_certificada": false,
+  "diagnostico_coleta": "provas/nucleo-cdc-eca/diagnostico-coleta-cdc-eca.md",
+  "documentos": [
+    {
+      "id": "br-federal-lei-1990-09-11-8078",
+      "arquivo": "federal/br-federal-lei-1990-09-11-8078.md",
+      "area": "consumidor",
+      "aliases": [
+        "CDC",
+        "Código de Defesa do Consumidor",
+        "Codigo de Defesa do Consumidor"
+      ],
+      "ementa": "Dispõe sobre a proteção do consumidor e dá outras providências.",
+      "edicao_id": "br-federal-lei-1990-09-11-8078@compilado-planalto",
+      "edicao_tipo": "consolidada",
+      "fonte_principal": "planalto-8078",
+      "fonte_url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "fontes_conferencia": [
+        "camara-8078"
+      ],
+      "estado_recuperacao": "publicado-conferido",
+      "vigencia_certificada": false,
+      "divergencias_conhecidas": {
+        "apenas_na_conferencia": [
+          "11-A",
+          "111",
+          "112",
+          "113",
+          "114",
+          "115",
+          "116",
+          "117",
+          "118",
+          "119"
+        ],
+        "divergencias_de_forma": [
+          "8",
+          "18",
+          "51",
+          "54",
+          "75",
+          "79",
+          "99",
+          "102",
+          "103",
+          "104"
+        ],
+        "divergencias_substanciais": [
+          "11",
+          "39",
+          "65",
+          "90",
+          "110"
+        ],
+        "tratamento": "Markdown segue o Planalto; a Câmara permanece só como conferência. Redações não foram combinadas. O acervo não escolhe vigência."
+      },
+      "prova": "provas/nucleo-cdc-eca/reconciliacao-br-federal-lei-1990-09-11-8078.json"
+    },
+    {
+      "id": "br-federal-lei-1990-07-13-8069",
+      "arquivo": "federal/br-federal-lei-1990-07-13-8069.md",
+      "area": "infancia-adolescencia",
+      "aliases": [
+        "ECA",
+        "Estatuto da Criança e do Adolescente",
+        "Estatuto da Crianca e do Adolescente"
+      ],
+      "ementa": "Dispõe sobre o Estatuto da Criança e do Adolescente, e dá outras providências.",
+      "edicao_id": "br-federal-lei-1990-07-13-8069@compilado-planalto",
+      "edicao_tipo": "consolidada",
+      "fonte_principal": "planalto-8069",
+      "fonte_url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "fontes_conferencia": [
+        "camara-8069"
+      ],
+      "estado_recuperacao": "publicado-conferido",
+      "vigencia_certificada": false,
+      "divergencias_conhecidas": {
+        "apenas_na_conferencia": [],
+        "divergencias_de_forma": [
+          "47",
+          "94",
+          "102",
+          "148",
+          "256",
+          "260-E",
+          "263",
+          "267"
+        ],
+        "divergencias_substanciais": [
+          "4",
+          "34",
+          "36",
+          "37",
+          "42",
+          "48",
+          "51",
+          "52",
+          "85",
+          "92",
+          "93",
+          "120",
+          "166",
+          "196",
+          "221",
+          "240",
+          "241",
+          "241-A",
+          "241-B",
+          "241-C",
+          "241-D",
+          "243",
+          "244-A",
+          "247",
+          "254"
+        ],
+        "tratamento": "Markdown segue o Planalto; a Câmara permanece só como conferência. Redações não foram combinadas. O acervo não escolhe vigência."
+      },
+      "prova": "provas/nucleo-cdc-eca/reconciliacao-br-federal-lei-1990-07-13-8069.json"
+    }
+  ],
+  "fontes": {
+    "planalto-8078": {
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm",
+      "orgao": "Presidência da República — Planalto",
+      "formato": "html",
+      "capturado_em": "2026-11-04T12:15:17Z",
+      "sha256": "40234bea6680a23d5b1441bd08ef22d37864980bd9f12ccd513103915e8f6e9f",
+      "sha256_conteudo": "f5c781ac651878d1e3bd84b78be03786ce96276eb981546c160ea572fa8f7051",
+      "snapshot": "provas/nucleo-cdc-eca/fontes/planalto-l8078compilado.htm.xz"
+    },
+    "camara-8078": {
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8078-11-setembro-1990-365086-normaatualizada-pl.html",
+      "orgao": "Câmara dos Deputados — LegIn",
+      "formato": "html",
+      "capturado_em": "2026-11-04T12:15:18Z",
+      "sha256": "0f46ff9e5738563d855ff61d4d914017a7f265de248f331239da36d30af3a39d",
+      "sha256_conteudo": "0f46ff9e5738563d855ff61d4d914017a7f265de248f331239da36d30af3a39d",
+      "snapshot": "provas/nucleo-cdc-eca/fontes/camara-lei-8078-normaatualizada.html.xz"
+    },
+    "planalto-8069": {
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "orgao": "Presidência da República — Planalto",
+      "formato": "html",
+      "capturado_em": "2026-11-04T12:15:19Z",
+      "sha256": "9cac53f6ace3a3c8de324b43d91bedd3d549d979b8c4ef3ef8a9d36ac40d3a42",
+      "sha256_conteudo": "275659a978f0f39c039af2aee6ea450bcc7224a9b0693016416e30afc7a0d77e",
+      "snapshot": "provas/nucleo-cdc-eca/fontes/planalto-l8069.htm.xz"
+    },
+    "camara-8069": {
+      "url": "https://www2.camara.leg.br/legin/fed/lei/1990/lei-8069-13-julho-1990-372211-normaatualizada-pl.html",
+      "orgao": "Câmara dos Deputados — LegIn",
+      "formato": "html",
+      "capturado_em": "2026-11-04T12:15:22Z",
+      "sha256": "83c9e329f2e448a2adcfd5e428c0d4082a49016f89dbbda1f18e0cae1bb89fd9",
+      "sha256_conteudo": "83c9e329f2e448a2adcfd5e428c0d4082a49016f89dbbda1f18e0cae1bb89fd9",
+      "snapshot": "provas/nucleo-cdc-eca/fontes/camara-lei-8069-normaatualizada.html.xz"
+    }
+  },
+  "provas": {
+    "fontes.json": "provas/nucleo-cdc-eca/fontes.json",
+    "reconciliacao-br-federal-lei-1990-09-11-8078.json": "provas/nucleo-cdc-eca/reconciliacao-br-federal-lei-1990-09-11-8078.json",
+    "reconciliacao-br-federal-lei-1990-07-13-8069.json": "provas/nucleo-cdc-eca/reconciliacao-br-federal-lei-1990-07-13-8069.json"
+  }
+}

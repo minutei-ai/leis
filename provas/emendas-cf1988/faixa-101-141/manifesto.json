@@ -1,0 +1,1535 @@
+{
+  "contrato_versao": 1,
+  "lote": "emendas-cf1988-faixa-101-141",
+  "descricao": "Textos autônomos das Emendas Constitucionais à CF/1988 ausentes na faixa 101–141 (números listados em numeros_alvo), recuperados do Planalto oficial.",
+  "gerado_em": "2026-11-04T12:58:09Z",
+  "vigencia_certificada": false,
+  "numeros_alvo": [
+    102,
+    107,
+    109,
+    111,
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135,
+    136,
+    137,
+    138,
+    139,
+    140,
+    141
+  ],
+  "documentos": [
+    {
+      "id": "br-federal-emenda-constitucional-2019-09-26-102",
+      "arquivo": "federal/br-federal-emenda-constitucional-2019-09-26-102.md",
+      "numero": 102,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "102",
+        "data": "2019-09-26",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 102, DE 26 DE SETEMBRO DE 2019",
+        "ementa": "Dá nova redação ao art. 20 da Constituição Federal e altera o art. 165 da Constituição Federal e o art. 107 do Ato das Disposições Constitucionais Transitórias."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2019-09-26;102",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2019-09-26-102@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc102",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc102.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "42daf6d9d535f8fcb9a16f74a5f10d429af3451ecba627c3822b231979220f42",
+        "sha256_conteudo": "584fd37301684d1e9f6377763ef292171813c98aa515fad19d24f3b4c36db5fb",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc102.htm.xz",
+        "sha256_snapshot_armazenado": "e5bc3b9749068a495baf83e920d1e18f9227def77c8ee107e07a7c5d2d31b256",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 27.9.2019",
+        "camara_catalogo_url": "https://www2.camara.leg.br/legin/fed/emecon/2019/emendaconstitucional-102-26-setembro-2019-789165-publicacaooriginal-159100-pl.html"
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2019-09-26-102.json",
+      "sha256_markdown": "fba26b2acc5adfecd29c4f0b2b8fa40a7c7a5f35724eb46984063b6d7baa8243",
+      "estrutura": {
+        "blocos": 33,
+        "artigos": 4,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2020-07-02-107",
+      "arquivo": "federal/br-federal-emenda-constitucional-2020-07-02-107.md",
+      "numero": 107,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "107",
+        "data": "2020-07-02",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 107, DE 2 DE JULHO DE 2020",
+        "ementa": "Adia, em razão da pandemia da Covid-19, as eleições municipais de outubro de 2020 e os prazos eleitorais respectivos"
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2020-07-02;107",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2020-07-02-107@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc107",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc107.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "65730f1a4d1342d4eab001167ce626de4684bfd5ce0ae643218acedce81e9938",
+        "sha256_conteudo": "23d96faafc2adcd3dc8c9711afe4598587d4e62b098b66cb9e93ea5132559058",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc107.htm.xz",
+        "sha256_snapshot_armazenado": "262d24f31e452bc4c3e63dcd5bb2166cc775e31b266248814d21f454ba99b9ec",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 3.7.2020",
+        "camara_catalogo_url": "https://www2.camara.leg.br/legin/fed/emecon/2020/emendaconstitucional-107-3-julho-2020-790377-publicacaooriginal-160989-pl.html"
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2020-07-02-107.json",
+      "sha256_markdown": "37ff07b9a7efd50c62533142dcfdc995e43854bc4fc4ddf8dc778ab5234e300c",
+      "estrutura": {
+        "blocos": 35,
+        "artigos": 3,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2021-03-15-109",
+      "arquivo": "federal/br-federal-emenda-constitucional-2021-03-15-109.md",
+      "numero": 109,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "109",
+        "data": "2021-03-15",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 109, DE 15 DE MARÇO DE 2021",
+        "ementa": "Altera os arts. 29-A, 37, 49, 84, 163, 165, 167, 168 e 169 da Constituição Federal e os arts. 101 e 109 do Ato das Disposições Constitucionais Transitórias; acrescenta à Constituição Federal os arts. 164-A, 167-A, 167-B, 167-C, 167-D, 167-E, 167-F e 167-G; revoga dispositivos do Ato das Disposições Constitucionais Transitórias e institui regras transitórias sobre redução de benefícios tributários; desvincula parcialmente o superávit financeiro de fundos públicos; e suspende condicionalidades para realização de despesas com concessão de auxílio emergencial residual para enfrentar as consequências sociais e econômicas da pandemia da Covid-19."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2021-03-15;109",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2021-03-15-109@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc109",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc109.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "c7d2e049556f3b1000404b9ba8de551d605c2fe6379d6a1eb813df8d31efd897",
+        "sha256_conteudo": "140b331bdb14234909a877693a7233d20278483f3581aa6e774b85c7819e54ce",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc109.htm.xz",
+        "sha256_snapshot_armazenado": "e2b94bb33d10fb520ce7331e61ebd3cf3330752259f5f23396f24549da2d3f52",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 16.3.2021",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2021-03-15-109.json",
+      "sha256_markdown": "e122c2945bc4df4c66ebaee8f231703d2f8042fe31989224c91098a586a57189",
+      "estrutura": {
+        "blocos": 161,
+        "artigos": 7,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2021-09-28-111",
+      "arquivo": "federal/br-federal-emenda-constitucional-2021-09-28-111.md",
+      "numero": 111,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "111",
+        "data": "2021-09-28",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 111, DE 28 DE SETEMBRO DE 2021",
+        "ementa": "Altera a Constituição Federal para disciplinar a realização de consultas populares concomitantes às eleições municipais, dispor sobre o instituto da fidelidade partidária, alterar a data de posse de Governadores e do Presidente da República e estabelecer regras transitórias para distribuição entre os partidos políticos dos recursos do fundo partidário e do Fundo Especial de Financiamento de Campanha (FEFC) e para o funcionamento dos partidos políticos."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2021-09-28;111",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2021-09-28-111@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc111",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc111.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "e7c60da5df6a6a7f9c8473f272c495f470e58b44a1fe16cc0a8fce3237901929",
+        "sha256_conteudo": "36ae23a6d7cd0a882e36d8d9c683b831d8b1911cdced1ce35f165ec81325493c",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc111.htm.xz",
+        "sha256_snapshot_armazenado": "366ced7d0cc2c63611fead41192f78c6007c282fc98824a4fdd24c0d545be696",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 29.9.2021",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2021-09-28-111.json",
+      "sha256_markdown": "85ef1af2ef8a0675619b4c88bac3a65caed458b1fafc13268a8b00ba5bc95e22",
+      "estrutura": {
+        "blocos": 25,
+        "artigos": 6,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2021-10-27-112",
+      "arquivo": "federal/br-federal-emenda-constitucional-2021-10-27-112.md",
+      "numero": 112,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "112",
+        "data": "2021-10-27",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 112, DE 27 DE OUTUBRO DE 2021",
+        "ementa": "Altera o art. 159 da Constituição Federal para disciplinar a distribuição de recursos pela União ao Fundo de Participação dos Municípios."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2021-10-27;112",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2021-10-27-112@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc112",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc112.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "33f275bf2d9ca60e18da322a32bd7205e9cc2b1148b4f53cb1b64b1b9d236e65",
+        "sha256_conteudo": "25ee6507e2315cc101a356dc73bad2822d7ca888d7ede4647fda7eab54f22514",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc112.htm.xz",
+        "sha256_snapshot_armazenado": "c036620c43c901206fd9cfd96454a2d24c544a943c70349bc5f7f4bc892bb237",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 28.10.2021",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2021-10-27-112.json",
+      "sha256_markdown": "1be42a281c357aa49ea0f57e1fb6c81b22dfd9a96eed753b49f0d0fa5df99a59",
+      "estrutura": {
+        "blocos": 17,
+        "artigos": 3,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2021-12-08-113",
+      "arquivo": "federal/br-federal-emenda-constitucional-2021-12-08-113.md",
+      "numero": 113,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "113",
+        "data": "2021-12-08",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 113, DE 8 DE DEZEMBRO DE 2021",
+        "ementa": "Altera a Constituição Federal e o Ato das Disposições Constitucionais Transitórias para estabelecer o novo regime de pagamentos de precatórios, modificar normas relativas ao Novo Regime Fiscal e autorizar o parcelamento de débitos previdenciários dos Municípios; e dá outras providências."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2021-12-08;113",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2021-12-08-113@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc113",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc113.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "e598f3f55351ea3aefc5511ff633b5f113bbbb91c5f54ac6eab4575145c09dbc",
+        "sha256_conteudo": "15a02c01d1793fc145cfbcbc01fea3d679a8ab45645d0f8f7d478a41e9ed83eb",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc113.htm.xz",
+        "sha256_snapshot_armazenado": "65acc18b94b6664741c8df0f31ef8941f23f0c3257b58caa9bbeb8b3dff5fb8f",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 9.12.2021",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2021-12-08-113.json",
+      "sha256_markdown": "60ff731ee9b56b12c4ac91bde9d29b849e1edeb92bbf9731916f23fb44b25556",
+      "estrutura": {
+        "blocos": 78,
+        "artigos": 7,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2021-12-16-114",
+      "arquivo": "federal/br-federal-emenda-constitucional-2021-12-16-114.md",
+      "numero": 114,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "114",
+        "data": "2021-12-16",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 114, DE 16 DE DEZEMBRO DE 2021",
+        "ementa": "Altera a Constituição Federal e o Ato das Disposições Constitucionais Transitórias para estabelecer o novo regime de pagamentos de precatórios, modificar normas relativas ao Novo Regime Fiscal e autorizar o parcelamento de débitos previdenciários dos Municípios; e dá outras providências."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2021-12-16;114",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2021-12-16-114@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc114",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc114.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "3f701308e2cfcf560e2b4229b482e40e9ab84e2f91a4233640f510593fc6eb7b",
+        "sha256_conteudo": "dbad2d08236f3b38bbfb5b17f28c6ff2d45ebc6142705b3d76f4734276125138",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc114.htm.xz",
+        "sha256_snapshot_armazenado": "56017143bfbcf566e9991f8ce3fea29f3e31fd97d23d9ff6c2e492c70dd4c2ff",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 17.12.2021",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2021-12-16-114.json",
+      "sha256_markdown": "5c1f1906cd230f62ae9768802a74f90f8d0ec809584e8a7ee640525f5343f3fb",
+      "estrutura": {
+        "blocos": 57,
+        "artigos": 8,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2022-02-10-115",
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-02-10-115.md",
+      "numero": 115,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "115",
+        "data": "2022-02-10",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 115, DE 10 DE FEVEREIRO DE 2022",
+        "ementa": "Altera a Constituição Federal para incluir a proteção de dados pessoais entre os direitos e garantias fundamentais e para fixar a competência privativa da União para legislar sobre proteção e tratamento de dados pessoais."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-02-10;115",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2022-02-10-115@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc115",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc115.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "47da997e2f063e2016d5a3fc42b7578d6891e119289039c79955fb6086d0ee31",
+        "sha256_conteudo": "e47f128ec748f6aedb0a8ada6cae32c888ccf2817a04de231faa8ac83433e32b",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc115.htm.xz",
+        "sha256_snapshot_armazenado": "113ba47b7354a44fcc9f9577b75d65e860830ec8a853da35e0590d2cc07c7197",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 11.2.2022",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-02-10-115.json",
+      "sha256_markdown": "aeaef034eb52acaf6c0cb4c747efac651799f887a3fd5665aceebf7f9d15519c",
+      "estrutura": {
+        "blocos": 23,
+        "artigos": 3,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2022-02-17-116",
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-02-17-116.md",
+      "numero": 116,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "116",
+        "data": "2022-02-17",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 116, DE 17 DE FEVEREIRO DE 2022",
+        "ementa": "Acrescenta § 1º-A ao art. 156 da Constituição Federal para prever a não incidência sobre templos de qualquer culto do Imposto sobre a Propriedade Predial e Territorial Urbana (IPTU), ainda que as entidades abrangidas pela imunidade tributária sejam apenas locatárias do bem imóvel."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-02-17;116",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2022-02-17-116@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc116",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc116.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "2b34524dd0d85a4931760756492733466243a4aa1d6954f2d18a239a003cf3bc",
+        "sha256_conteudo": "ea8006c092de78b2b38637bb67eb9bde9afd34a47d8901088c167506cd4e7a59",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc116.htm.xz",
+        "sha256_snapshot_armazenado": "db9f75d7edd325a4f4f6e25aea6dcc49e410c3e8ea70b97698c8567b665198dc",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 18.2.2022",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-02-17-116.json",
+      "sha256_markdown": "258616128a3b56151045deb4300abdb877b66ecbd3f4d3e0806d71281b03c213",
+      "estrutura": {
+        "blocos": 14,
+        "artigos": 1,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2022-04-05-117",
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-04-05-117.md",
+      "numero": 117,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "117",
+        "data": "2022-04-05",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 117, DE 5 DE ABRIL DE 2022",
+        "ementa": "Altera o art. 17 da Constituição Federal para impor aos partidos políticos a aplicação de recursos do fundo partidário na promoção e difusão da participação política das mulheres, bem como a aplicação de recursos desse fundo e do Fundo Especial de Financiamento de Campanha e a divisão do tempo de propaganda gratuita no rádio e na televisão no percentual mínimo de 30% (trinta por cento) para candidaturas femininas."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-04-05;117",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2022-04-05-117@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc117",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc117.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "fd8d2c0d994bf55c2be821f2b98e3f698271a0ca9fbf12fd9328e5716c81d0fa",
+        "sha256_conteudo": "db6c134b4927613952b556cd7b07d831620a2f16cc344d6eecd40ee82f33823d",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc117.htm.xz",
+        "sha256_snapshot_armazenado": "211f2ea7699d7761b0aee5e72098be7eab81045a4925ded03230522c8bb70517",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 6.4.2022",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-04-05-117.json",
+      "sha256_markdown": "14c0472388c6128ca084607edd440d530f0ed9cd6386ef32e4f172a8afc2a56b",
+      "estrutura": {
+        "blocos": 15,
+        "artigos": 4,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2022-04-26-118",
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-04-26-118.md",
+      "numero": 118,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "118",
+        "data": "2022-04-26",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 118, DE 26 DE ABRIL DE 2022",
+        "ementa": "Dá nova redação às alíneas \"b\" e \"c\" do inciso XXIII do caput do art. 21 da Constituição Federal, para autorizar a produção, a comercialização e a utilização de radioisótopos para pesquisa e uso médicos."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-04-26;118",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2022-04-26-118@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc118",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc118.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "b934f8358a08f5a6c8b5293bb77a2d08bbdc14380db936c091a166eb1e06a9c7",
+        "sha256_conteudo": "d076e3a71d0b93b0d2b200f102ca32e9411716ba10f0f75122feb69a61e9c43d",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc118.htm.xz",
+        "sha256_snapshot_armazenado": "8dd2943a0021f32804a1c12e3865c3c971d4ca2ab674a0527ebac8b4931055c9",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 27.4.2022",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-04-26-118.json",
+      "sha256_markdown": "c9fb4234a5dab7714a773c9833619fe3ca0ff5a90077439f0e37cb1c0ebf9f02",
+      "estrutura": {
+        "blocos": 17,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2022-05-05-120",
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-05-05-120.md",
+      "numero": 120,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "120",
+        "data": "2022-05-05",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 120, DE 5 DE MAIO DE 2022",
+        "ementa": "Acrescenta §§ 7º, 8º, 9º, 10 e 11 ao art. 198 da Constituição Federal, para dispor sobre a responsabilidade financeira da União, corresponsável pelo Sistema Único de Saúde (SUS), na política remuneratória e na valorização dos profissionais que exercem atividades de agente comunitário de saúde e de agente de combate às endemias."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-05-05;120",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2022-05-05-120@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc120",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc120.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "7da6197b71a6f3932ef0d1ab6b0182b600c5117fd1f0d15842faeedf3768b0ce",
+        "sha256_conteudo": "563d6c034dbea937f85bc4c2b879bb5bbf35010f2f5b3aa502717ee5a501c29f",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc120.htm.xz",
+        "sha256_snapshot_armazenado": "b8005e54562a619c8d8f1f4a721eaf0767808b5d4120ac9b678a718f9fc40941",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 6.5.2022",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-05-05-120.json",
+      "sha256_markdown": "175ac3c0d3f1a4f762a9c824b82fe27a32783ab53e422c950baaeb74a3749d4d",
+      "estrutura": {
+        "blocos": 17,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2022-05-10-121",
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-05-10-121.md",
+      "numero": 121,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "121",
+        "data": "2022-05-10",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 121, DE 10 DE MAIO DE 2022",
+        "ementa": "Altera o inciso IV do § 2º do art. 4º da Emenda Constitucional nº 109, de 15 de março de 2021."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-05-10;121",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2022-05-10-121@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc121",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc121.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "75c4653c2b54df3987b17bee7bb9b42b3f3cc42904a19eaba3b70cdfb427607b",
+        "sha256_conteudo": "a1539362928010b9dfe61d013db1b0ca31cc06264f851a3e92548066d894a21c",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc121.htm.xz",
+        "sha256_snapshot_armazenado": "04a0c0cdc9fa14af13f6ef438ed9aaa72efa4a0b75c2d41185912c97c74c1015",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 11.5.2022",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-05-10-121.json",
+      "sha256_markdown": "5072f777911cdfb2c14297c2277343076dfd2f11883f803e110c98fea6eb0082",
+      "estrutura": {
+        "blocos": 16,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2022-05-17-122",
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-05-17-122.md",
+      "numero": 122,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "122",
+        "data": "2022-05-17",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 122, DE 17 DE MAIO DE 2022",
+        "ementa": "Altera a Constituição Federal para elevar para setenta anos a idade máxima para a escolha e nomeação de membros do Supremo Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais, do Tribunal Superior do Trabalho, dos Tribunais Regionais do Trabalho, do Tribunal de Contas da União e dos Ministros civis do Superior Tribunal Militar."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-05-17;122",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2022-05-17-122@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc122",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc122.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "1c1d038040cba270b9c95e8c8ffbea8764dd60b5ef96ab4d31f79d4c8465394f",
+        "sha256_conteudo": "1bd682a47c3043f0edd47e5fcdff6ec5e6366aa311d73fabf13a82e7b1215024",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc122.htm.xz",
+        "sha256_snapshot_armazenado": "d402a199dea88cae0107122dfb304b9168fe7b5b419757654f349d9ff7b8cc57",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 18.5.2022",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-05-17-122.json",
+      "sha256_markdown": "57d4950ec97a299c1f884995c38c447cac7b95ade0eaf6984f07dc4e550656b7",
+      "estrutura": {
+        "blocos": 28,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2022-07-14-123",
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-07-14-123.md",
+      "numero": 123,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "123",
+        "data": "2022-07-14",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 123, DE 14 DE JULHO DE 2022",
+        "ementa": "Altera o art. 225 da Constituição Federal para estabelecer diferencial de competitividade para os biocombustíveis; inclui o art. 120 no Ato das Disposições Constitucionais Transitórias para reconhecer o estado de emergência decorrente da elevação extraordinária e imprevisível dos preços do petróleo, combustíveis e seus derivados e dos impactos sociais dela decorrentes; autoriza a União a entregar auxílio financeiro aos Estados e ao Distrito Federal que outorgarem créditos tributários do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) aos produtores e distribuidores de etanol hidratado; expande o auxílio Gás dos Brasileiros, de que trata a Lei nº 14.237, de 19 de novembro de 2021; institui auxílio para caminhoneiros autônomos; expande o Programa Auxílio Brasil, de que trata a Lei nº 14.284, de 29 de dezembro de 2021; e institui auxílio para entes da Federação financiarem a gratuidade do transporte público."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-07-14;123",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2022-07-14-123@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc123",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc123.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "5cb16e2433f1fd83fc3e47ae0903fcb728e81e78f103e9798217c6d71e46bf1a",
+        "sha256_conteudo": "e158413b8feafc3c90d875a567aeb96646b5ebbea907dac4a4c90929090b8467",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc123.htm.xz",
+        "sha256_snapshot_armazenado": "fe08fbe2b16e2df0561ed73f3c7bd341896d84df9b1b14420b20e98a4018aa83",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 15.7.2022",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-07-14-123.json",
+      "sha256_markdown": "93615c39ea0303959f2029c28894734201263cab1abbf95596d8ecd4da422cfd",
+      "estrutura": {
+        "blocos": 79,
+        "artigos": 7,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2022-07-14-124",
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-07-14-124.md",
+      "numero": 124,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "124",
+        "data": "2022-07-14",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 124, DE 14 DE JULHO DE 2022",
+        "ementa": "Institui o piso salarial nacional do enfermeiro, do técnico de enfermagem, do auxiliar de enfermagem e da parteira."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-07-14;124",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2022-07-14-124@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc124",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc124.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "121c008dcbbb567b3bc7201bf7fadf5d25cc3e31e15d3a986b0b4636c87cccba",
+        "sha256_conteudo": "eb4842b848944006babba2136e4a733344b6a2d8bcddd134bd0837ee399f309a",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc124.htm.xz",
+        "sha256_snapshot_armazenado": "44b67011cfa7808846d461529510596ba285503e038f50db82feea6864cee41b",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 15.7.2022",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-07-14-124.json",
+      "sha256_markdown": "6238760eea0b1e674feb89866ad145e2b3f15d450237137b18ba29a4393d3f69",
+      "estrutura": {
+        "blocos": 14,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2022-07-14-125",
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-07-14-125.md",
+      "numero": 125,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "125",
+        "data": "2022-07-14",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 125, DE 14 DE JULHO DE 2022",
+        "ementa": "Altera o art. 105 da Constituição Federal para instituir no recurso especial o requisito da relevância das questões de direito federal infraconstitucional."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-07-14;125",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2022-07-14-125@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc125",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc125.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "93f6283f924e735aaefaa9d6ea7bd38df672f0b745915e64763c603c32311f4f",
+        "sha256_conteudo": "15e6b88028ea157ee439723b310a8098ec63c240b97c4c8b6ac31b7e41f45272",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc125.htm.xz",
+        "sha256_snapshot_armazenado": "5cfb07dc793c0d668655a04479d82ef95846b939e7e23bb8c0f404dae8ae2ce3",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 15.7.2022",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-07-14-125.json",
+      "sha256_markdown": "e7cef3ceb11d7599295919484e32265db9bcd0cdb4216a9e066e056aafc0ab28",
+      "estrutura": {
+        "blocos": 21,
+        "artigos": 3,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2022-12-21-126",
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-12-21-126.md",
+      "numero": 126,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "126",
+        "data": "2022-12-21",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 126, DE 21 DE DEZEMBRO DE 2022",
+        "ementa": "Altera a Constituição Federal, para dispor sobre as emendas individuais ao projeto de lei orçamentária, e o Ato das Disposições Constitucionais Transitórias para excluir despesas dos limites previstos no art. 107; define regras para a transição da Presidência da República aplicáveis à Lei Orçamentária de 2023; e dá outras providências."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-12-21;126",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2022-12-21-126@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc126",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc126.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "854914eb85aa5d56dda7cc0d42ad2e419dd03d7d2f6804d22c04de88f0c58e3e",
+        "sha256_conteudo": "a2bdfe3e1ea1a41d4e2e4908eb4c42ac1bbbdd233d7f652d791bc803e663dc0a",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc126.htm.xz",
+        "sha256_snapshot_armazenado": "e8fe0cd37877e7c3a69d5ecc31a06851192a1876b9c4d1d0d84f6d72d23e6d43",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 22.12.2022",
+        "camara_catalogo_url": "https://www2.camara.leg.br/legin/fed/emecon/2022/emendaconstitucional-126-21-dezembro-2022-793528-publicacaooriginal-166603-pl.html"
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-12-21-126.json",
+      "sha256_markdown": "9412053331112aef1a96d7228ce7728b8681e2f3c5ea5a79a03cbe548ff8cdc7",
+      "estrutura": {
+        "blocos": 60,
+        "artigos": 10,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2022-12-22-127",
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-12-22-127.md",
+      "numero": 127,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "127",
+        "data": "2022-12-22",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 127, DE 22 DE DEZEMBRO DE 2022",
+        "ementa": "Altera a Constituição Federal e o Ato das Disposições Constitucionais Transitórias para estabelecer que compete à União prestar assistência financeira complementar aos Estados, ao Distrito Federal e aos Municípios e às entidades filantrópicas, para o cumprimento dos pisos salariais profissionais nacionais para o enfermeiro, o técnico de enfermagem, o auxiliar de enfermagem e a parteira; altera a Emenda Constitucional nº 109, de 15 de março de 2021, para estabelecer o superávit financeiro dos fundos públicos do Poder Executivo como fonte de recursos para o cumprimento dos pisos salariais profissionais nacionais para o enfermeiro, o técnico de enfermagem, o auxiliar de enfermagem e a parteira; e dá outras providências."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-12-22;127",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2022-12-22-127@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc127",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc127.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "d6946cfacc14358cf2f8ff25fe30bf1a72a11d1b22125553d9f588fa1fa0e874",
+        "sha256_conteudo": "d6946cfacc14358cf2f8ff25fe30bf1a72a11d1b22125553d9f588fa1fa0e874",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc127.htm.xz",
+        "sha256_snapshot_armazenado": "1b919d99ab80fa90700b29f6948075f3f6e92d3cf6c6d8aadb1bae55883987ca",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 23.12.2022",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-12-22-127.json",
+      "sha256_markdown": "568fd4f63abb24032240fe48a7c77be558fea6d118e47a0d42044087f958a78e",
+      "estrutura": {
+        "blocos": 35,
+        "artigos": 5,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2022-12-22-128",
+      "arquivo": "federal/br-federal-emenda-constitucional-2022-12-22-128.md",
+      "numero": 128,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "128",
+        "data": "2022-12-22",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 128, DE 22 DE DEZEMBRO DE 2022",
+        "ementa": "Acrescenta § 7º ao art. 167 da Constituição Federal, para proibir a imposição e a transferência, por lei, de qualquer encargo financeiro decorrente da prestação de serviço público para a União, os Estados, o Distrito Federal e os Municípios."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2022-12-22;128",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2022-12-22-128@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc128",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc128.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "017518b05897d81d9d1b814f4b38744b94b64f01b73da84613206e2e78b9dbae",
+        "sha256_conteudo": "3a296ac7ea05cd6e6366e004c905b7abd171d66172a5ce0f15433b1d565cfff5",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc128.htm.xz",
+        "sha256_snapshot_armazenado": "0f135152b3ec2f422a209fe5fa05ceceb896c0065c5f49fc2d798de5c3badc30",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 23.12.2022",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-12-22-128.json",
+      "sha256_markdown": "6aeab2435b4b3d15751dcad0261e9d4d0881cb19fba6d65d6195523de31df488",
+      "estrutura": {
+        "blocos": 13,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2023-07-05-129",
+      "arquivo": "federal/br-federal-emenda-constitucional-2023-07-05-129.md",
+      "numero": 129,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "129",
+        "data": "2023-07-05",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 129, DE 5 DE JULHO DE 2023",
+        "ementa": "Acrescenta o art. 123 ao Ato das Disposições Constitucionais Transitórias, para assegurar prazo de vigência adicional aos instrumentos de permissão lotérica."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2023-07-05;129",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2023-07-05-129@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc129",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc129.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "215c3b1bd1a193312b73b695a8194109de33b40056520d3740234e64dd1ea723",
+        "sha256_conteudo": "f9eca4a5c8c1e49b67e9ab51aedfad59896a76fa300ce87acf0cd9f0ed1d26be",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc129.htm.xz",
+        "sha256_snapshot_armazenado": "7c2373084b60ea1d7cad899fa496c30f8d06363a7209cb5c9fc28025f06109a7",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 6.7.2023",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2023-07-05-129.json",
+      "sha256_markdown": "4159faed46d9c269d1d58448f945c2f442759a5716a48e7bf054083dce1fc03d",
+      "estrutura": {
+        "blocos": 11,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2023-10-03-130",
+      "arquivo": "federal/br-federal-emenda-constitucional-2023-10-03-130.md",
+      "numero": 130,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "130",
+        "data": "2023-10-03",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 130, DE 3 DE OUTUBRO DE 2023",
+        "ementa": "Altera o art. 93 da Constituição Federal para permitir a permuta entre juízes de direito vinculados a diferentes tribunais."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2023-10-03;130",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2023-10-03-130@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc130",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc130.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "5cc02ea5aaf99406c4aba41379d3420dfcb08a2443bc1742d16256db860f6b1a",
+        "sha256_conteudo": "f337dc36e1fd52a0763c5f7d8d4107148463f08b849914a988de8edc3d51896a",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc130.htm.xz",
+        "sha256_snapshot_armazenado": "53ba93d3252daf1aef5c428ce36380ee7abf3de2d55944b4b6f0e00f9f1c9c71",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 4.10.2023",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2023-10-03-130.json",
+      "sha256_markdown": "648ceb82f271deb2416e2d1204afe85ebc6836ffe94d45375c71d7f9ee7ce6a0",
+      "estrutura": {
+        "blocos": 14,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2023-10-03-131",
+      "arquivo": "federal/br-federal-emenda-constitucional-2023-10-03-131.md",
+      "numero": 131,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "131",
+        "data": "2023-10-03",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 131, DE 3 DE OUTUBRO DE 2023",
+        "ementa": "Altera o art. 12 da Constituição Federal para suprimir a perda da nacionalidade brasileira em razão da mera aquisição de outra nacionalidade, incluir a exceção para situações de apatridia e acrescentar a possibilidade de a pessoa requerer a perda da própria nacionalidade."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2023-10-03;131",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2023-10-03-131@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc131",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc131.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "7d1497f103ceecfb6877b3b6be77b80a8bc3573a9318b79c153eae90206ac91f",
+        "sha256_conteudo": "93019b3fb4864bcfa5e5df7913dc006433267572dc65c1ad4bba45a1f06a03a7",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc131.htm.xz",
+        "sha256_snapshot_armazenado": "77d14b30144a30e8c2f1cfbc6e5c4c37074bea1e4506906246f1a52a85f0e8ff",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 4.10.2023",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2023-10-03-131.json",
+      "sha256_markdown": "b42328950085f755b186aa749c8e36a18756460769980a1d03d95af4217d67af",
+      "estrutura": {
+        "blocos": 18,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2023-12-20-132",
+      "arquivo": "federal/br-federal-emenda-constitucional-2023-12-20-132.md",
+      "numero": 132,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "132",
+        "data": "2023-12-20",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 132, DE 20 DE DEZEMBRO DE 2023",
+        "ementa": "Altera o Sistema Tributário Nacional."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2023-12-20;132",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2023-12-20-132@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc132",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc132.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "a445000b08fd45b88d88ff69c29c1c75f74adf3917dce5995b9175ee1d4e63aa",
+        "sha256_conteudo": "25714a77f8bf52731668cd1cf49442ec24f7a60e6a88664c247216e0178e1f8f",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc132.htm.xz",
+        "sha256_snapshot_armazenado": "f98c0994349434af8eee7cefd9394a51400ac39f72bcd71340dfb77b7b57a25e",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 21.12.2023",
+        "camara_catalogo_url": "https://www2.camara.leg.br/legin/fed/emecon/2023/emendaconstitucional-132-20-dezembro-2023-795084-publicacaooriginal-170513-pl.html"
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2023-12-20-132.json",
+      "sha256_markdown": "fee5c6e0927c66d8972b02d346d9b840133ba8a7114679d2782505a9585c55aa",
+      "estrutura": {
+        "blocos": 631,
+        "artigos": 23,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2024-08-22-133",
+      "arquivo": "federal/br-federal-emenda-constitucional-2024-08-22-133.md",
+      "numero": 133,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "133",
+        "data": "2024-08-22",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 133, DE 22 DE AGOSTO DE 2024",
+        "ementa": "Impõe aos partidos políticos a obrigatoriedade da aplicação de recursos financeiros para candidaturas de pessoas pretas e pardas; estabelece parâmetros e condições para regularização e refinanciamento de débitos de partidos políticos; e reforça a imunidade tributária dos partidos políticos conforme prevista na Constituição Federal."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2024-08-22;133",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2024-08-22-133@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc133",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc133.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "0d2febceb7d36cedb61a739a8fe3e8c2cf8d512e594c4cf8be3c3b86aed50c15",
+        "sha256_conteudo": "157986310f2de74f55ff8751dbddffd2b780cf87cd747d41a805a0036f13081a",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc133.htm.xz",
+        "sha256_snapshot_armazenado": "d518ad8c0affad19c210226625f04edd2a985f94e61954c3a52f99f68ff661d1",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 23.8.2024",
+        "camara_catalogo_url": "https://www2.camara.leg.br/legin/fed/emecon/2024/emendaconstitucional-133-22-agosto-2024-796112-publicacaooriginal-172800-pl.html"
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2024-08-22-133.json",
+      "sha256_markdown": "c03768ffe07e745b0d926e3faa23bec08925c47c8da7011d47c6f7e90ab31569",
+      "estrutura": {
+        "blocos": 28,
+        "artigos": 9,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2024-09-24-134",
+      "arquivo": "federal/br-federal-emenda-constitucional-2024-09-24-134.md",
+      "numero": 134,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "134",
+        "data": "2024-09-24",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 134, DE 24 DE SETEMBRO DE 2024",
+        "ementa": "Altera o art. 96 da Constituição Federal, para dispor sobre a eleição dos órgãos diretivos de Tribunais de Justiça."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2024-09-24;134",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2024-09-24-134@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc134",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc134.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "0ccac7bff9b9268e9563eae7504bab5adafc2f91dd6cfdaa13ce404fecaff73c",
+        "sha256_conteudo": "5d691c54a04a3897aa60c46bf31df9baa73f255b0ab7cfbdf7a6885a1b64a92a",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc134.htm.xz",
+        "sha256_snapshot_armazenado": "cd3f15c5bb0e12b49f4bcef480b674aa33de03ab5cb49a12031a5f834b50d82b",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 25.9.2024",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2024-09-24-134.json",
+      "sha256_markdown": "ed5b62b8a5b7239f262a24a249da9021ae6265e6a0412d6ae883371e54f7e5d8",
+      "estrutura": {
+        "blocos": 13,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2024-12-20-135",
+      "arquivo": "federal/br-federal-emenda-constitucional-2024-12-20-135.md",
+      "numero": 135,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "135",
+        "data": "2024-12-20",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 135, DE 20 DE DEZEMBRO DE 2024",
+        "ementa": "Altera os arts. 37, 163, 165, 212-A e 239 da Constituição Federal e o Ato das Disposições Constitucionais Transitórias (ADC T)."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2024-12-20;135",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2024-12-20-135@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc135",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc135.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "31cb46899bdf71a109dc399327139e92f982840d16c05b0110930c7b8adb8260",
+        "sha256_conteudo": "6136f680c1281a6d779e18b0e9e7379d746d19916f294320162b53d01ade34f5",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc135.htm.xz",
+        "sha256_snapshot_armazenado": "5ef7571b9611589ed5b28f51f5da3e59ffbe4dff275f25ba3282480239892823",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 20.12.2024",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2024-12-20-135.json",
+      "sha256_markdown": "9f33cb9180adff3b3582d487e3eac236f15e84f566fff19936b04fcba31f1a8e",
+      "estrutura": {
+        "blocos": 38,
+        "artigos": 4,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2025-09-09-136",
+      "arquivo": "federal/br-federal-emenda-constitucional-2025-09-09-136.md",
+      "numero": 136,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "136",
+        "data": "2025-09-09",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 136, DE 9 DE SETEMBRO DE 2025",
+        "ementa": "Altera a Constituição Federal, o Ato das Disposições Constitucionais Transitórias e a Emenda Constitucional nº 113, de 8 de dezembro de 2021, a fim de instituir limite para o pagamento de precatórios pelos Estados, pelo Distrito Federal e pelos Municípios e de estipular novo prazo de parcelamento especial de débitos dos Estados, dos Municípios e do Distrito Federal com seus regimes próprios de previdência social e dos Municípios com o Regime Geral de Previdência Social; e dá outras providências."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2025-09-09;136",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2025-09-09-136@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc136",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc136.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "ac05dd8a7cef2fc1d0a759e74eacea04e9597a1fefacd005ad36c4c5bc76cf8f",
+        "sha256_conteudo": "9848ca3f019d207552f230e805c891d22341b76f13ff3dce9b0ecac834de8cad",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc136.htm.xz",
+        "sha256_snapshot_armazenado": "713c24a6e084f680367b5ac4ba4a6035b1ae710ca193dcf184344eff12a08d91",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 10.9.2025",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2025-09-09-136.json",
+      "sha256_markdown": "78628efcb065142a15c9559f8d7045833e774ad0c693cb898b2777b7f03da391",
+      "estrutura": {
+        "blocos": 116,
+        "artigos": 9,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2025-12-09-137",
+      "arquivo": "federal/br-federal-emenda-constitucional-2025-12-09-137.md",
+      "numero": 137,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "137",
+        "data": "2025-12-09",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 137, DE 9 DE DEZEMBRO DE 2025",
+        "ementa": "Altera o art. 155 da Constituição Federal para conceder imunidade do Imposto sobre a Propriedade de Veículos Automotores (IPVA) aos veículos que especifica."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2025-12-09;137",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2025-12-09-137@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc137",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc137.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "6cb5461cc5206f9c61f25b523064fe7c09b6483bd091116ef6970fd5938b8779",
+        "sha256_conteudo": "33d0c9456ebdd5a8f81d606b84acc6e97d31af90ccaf47bc9d7bedbb4015c98c",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc137.htm.xz",
+        "sha256_snapshot_armazenado": "2bede90b1b5ffc28037eea7147d258d295c976015a31164393008ce97d3d3c2b",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 10.12.2025",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2025-12-09-137.json",
+      "sha256_markdown": "9080fbd10e077e259d37263db3db7b18787fe98ac152742aa88ae66f42ec7a4a",
+      "estrutura": {
+        "blocos": 17,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2025-12-19-138",
+      "arquivo": "federal/br-federal-emenda-constitucional-2025-12-19-138.md",
+      "numero": 138,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "138",
+        "data": "2025-12-19",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 138, DE 19 DE DEZEMBRO DE 2025",
+        "ementa": "Altera o art. 37 da Constituição Federal para permitir a acumulação remunerada de um cargo de professor com outro de qualquer natureza."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2025-12-19;138",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2025-12-19-138@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc138",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc138.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "bba36a82bb00110e9a3ecf3b96a80f51bb0dfe866834b024cca4e52417ecc333",
+        "sha256_conteudo": "b5f3071edfac48e944e949d7c7dc52d4d29bdfa900dbca606f90ef44e92d0368",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc138.htm.xz",
+        "sha256_snapshot_armazenado": "0654a7f74db6b398abe314f91bc294f63acbf0d6ec64df6b057fa70861f6a08c",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 22.12.2025",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2025-12-19-138.json",
+      "sha256_markdown": "ca89459cea56a1ee2218fc07f20f12d5d3632a1099dfa0be0f462096737c95bd",
+      "estrutura": {
+        "blocos": 16,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2026-05-05-139",
+      "arquivo": "federal/br-federal-emenda-constitucional-2026-05-05-139.md",
+      "numero": 139,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "139",
+        "data": "2026-05-05",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 139, DE 5 DE MAIO DE 2026",
+        "ementa": "Altera o § 1º do art. 31 e o art. 75 da Constituição Federal para estabelecer os Tribunais de Contas como órgãos permanentes e essenciais ao controle externo da administração pública."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2026-05-05;139",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2026-05-05-139@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc139",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc139.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "a757627a1b4453d412ab0b8136fd2e9b7645a66d964b6ae336f0ac198c3d05b5",
+        "sha256_conteudo": "056ad58cf2a751b882ea66a863890b3c0dc497c1b55e96910de5fda5a367dbe2",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc139.htm.xz",
+        "sha256_snapshot_armazenado": "3bb557048e0b329904c151479c41df84e513b94100428add26506e390475e376",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 6.5.2026",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2026-05-05-139.json",
+      "sha256_markdown": "4baf3b2bb5804b08da61839958311b7ad0998076f67127d7536a55ed8b612c23",
+      "estrutura": {
+        "blocos": 15,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2026-10-16-140",
+      "arquivo": "federal/br-federal-emenda-constitucional-2026-10-16-140.md",
+      "numero": 140,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "140",
+        "data": "2026-10-16",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 140, DE 16 DE OUTUBRO DE 2026",
+        "ementa": "Altera os arts. 40, 198 e 201 da Constituição Federal, para estabelecer o direito à aposentadoria diferenciada aos agentes comunitários de saúde e aos agentes de combate às endemias, bem como para determinar a regularização do vínculo funcional desses agentes; e dá outras providências."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2026-10-16;140",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2026-10-16-140@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc140",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc140.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "62b7447dbec19010be57667059b75570b90b54851a186e1c8d902ae58311366a",
+        "sha256_conteudo": "7fd7fb242fcc1d07d814d06dc27d679623d02cab1b5711d65e3b3697f7711c1f",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc140.htm.xz",
+        "sha256_snapshot_armazenado": "cfa491e4eb793ee9a24dfc83ef84e45e9b74142b945d0ba27afb0dbf9300f4a9",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 16.10.2026",
+        "camara_catalogo_url": null
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2026-10-16-140.json",
+      "sha256_markdown": "b8d3a248bc1d0a6bfe1472eb7a37af7fc0a6c4e76f214741da429157ad53ed85",
+      "estrutura": {
+        "blocos": 80,
+        "artigos": 14,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-emenda-constitucional-2026-10-16-141",
+      "arquivo": "federal/br-federal-emenda-constitucional-2026-10-16-141.md",
+      "numero": 141,
+      "norma": {
+        "tipo": "emenda-constitucional",
+        "numero": "141",
+        "data": "2026-10-16",
+        "titulo": "EMENDA CONSTITUCIONAL Nº 141, DE 16 DE OUTUBRO DE 2026",
+        "ementa": "Altera o art. 7º da Constituição Federal para reduzir a duração máxima semanal do trabalho e prever 2 (dois) dias de repouso semanal remunerado, sem qualquer redução salarial."
+      },
+      "urn": "urn:lex:br:federal:emenda.constitucional:2026-10-16;141",
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "planalto",
+        "edicao_id": "br-federal-emenda-constitucional-2026-10-16-141@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-emc141",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc141.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T12:54:08Z",
+        "sha256": "bcac0e70b9514852215744121c75d6230a46af9154d444f2f2759eca4c292c37",
+        "sha256_conteudo": "3deedc1e2e4ab6e6d462828036032cc648c03ae33f0d0b9e118837f8aed7a478",
+        "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc141.htm.xz",
+        "sha256_snapshot_armazenado": "79ba38eb8652707ca31f87a729a614fe458f4eae44679c407ca856014f99d1eb",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 16.10.2026",
+        "camara_catalogo_url": "https://www2.camara.leg.br/legin/fed/emecon/2026/emendaconstitucional-141-16-outubro-2026-800062-publicacaooriginal-181622-pl.html"
+      },
+      "prova": "provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2026-10-16-141.json",
+      "sha256_markdown": "405ce1401bca80b3911599b2ed38683eaf78305a56347d06b2261725494f0ad7",
+      "estrutura": {
+        "blocos": 37,
+        "artigos": 10,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    }
+  ],
+  "limites": [
+    "Não altera scripts/nucleo_licitacoes.py nem metadados/nucleo-licitacoes.json.",
+    "Não atualiza README agregado nem matriz global (integração pelo orquestrador).",
+    "Faixas 1–50 e 51–100 ficam fora deste lote; 103/2019 e demais já presentes não são republicados.",
+    "Sem segunda fonte oficial de conferência artigo a artigo nesta entrega."
+  ]
+}
