@@ -36,7 +36,8 @@
   "contagem": {
     "citacoes_unicas_numero_ano_pos_1991": 63,
     "tambem_no_senado": 0,
-    "somente_descoberta_camara": 63
+    "somente_descoberta_camara": 63,
+    "coletados_legin_publicacaooriginal": 13
   },
   "itens": [
     {
@@ -92,7 +93,7 @@
       "especie": "RCD",
       "orgao_emissor": "Câmara dos Deputados",
       "estado_descoberta": "citado-no-regimento-oficial",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "coletado-legin-publicacaooriginal",
       "ocorrencias_no_regimento": 59,
       "amostras": [
         "pela Resolução nº 1 de 2023",
@@ -100,7 +101,10 @@
         "pela Resolução nº 1 de 2023"
       ],
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
-      "presente_no_catalogo_senado": false
+      "presente_no_catalogo_senado": false,
+      "slug_coletado": "br-federal-resolucao-camara-deputados-2023-02-08-1",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/rescad/2023/resolucaodacamaradosdeputados-1-8-fevereiro-2023-793775-publicacaooriginal-167068-pl.html",
+      "data_promulgacao": "2023-02-08"
     },
     {
       "numero": "2",
@@ -138,7 +142,7 @@
       "especie": "RCD",
       "orgao_emissor": "Câmara dos Deputados",
       "estado_descoberta": "citado-no-regimento-oficial",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "coletado-legin-publicacaooriginal",
       "ocorrencias_no_regimento": 3,
       "amostras": [
         "pela Resolução nº 2 de 2023",
@@ -146,7 +150,10 @@
         "pela Resolução nº 2 de 2023"
       ],
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
-      "presente_no_catalogo_senado": false
+      "presente_no_catalogo_senado": false,
+      "slug_coletado": "br-federal-resolucao-camara-deputados-2023-03-22-2",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/rescad/2023/resolucaodacamaradosdeputados-2-22-marco-2023-793939-publicacaooriginal-167412-pl.html",
+      "data_promulgacao": "2023-03-22"
     },
     {
       "numero": "3",
@@ -202,7 +209,7 @@
       "especie": "RCD",
       "orgao_emissor": "Câmara dos Deputados",
       "estado_descoberta": "citado-no-regimento-oficial",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "coletado-legin-publicacaooriginal",
       "ocorrencias_no_regimento": 4,
       "amostras": [
         "pela Resolução nº 5 de 2019",
@@ -210,7 +217,10 @@
         "pela Resolução nº 5 de 2019"
       ],
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
-      "presente_no_catalogo_senado": false
+      "presente_no_catalogo_senado": false,
+      "slug_coletado": "br-federal-resolucao-camara-deputados-2019-04-03-5",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/rescad/2019/resolucaodacamaradosdeputados-5-3-abril-2019-787911-publicacaooriginal-157683-pl.html",
+      "data_promulgacao": "2019-04-03"
     },
     {
       "numero": "6",
@@ -234,7 +244,7 @@
       "especie": "RCD",
       "orgao_emissor": "Câmara dos Deputados",
       "estado_descoberta": "citado-no-regimento-oficial",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "coletado-legin-publicacaooriginal",
       "ocorrencias_no_regimento": 3,
       "amostras": [
         "pela Resolução nº 6 de 2023",
@@ -242,7 +252,10 @@
         "pela Resolução nº 6 de 2023"
       ],
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
-      "presente_no_catalogo_senado": false
+      "presente_no_catalogo_senado": false,
+      "slug_coletado": "br-federal-resolucao-camara-deputados-2023-11-01-6",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/rescad/2023/resolucaodacamaradosdeputados-6-1-novembro-2023-795119-publicacaooriginal-170576-pl.html",
+      "data_promulgacao": "2023-11-01"
     },
     {
       "numero": "7",
@@ -312,7 +325,7 @@
       "especie": "RCD",
       "orgao_emissor": "Câmara dos Deputados",
       "estado_descoberta": "citado-no-regimento-oficial",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "coletado-legin-publicacaooriginal",
       "ocorrencias_no_regimento": 9,
       "amostras": [
         "pela Resolução nº 11 de 2024",
@@ -320,7 +333,10 @@
         "pela Resolução nº 11 de 2024"
       ],
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
-      "presente_no_catalogo_senado": false
+      "presente_no_catalogo_senado": false,
+      "slug_coletado": "br-federal-resolucao-camara-deputados-2024-06-12-11",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/rescad/2024/resolucaodacamaradosdeputados-11-12-junho-2024-795774-publicacaooriginal-172082-pl.html",
+      "data_promulgacao": "2024-06-12"
     },
     {
       "numero": "12",
@@ -342,7 +358,7 @@
       "especie": "RCD",
       "orgao_emissor": "Câmara dos Deputados",
       "estado_descoberta": "citado-no-regimento-oficial",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "coletado-legin-publicacaooriginal",
       "ocorrencias_no_regimento": 23,
       "amostras": [
         "pela Resolução nº 12 de 2019",
@@ -350,7 +366,10 @@
         "pela Resolução nº 12 de 2019"
       ],
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
-      "presente_no_catalogo_senado": false
+      "presente_no_catalogo_senado": false,
+      "slug_coletado": "br-federal-resolucao-camara-deputados-2019-10-31-12",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/rescad/2019/resolucaodacamaradosdeputados-12-31-outubro-2019-789331-publicacaooriginal-159310-pl.html",
+      "data_promulgacao": "2019-10-31"
     },
     {
       "numero": "14",
@@ -432,7 +451,7 @@
       "especie": "RCD",
       "orgao_emissor": "Câmara dos Deputados",
       "estado_descoberta": "citado-no-regimento-oficial",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "coletado-legin-publicacaooriginal",
       "ocorrencias_no_regimento": 9,
       "amostras": [
         "pela Resolução nº 16 de 2025",
@@ -440,7 +459,10 @@
         "pela Resolução nº 16 de 2025"
       ],
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
-      "presente_no_catalogo_senado": false
+      "presente_no_catalogo_senado": false,
+      "slug_coletado": "br-federal-resolucao-camara-deputados-2025-04-09-16",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/rescad/2025/resolucaodacamaradosdeputados-16-9-abril-2025-797341-publicacaooriginal-175166-pl.html",
+      "data_promulgacao": "2025-04-09"
     },
     {
       "numero": "17",
@@ -495,7 +517,7 @@
       "especie": "RCD",
       "orgao_emissor": "Câmara dos Deputados",
       "estado_descoberta": "citado-no-regimento-oficial",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "coletado-legin-publicacaooriginal",
       "ocorrencias_no_regimento": 12,
       "amostras": [
         "pela Resolução nº 19 de 2021",
@@ -503,7 +525,10 @@
         "pela Resolução nº 19 de 2021"
       ],
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
-      "presente_no_catalogo_senado": false
+      "presente_no_catalogo_senado": false,
+      "slug_coletado": "br-federal-resolucao-camara-deputados-2021-02-11-19",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/rescad/2021/resolucaodacamaradosdeputados-19-11-fevereiro-2021-791048-publicacaooriginal-162284-pl.html",
+      "data_promulgacao": "2021-02-11"
     },
     {
       "numero": "20",
@@ -746,14 +771,17 @@
       "especie": "RCD",
       "orgao_emissor": "Câmara dos Deputados",
       "estado_descoberta": "citado-no-regimento-oficial",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "coletado-legin-publicacaooriginal",
       "ocorrencias_no_regimento": 2,
       "amostras": [
         "pela Resolução nº 29 de 2018",
         "pela Resolução nº 29 de 2018"
       ],
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
-      "presente_no_catalogo_senado": false
+      "presente_no_catalogo_senado": false,
+      "slug_coletado": "br-federal-resolucao-camara-deputados-2018-12-06-29",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/rescad/2018/resolucaodacamaradosdeputados-29-6-dezembro-2018-787423-publicacaooriginal-156898-pl.html",
+      "data_promulgacao": "2018-12-06"
     },
     {
       "numero": "30",
@@ -761,7 +789,7 @@
       "especie": "RCD",
       "orgao_emissor": "Câmara dos Deputados",
       "estado_descoberta": "citado-no-regimento-oficial",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "coletado-legin-publicacaooriginal",
       "ocorrencias_no_regimento": 3,
       "amostras": [
         "pela Resolução nº 30 de 2018",
@@ -769,7 +797,10 @@
         "da Resolução nº 30 de 2018"
       ],
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
-      "presente_no_catalogo_senado": false
+      "presente_no_catalogo_senado": false,
+      "slug_coletado": "br-federal-resolucao-camara-deputados-2018-12-12-30",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/rescad/2018/resolucaodacamaradosdeputados-30-12-dezembro-2018-787441-publicacaooriginal-156942-pl.html",
+      "data_promulgacao": "2018-12-12"
     },
     {
       "numero": "31",
@@ -857,7 +888,7 @@
       "especie": "RCD",
       "orgao_emissor": "Câmara dos Deputados",
       "estado_descoberta": "citado-no-regimento-oficial",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "coletado-legin-publicacaooriginal",
       "ocorrencias_no_regimento": 14,
       "amostras": [
         "pela Resolução nº 36 de 2022",
@@ -865,7 +896,10 @@
         "pela Resolução nº 36 de 2022"
       ],
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
-      "presente_no_catalogo_senado": false
+      "presente_no_catalogo_senado": false,
+      "slug_coletado": "br-federal-resolucao-camara-deputados-2022-12-07-36",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/rescad/2022/resolucaodacamaradosdeputados-36-7-dezembro-2022-793437-publicacaooriginal-166471-pl.html",
+      "data_promulgacao": "2022-12-07"
     },
     {
       "numero": "37",
@@ -873,14 +907,17 @@
       "especie": "RCD",
       "orgao_emissor": "Câmara dos Deputados",
       "estado_descoberta": "citado-no-regimento-oficial",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "coletado-legin-publicacaooriginal",
       "ocorrencias_no_regimento": 2,
       "amostras": [
         "pela Resolução nº 37 de 2022",
         "pela Resolução nº 37 de 2022"
       ],
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
-      "presente_no_catalogo_senado": false
+      "presente_no_catalogo_senado": false,
+      "slug_coletado": "br-federal-resolucao-camara-deputados-2022-12-15-37",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/rescad/2022/resolucaodacamaradosdeputados-37-15-dezembro-2022-793483-publicacaooriginal-166534-pl.html",
+      "data_promulgacao": "2022-12-15"
     },
     {
       "numero": "38",
@@ -888,14 +925,17 @@
       "especie": "RCD",
       "orgao_emissor": "Câmara dos Deputados",
       "estado_descoberta": "citado-no-regimento-oficial",
-      "estado_coleta": "identificado-nao-coletado",
+      "estado_coleta": "coletado-legin-publicacaooriginal",
       "ocorrencias_no_regimento": 2,
       "amostras": [
         "pela Resolução nº 38 de 2022",
         "pela Resolução nº 38 de 2022"
       ],
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
-      "presente_no_catalogo_senado": false
+      "presente_no_catalogo_senado": false,
+      "slug_coletado": "br-federal-resolucao-camara-deputados-2022-12-22-38",
+      "fonte_url": "https://www2.camara.leg.br/legin/fed/rescad/2022/resolucaodacamaradosdeputados-38-22-dezembro-2022-793548-publicacaooriginal-166626-pl.html",
+      "data_promulgacao": "2022-12-22"
     },
     {
       "numero": "45",
@@ -1019,5 +1059,6 @@
       "observacao": "Citação no Regimento consolidado não substitui a íntegra do ato original; data completa e ID oficial ainda pendentes de reconciliação individual.",
       "presente_no_catalogo_senado": false
     }
-  ]
+  ],
+  "atualizado_coleta_legin_em": "2026-11-04T20:37:57Z"
 }

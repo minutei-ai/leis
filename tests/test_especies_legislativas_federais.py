@@ -130,14 +130,50 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
         self.assertTrue(any(i['numero'] == '16' and i['ano'] == 2025 for i in disc['itens']))
         pdf = lzma.decompress((ROOT / disc['fonte_oficial']['snapshot_pdf']).read_bytes())
         self.assertEqual(nl.sha256(pdf), disc['fonte_oficial']['sha256_pdf'])
-        # Descoberta ≠ íntegra: nenhum item desta lista deve fingir publicação automática.
+        # Descoberta ≠ íntegra automática: estados admitidos são explícitos.
+        estados_ok = {
+            'identificado-nao-coletado',
+            'coletado-legin-publicacaooriginal',
+        }
         for item in disc['itens']:
-            self.assertEqual(item['estado_coleta'], 'identificado-nao-coletado')
+            self.assertIn(item['estado_coleta'], estados_ok)
+            if item['estado_coleta'] == 'coletado-legin-publicacaooriginal':
+                self.assertTrue(item.get('slug_coletado'))
+                self.assertTrue(item.get('fonte_url', '').startswith('https://www2.camara.leg.br/legin/'))
         # Limites devem apontar para o artefato.
         self.assertIn('descoberta_camara_pos_1991', self.limites['RCD'])
         self.assertEqual(
             self.limites['RCD']['descoberta_camara_pos_1991']['arquivo'],
             'provas/especies-legislativas-federais/descoberta-camara-rcd-pos-1991.json',
+        )
+
+    def test_extract_camara_legin_e_data_da_url(self):
+        html = (
+            b'<html><body><div id="content"><h2>RESOLUCAO DA CAMARA DOS DEPUTADOS N 16, DE 2025</h2>'
+            b'<div class="textoNorma"><div class="texto">'
+            b'<p>Faco saber que a CAMARA DOS DEPUTADOS aprovou e eu promulgo a seguinte Resolucao:</p>'
+            b'<p>Art. 1o O Regimento Interno passa a vigorar com as alteracoes.</p>'
+            b'<p>Art. 2o Esta Resolucao entra em vigor na data de sua publicacao.</p>'
+            b'<p>CAMARA DOS DEPUTADOS, na data da chancela.</p>'
+            b'<p>HUGO MOTTA</p>'
+            b'</div></div></div></body></html>'
+        )
+        frag = lote.extract_camara_legin_fragment(html)
+        self.assertIsNone(lote.html_rejection_reason(frag))
+        self.assertIn(b'Art.', frag)
+        url = (
+            'https://www2.camara.leg.br/legin/fed/rescad/2025/'
+            'resolucaodacamaradosdeputados-16-9-abril-2025-797341-publicacaooriginal-175166-pl.html'
+        )
+        self.assertEqual(
+            lote.parse_camara_legin_date(html, fallback='2025-04-09', fonte_url=url),
+            '2025-04-09',
+        )
+        # Sem URL e sem fecho datado, usa fallback (nao pega data citada no corpo).
+        html_citacao = html + b'<p>aprovado pela Resolucao n 17, de 21 de setembro de 1989</p>'
+        self.assertEqual(
+            lote.parse_camara_legin_date(html_citacao, fallback='2025-04-09'),
+            '2025-04-09',
         )
 
     def test_rejeita_html_de_erro_login_e_falsa_integra(self):

@@ -165,6 +165,7 @@ UNUSABLE_HTML_MARKERS = (
 )
 
 CAMARA_RCD_DISCOVERY_PATH = PROVAS / 'descoberta-camara-rcd-pos-1991.json'
+CAMARA_RCD_LEGIN_URLS_PATH = PROVAS / 'urls-legin-camara-rcd-resolvidas.json'
 COLETA_PROGRESS_PATH = PROVAS / 'coleta.json'
 
 
@@ -899,6 +900,248 @@ def discover_camara_rcd() -> dict:
     return payload
 
 
+def extract_camara_legin_fragment(html: bytes) -> bytes:
+    """Extrai o bloco normativo de página legin/fed/rescad (publicacaooriginal)."""
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(html, 'lxml')
+    bloco = soup.select_one('div.textoNorma') or soup.select_one('#content div.texto') or soup.select_one('div.texto')
+    if bloco is None:
+        raise RuntimeError('página legin Câmara sem div.textoNorma/div.texto')
+    titulo = soup.select_one('#content h2') or soup.select_one('h2')
+    parts = []
+    if titulo is not None:
+        parts.append(str(titulo))
+    ementa = soup.select_one('#content p')
+    # Preferir ementa logo acima do texto quando presente.
+    if ementa is not None and ementa.find_parent('div', class_='texto') is None:
+        parts.append(str(ementa))
+    parts.append(str(bloco))
+    return f"<html><body>{''.join(parts)}</body></html>".encode('utf-8')
+
+
+def parse_camara_legin_date(
+    html: bytes,
+    fallback: str | None = None,
+    fonte_url: str | None = None,
+) -> str:
+    """Data ISO da promulgação na página legin; evita datas de normas citadas no corpo."""
+    meses = {
+        'janeiro': '01', 'fevereiro': '02', 'marco': '03', 'março': '03',
+        'abril': '04', 'maio': '05', 'junho': '06', 'julho': '07',
+        'agosto': '08', 'setembro': '09', 'outubro': '10', 'novembro': '11', 'dezembro': '12',
+    }
+    # 1) slug da URL: resolucaodacamaradosdeputados-N-D-mes-YYYY-...
+    if fonte_url:
+        um = re.search(
+            r'resolucaodacamaradosdeputados-\d+-(\d{1,2})-([a-z]+)-(\d{4})-',
+            fonte_url,
+            re.I,
+        )
+        if um:
+            mes = meses.get(um.group(2).lower().replace('ç', 'c').replace('ã', 'a'))
+            # normalizar março/marco
+            mes = mes or meses.get(um.group(2).lower())
+            if mes:
+                return f'{um.group(3)}-{mes}-{int(um.group(1)):02d}'
+    text = re.sub(r'<[^>]+>', ' ', html.decode('utf-8', 'replace'))
+    text = re.sub(r'\s+', ' ', text)
+    # 2) Fecho típico: "CÂMARA DOS DEPUTADOS, DD de mês de YYYY"
+    for m in re.finditer(
+        r'C[ÂA]MARA DOS DEPUTADOS,?\s+(\d{1,2})\s+de\s+([A-Za-zçãáéíóú]+)\s+de\s+(\d{4})',
+        text,
+        re.I,
+    ):
+        mes = meses.get(m.group(2).lower())
+        if mes:
+            return f'{m.group(3)}-{mes}-{int(m.group(1)):02d}'
+    # 3) fallback declarado pelo seed (não inferir)
+    if fallback:
+        return fallback
+    raise RuntimeError('data de promulgação não encontrada na página legin')
+
+
+def collect_camara_legin_rcd(resume: bool = True) -> dict:
+    """Coleta íntegras RCD pós-1991 a partir de URLs legin publicacaooriginal resolvidas."""
+    if not CAMARA_RCD_LEGIN_URLS_PATH.is_file():
+        raise SystemExit(f'ausente: {CAMARA_RCD_LEGIN_URLS_PATH}')
+    seeds = json.loads(CAMARA_RCD_LEGIN_URLS_PATH.read_text(encoding='utf-8'))
+    resultados = load_coleta() if resume else {'lote': LOTE, 'coletado_em': now_utc(), 'itens': {}}
+    resultados.setdefault('itens', {})
+    disc = None
+    if CAMARA_RCD_DISCOVERY_PATH.is_file():
+        disc = json.loads(CAMARA_RCD_DISCOVERY_PATH.read_text(encoding='utf-8'))
+    collected = 0
+    for seed in seeds.get('itens') or []:
+        numero = str(seed['numero'])
+        ano = int(seed['ano'])
+        url = seed['url']
+        if 'publicacaooriginal' not in url:
+            print(f'  skip-nao-publicacaooriginal {numero}/{ano}', flush=True)
+            continue
+        # slug provisional: data do seed ou ano-01-01 até parse da página
+        fallback_date = seed.get('data_promulgacao_declarada') or f'{ano}-01-01'
+        # Checar resume por numero/ano já coletado via origem camara
+        already = None
+        for prev in resultados['itens'].values():
+            if (
+                prev.get('tipo') == 'RCD'
+                and prev.get('origem') == 'camara-legin-publicacaooriginal'
+                and str(prev.get('numero')) == numero
+                and prev.get('utilizavel')
+                and prev.get('snapshot')
+                and (ROOT / prev['snapshot']).is_file()
+            ):
+                # ano via data
+                if str(prev.get('data', ''))[:4] == str(ano):
+                    already = prev
+                    break
+        if already:
+            print(f'  resume-skip camara RCD {numero}/{ano} {already["slug"]}', flush=True)
+            continue
+        print(f'collect camara-legin RCD {numero}/{ano}…', flush=True)
+        status, html, final = http_get(url)
+        if status != 200:
+            item = {
+                'tipo': 'RCD',
+                'senado_id': None,
+                'slug': slug_for('RCD', fallback_date, numero),
+                'numero': numero,
+                'data': fallback_date,
+                'fonte_url': final,
+                'utilizavel': False,
+                'motivo': f'HTTP {status}',
+                'origem': 'camara-legin-publicacaooriginal',
+                'capturado_em': now_utc(),
+                'ano_descoberta': ano,
+            }
+            resultados['itens'][item['slug']] = item
+            save_coleta(resultados)
+            continue
+        reject = html_rejection_reason(html)
+        if reject:
+            item = {
+                'tipo': 'RCD',
+                'senado_id': None,
+                'slug': slug_for('RCD', fallback_date, numero),
+                'numero': numero,
+                'data': fallback_date,
+                'fonte_url': final,
+                'utilizavel': False,
+                'motivo': reject,
+                'origem': 'camara-legin-publicacaooriginal',
+                'capturado_em': now_utc(),
+                'ano_descoberta': ano,
+            }
+            resultados['itens'][item['slug']] = item
+            save_coleta(resultados)
+            continue
+        try:
+            date = parse_camara_legin_date(html, fallback_date, fonte_url=final or url)
+            frag = extract_camara_legin_fragment(html)
+            frag_reject = html_rejection_reason(frag)
+            if frag_reject:
+                raise RuntimeError(frag_reject)
+        except Exception as e:
+            item = {
+                'tipo': 'RCD',
+                'senado_id': None,
+                'slug': slug_for('RCD', fallback_date, numero),
+                'numero': numero,
+                'data': fallback_date,
+                'fonte_url': final,
+                'utilizavel': False,
+                'motivo': str(e)[:300],
+                'origem': 'camara-legin-publicacaooriginal',
+                'capturado_em': now_utc(),
+                'ano_descoberta': ano,
+            }
+            resultados['itens'][item['slug']] = item
+            save_coleta(resultados)
+            print(f'  -> falha {e}', flush=True)
+            time.sleep(0.4)
+            continue
+        # Conferir número no fragmento (identidade semântica mínima).
+        plain = re.sub(r'<[^>]+>', ' ', frag.decode('utf-8', 'replace'))
+        plain = re.sub(r'\s+', ' ', plain)
+        if not re.search(rf'Resolu[cç][aã]o\s+(?:da\s+C[aâ]mara[^0-9]{{0,40}})?n[ºo°\.]*\s*{re.escape(numero)}\b', plain, re.I):
+            if f'Nº {numero}' not in plain and f'N° {numero}' not in plain and f'nº {numero}' not in plain.lower():
+                item = {
+                    'tipo': 'RCD',
+                    'senado_id': None,
+                    'slug': slug_for('RCD', date, numero),
+                    'numero': numero,
+                    'data': date,
+                    'fonte_url': final,
+                    'utilizavel': False,
+                    'motivo': 'numero da resolucao nao confirmado no HTML legin',
+                    'origem': 'camara-legin-publicacaooriginal',
+                    'capturado_em': now_utc(),
+                    'ano_descoberta': ano,
+                }
+                resultados['itens'][item['slug']] = item
+                save_coleta(resultados)
+                print('  -> numero nao confirmado', flush=True)
+                time.sleep(0.4)
+                continue
+        spec = SPECIES['RCD']
+        slug = slug_for('RCD', date, numero)
+        urn = spec['urn_tmpl'].format(date=date, num=numero_slug(numero))
+        snap = COLETAS_DIR / f'{slug}.html.xz'
+        snap.write_bytes(lzma.compress(frag, preset=9))
+        full = COLETAS_DIR / f'{slug}.pagina.html.xz'
+        full.write_bytes(lzma.compress(html, preset=9))
+        # ementa heurística
+        ementa = None
+        em = re.search(r'(Altera|Dispõe|Cria|Institui|Estabelece|Concede|Susta|Declara|Acrescenta|Coloca)[^\n]{10,240}', plain)
+        if em:
+            ementa = em.group(0).strip()[:300]
+        item = {
+            'tipo': 'RCD',
+            'senado_id': None,
+            'slug': slug,
+            'urn': urn,
+            'numero': numero,
+            'data': date,
+            'normaNome': f'Resolução da Câmara dos Deputados nº {numero} de {date[8:10]}/{date[5:7]}/{date[:4]}',
+            'ementa': ementa,
+            'capturado_em': now_utc(),
+            'fonte_url': final,
+            'fonte_orgao': 'Câmara dos Deputados — Legislação Informatizada (publicacaooriginal)',
+            'fonte_formato': 'html',
+            'charset': 'utf-8',
+            'sha256_fonte': sha256(frag),
+            'sha256_pagina': sha256(html),
+            'bytes': len(frag),
+            'snapshot': str(snap.relative_to(ROOT)),
+            'pagina_snapshot': str(full.relative_to(ROOT)),
+            'origem': 'camara-legin-publicacaooriginal',
+            'ano_descoberta': ano,
+            'utilizavel': True,
+            'descoberta_regimento': True,
+        }
+        resultados['itens'][slug] = item
+        save_coleta(resultados)
+        collected += 1
+        if disc is not None:
+            for ditem in disc.get('itens') or []:
+                if str(ditem.get('numero')) == numero and int(ditem.get('ano')) == ano:
+                    ditem['estado_coleta'] = 'coletado-legin-publicacaooriginal'
+                    ditem['slug_coletado'] = slug
+                    ditem['fonte_url'] = final
+                    ditem['data_promulgacao'] = date
+        print(f'  -> utilizavel=True slug={slug}', flush=True)
+        time.sleep(0.5)
+    save_coleta(resultados)
+    if disc is not None:
+        disc['atualizado_coleta_legin_em'] = now_utc()
+        disc['contagem']['coletados_legin_publicacaooriginal'] = sum(
+            1 for i in disc.get('itens') or [] if i.get('estado_coleta') == 'coletado-legin-publicacaooriginal'
+        )
+        write_json(CAMARA_RCD_DISCOVERY_PATH, disc)
+    print(json.dumps({'coletados_agora': collected, 'seeds': len(seeds.get('itens') or [])}, ensure_ascii=False))
+    return resultados
+
+
 def build_markdown(item: dict, html: bytes) -> tuple[str, dict]:
     tipo = item['tipo']
     spec = SPECIES[tipo]
@@ -1166,7 +1409,7 @@ def main(argv: list[str] | None = None) -> None:
         'cmd',
         choices=(
             'capture', 'reconcile', 'collect', 'build', 'verify',
-            'discover-camara-rcd', 'all-offline',
+            'discover-camara-rcd', 'collect-camara-rcd', 'all-offline',
         ),
     )
     parser.add_argument('--dlg-limit', type=int, default=None)
@@ -1205,6 +1448,8 @@ def main(argv: list[str] | None = None) -> None:
         verify()
     elif args.cmd == 'discover-camara-rcd':
         discover_camara_rcd()
+    elif args.cmd == 'collect-camara-rcd':
+        collect_camara_legin_rcd(resume=not args.no_resume)
     elif args.cmd == 'all-offline':
         reconcile()
         build()
