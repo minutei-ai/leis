@@ -10,16 +10,19 @@
     "presentes": 1197,
     "revisao_mesmo_numero": 0
   },
-  "n_publicados": 9,
-  "n_retidos": 190,
-  "nota": "9 íntegras sem <<ANEXO>>/<<TABELA>>; 189 retidos por marcador pós-conversão; 1 sem título. Pipeline pronto para recuperação de peças.",
+  "n_publicados": 57,
+  "n_retidos": 142,
+  "nota": "Marcadores <<ANEXO>>/<<TABELA>> no HTML normas.leg.br são placeholders oficiais (&lt;&lt;ANEXO&gt;&gt;). Recuperação via LexML→Câmara .doc; PDFs DOU multicoluna permanecem retidos sem publicar íntegra falsa. Planalto indisponível neste host não implica ausência da norma.",
+  "recuperados_camara": 48,
   "regras": [
     "Não inferir vigência/completude de presença de arquivo ou HTTP.",
-    "<<ANEXO>>/<<TABELA>> na conversão retêm a norma (sem publicar corpo incompleto).",
+    "<<ANEXO>>/<<TABELA>> na conversão retêm a norma até peça oficial recuperada.",
+    "PDF Câmara capturado fica em provas/anexos-camara/ sem virar Markdown até layout confiável.",
     "Provas privadas fora do repo público; divergências literais preservadas."
   ],
   "retidos_por_status": {
-    "retido-marcador-anexo-tabela": 189,
+    "retido-anexo-pdf-layout-pendente": 128,
+    "retido-sem-anexo-camara": 13,
     "retido-titulo-nao-encontrado": 1
   }
 }

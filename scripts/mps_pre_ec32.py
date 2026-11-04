@@ -15,6 +15,7 @@ import json
 import lzma
 import re
 import sys
+import tempfile
 import urllib.parse
 import urllib.request
 from pathlib import Path
@@ -22,16 +23,21 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / 'scripts'))
 import nucleo_licitacoes as nl  # noqa: E402
+import mps_anexo_recovery as ar  # noqa: E402
 
 PROVAS = ROOT / 'provas' / 'mps-pre-ec32'
 FONTES_DIR = PROVAS / 'fontes'
+ANEXOS_DIR = PROVAS / 'anexos-camara'
 FONTES_JSON = PROVAS / 'fontes.json'
 MATRIZ = PROVAS / 'matriz-lote.json'
 CATALOGO = PROVAS / 'catalogo-senado-mpv-pre.json'
+DISCOVERY = PROVAS / 'descoberta-camara-anexos.json'
+RECOVER_RES = PROVAS / 'recuperacao-anexos.json'
+DIAG_MARK = PROVAS / 'diagnostico-marcadores.json'
 FEDERAL = ROOT / 'federal'
 UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'
 CORTE = datetime.date(2001, 9, 11)
-ANEXO_MARK = re.compile(r'<<(ANEXOS?|TABELAS?|TEBELAS?)>>', re.I)
+ANEXO_MARK = ar.ANEXO_MARK
 MP_TITLE_RE = r'^MEDIDA PROVIS[ÓO]RIA\s+N[º°oO.\-\s]*\d'
 MP_FILE = re.compile(
     r'^br-federal-medida-provisoria-(\d{4})-(\d{2})-(\d{2})-(\d+)(?:-(\d+))?\.md$'
@@ -266,7 +272,9 @@ def cmd_fetch(limit=None) -> None:
         if 'html' not in ctype and not html.lstrip().startswith((b'<', b'\xef\xbb\xbf<')):
             results.append({**a, 'status': 'formato-nao-html', 'content_type': ctype})
             continue
-        status = 'retido-marcador-anexo-tabela' if ANEXO_MARK.search(html.decode('utf-8', 'replace')) else 'capturado'
+        text = html.decode('utf-8', 'replace')
+        has_mark = ar.html_has_anexo_mark(text)
+        status = 'retido-marcador-anexo-tabela' if has_mark else 'capturado'
         snap = FONTES_DIR / f'{key}.html.xz'
         snap.write_bytes(lzma.compress(html))
         fontes[key] = {
@@ -275,6 +283,7 @@ def cmd_fetch(limit=None) -> None:
             'status': status, 'urn': detail.get('legislationIdentifier'),
             'headline': detail.get('headline'), 'numero': a['numero'],
             'reedicao': a.get('reedicao'), 'data': a['data'], 'tipo': a.get('tipo'),
+            'diagnostico_marcador': ar.diagnose_marker_in_html(text) if has_mark else None,
         }
         results.append({**a, 'status': status})
         print(' ', status, key, len(html))
@@ -282,35 +291,66 @@ def cmd_fetch(limit=None) -> None:
     write_json(PROVAS / 'fetch-resultados.json', results)
 
 
-def build_one(key, rec):
+def build_one(key, rec, anexo_groups=None, anexo_meta=None):
     raw = lzma.decompress((ROOT / rec['snapshot']).read_bytes())
     if sha256(raw) != rec['sha256_fonte']:
         raise ValueError('hash')
-    if ANEXO_MARK.search(raw.decode('utf-8', 'replace')):
-        return {'id': key, 'status': 'retido-marcador-anexo-tabela'}
+    text = raw.decode('utf-8', 'replace')
     conv = nl.convert_html(raw, 'utf-8', rec['url'])
-    if blocks_have_anexo(conv.blocks):
-        return {'id': key, 'status': 'retido-marcador-anexo-tabela', 'origem': 'pos-conversao'}
-    blocks = [b for b in conv.blocks if not re.match(r'^###MPV-', nl.md_plain(b, True).strip())]
+    blocks = list(conv.blocks)
+    recuperado = False
+    anexos_no_corpo = 0
+    if anexo_groups:
+        spliced = ar.splice_anexo_blocks(blocks, anexo_groups, nl.md_plain)
+        if spliced is None:
+            return {'id': key, 'status': 'retido-ambiguidade-anexo'}
+        blocks = spliced
+        recuperado = True
+        anexos_no_corpo = len(anexo_groups)
+    elif ar.html_has_anexo_mark(text) or blocks_have_anexo(blocks):
+        return {
+            'id': key, 'status': 'retido-marcador-anexo-tabela',
+            'origem': 'html-oficial' if ar.html_has_anexo_mark(text) else 'pos-conversao',
+            'diagnostico_marcador': ar.diagnose_marker_in_html(text),
+        }
+    blocks = [b for b in blocks if not re.match(r'^###MPV-', nl.md_plain(b, True).strip())]
+    if blocks_have_anexo(blocks):
+        return {'id': key, 'status': 'retido-marcador-anexo-tabela', 'origem': 'pos-splice'}
     try:
         body = nl.blocks_to_markdown(blocks, MP_TITLE_RE)
     except ValueError:
         return {'id': key, 'status': 'retido-titulo-nao-encontrado',
                 'blocos_amostra': [nl.md_plain(b, True)[:80] for b in blocks[:5]]}
     if not coverage_safe(blocks, body):
+        if recuperado:
+            raise ValueError('cobertura')
         body = nl.blocks_to_markdown(conv.blocks, MP_TITLE_RE)
         if not coverage_safe(conv.blocks, body):
             raise ValueError('cobertura')
         blocks = conv.blocks
     reed = rec.get('reedicao')
     reed_txt = f", reedição {reed}" if reed not in (None, '', '0', 0) else ''
+    anexo_nota = ''
+    if recuperado and anexo_meta:
+        linhas = [
+            f"`{a.get('url')}` (SHA-256 `{a.get('sha256')}`, snapshot `{a.get('snapshot_rel')}`)"
+            for a in anexo_meta
+        ]
+        anexo_nota = (
+            ">\n> Anexos recuperados da Câmara (LexML→norma-pe), `.doc`→HTML→Markdown, "
+            "no lugar do placeholder oficial do HTML normas.leg.br:\n> - "
+            + "\n> - ".join(linhas) + "\n"
+        )
     note = (
-        f"> **Medida Provisória nº {rec['numero']}{reed_txt} de {rec['data']} — publicação original.** "
+        f"> **Medida Provisória nº {rec['numero']}{reed_txt} de {rec['data']} — publicação original"
+        f"{' com anexos Câmara' if recuperado else ''}.** "
         f"Fonte: {rec['url']} (capturada em {rec['capturado_em']}, SHA-256 `{rec['sha256_fonte']}`). "
         f"Snapshot: `{rec['snapshot']}`. O acervo não certifica vigência.\n"
         f">\n"
         f"> Série histórica pré-EC 32/2001 (issue #95). Tipo de catálogo: `{rec.get('tipo')}`. "
-        f"Não fundir com a numeração contínua pós-11/09/2001 (#84).\n"
+        f"Identidade `numero[-reedicao]` preservada; não fundir com a numeração contínua "
+        f"pós-11/09/2001 (#84).\n"
+        f"{anexo_nota}"
         f">\n"
         f"> Conversão/efeitos somente com evidência documentada; filtros #70 / rastreador #83.\n"
     )
@@ -319,13 +359,18 @@ def build_one(key, rec):
         'id': key, 'norma_id': key, 'norma_tipo': 'medida-provisoria',
         'norma_numero': str(rec['numero']) + (f"-{int(str(reed).strip())}" if reed not in (None, '', '0', 0) else ''),
         'norma_data': rec['data'], 'titulo': rec.get('headline') or key, 'esfera': 'federal',
-        'edicao_id': f'{key}@publicacao-original-senado', 'edicao_tipo': 'historica',
+        'edicao_id': f'{key}@publicacao-original-senado' + ('+anexos-camara' if recuperado else ''),
+        'edicao_tipo': 'historica',
         'edicao_integral': True, 'edicao_relacionada': 'nenhuma',
-        'fonte_orgao': 'Senado Federal / Portal das Normas', 'fonte_url': rec['url'],
-        'fonte_formato': 'html', 'fonte_conferencia': 'nenhuma',
+        'fonte_orgao': 'Senado Federal / Portal das Normas'
+        + (' + Câmara dos Deputados (anexos)' if recuperado else ''),
+        'fonte_url': rec['url'],
+        'fonte_formato': 'html' + ('+doc' if recuperado else ''),
+        'fonte_conferencia': 'camara-anexos-doc' if recuperado else 'nenhuma',
         'capturado_em': rec['capturado_em'], 'sha256_fonte': rec['sha256_fonte'],
         'situacao': 'nao-informada', 'situacao_fundamento': 'desconhecido',
-        'vigencia_certificada': False, 'texto_riscado': False, 'anexos_no_corpo': 0,
+        'vigencia_certificada': False, 'texto_riscado': False,
+        'anexos_no_corpo': anexos_no_corpo,
         'tabelas': sum(1 for b in blocks if '<table' in b.lower()),
         'imagens_omitidas': len(getattr(conv, 'images', []) or []),
         'efeitos_diferidos': 'preservados-nas-notas-do-texto',
@@ -336,25 +381,215 @@ def build_one(key, rec):
     fm = '---\n' + '\n'.join(f'{k}: {json.dumps(v, ensure_ascii=False)}' for k, v in fields.items()) + '\n---\n'
     doc = fm + '\n<!-- nota-edicao:inicio -->\n\n' + note + '\n<!-- nota-edicao:fim -->\n\n' + body
     (FEDERAL / f'{key}.md').write_text(doc)
-    return {'id': key, 'status': 'publicado', 'path': f'federal/{key}.md', 'sha256_markdown_corpo': sha_md}
+    return {
+        'id': key, 'status': 'publicado', 'path': f'federal/{key}.md',
+        'sha256_markdown_corpo': sha_md, 'recuperado_camara': recuperado,
+        'anexos_recuperados': anexos_no_corpo,
+    }
+
+
+def _capture_pdf_snapshots(key: str, pdf_urls: list[str]) -> list[dict]:
+    """Baixa PDFs Câmara para prova; nunca marca publicável."""
+    pdf_meta: list[dict] = []
+    with tempfile.TemporaryDirectory() as td:
+        td_path = Path(td)
+        for i, url in enumerate(pdf_urls):
+            name = url.rstrip('/').rsplit('/', 1)[-1]
+            dest = ANEXOS_DIR / f'{key}.{i}.{name}.xz'
+            try:
+                meta = ar.download_and_store_anexo(url, dest, td_path / f'w{i}')
+            except Exception as exc:  # noqa: BLE001
+                pdf_meta.append({'url': url, 'erro': str(exc)})
+                continue
+            pdf_meta.append({
+                'url': url,
+                'sha256': meta['sha256'],
+                'bytes': meta['bytes'],
+                'snapshot': str(dest.relative_to(ROOT)),
+                'publicavel': False,
+                'bloqueio': meta.get('bloqueio') or (
+                    'PDF da Câmara capturado; conversão tipográfica/multicoluna DOU '
+                    'não certifica literalidade — não publicar como íntegra até '
+                    'reconversão confiável.'
+                ),
+            })
+    return pdf_meta
+
+
+def cmd_recover(limit=None, doc_only=True):
+    """Recupera anexos Câmara para retidos pré-EC32 (sem fundir com série #84)."""
+    if not FONTES_JSON.exists():
+        raise SystemExit('fetch/build antes')
+    fontes = json.loads(FONTES_JSON.read_text())
+    pub = json.loads((PROVAS / 'matriz-publicacao.json').read_text())
+    retidos = [
+        r for r in pub.get('retidos', [])
+        if r.get('status') == 'retido-marcador-anexo-tabela'
+        or (
+            r.get('status') == 'retido-anexo-pdf-layout-pendente'
+            and not r.get('anexos_pdf')
+        )
+    ]
+    if limit is not None:
+        retidos = retidos[:limit]
+    ANEXOS_DIR.mkdir(parents=True, exist_ok=True)
+    discovery = json.loads(DISCOVERY.read_text()) if DISCOVERY.exists() else {}
+    recover_log = json.loads(RECOVER_RES.read_text()) if RECOVER_RES.exists() else {}
+    diag = json.loads(DIAG_MARK.read_text()) if DIAG_MARK.exists() else {}
+    novos, ainda = [], []
+    for item in retidos:
+        key = item['id']
+        rec = fontes.get(key)
+        if not rec:
+            ainda.append({**item, 'status': 'sem-fonte-local'}); continue
+        raw = lzma.decompress((ROOT / rec['snapshot']).read_bytes())
+        diag[key] = ar.diagnose_marker_in_html(raw.decode('utf-8', 'replace'))
+        print('recover', key, flush=True)
+        disc = discovery.get(key) or ar.discover_camara_norma(key)
+        discovery[key] = disc
+        if disc.get('status') != 'ok' or not disc.get('anexos'):
+            ainda.append({
+                **item,
+                'status': 'retido-sem-anexo-camara',
+                'descoberta': disc.get('status'),
+                'diagnostico_marcador': diag[key],
+                'norma_camara': disc.get('norma'),
+            })
+            recover_log[key] = {'status': 'sem-anexo-camara', 'descoberta': disc}
+            continue
+        urls = list(disc['anexos'])
+        if doc_only:
+            urls = [u for u in urls if u.lower().endswith(('.doc', '.docx'))]
+        if not urls:
+            pdfs = [u for u in disc['anexos'] if u.lower().endswith('.pdf')]
+            pdf_meta = _capture_pdf_snapshots(key, pdfs)
+            ainda.append({
+                **item,
+                'status': 'retido-anexo-pdf-layout-pendente',
+                'diagnostico_marcador': diag[key],
+                'anexos_pdf': pdf_meta,
+                'norma_camara': disc.get('norma'),
+            })
+            recover_log[key] = {'status': 'pdf-pendente', 'anexos': pdf_meta, 'descoberta': disc}
+            print('  PDF pendente', len(pdf_meta))
+            continue
+        try:
+            groups, meta_list = [], []
+            with tempfile.TemporaryDirectory() as td:
+                td_path = Path(td)
+                for i, url in enumerate(urls):
+                    name = url.rstrip('/').rsplit('/', 1)[-1]
+                    dest = ANEXOS_DIR / f'{key}.{i}.{name}.xz'
+                    meta = ar.download_and_store_anexo(url, dest, td_path / f'w{i}')
+                    if not meta.get('publicavel'):
+                        raise RuntimeError(meta.get('bloqueio') or 'não publicável')
+                    conv = nl.convert_html(meta['html_convertido'], 'utf-8', url)
+                    groups.append(conv.blocks)
+                    meta_list.append({
+                        'url': url, 'sha256': meta['sha256'], 'bytes': meta['bytes'],
+                        'html_sha256': meta.get('html_sha256'),
+                        'snapshot_rel': str(dest.relative_to(ROOT)),
+                    })
+            info = build_one(key, rec, anexo_groups=groups, anexo_meta=meta_list)
+        except Exception as exc:  # noqa: BLE001
+            ainda.append({
+                **item, 'status': 'falha-recuperacao', 'erro': str(exc),
+                'diagnostico_marcador': diag[key], 'norma_camara': disc.get('norma'),
+            })
+            recover_log[key] = {'status': 'falha', 'erro': str(exc)}
+            print('  FAIL', exc); continue
+        if info['status'] != 'publicado':
+            ainda.append(info); recover_log[key] = {'status': info['status']}
+            print('  RETIDO', info['status'])
+        else:
+            novos.append(info)
+            fontes[key] = {**rec, 'status': 'capturado-com-anexos-camara', 'anexos_camara': meta_list}
+            recover_log[key] = {'status': 'publicado', 'anexos': meta_list}
+            print('  PUB', key)
+    visitados = {r['id'] for r in retidos}
+    preservados = [r for r in pub.get('retidos', []) if r['id'] not in visitados]
+    all_pub = [p for p in pub.get('publicados', []) if p['id'] not in {n['id'] for n in novos}] + novos
+    all_ret = ainda + preservados
+    write_json(FONTES_JSON, fontes)
+    write_json(DISCOVERY, discovery)
+    write_json(RECOVER_RES, recover_log)
+    write_json(DIAG_MARK, diag)
+    write_json(PROVAS / 'matriz-publicacao.json', {
+        'publicados': all_pub, 'retidos': all_ret,
+        'n_publicados': len(all_pub), 'n_retidos': len(all_ret),
+        'recuperados_camara_nesta_rodada': len(novos),
+    })
+    write_json(PROVAS / 'limites.json', {
+        'issue': 95,
+        'matriz_resumo': json.loads(MATRIZ.read_text()) if MATRIZ.exists() else {},
+        'n_publicados': len(all_pub), 'n_retidos': len(all_ret),
+        'nota': (
+            'Série pré-EC32 distinta da #84. Marcadores são placeholders oficiais; '
+            'anexos .doc Câmara publicados; PDF multicoluna retido. Catálogo restante pendente de fetch.'
+        ),
+        'regras': [
+            'Preservar numero+reedicao; não fundir com pós-EC32.',
+            'Não inferir vigência de HTTP/arquivo.',
+            '<<ANEXO>> retém até peça oficial recuperada.',
+        ],
+        'retidos_por_status': {
+            s: sum(1 for r in all_ret if r.get('status') == s)
+            for s in sorted({r.get('status') for r in all_ret})
+        },
+    })
+    print(f'recover pre: novos={len(novos)} retidos={len(all_ret)} pub={len(all_pub)}')
 
 
 def cmd_build():
     fontes = json.loads(FONTES_JSON.read_text())
     pub, ret = [], []
     for key, rec in sorted(fontes.items()):
-        if rec.get('status') != 'capturado':
-            ret.append({'id': key, 'status': rec.get('status')})
-            continue
-        try:
-            info = build_one(key, rec)
-        except Exception as exc:  # noqa: BLE001
-            ret.append({'id': key, 'status': 'falha-conversao', 'erro': str(exc)})
-            print('FAIL', key, exc)
-            continue
+        st = rec.get('status')
+        if st == 'capturado-com-anexos-camara':
+            try:
+                groups, meta = [], rec.get('anexos_camara') or []
+                with tempfile.TemporaryDirectory() as td:
+                    td_path = Path(td)
+                    for i, a in enumerate(meta):
+                        data = lzma.decompress((ROOT / a['snapshot_rel']).read_bytes())
+                        if sha256(data) != a['sha256']:
+                            raise ValueError('hash anexo')
+                        name = a['url'].rstrip('/').rsplit('/', 1)[-1]
+                        raw_path = td_path / name
+                        raw_path.write_bytes(data)
+                        html_path = ar.convert_office_to_html(raw_path, td_path / f'h{i}')
+                        groups.append(nl.convert_html(html_path.read_bytes(), 'utf-8', a['url']).blocks)
+                info = build_one(key, rec, anexo_groups=groups, anexo_meta=meta)
+            except Exception as exc:  # noqa: BLE001
+                ret.append({'id': key, 'status': 'falha-reconversao-anexo', 'erro': str(exc)}); continue
+        elif st != 'capturado':
+            ret.append({'id': key, 'status': st}); continue
+        else:
+            try:
+                info = build_one(key, rec)
+            except Exception as exc:  # noqa: BLE001
+                ret.append({'id': key, 'status': 'falha-conversao', 'erro': str(exc)})
+                print('FAIL', key, exc); continue
         (pub if info['status'] == 'publicado' else ret).append(info)
         print(info['status'].upper()[:3], key)
-    write_json(PROVAS / 'matriz-publicacao.json', {'publicados': pub, 'retidos': ret, 'n_publicados': len(pub), 'n_retidos': len(ret)})
+    write_json(PROVAS / 'matriz-publicacao.json', {
+        'publicados': pub, 'retidos': ret, 'n_publicados': len(pub), 'n_retidos': len(ret),
+    })
+    write_json(PROVAS / 'limites.json', {
+        'issue': 95,
+        'matriz_resumo': json.loads(MATRIZ.read_text()) if MATRIZ.exists() else {},
+        'n_publicados': len(pub), 'n_retidos': len(ret),
+        'nota': 'Fetch retomável; recover para anexos Câmara .doc; restante do catálogo pendente.',
+        'regras': [
+            'Preservar numero+reedicao; não fundir com pós-EC32.',
+            'Não inferir vigência de HTTP/arquivo.',
+            '<<ANEXO>> retém até peça oficial recuperada.',
+        ],
+        'retidos_por_status': {
+            s: sum(1 for r in ret if r.get('status') == s)
+            for s in sorted({r.get('status') for r in ret})
+        },
+    })
 
 
 def cmd_verify():
@@ -369,6 +604,8 @@ def cmd_verify():
         text = path.read_text()
         if 'medida-provisoria-pre-ec32' not in text:
             errors.append(f'{item["id"]}: serie')
+        if '<<ANEXO>>' in text or '<<TABELA>>' in text:
+            errors.append(f'{item["id"]}: marcador residual')
         rec = fontes[item['id']]
         raw = lzma.decompress((ROOT / rec['snapshot']).read_bytes())
         if sha256(raw) != rec['sha256_fonte']:
@@ -383,7 +620,7 @@ def cmd_verify():
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument('cmd', choices=['reconcile', 'fetch', 'build', 'verify'])
+    ap.add_argument('cmd', choices=['reconcile', 'fetch', 'recover', 'build', 'verify'])
     ap.add_argument('--limit', type=int)
     ap.add_argument('--refresh-catalog', action='store_true')
     args = ap.parse_args()
@@ -391,6 +628,8 @@ def main():
         cmd_reconcile(force=args.refresh_catalog)
     elif args.cmd == 'fetch':
         cmd_fetch(args.limit)
+    elif args.cmd == 'recover':
+        cmd_recover(limit=args.limit)
     elif args.cmd == 'build':
         cmd_build()
     else:

@@ -1,679 +1,2209 @@
 {
-  "n_publicados": 58,
-  "n_retidos": 53,
+  "n_publicados": 124,
+  "n_retidos": 56,
   "publicados": [
     {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-30-2915",
+      "path": "federal/br-federal-decreto-lei-1940-12-30-2915.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "e0c4403bcd12924f37db0ae75515f8a8111abb0992a8353b293b011b491b29d0",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-30-2916",
+      "path": "federal/br-federal-decreto-lei-1940-12-30-2916.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "4cad4cecb7ff43c40f782cef2a9ecda6a2329908aeedd920ec376d5a406db740",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-30-2917",
+      "path": "federal/br-federal-decreto-lei-1940-12-30-2917.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "ccb4dd6af976e08fdaa14b84fd08d8541e7cdbce1a19c56a74e6fb040bcd3ab4",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-30-2919",
+      "path": "federal/br-federal-decreto-lei-1940-12-30-2919.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "f4af86dbbea9a09a623efafc17850b3460893152d068f564609675305e802158",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-30-2921",
+      "path": "federal/br-federal-decreto-lei-1940-12-30-2921.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "d841a12b0cf5c183d8cd90ff6e771683fc130f46be44568e85b032ad338db2e6",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-30-2924",
+      "path": "federal/br-federal-decreto-lei-1940-12-30-2924.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "8579f4689bba8bb5d3ff174f5b9e918530f337d2a9239e19f08e998fd5913031",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-31-2925",
+      "path": "federal/br-federal-decreto-lei-1940-12-31-2925.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "ef7a12fdb82ab40a20358f1654cd573b9208eb45e2b774c4b2bfc8639140137b",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-31-2926",
+      "path": "federal/br-federal-decreto-lei-1940-12-31-2926.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "a49bc0ee762af7be6f8f05c13744f54d230a3a3071fc30d0b56bf5e2516e98e1",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-31-2927",
+      "path": "federal/br-federal-decreto-lei-1940-12-31-2927.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "3ecaebb3f67a7cc514b5d55282f3e4d6d49fc1b77c932cba1b5d4dfcac15f5a4",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-31-2928",
+      "path": "federal/br-federal-decreto-lei-1940-12-31-2928.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "05474d7005787df51d850a4ed625a837f6812dba303822cdd773afad3c4e7a40",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-31-2929",
+      "path": "federal/br-federal-decreto-lei-1940-12-31-2929.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "a6b33ae4fd6c8bd8b9cb0b53d50d8d6a8e57463b6857913e619eba8c9665d95c",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-31-2930",
+      "path": "federal/br-federal-decreto-lei-1940-12-31-2930.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "5a2ec7328963ac5065df4c3e07ff5c31086ba78f0051bbc617d43f336e9d61fe",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-31-2931",
+      "path": "federal/br-federal-decreto-lei-1940-12-31-2931.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "d2952db2f7954bd2b8f5bf0eb79de0c2b8da6c7d9115f3b643e6dd4d49d04210",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-31-2932",
+      "path": "federal/br-federal-decreto-lei-1940-12-31-2932.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "03e3f9008ae94c98bf0fce2a8c6a3c73bde048de72d15f92f324518d96d5f7aa",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-31-2933",
+      "path": "federal/br-federal-decreto-lei-1940-12-31-2933.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "baacd71727a9e72a88b867a75b32d40bb8e80f767217256872cec7a95cb2d679",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-31-2934",
+      "path": "federal/br-federal-decreto-lei-1940-12-31-2934.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "2efb70bebab37403492ae34d88dc17ef138aff81a84467b26ce8e9f558aa93dc",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-31-2935",
+      "path": "federal/br-federal-decreto-lei-1940-12-31-2935.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "54c09c58d2086962852cc52bd5e07066c41ef1d0d955586f00062b26e943b929",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1940-12-31-2936",
+      "path": "federal/br-federal-decreto-lei-1940-12-31-2936.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "898cec67e97ef03c8b0a2f6a893268288f3368dd052e8fc111ab2eb460df9fc1",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-01-24-2981",
+      "path": "federal/br-federal-decreto-lei-1941-01-24-2981.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "5ac6d339cd93713567d7db793c01bc90c62061ebd2d089227415411e185714af",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-03-12-3108",
+      "path": "federal/br-federal-decreto-lei-1941-03-12-3108.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "f5d810dfb41385ebc1884f7f9678394400b0c229298a9f3a4957ad84a9692ab5",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-03-21-3130",
+      "path": "federal/br-federal-decreto-lei-1941-03-21-3130.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "16c4a46ef4d3998d966da4cdfdc78809d785fc6970637ecc46768aed6af20781",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-04-26-3212",
+      "path": "federal/br-federal-decreto-lei-1941-04-26-3212.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "ddae6e0f24448e52d36ac2c46b05069ebc068ff60139b21a5996b6892e13caad",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-05-16-3281",
+      "path": "federal/br-federal-decreto-lei-1941-05-16-3281.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "92c4bc1f646d46554fba4a3642618035a76e119ab696b0d53d18217a3335e542",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-05-16-3282",
+      "path": "federal/br-federal-decreto-lei-1941-05-16-3282.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "edfd0eacfb191643187c8aaab6498277c176795a69e2e4b933df77191cd5840b",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-07-08-3395",
+      "path": "federal/br-federal-decreto-lei-1941-07-08-3395.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "9d3f14119bd1ea319839a8203cc18e9dfee4a545a556e8cbbdad314766fee5aa",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-07-08-3396",
+      "path": "federal/br-federal-decreto-lei-1941-07-08-3396.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "087f996a95b11dbc5af1699d67dff59eb5beaefe13de89e66b252fb374cd4010",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-07-08-3397",
+      "path": "federal/br-federal-decreto-lei-1941-07-08-3397.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "22cd3516bd2b01bb44b6e0f5cf3613f45df307d6c04da2129b345419f200b1b1",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-07-08-3398",
+      "path": "federal/br-federal-decreto-lei-1941-07-08-3398.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "a9dba670f4886bfad205b185658154412a0c444ecbbe6234270f20fcf7858511",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-07-08-3399",
+      "path": "federal/br-federal-decreto-lei-1941-07-08-3399.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "5891c41bca22b0d64f8932340a8642637faf08be58a7505b59d72f111f76d0e1",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-07-08-3400",
+      "path": "federal/br-federal-decreto-lei-1941-07-08-3400.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "d16e8afd4033529029f4f925d056753b1d7f2aed1e0c0a905586bf1a7b2b4fb1",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-07-08-3401",
+      "path": "federal/br-federal-decreto-lei-1941-07-08-3401.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "c0fdaa9f08de70d8eb4884befa01d9a4d625b52cf81b4040a360e45b4994b360",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-07-08-3402",
+      "path": "federal/br-federal-decreto-lei-1941-07-08-3402.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "6ab5db6d7a0c3d86bd459f19fc0aeabbb3bcc8144512b37ef3de564a6f38f659",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-07-08-3403",
+      "path": "federal/br-federal-decreto-lei-1941-07-08-3403.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "ee5aa68daf4e201a4bbce23fa0025e43d90acfe44746b0397ed837fff177416a",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-07-08-3404",
+      "path": "federal/br-federal-decreto-lei-1941-07-08-3404.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "29f8d993ce70e8387242c904a088ebb5154e9a556d52c6b9890f446c019b362b",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-07-17-3434",
+      "path": "federal/br-federal-decreto-lei-1941-07-17-3434.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "825a182f23c6b6de41d5c7d579e4b284c3dac9bf737b41aef23aefa19a534d3c",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-10-23-3752",
+      "path": "federal/br-federal-decreto-lei-1941-10-23-3752.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "608fa3a47bf64172857148fddcf80ad59f7f6de6d009f6d908cc93e032534316",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-10-25-3757",
+      "path": "federal/br-federal-decreto-lei-1941-10-25-3757.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "7ab3bddba0da61bb2efdb86c4dc10130f50dc35b9092c96953eaa6fb8ff2a39d",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-11-07-3809",
+      "path": "federal/br-federal-decreto-lei-1941-11-07-3809.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "69db623cf648fa26b6488a24e6a7cad9cf164b77a2789276b92a24aca17e24af",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-11-29-3868",
+      "path": "federal/br-federal-decreto-lei-1941-11-29-3868.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "1118a41843b056c427119666b66eaf1ca0394169bd324f155bcd4942c9beaf7d",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-12-09-3914",
+      "path": "federal/br-federal-decreto-lei-1941-12-09-3914.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "eb6aa4d19391e557d61a104dbb86138c1261d3abb9ef3aa3551d497e73f202b6",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1941-12-19-3960",
+      "path": "federal/br-federal-decreto-lei-1941-12-19-3960.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "914e260e55c3736c127fff2884dd9283a3ff43967509a338a79eccdaf7a5d6ca",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-02-26-4130",
+      "path": "federal/br-federal-decreto-lei-1942-02-26-4130.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "135dbca26172e43576ea0e93c3f5285fabc1f81f6478f551f7de5e3fc0aa3f33",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-02-26-4138",
+      "path": "federal/br-federal-decreto-lei-1942-02-26-4138.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "98beee0bf3a586cdeb26c4e0ed971041831bffaecf4809e50a3c4bfa82571a7e",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-03-06-4156",
+      "path": "federal/br-federal-decreto-lei-1942-03-06-4156.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "3919cfe585ea7152d02c8ce0e23c7daf3b09a1bb45159d5fad1fa5f79aea5de8",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-04-09-4244",
+      "path": "federal/br-federal-decreto-lei-1942-04-09-4244.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "b2705c9314149d4a0a077f220a4d8332d7b04bf49a63f83cbe816d054c219e7e",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-04-10-4246",
+      "path": "federal/br-federal-decreto-lei-1942-04-10-4246.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "3871f8e84191222280d18c3d463af87f8f7532f5e8b3254f66c13a36c46a1d2d",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-04-15-4254",
+      "path": "federal/br-federal-decreto-lei-1942-04-15-4254.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "342b124a56961cae16e8d84278a84b8eebdcd14f5931d9fe8afc43f67a8b9317",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-05-04-4290",
+      "path": "federal/br-federal-decreto-lei-1942-05-04-4290.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "22fdbb27fcabf3a90295a21a9b8427874ee0b74497ed62d8ab88c8a3d3e70238",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-05-21-4321",
+      "path": "federal/br-federal-decreto-lei-1942-05-21-4321.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "0181121e91fea05b5cf0ecc3c4ca90c4fd0fab482c791e0c19d95e868459d6d8",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-05-21-4322",
+      "path": "federal/br-federal-decreto-lei-1942-05-21-4322.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "7f1f00e1cde01a8384e7cfdee601e05424712da6cb24217984905c5ac13fd61f",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-05-21-4323",
+      "path": "federal/br-federal-decreto-lei-1942-05-21-4323.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "0bde23e87f37974114d9e36ff37cb0d1a0ce42ae92b951bb431851cb9d3ec4fd",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-05-21-4324",
+      "path": "federal/br-federal-decreto-lei-1942-05-21-4324.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "2f9be376fd397e872190813db579ccfa3b2b8fa13818c676f417403d9a166516",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-05-21-4325",
+      "path": "federal/br-federal-decreto-lei-1942-05-21-4325.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "81ca13027419c32ad65cd99669b742b7786bb099095902bbca1142957c5f0935",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-05-21-4326",
+      "path": "federal/br-federal-decreto-lei-1942-05-21-4326.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "f747ecf4404f5d7f906c30a82a58867b22a8e9eab59e1d66bf32045033cdc177",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-07-10-4465",
+      "path": "federal/br-federal-decreto-lei-1942-07-10-4465.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "6f9b01f82ecc2962459cf292a91d5b945b05be6f797cf0313592c0fcd3bf2eaf",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-07-30-4534",
+      "path": "federal/br-federal-decreto-lei-1942-07-30-4534.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "df51472aeacf7e0bf077a7e6748ff79d0b87a19893f7594ee38b147906ec2576",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-08-03-4547",
+      "path": "federal/br-federal-decreto-lei-1942-08-03-4547.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "16a041d7506662d5d978b94c5e9b814b1e1aa04a1c12695ded3a28522ab36bc6",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-09-25-4741",
+      "path": "federal/br-federal-decreto-lei-1942-09-25-4741.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "974db6688ee7f0f6596baf7081d09c151c0997c8cc62e4e1240503397bfca161",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-10-05-4786",
+      "path": "federal/br-federal-decreto-lei-1942-10-05-4786.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "cf01c1489600958337720ab97d0d73b29023c15fdcad6b1c5399a5eda031ca02",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-10-08-4812",
+      "path": "federal/br-federal-decreto-lei-1942-10-08-4812.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "d361271c87c739715a433e9be58a2f00ee791372d34070df2d23249146858b32",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-10-31-4904",
+      "path": "federal/br-federal-decreto-lei-1942-10-31-4904.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "d28e69b31ae44134c64766b8756163ca8313a2391eab30ffeb8572d245028e1d",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-11-25-4991",
+      "path": "federal/br-federal-decreto-lei-1942-11-25-4991.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "aace5976614e3291b98bb07cef9ca0da43c7b9c72daac6b27701d6cb0dead7ad",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-11-27-5000",
+      "path": "federal/br-federal-decreto-lei-1942-11-27-5000.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "a297fe899f5be71bbb066d150b75007dfae8f5122e61d970385e3759aeae6a5d",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-12-04-5030",
+      "path": "federal/br-federal-decreto-lei-1942-12-04-5030.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "06c8532a02f68f0cc6674e170867ee0654d13c16232424564b5d4d5cda5f431f",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1942-12-19-5120",
+      "path": "federal/br-federal-decreto-lei-1942-12-19-5120.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "8e5d5dda484eb62d948653f3e554a8e214758a971a81520a373cb56861eac5e5",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1943-02-12-5245",
+      "path": "federal/br-federal-decreto-lei-1943-02-12-5245.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "e04341323073770bc6bacbed7835a4ae9a86c743a1c557eb4a2b16e6e0dd8192",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-03-18-5331",
       "path": "federal/br-federal-decreto-lei-1943-03-18-5331.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "3d3bcb6371c2d0dd6a85d13425344b1aeafc0c55107dd8ad1cbe8c7445fe3986",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-03-25-5345",
       "path": "federal/br-federal-decreto-lei-1943-03-25-5345.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "13ec294ef9bed7fb58fc35f2dc48db5af2837ce5589e2bc91505e478536ece7f",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-04-05-5378",
       "path": "federal/br-federal-decreto-lei-1943-04-05-5378.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "e0bfc88f5e67d1fa578ec96a405ab0ca979120abde3429d07c365bc69ae9ab79",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-04-26-5423",
       "path": "federal/br-federal-decreto-lei-1943-04-26-5423.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "e56dda59d9dfbc5e44a38f58624662884ffbbbb3b97df4186072205b6d7d052e",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-06-01-5536",
       "path": "federal/br-federal-decreto-lei-1943-06-01-5536.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "5d58f2f526774bc4839b701b6544df1b00a71b425fe5c05c6fd6c3d9b2b2747e",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-06-16-5580",
       "path": "federal/br-federal-decreto-lei-1943-06-16-5580.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "23a1a022d6aef214f86881023bd39cf725b0bf577bae4d4909bc0e111bac24f1",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-06-18-5592",
       "path": "federal/br-federal-decreto-lei-1943-06-18-5592.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "6fb321f3b026e239de751814dad8d22df3f7fda8eba503aa13c27802e976a973",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-06-22-5609",
       "path": "federal/br-federal-decreto-lei-1943-06-22-5609.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "7a9eebeed5db3c87427a8311e7590ddf58d1deba3c19e8507c6e86854f7b4603",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-09-27-5856",
       "path": "federal/br-federal-decreto-lei-1943-09-27-5856.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "53516f732f2af04d235c7bd48ac6f8132ac3dd8bb054cdfcdf70063eeafd3bdc",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-10-20-5894",
       "path": "federal/br-federal-decreto-lei-1943-10-20-5894.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "a74f2874c01be4e7f0a600749fda239daeeb5f54b03782b9000d735eb49303da",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-10-21-5907",
       "path": "federal/br-federal-decreto-lei-1943-10-21-5907.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "3ec00e8f7c72ab94247be3f79d557e8620d8aba126d5929a1e42618bea209a1d",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-12-08-6075",
       "path": "federal/br-federal-decreto-lei-1943-12-08-6075.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "9bbd326819110b498e0eda5fbe8408fcd90c9cfcfd82cdd9653666c61d5b3945",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-12-28-6141",
       "path": "federal/br-federal-decreto-lei-1943-12-28-6141.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "754a2bf936f745a4cc8a85085cdd216db8e53319e21eaf569435a3062828e2e7",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-12-29-6143",
       "path": "federal/br-federal-decreto-lei-1943-12-29-6143.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "411d5de120129f73d925bc5ed258c2bdbe60348bba9b81fc1f5e57be6770f4ca",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1943-12-29-6145",
       "path": "federal/br-federal-decreto-lei-1943-12-29-6145.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "a148fa3ada64a30a55091246df3d16c0a41d9d397d35c4445950a846b45b071d",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-01-18-6205",
       "path": "federal/br-federal-decreto-lei-1944-01-18-6205.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "748b4b3bcfb5ea975809f063c10e40e6ceb21a17dd0aa2d120c99cc19d6e5584",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-03-28-6378",
       "path": "federal/br-federal-decreto-lei-1944-03-28-6378.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "6c3285d3fd9f6a75e428d479ac7ebc3e92a2417487e936f79c9a829f990da503",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-05-02-6458",
       "path": "federal/br-federal-decreto-lei-1944-05-02-6458.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "14bb87029c4d1328f04e997942d4c5888142ea69493dbca12445e3aa76e57c1b",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-05-09-6481",
       "path": "federal/br-federal-decreto-lei-1944-05-09-6481.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "a5a03efccbb6bbeef090edcbdfcee61a789ff95f2cf62b24608f51b0079d8f3b",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-06-09-6578",
       "path": "federal/br-federal-decreto-lei-1944-06-09-6578.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "a577af6d65e7ec03f6ed208178d60c1b6ae5dc023ae38eee6d5228a405f2a170",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-06-19-6600",
       "path": "federal/br-federal-decreto-lei-1944-06-19-6600.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "d863e06b191c4e2833bebc08a4d527d2a6cc1729c55396cfba3b327ec641eb9f",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-08-31-6842",
       "path": "federal/br-federal-decreto-lei-1944-08-31-6842.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "e34dd8d539621556aa04703c1ac91de2a3f1261b3a22e70e0d107d2b192fd227",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-10-23-6978",
       "path": "federal/br-federal-decreto-lei-1944-10-23-6978.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "ea3407f1110f2e610e3fc124c3aa5ed12decc9d7606fcacac0c44b8cf8cf5389",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-10-24-6979",
       "path": "federal/br-federal-decreto-lei-1944-10-24-6979.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "0182a654efac452b2d4b65df61b697f46784e37fb3f851692f2165293a22cc84",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-10-25-6987",
       "path": "federal/br-federal-decreto-lei-1944-10-25-6987.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "097a468216ba234623f35ecbd2f85c9203b45476897d58682767134d0a1b039d",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-12-04-7110",
       "path": "federal/br-federal-decreto-lei-1944-12-04-7110.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "e7d171687fbf3f24b03ba720801916c8052cc95fd50d43351b4c50c25e12a539",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-12-04-7123",
       "path": "federal/br-federal-decreto-lei-1944-12-04-7123.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "83ba3a8c65879de84d553f73d4982e5c2b85076648692384506e3cf6692772e5",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-12-19-7170",
       "path": "federal/br-federal-decreto-lei-1944-12-19-7170.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "e15dcf18e06f6da1ab9fd2ca63c3d5dff4c43ad580ce76bed79808e594b94dd2",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1944-12-23-7191",
       "path": "federal/br-federal-decreto-lei-1944-12-23-7191.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "be549bfb0cb9d4c12833ff780fd5873e84d4cc4ff1b9d801b0d5c5cf5e2a569a",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-02-08-7315",
       "path": "federal/br-federal-decreto-lei-1945-02-08-7315.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "bc644c41a6bf1b41a0a328e4b2fa261ac15ea5d59dba9e4405853816bc6751c2",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-04-11-7457",
       "path": "federal/br-federal-decreto-lei-1945-04-11-7457.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "68a6b0f9dcf83514c4866b54c573843cf9545b80d9a5089b375bf8f6238d15e8",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-04-25-7490",
       "path": "federal/br-federal-decreto-lei-1945-04-25-7490.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "091bf2d736502c69b642aee03fe69cedd03b52e24aece2f14797ad482a822480",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-06-22-7666",
       "path": "federal/br-federal-decreto-lei-1945-06-22-7666.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "7d2608e1c9678ef3bec6fad41b85ee8faed86e7cf1dee896a46a9b8afc43aed5",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-08-04-7828",
       "path": "federal/br-federal-decreto-lei-1945-08-04-7828.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "e2cb5cf6efc2e25565940471e13ac5787ee9656a0b77fdaa4d7b65a2c343c4a4",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-08-14-7868",
       "path": "federal/br-federal-decreto-lei-1945-08-14-7868.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "f9c4bfc9b80826d4257ce4ccb416195589a7b83c3994b7779b547c9e7bb9df79",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-08-25-7900",
       "path": "federal/br-federal-decreto-lei-1945-08-25-7900.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "8dc07a240574284d1ccac592adf916f5d0a72672733506a1f158a1e26df9d248",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
+      "id": "br-federal-decreto-lei-1945-08-27-7903",
+      "path": "federal/br-federal-decreto-lei-1945-08-27-7903.md",
+      "recuperado_camara": false,
+      "sha256_markdown_corpo": "567728094429640e3ab178f549ecada02f6f3c3d603576d59fa6c0e2ed2500d7",
+      "status": "publicado",
+      "tipo": "DEL"
+    },
+    {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-08-30-7917",
       "path": "federal/br-federal-decreto-lei-1945-08-30-7917.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "649185de69b5134f223181372b74de0007b25dacc781642de357ad000577cf56",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-09-04-7936",
       "path": "federal/br-federal-decreto-lei-1945-09-04-7936.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "458ac018635308ca6930d6aef636cbcfd425e190fa49ae5eddba88b2b1c2aa21",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-09-11-7951",
       "path": "federal/br-federal-decreto-lei-1945-09-11-7951.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "393c1288ff49e82745e3d470dc7b30297a5ec253910e25c537d04fee97d963c9",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-09-11-7952",
       "path": "federal/br-federal-decreto-lei-1945-09-11-7952.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "5b4395cbb54dd409c423a1baeb7362b9e18e737116b1b0686a77f6f48188394c",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-09-21-7984",
       "path": "federal/br-federal-decreto-lei-1945-09-21-7984.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "42a3835f269c7794f0bb595ea2bc0a843dba0788b6fdf40d6ff4f6a5ccf2b13b",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-10-05-8044",
       "path": "federal/br-federal-decreto-lei-1945-10-05-8044.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "cb22ada06b06224d7a042ffc5054a0359a2b66b4617a7d67352da3f914329a01",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-10-09-8057",
       "path": "federal/br-federal-decreto-lei-1945-10-09-8057.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "c3d6090a2c535027b9fd0d9e29a78e8cf1611a0b7996691009a1aa46b47175c7",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-11-19-8179",
       "path": "federal/br-federal-decreto-lei-1945-11-19-8179.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "7ee11b22304ccccdc5d3b269387d3ec87a8f84049e552763a0eb5c53a360de78",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-12-27-8479",
       "path": "federal/br-federal-decreto-lei-1945-12-27-8479.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "975bff6d813e2c8a2b80fcbdeef62cb69957f64ed308a5d18a1496a84e8fa805",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-12-28-8496",
       "path": "federal/br-federal-decreto-lei-1945-12-28-8496.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "6c356dc1a975eeb654c2d8aa15ce3b5cf77fd2767fc4035e9bbe0ba329bd0710",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1945-12-28-8497",
       "path": "federal/br-federal-decreto-lei-1945-12-28-8497.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "f086166ef623c7e07b13d3409277ddad751abf49ddcb0f550624ab4b26168a24",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1946-01-11-8646",
       "path": "federal/br-federal-decreto-lei-1946-01-11-8646.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "bac0d6b69fa02598afcc027834a9cd47b050fa4cbed6bb73b197a6ee470e1724",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1946-05-23-9281",
       "path": "federal/br-federal-decreto-lei-1946-05-23-9281.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "c5275d3abc14ae5f414f3cf7db6cf9fe8a8100655eb0e55f7288a45df3130557",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1946-05-24-9290",
       "path": "federal/br-federal-decreto-lei-1946-05-24-9290.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "e105ea558862dccd669506eaa0520deeef92864fb88536ce54f4539c9282d398",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1946-06-28-9410",
       "path": "federal/br-federal-decreto-lei-1946-06-28-9410.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "b15a552145641b0f52ce3b5ee1f712fd7ddbd9fd9e0633aac2536a9d73829b0a",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1946-07-12-9454",
       "path": "federal/br-federal-decreto-lei-1946-07-12-9454.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "417350e156d785dd1af38547ea87738e84dbf9ab9be648e42fba14b32d22756e",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1946-07-23-9501",
       "path": "federal/br-federal-decreto-lei-1946-07-23-9501.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "64ce6cd2849f06f1c4d14d8f7c5ad19d82c99e36e7ae3a27bd6c1a5ecef4ead8",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1946-09-11-9829",
       "path": "federal/br-federal-decreto-lei-1946-09-11-9829.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "6f62ae1a3719de1533ff42aa862745d02474dfea46e7a303bfe9a91f8bead082",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1967-02-21-183",
       "path": "federal/br-federal-decreto-lei-1967-02-21-183.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "8f74a2ac5cc1de3f9347b8d3ffcfe8cfb60f7a0d7fc4d88b6360408bb74f9bc6",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1969-06-04-608",
       "path": "federal/br-federal-decreto-lei-1969-06-04-608.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "dd0040c88e755552803d343d4d92d1f5b1e5f45cf81b76e21a21b6e5eac72617",
       "status": "publicado",
       "tipo": "DEL"
     },
     {
+      "anexos_recuperados": 0,
       "id": "br-federal-decreto-lei-1969-06-30-662",
       "path": "federal/br-federal-decreto-lei-1969-06-30-662.md",
+      "recuperado_camara": false,
       "sha256_markdown_corpo": "7008324b045cf38de3557080b4a8ba9594a13a4e15c6e0c6f3d6ea28f3046887",
-      "status": "publicado",
-      "tipo": "DEL"
-    },
-    {
-      "id": "br-federal-decreto-lei-1986-02-27-2283",
-      "path": "federal/br-federal-decreto-lei-1986-02-27-2283.md",
-      "sha256_markdown_corpo": "ff58dd141833b369900a70de56f550d118fef2b09f9cbadd33c8d73baf5bd9c1",
       "status": "publicado",
       "tipo": "DEL"
     }
   ],
+  "recuperados_camara_nesta_rodada": 0,
   "retidos": [
     {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 259906,
+          "publicavel": false,
+          "sha256": "b5547ee7d359bb71a8497de163366a3657c30659e96fadc8515cc6b59db8b5a4",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1985-03-04-2254.0.decreto-lei-2254-4-marco-1985-374974-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2254-4-marco-1985-374974-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": ""
+      },
+      "id": "br-federal-decreto-lei-1985-03-04-2254",
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2254-4-marco-1985-374974-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
+    },
+    {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 816904,
+          "publicavel": false,
+          "sha256": "49ae5e535d6e1a715938c0bb502785c3a973be7b119f91800cc6e042d420c088",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1942-04-17-4274.0.decreto-lei-4274-17-abril-1942-414256-anexos-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-4274-17-abril-1942-414256-anexos-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 2
+        },
+        "marcadores_escapados": 2,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "CLBR Vol. 03 Ano 1942 Pág. 103 Tabela NOTA – As indicações (exemplificativas) deste modelo referem-se ao registo de documentos selados por estimativa. As repartições poderão usar um só livro, convenie"
+      },
+      "id": "br-federal-decreto-lei-1942-04-17-4274",
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-4274-17-abril-1942-414256-norma-pe.html",
+      "status": "retido-anexo-pdf-layout-pendente"
+    },
+    {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 188517,
+          "publicavel": false,
+          "sha256": "6264856ac4b1aa6b5826027e765e671862913c3c074d01d22023b71ec1629b29",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1943-04-12-5389.0.decreto-lei-5389-12-abril-1943-415353-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5389-12-abril-1943-415353-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "CLBR Vol. 03 Ano 1943 Pág. 36 Tabela 1, 2 &#xa0; e 3."
+      },
       "id": "br-federal-decreto-lei-1943-04-12-5389",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-5389-12-abril-1943-415353-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
-      "id": "br-federal-decreto-lei-1945-05-28-7586",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 261243,
+          "publicavel": false,
+          "sha256": "9b5f67f3a9a8e4cf8a8b2fd86150ccbe6fe1874bea5369510698a443ae564b1f",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1967-02-28-301.0.decreto-lei-301-28-fevereiro-1967-348633-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1960-1969/decreto-lei-301-28-fevereiro-1967-348633-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1967-02-28-301",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1960-1969/decreto-lei-301-28-fevereiro-1967-348633-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
-      "id": "br-federal-decreto-lei-1967-03-13-315",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1969-03-06-492",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1973-12-21-1295",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 128858,
+          "publicavel": false,
+          "sha256": "afe0fda806006953c374f5b16d51e1d88985a109b5bd63c67bf1267e6d5f753e",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1974-02-28-1313.0.decreto-lei-1313-28-fevereiro-1974-375515-anexos-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1313-28-fevereiro-1974-375515-anexos-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1974-02-28-1313",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1313-28-fevereiro-1974-375515-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
-      "id": "br-federal-decreto-lei-1974-06-25-1334",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1974-11-28-1364",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1975-08-20-1415",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 270853,
+          "publicavel": false,
+          "sha256": "ae8a979d675dbd2d3b42c0c703fb12fd49c7f8b88ab9e717fae0ba9abc238017",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1975-10-09-1421.0.decreto-lei-1421-9-outubro-1975-356881-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1421-9-outubro-1975-356881-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "###DEL-001421-0-000-09-10-1975@@@REP01+++ (*) DECRETO-LEI Nº 1.421, DE 9 DE OUTUBRO DE 1975 Dispõe sobre acréscimos de alíquotas do imposto de importação e dá outras providências. (PUBLICADO NO DIÁRIO"
+      },
       "id": "br-federal-decreto-lei-1975-10-09-1421",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1421-9-outubro-1975-356881-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 82941,
+          "publicavel": false,
+          "sha256": "01fb405c6403bc1ebc88a687f417df99d62d27cc903978d4689116c615c34b6f",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1976-02-13-1445.0.decreto-lei-1445-13-fevereiro-1976-371150-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1445-13-fevereiro-1976-371150-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1976-02-13-1445",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1445-13-fevereiro-1976-371150-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
-      "id": "br-federal-decreto-lei-1976-02-13-1447",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1976-04-19-1458",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1978-04-25-1623",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 193333,
+          "publicavel": false,
+          "sha256": "a198a1278301a1d0dd9f328e9edb12e69422760a1f23ed2099a0b160cfe346fd",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1979-01-24-1660.0.decreto-lei-1660-24-janeiro-1979-378288-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1660-24-janeiro-1979-378288-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1979-01-24-1660",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1660-24-janeiro-1979-378288-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 32557,
+          "publicavel": false,
+          "sha256": "9aaa9a334db305a8caafd5b9d224ebadb233255a9c7911ecf4facb70b8ea3564",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1979-02-13-1667.0.decreto-lei-1667-13-fevereiro-1979-370977-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1667-13-fevereiro-1979-370977-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1979-02-13-1667",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1667-13-fevereiro-1979-370977-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 37180,
+          "publicavel": false,
+          "sha256": "71393d36b7d1087acd2796ee8f14acaed31435415141ff0a9531dafad288ec80",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1979-02-13-1668.0.decreto-lei-1668-13-fevereiro-1979-370979-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1668-13-fevereiro-1979-370979-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1979-02-13-1668",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1970-1979/decreto-lei-1668-13-fevereiro-1979-370979-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
-      "id": "br-federal-decreto-lei-1979-11-21-1714",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1979-12-10-1727",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1979-12-27-1746",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1981-02-18-1860",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1981-07-15-1877",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1981-09-02-1883",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 144876,
+          "publicavel": false,
+          "sha256": "d87b92ab0eaccf02a7ccdc08c23d2a9b0e6f30fc728f73fb31714b39308bfd23",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1982-11-25-1969.0.decreto-lei-1969-25-novembro-1982-366993-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1969-25-novembro-1982-366993-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1982-11-25-1969",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1969-25-novembro-1982-366993-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 114053,
+          "publicavel": false,
+          "sha256": "e0d98673947db5aa4a517e9d8c623b1232d78e93496de7559adb2fe9c2ff9d46",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1982-12-09-1974.0.decreto-lei-1974-9-dezembro-1982-347865-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1974-9-dezembro-1982-347865-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1982-12-09-1974",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1974-9-dezembro-1982-347865-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 120974,
+          "publicavel": false,
+          "sha256": "d734173086ece2d91d134c04e79c146ae81ad145cad48cb95c03fac239485df8",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1982-12-29-1995.0.decreto-lei-1995-29-dezembro-1982-370843-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1995-29-dezembro-1982-370843-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1982-12-29-1995",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1995-29-dezembro-1982-370843-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 108124,
+          "publicavel": false,
+          "sha256": "23f35e9913c2494636bf5ef232e09d8049af281c66856b7ac9994654827d135c",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1982-12-30-1996.0.decreto-lei-1996-30-dezembro-1982-360362-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1996-30-dezembro-1982-360362-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1982-12-30-1996",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-1996-30-dezembro-1982-360362-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 37397,
+          "publicavel": false,
+          "sha256": "af23411ebd813cfb75a97c1ccbcb7d6e0b6763da94637da871948dddb633fc92",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1983-12-20-2074.0.decreto-lei-2074-20-dezembro-1983-363576-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2074-20-dezembro-1983-363576-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1983-12-20-2074",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2074-20-dezembro-1983-363576-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
-      "id": "br-federal-decreto-lei-1983-12-22-2084",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 125722,
+          "publicavel": false,
+          "sha256": "e6bdcdcb01a4e0545ad12ac39d5f59ee1714f310589550600b7e41a7507a9f10",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1984-04-17-2112.0.decreto-lei-2112-17-abril-1984-363070-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2112-17-abril-1984-363070-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1984-04-17-2112",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2112-17-abril-1984-363070-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
-      "id": "br-federal-decreto-lei-1984-06-20-2128",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 8731,
+          "publicavel": false,
+          "sha256": "1903b71fe8dcdf3378df29674cd7570699914057b96f3d00a226d2741a756aa3",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1984-12-03-2177.0.decreto-lei-2177-3-dezembro-1984-374858-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2177-3-dezembro-1984-374858-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1984-12-03-2177",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2177-3-dezembro-1984-374858-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 125942,
+          "publicavel": false,
+          "sha256": "c603e0a57561866f689383662ab5a039686dda959bc9bed9926f69fdef4833e9",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1984-12-26-2190.0.decreto-lei-2190-26-dezembro-1984-349113-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2190-26-dezembro-1984-349113-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1984-12-26-2190",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2190-26-dezembro-1984-349113-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 114927,
+          "publicavel": false,
+          "sha256": "a83874e104524c886f89d6001e8d4df1f71617f8c7f66fff0fd24f6c0d1b600a",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1984-12-26-2191.0.decreto-lei-2191-26-dezembro-1984-373593-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2191-26-dezembro-1984-373593-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "###DEL-002191-0-000-26-12-1984@@@RET01+++ DECRETO-LEI Nº 2.191, DE 26 DE DEZEMBRO DE 1984 Altera o Decreto-lei nº 1.341, de 22 de agosto de 1974, e dá outras providências. (PUBLICADO NO DIÁRIO OFICIAL"
+      },
       "id": "br-federal-decreto-lei-1984-12-26-2191",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2191-26-dezembro-1984-373593-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
-      "id": "br-federal-decreto-lei-1984-12-26-2193",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
+      "anexos_pdf": [
+        {
+          "bloqueio": "PDF da Câmara capturado; conversão tipográfica/multicoluna DOU não certifica literalidade — não publicar como íntegra até reconversão confiável.",
+          "bytes": 18376,
+          "publicavel": false,
+          "sha256": "9dd3d90f006eaf1ae460fb12d2eea0b353c24829cb7455140cd23bd822703207",
+          "snapshot": "provas/decretos-leis-lacunas/anexos-camara/br-federal-decreto-lei-1984-12-26-2196.0.decreto-lei-2196-26-dezembro-1984-374879-anexo-pe.pdf.xz",
+          "url": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2196-26-dezembro-1984-374879-anexo-pe.pdf"
+        }
+      ],
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
       "id": "br-federal-decreto-lei-1984-12-26-2196",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "norma_camara": "https://www2.camara.leg.br/legin/fed/declei/1980-1987/decreto-lei-2196-26-dezembro-1984-374879-norma-pe.html",
+      "origem": "html-oficial",
+      "status": "retido-anexo-pdf-layout-pendente"
     },
     {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": ""
+      },
+      "id": "br-federal-decreto-lei-1984-12-27-2205",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": ""
+      },
+      "id": "br-federal-decreto-lei-1985-01-03-2219",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": ""
+      },
+      "id": "br-federal-decreto-lei-1985-01-17-2228",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": ""
+      },
+      "id": "br-federal-decreto-lei-1985-02-14-2245",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": ""
+      },
+      "id": "br-federal-decreto-lei-1985-02-21-2246",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1985-03-12-2261",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": ""
+      },
+      "id": "br-federal-decreto-lei-1985-03-13-2267",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": ""
+      },
+      "id": "br-federal-decreto-lei-1985-03-15-2273",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": ""
+      },
+      "id": "br-federal-decreto-lei-1985-03-15-2274",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": ""
+      },
+      "id": "br-federal-decreto-lei-1985-03-15-2275",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 3
+        },
+        "marcadores_escapados": 3,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1986-02-27-2283",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1987-06-11-2334",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "Os anexos estão publicados no D.O. de 21-12-87. &#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1987-12-18-2390",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1987-12-21-2402",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "DECRETO-LEI N° 2.405, DE 29 DE DEZEMBRO DE 1987 Dispõe sobre a remuneração, no Brasil, dos funcionários da Carreira de Diplomata do Serviço Exterior, e dá outras providências. RETIFICAÇÃO Na página 22"
+      },
+      "id": "br-federal-decreto-lei-1987-12-29-2405",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "id": "br-federal-decreto-lei-1942-09-03-4655",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "CLBR Vol. 03 Ano 1945 Pág. 109 Figura."
+      },
+      "id": "br-federal-decreto-lei-1945-05-28-7586",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1967-03-13-315",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "###DEL-000492-0-000-27-03-1969@@@RET01+++ DECRETO-LEI Nº 492, DE 27 DE MARÇO DE 1969 Aprova o Acôrdo Internacional do Açúcar, assinado em Nova York, nas Nações Unidas, em 18 de dezembro de 1968. (PUBL"
+      },
+      "id": "br-federal-decreto-lei-1969-03-06-492",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1973-12-21-1295",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1974-06-25-1334",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1974-11-28-1364",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1975-08-20-1415",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1976-02-13-1447",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1976-04-19-1458",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1978-04-25-1623",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1979-11-21-1714",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1979-12-10-1727",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXOS": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1979-12-27-1746",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1981-02-18-1860",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1981-07-15-1877",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1981-09-02-1883",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1983-12-22-2084",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "&#xa0;"
+      },
+      "id": "br-federal-decreto-lei-1984-06-20-2128",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "###DEL-002193-0-000-26-12-1984@@@REP01+++ (*) Decreto-lei nº 2.193, de 26 de dezembro de 1984. Inclui no Anexo Il do Decreto-lei nº 1.341, de 22 de agosto de 1974, a Gratificação de Desempenho das Ati"
+      },
+      "id": "br-federal-decreto-lei-1984-12-26-2193",
+      "origem": "html-oficial",
+      "status": "retido-sem-anexo-camara"
+    },
+    {
+      "descoberta": "camara-sem-anexo",
+      "diagnostico_marcador": {
+        "kinds": {
+          "ANEXO": 1
+        },
+        "marcadores_escapados": 1,
+        "marcadores_literais": 0,
+        "nota": "Marcadores `&lt;&lt;ANEXO&gt;&gt;` são placeholders da digitação Senado/normas.leg.br indicando peça não embutida no HTML; não são gerados pelo convert_html.",
+        "origem": "placeholder-oficial-normas.leg.br",
+        "texto_apos_ultimo": "###DEL-002200-0-000-26-12-1984@@@RET01+++ DECRETO-LEI Nº 2.200, DE 26 DE DEZEMBRO DE 1984. Altera o Decreto-lei nº 1.341, de 22 de agosto de 1974, e dá outras providências. (PUBLICADO NO DIÁRIO OFICIA"
+      },
       "id": "br-federal-decreto-lei-1984-12-26-2200",
       "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1984-12-27-2205",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1985-01-03-2219",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1985-01-17-2228",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1985-02-14-2245",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1985-02-21-2246",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1985-03-04-2254",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1985-03-12-2261",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1985-03-13-2267",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1985-03-15-2273",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1985-03-15-2274",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1985-03-15-2275",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1987-06-11-2334",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1987-12-18-2390",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1987-12-21-2402",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
-    },
-    {
-      "id": "br-federal-decreto-lei-1987-12-29-2405",
-      "origem": "pos-conversao",
-      "status": "retido-marcador-anexo-tabela"
+      "status": "retido-sem-anexo-camara"
     }
   ]
 }

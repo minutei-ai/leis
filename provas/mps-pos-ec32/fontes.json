@@ -1,5 +1,23 @@
 {
   "br-federal-medida-provisoria-2002-02-15-31": {
+    "anexos_camara": [
+      {
+        "bytes": 287745,
+        "conversao": "soffice-html",
+        "html_sha256": "57c226e8f2d597085700eb7d3a9fad9685731618846caf9d083f100539f7c066",
+        "sha256": "55afc1e674362154fc7608f1c602c6720a50120675ca0986b47bb16fd716189c",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-02-15-31.0.medidaprovisoria-31-15-fevereiro-2002-444698-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-31-15-fevereiro-2002-444698-anexo1-pe.doc"
+      },
+      {
+        "bytes": 76289,
+        "conversao": "soffice-html",
+        "html_sha256": "004418049424f80de7ec604709848803967d4927ac5c9708ec43525db048cc56",
+        "sha256": "7e7ec2456c8cff2b040d72127f2508d9f06c975c7f0810c164d939636dcff4c9",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-02-15-31.1.medidaprovisoria-31-15-fevereiro-2002-444698-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-31-15-fevereiro-2002-444698-anexo2-pe.doc"
+      }
+    ],
     "bytes": 9348,
     "capturado_em": "2026-11-04T19:17:04Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-02-15-31.dados.json.xz",
@@ -11,9 +29,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 31, de 15 de fevereiro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-31-15-fevereiro-2002-444698-norma-pe.html",
     "sha256_fonte": "bca489a91da1abd05108911a1cd350e554599a426ab275716de049d263284b45",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-02-15-31.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/5e923440-1c3c-4a69-9e7a-81be9d059182/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-02-15;31",
     "vinculos_fonte": [
@@ -50,6 +69,16 @@
     ]
   },
   "br-federal-medida-provisoria-2002-08-15-60": {
+    "anexos_camara": [
+      {
+        "bytes": 58369,
+        "conversao": "soffice-html",
+        "html_sha256": "aaceb42bac7a3eb2b1ed729a3187821b9dba8ad6ed24c3e5223e5701e81e7c41",
+        "sha256": "a6f95c740bd276552b1564cd09a47bc7ca5b79e31c3e6b9aac78aa16b8ee741e",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-08-15-60.0.medidaprovisoria-60-15-agosto-2002-479596-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-60-15-agosto-2002-479596-anexo1-pe.doc"
+      }
+    ],
     "bytes": 6973,
     "capturado_em": "2026-11-04T19:17:06Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-08-15-60.dados.json.xz",
@@ -61,9 +90,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 60, de 15 de agosto de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-60-15-agosto-2002-479596-norma-pe.html",
     "sha256_fonte": "c423321970a019edc5187accd175437f5d23c2734012183ef2040a29ec102396",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-08-15-60.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/b7684b18-67f2-41eb-a8a7-aceed3f6f3bc/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-08-15;60",
     "vinculos_fonte": [
@@ -75,6 +105,24 @@
     ]
   },
   "br-federal-medida-provisoria-2002-10-08-72": {
+    "anexos_camara": [
+      {
+        "bytes": 153089,
+        "conversao": "soffice-html",
+        "html_sha256": "1989301be0d10f86f701c2f95b034d244bd6fdb5cade606f5b5eebcdb7af4d90",
+        "sha256": "6c10aeb473b07cc7e89c303555063b0f804fbd85aa5f853b0087033ae0efcf5d",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-10-08-72.0.medidaprovisoria-72-8-outubro-2002-475060-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-72-8-outubro-2002-475060-anexo1-pe.doc"
+      },
+      {
+        "bytes": 168961,
+        "conversao": "soffice-html",
+        "html_sha256": "d6d32db5d852e972a69972593be197b7aa41c509eebe6b384d98edd7b6feb6e5",
+        "sha256": "154cf744ec2a2c942f2967da82307def254f25058cb31a9f981fef31b44940bb",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-10-08-72.1.medidaprovisoria-72-8-outubro-2002-475060-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-72-8-outubro-2002-475060-anexo2-pe.doc"
+      }
+    ],
     "bytes": 4039,
     "capturado_em": "2026-11-04T19:17:06Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-10-08-72.dados.json.xz",
@@ -86,9 +134,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 72, de 08 de outubro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-72-8-outubro-2002-475060-norma-pe.html",
     "sha256_fonte": "0dc9b6e57c220500b836d9b4db94fc26508efb89c2277140ba96dabec2a8a57a",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-10-08-72.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/995d2a03-48a7-493b-b078-ea02b300efcb/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-10-08;72",
     "vinculos_fonte": [
@@ -100,6 +149,16 @@
     ]
   },
   "br-federal-medida-provisoria-2002-11-29-81": {
+    "anexos_camara": [
+      {
+        "bytes": 100865,
+        "conversao": "soffice-html",
+        "html_sha256": "1dee679ff2ff2a6cda625f9835394a1d0aee76dba1f530119091d7a9e5470f8e",
+        "sha256": "9f09ca0a31566c3a1652d431022cf077f30d0d43fa3ddb4b4c46e96043a7ad9a",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-11-29-81.0.medidaprovisoria-81-29-novembro-2002-487421-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-81-29-novembro-2002-487421-anexo1-pe.doc"
+      }
+    ],
     "bytes": 4769,
     "capturado_em": "2026-11-04T19:17:07Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-11-29-81.dados.json.xz",
@@ -111,9 +170,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 81, de 29 de novembro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-81-29-novembro-2002-487421-norma-pe.html",
     "sha256_fonte": "dc872081b86133691be3446fa08a3f60769916316529befdb0a447ae7d662a13",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-11-29-81.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/b2a01a24-658f-4f3d-ba31-97e34fa8b8e3/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-11-29;81",
     "vinculos_fonte": [
@@ -125,6 +185,24 @@
     ]
   },
   "br-federal-medida-provisoria-2002-12-12-84": {
+    "anexos_camara": [
+      {
+        "bytes": 78337,
+        "conversao": "soffice-html",
+        "html_sha256": "cb77a484abeba086be21b718b932feb389b35032ed0cf2fc826174c164382c16",
+        "sha256": "0f4cb4b6fa3a337b98094df6b746ca4dbd6c51b996dac9c444c6d506dc898fb7",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-12-84.0.medidaprovisoria-84-12-dezembro-2002-489577-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-84-12-dezembro-2002-489577-anexo1-pe.doc"
+      },
+      {
+        "bytes": 77825,
+        "conversao": "soffice-html",
+        "html_sha256": "332ad81c137ceff7d96af9021d2853a0492e1cd5de2a2b058a46e9812a0c25af",
+        "sha256": "cd495def5b55d1aac704870fdd6ef4f00556d9e97b8c372b918566a55daa543b",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-12-84.1.medidaprovisoria-84-12-dezembro-2002-489577-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-84-12-dezembro-2002-489577-anexo2-pe.doc"
+      }
+    ],
     "bytes": 15789,
     "capturado_em": "2026-11-04T19:17:07Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-12-84.dados.json.xz",
@@ -136,9 +214,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 84, de 12 de dezembro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-84-12-dezembro-2002-489577-norma-pe.html",
     "sha256_fonte": "5e05fdd5a4848e86dcce597a06a86888e50a144faedc05c0a0e608c02dd6d9eb",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-12-84.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/acaeac8e-65ae-49ff-9f9d-a588436cfc4e/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-12-12;84",
     "vinculos_fonte": [
@@ -150,6 +229,24 @@
     ]
   },
   "br-federal-medida-provisoria-2002-12-17-85": {
+    "anexos_camara": [
+      {
+        "bytes": 77313,
+        "conversao": "soffice-html",
+        "html_sha256": "ad38b0d79d9df744bf00170f6ce22b70764d2dcbe3714eb8decb9677bab4e303",
+        "sha256": "ff8600476f49807800a141cc5aa7ebda88fe1c6b79a6bb006728bff6b6865717",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-17-85.0.medidaprovisoria-85-17-dezembro-2002-489387-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-85-17-dezembro-2002-489387-anexo1-pe.doc"
+      },
+      {
+        "bytes": 77825,
+        "conversao": "soffice-html",
+        "html_sha256": "33988ef32de88f1c707050ce5618d064372ae8ec0ade0fdc077d02214624be03",
+        "sha256": "d744e24fea412783f02d69619f3eaec8d11070e426a5a4a794b4aab1e0dbd9ff",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-17-85.1.medidaprovisoria-85-17-dezembro-2002-489387-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-85-17-dezembro-2002-489387-anexo2-pe.doc"
+      }
+    ],
     "bytes": 15820,
     "capturado_em": "2026-11-04T19:17:08Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-17-85.dados.json.xz",
@@ -161,9 +258,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 85, de 17 de dezembro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-85-17-dezembro-2002-489387-norma-pe.html",
     "sha256_fonte": "d003a89e6aefc8a45673e75d36efbaabfe4fd4b0fd8c7989cd9db54a074ee58d",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-17-85.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/6f9acd3d-4e3e-4bd4-a1e8-92335edf71dd/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-12-17;85",
     "vinculos_fonte": [
@@ -175,6 +273,24 @@
     ]
   },
   "br-federal-medida-provisoria-2002-12-19-87": {
+    "anexos_camara": [
+      {
+        "bytes": 58369,
+        "conversao": "soffice-html",
+        "html_sha256": "af12217a5689332ecb165ba7e838f94097130c7840d92a722ed94f8b0cfb8337",
+        "sha256": "9c997f647f4153fa9dc228142ac411d7b4bde2532ac837fd98d6d37bfc7b90df",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-19-87.0.medidaprovisoria-87-19-dezembro-2002-489030-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-87-19-dezembro-2002-489030-anexo1-pe.doc"
+      },
+      {
+        "bytes": 434177,
+        "conversao": "soffice-html",
+        "html_sha256": "7a8535daee4830aea3b0a9192e35c94d9573b84b3bf5ec5dd5ad6ff9d684db0c",
+        "sha256": "d2c70b3fddfde659539af0dbc122cc82088b619aa6c5ec37865e463178555164",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-19-87.1.medidaprovisoria-87-19-dezembro-2002-489030-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-87-19-dezembro-2002-489030-anexo2-pe.doc"
+      }
+    ],
     "bytes": 18510,
     "capturado_em": "2026-11-04T19:17:09Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-19-87.dados.json.xz",
@@ -186,9 +302,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 87, de 19 de dezembro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-87-19-dezembro-2002-489030-norma-pe.html",
     "sha256_fonte": "43611a7eaf6dc66c8025cc274f1b48a51eed1e63609138f9312c4f36bc4251c1",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-19-87.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/ebdbff53-65bd-4de5-9b03-83428e1eeb07/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-12-19;87",
     "vinculos_fonte": [
@@ -200,6 +317,24 @@
     ]
   },
   "br-federal-medida-provisoria-2002-12-20-88": {
+    "anexos_camara": [
+      {
+        "bytes": 400385,
+        "conversao": "soffice-html",
+        "html_sha256": "5c24aead629b71928aa4c338c34429ef7ab6c4576a8936ab60159cb6bebc3a86",
+        "sha256": "2cc392029ec5fb97700f58243cc9363d99995c3f1a47d5a1a8c7e954916e6be1",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-20-88.0.medidaprovisoria-88-20-dezembro-2002-491634-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-88-20-dezembro-2002-491634-anexo1-pe.doc"
+      },
+      {
+        "bytes": 875009,
+        "conversao": "soffice-html",
+        "html_sha256": "d7832eb9d8b0b1821b4bfd0fb6c9a132d545e875b58fb62ab735799df2f8c322",
+        "sha256": "86652a42fdfa78df065c8e1ee7ac37f6aaf0a049836e63f5421108e8b2edd35a",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-20-88.1.medidaprovisoria-88-20-dezembro-2002-491634-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-88-20-dezembro-2002-491634-anexo2-pe.doc"
+      }
+    ],
     "bytes": 16678,
     "capturado_em": "2026-11-04T19:17:10Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-20-88.dados.json.xz",
@@ -211,9 +346,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 88, de 20 de dezembro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-88-20-dezembro-2002-491634-norma-pe.html",
     "sha256_fonte": "47c09377acd05f448b85de73a2297e2a508ae60ccb71908009ba63430397c527",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-20-88.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/352da83d-2560-4438-8d3e-ff6d3ca060a0/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-12-20;88",
     "vinculos_fonte": [
@@ -225,6 +361,24 @@
     ]
   },
   "br-federal-medida-provisoria-2002-12-20-89": {
+    "anexos_camara": [
+      {
+        "bytes": 58369,
+        "conversao": "soffice-html",
+        "html_sha256": "021778f0af6d783483a1ef82f4df21b75b5c7262f67f3feca8214edd2735adf7",
+        "sha256": "7c53da992261e4d6374af0e2b00f14042c3f6e0cc4b1e1fc4e73e6977eb4d76b",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-20-89.0.medidaprovisoria-89-20-dezembro-2002-491635-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-89-20-dezembro-2002-491635-anexo1-pe.doc"
+      },
+      {
+        "bytes": 118273,
+        "conversao": "soffice-html",
+        "html_sha256": "4d4b39c38d091c067f1610a32ebe8202f45d9fad5ec3cdbdffc546881fc20a23",
+        "sha256": "49564c41ab9155e657dff7df6acb8b3d5ac1b6f75dc33ccfa9c3fe04396f037e",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-20-89.1.medidaprovisoria-89-20-dezembro-2002-491635-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-89-20-dezembro-2002-491635-anexo2-pe.doc"
+      }
+    ],
     "bytes": 15814,
     "capturado_em": "2026-11-04T19:17:10Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-20-89.dados.json.xz",
@@ -236,9 +390,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 89, de 20 de dezembro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-89-20-dezembro-2002-491635-norma-pe.html",
     "sha256_fonte": "1f150c1c16730a8f26549ce4fd14e0ef72d16abc8007de8c16b4d302392feb56",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-20-89.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/babf29fe-cf69-4168-a732-18d5c21abcbc/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-12-20;89",
     "vinculos_fonte": [
@@ -250,6 +405,24 @@
     ]
   },
   "br-federal-medida-provisoria-2002-12-20-90": {
+    "anexos_camara": [
+      {
+        "bytes": 58369,
+        "conversao": "soffice-html",
+        "html_sha256": "ad1b3cc93bde72f7a4606b9dde888b7183f03e0e0ffa1d6b1a3ae1786fb8c621",
+        "sha256": "97c6f308e1b5f0de8ea6e4728de0e467101e8e76a1f11e3897cfc8a963729304",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-20-90.0.medidaprovisoria-90-20-dezembro-2002-491636-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-90-20-dezembro-2002-491636-anexo1-pe.doc"
+      },
+      {
+        "bytes": 494081,
+        "conversao": "soffice-html",
+        "html_sha256": "f3d3e1b5958662f7766f1b0d7cc162ae2f94f4f6d711a0778d66ff5b388440bf",
+        "sha256": "cf5e7e6a4febc740644015409edf7ab474a82248624f277ae12995674ecd8c44",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-20-90.1.medidaprovisoria-90-20-dezembro-2002-491636-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-90-20-dezembro-2002-491636-anexo2-pe.doc"
+      }
+    ],
     "bytes": 15887,
     "capturado_em": "2026-11-04T19:17:11Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-20-90.dados.json.xz",
@@ -261,9 +434,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 90, de 20 de dezembro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-90-20-dezembro-2002-491636-norma-pe.html",
     "sha256_fonte": "0810454c02928802b8a6487dd2a57768240ab6d66a70eeb4da5843bba3432bdd",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-20-90.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/5c8c22f7-0869-4c3a-9e2f-84c231075aac/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-12-20;90",
     "vinculos_fonte": [
@@ -275,6 +449,24 @@
     ]
   },
   "br-federal-medida-provisoria-2002-12-23-92": {
+    "anexos_camara": [
+      {
+        "bytes": 58881,
+        "conversao": "soffice-html",
+        "html_sha256": "d0ed700f0b448b69e7785b0f094053556b2287afc64b471e09472519c32cce4b",
+        "sha256": "bfd3ad670823ad51475a3d1b073c925f7b1e7903bdd0eea0988370bd88df7c31",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-23-92.0.medidaprovisoria-92-23-dezembro-2002-492234-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-92-23-dezembro-2002-492234-anexo1-pe.doc"
+      },
+      {
+        "bytes": 576513,
+        "conversao": "soffice-html",
+        "html_sha256": "429345de3a8eb6836fd34dd8e61a4abb8b2b163d81fe3cf96ff4d7db09e251d3",
+        "sha256": "3bbb8b64595a2abe290965560617d21c7ff65ab45b98a353819e779efc80606b",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-23-92.1.medidaprovisoria-92-23-dezembro-2002-492234-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-92-23-dezembro-2002-492234-anexo2-pe.doc"
+      }
+    ],
     "bytes": 15895,
     "capturado_em": "2026-11-04T19:17:12Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-23-92.dados.json.xz",
@@ -286,9 +478,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 92, de 23 de dezembro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-92-23-dezembro-2002-492234-norma-pe.html",
     "sha256_fonte": "f3ff5009486f8f21201a84597801d5383a23c2dfc9b93d6d6ac52e944595151c",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-23-92.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/f3dd969e-fa6b-4393-80e8-756933660608/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-12-23;92",
     "vinculos_fonte": [
@@ -300,6 +493,24 @@
     ]
   },
   "br-federal-medida-provisoria-2002-12-24-93": {
+    "anexos_camara": [
+      {
+        "bytes": 79361,
+        "conversao": "soffice-html",
+        "html_sha256": "d6d5399f285f2fd23fc1496fed5fdc5bda8817e2f6e52b29fb86f3ede99f6968",
+        "sha256": "a8880c8b144c5e0acc96b40b11abb00f765e6fbbb6c3f62f65b3adb93df67a30",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-24-93.0.medidaprovisoria-93-24-dezembro-2002-492551-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-93-24-dezembro-2002-492551-anexo1-pe.doc"
+      },
+      {
+        "bytes": 397313,
+        "conversao": "soffice-html",
+        "html_sha256": "e3ad347bf7f8f3149111612e35f92dc1839d2ef9d13fc7253a380dd3983bd23a",
+        "sha256": "fefaa64de55be0d64be0c1ad3ae0ad3630ca732611ddf0e00069f2054625f94c",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-24-93.1.medidaprovisoria-93-24-dezembro-2002-492551-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-93-24-dezembro-2002-492551-anexo2-pe.doc"
+      }
+    ],
     "bytes": 15834,
     "capturado_em": "2026-11-04T19:17:12Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-24-93.dados.json.xz",
@@ -311,9 +522,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 93, de 24 de dezembro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-93-24-dezembro-2002-492551-norma-pe.html",
     "sha256_fonte": "82ffd03e8d2ade35212e12dd3d1aacc92c0860bdd4d6e0df3e676b0b17677969",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-24-93.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/a151f9d3-5086-440a-9930-0c01a8506821/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-12-24;93",
     "vinculos_fonte": [
@@ -325,6 +537,24 @@
     ]
   },
   "br-federal-medida-provisoria-2002-12-27-96": {
+    "anexos_camara": [
+      {
+        "bytes": 58369,
+        "conversao": "soffice-html",
+        "html_sha256": "e0bf724bb4066c65cefd443815d6fbdb017d013d395dca2b026695dc4fefa456",
+        "sha256": "2e7b88a9241e08d532fd66241999d065cbe110d8605e2402f44e326c2372e4d8",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-27-96.0.medidaprovisoria-96-27-dezembro-2002-492632-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-96-27-dezembro-2002-492632-anexo1-pe.doc"
+      },
+      {
+        "bytes": 98817,
+        "conversao": "soffice-html",
+        "html_sha256": "ce1db20c2143e935da3e1631e16b10ec1ac5a44761fa85336644e5badd787555",
+        "sha256": "a97032b91c8f1f3d3ca73477b8c10129835693a6f656c571b1944ebe8d2003a3",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-27-96.1.medidaprovisoria-96-27-dezembro-2002-492632-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-96-27-dezembro-2002-492632-anexo2-pe.doc"
+      }
+    ],
     "bytes": 15805,
     "capturado_em": "2026-11-04T19:17:13Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-27-96.dados.json.xz",
@@ -336,9 +566,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 96, de 27 de dezembro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-96-27-dezembro-2002-492632-norma-pe.html",
     "sha256_fonte": "b2687ed888ab9edb27d7ddb229f95186546a3276145c43f7fcb42955560e2226",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-27-96.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/13ef360e-e1b0-4a4a-9847-96c4e2c73df5/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-12-27;96",
     "vinculos_fonte": [
@@ -350,6 +581,24 @@
     ]
   },
   "br-federal-medida-provisoria-2002-12-27-98": {
+    "anexos_camara": [
+      {
+        "bytes": 59393,
+        "conversao": "soffice-html",
+        "html_sha256": "c5fd0fd04eb0e4dc2f540f3602fa4d2147b977f746ec06aaeaaaafe5f29cfc5e",
+        "sha256": "cd7a17f9829b07e40bbc12e45d90b436b783005c3685004b3ef4365e4e94812f",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-27-98.0.medidaprovisoria-98-27-dezembro-2002-493103-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-98-27-dezembro-2002-493103-anexo1-pe.doc"
+      },
+      {
+        "bytes": 180737,
+        "conversao": "soffice-html",
+        "html_sha256": "a2ca99f45445a6f9628191aeffc2a4dcb64915b53d98950e4511d63b689f6450",
+        "sha256": "d017c71b1bef0a7fbe005ceae343d175b810da07fd1ebe81a59038c03eca1195",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-27-98.1.medidaprovisoria-98-27-dezembro-2002-493103-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-98-27-dezembro-2002-493103-anexo2-pe.doc"
+      }
+    ],
     "bytes": 15804,
     "capturado_em": "2026-11-04T19:17:14Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-27-98.dados.json.xz",
@@ -361,9 +610,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 98, de 27 de dezembro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-98-27-dezembro-2002-493103-norma-pe.html",
     "sha256_fonte": "d5d6c44baa11eecc86de7527b87234633144c8a61f453b2673d278311e0bb769",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-27-98.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/d6f3e3ca-d582-4ab3-8503-bacef5824ca1/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-12-27;98",
     "vinculos_fonte": [
@@ -375,6 +625,24 @@
     ]
   },
   "br-federal-medida-provisoria-2002-12-30-99": {
+    "anexos_camara": [
+      {
+        "bytes": 58881,
+        "conversao": "soffice-html",
+        "html_sha256": "874da33a0fbe0059431ad80248594f77c877306d1dc808c074f735b87cab8c2a",
+        "sha256": "639c992a229445f8c67ef4a4177be724c2c8a1da3b971c89dc76b54d3b3d5f64",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-30-99.0.medidaprovisoria-99-30-dezembro-2002-493190-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-99-30-dezembro-2002-493190-anexo1-pe.doc"
+      },
+      {
+        "bytes": 130049,
+        "conversao": "soffice-html",
+        "html_sha256": "43dba78074b728d3b0c3d1cf2838d80a54c052279e480de80453740375fd7fe9",
+        "sha256": "34bf08be3db02c29dabc0b6e72b154ad3b86d3dccca782be1ffe8004c781f512",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2002-12-30-99.1.medidaprovisoria-99-30-dezembro-2002-493190-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-99-30-dezembro-2002-493190-anexo2-pe.doc"
+      }
+    ],
     "bytes": 16966,
     "capturado_em": "2026-11-04T19:17:14Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-30-99.dados.json.xz",
@@ -386,9 +654,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 99, de 30 de dezembro de 2002",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2002/medidaprovisoria-99-30-dezembro-2002-493190-norma-pe.html",
     "sha256_fonte": "22fc8dcd69bcd1507e92db5652dad47c6dd704f4d9c570f1ce4b8cc1c4247393",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2002-12-30-99.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/8c5e2caf-bef3-4e5e-baa1-7ec11865776e/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2002-12-30;99",
     "vinculos_fonte": [
@@ -575,6 +844,40 @@
     ]
   },
   "br-federal-medida-provisoria-2003-12-11-146": {
+    "anexos_camara": [
+      {
+        "bytes": 27137,
+        "conversao": "soffice-html",
+        "html_sha256": "a822e00b483ddc5cf4316016f68e2668d35443c5478aa5f3fdd8f66d88a0e48d",
+        "sha256": "94ad3d47b10d1b28c7d32bd5d4fb6a257e404e62a33c0f76107342509d9b7c8a",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2003-12-11-146.0.medidaprovisoria-146-11-dezembro-2003-497435-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-146-11-dezembro-2003-497435-anexo1-pe.doc"
+      },
+      {
+        "bytes": 34305,
+        "conversao": "soffice-html",
+        "html_sha256": "fa8e8bc1f29cbd420295ca36a7850b7134ddec28c185052a71078db679470e13",
+        "sha256": "968004f5e902acf138c34a9d838028eb629b84cf4465a4f7ff263a8b0d0b8ff8",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2003-12-11-146.1.medidaprovisoria-146-11-dezembro-2003-497435-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-146-11-dezembro-2003-497435-anexo2-pe.doc"
+      },
+      {
+        "bytes": 27137,
+        "conversao": "soffice-html",
+        "html_sha256": "31b8a8d27224706bb5e54551ee7531810e34a0542641ba48fcda1cdec66dd199",
+        "sha256": "6dd01758b3da655a6fd78e90fed182f60991e35d1cc7f1a0540c393762254a84",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2003-12-11-146.2.medidaprovisoria-146-11-dezembro-2003-497435-anexo3-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-146-11-dezembro-2003-497435-anexo3-pe.doc"
+      },
+      {
+        "bytes": 67585,
+        "conversao": "soffice-html",
+        "html_sha256": "5f9d12f1ad522bed23fad16f95164a58c416f8b28bc7183bcd04f4b3fa6a5012",
+        "sha256": "4295629aeb073865c4216cb8e21d1e9b47fa6a322d6ce456e1fe1db5a56e11d4",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2003-12-11-146.3.medidaprovisoria-146-11-dezembro-2003-497435-anexo4-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-146-11-dezembro-2003-497435-anexo4-pe.doc"
+      }
+    ],
     "bytes": 28643,
     "capturado_em": "2026-11-04T19:17:20Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2003-12-11-146.dados.json.xz",
@@ -586,9 +889,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 146, de 11 de dezembro de 2003",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-146-11-dezembro-2003-497435-norma-pe.html",
     "sha256_fonte": "58dcca81396d501a1829dbb30962cc0998bef48d82f12840f34590d8b72f4a8a",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2003-12-11-146.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/bc18d629-ca14-4460-8db8-412050ce3f57/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2003-12-11;146",
     "vinculos_fonte": [
@@ -625,6 +929,24 @@
     ]
   },
   "br-federal-medida-provisoria-2003-12-23-158": {
+    "anexos_camara": [
+      {
+        "bytes": 38401,
+        "conversao": "soffice-html",
+        "html_sha256": "2c1ac86ad404a0662c9786fadcb7762f642557315bf5fdec14d52be156e0a86d",
+        "sha256": "f398dd545b035f98d837c3c64fe2f1dfb36686845e38e1c5e3c63077abc1fa85",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2003-12-23-158.0.medidaprovisoria-158-23-dezembro-2003-497008-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-158-23-dezembro-2003-497008-anexo1-pe.doc"
+      },
+      {
+        "bytes": 46081,
+        "conversao": "soffice-html",
+        "html_sha256": "b3a04727b879971dd6571acfa7aee86a690e79335ff628a86fe6e1ba15e16794",
+        "sha256": "ad6846d8aae78741031c5d9dc738692dab863ec0f139ff647b74d57b3d1e805d",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2003-12-23-158.1.medidaprovisoria-158-23-dezembro-2003-497008-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-158-23-dezembro-2003-497008-anexo2-pe.doc"
+      }
+    ],
     "bytes": 78871,
     "capturado_em": "2026-11-04T19:17:22Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2003-12-23-158.dados.json.xz",
@@ -636,9 +958,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 158, de 23 de dezembro de 2003",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-158-23-dezembro-2003-497008-norma-pe.html",
     "sha256_fonte": "4adcf2eb6d05ab2716a99137875e5478c599c5c8cacf1a45a699d13db9cdd2e5",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2003-12-23-158.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/72f73bb2-33c1-45ae-9c2a-ebbda92ec477/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2003-12-23;158",
     "vinculos_fonte": [
@@ -650,6 +973,16 @@
     ]
   },
   "br-federal-medida-provisoria-2003-12-29-160": {
+    "anexos_camara": [
+      {
+        "bytes": 47105,
+        "conversao": "soffice-html",
+        "html_sha256": "7e405d7152b46bc3027725a08e55575bfbc0e8beaaec9bcda2c35418d90b324a",
+        "sha256": "e7d11c9de1052bc41254f5f572a09a61a3356138caff9e8f869051cc9402d4a1",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2003-12-29-160.0.medidaprovisoria-160-29-dezembro-2003-497047-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-160-29-dezembro-2003-497047-anexo1-pe.doc"
+      }
+    ],
     "bytes": 10576,
     "capturado_em": "2026-11-04T19:17:23Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2003-12-29-160.dados.json.xz",
@@ -661,9 +994,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 160, de 29 de dezembro de 2003",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2003/medidaprovisoria-160-29-dezembro-2003-497047-norma-pe.html",
     "sha256_fonte": "51b4a5528a0dad278656a9b60149bcea278e4babec5cc95da998e3630082666c",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2003-12-29-160.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/fc5f5940-6347-446e-9c2f-c1da3f6b2a19/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2003-12-29;160",
     "vinculos_fonte": [
@@ -675,6 +1009,16 @@
     ]
   },
   "br-federal-medida-provisoria-2004-01-21-161": {
+    "anexos_camara": [
+      {
+        "bytes": 26625,
+        "conversao": "soffice-html",
+        "html_sha256": "15f22712f40d940c579b377f667a026293935c25574cce49452436f87ea72d14",
+        "sha256": "846601c9ea05e29e4b7c0917d482e7577efcd9e9a57a59181da30a7fbb52147e",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-01-21-161.0.medidaprovisoria-161-21-janeiro-2004-498136-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-161-21-janeiro-2004-498136-anexo1-pe.doc"
+      }
+    ],
     "bytes": 24357,
     "capturado_em": "2026-11-04T19:17:24Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-01-21-161.dados.json.xz",
@@ -686,9 +1030,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 161, de 21 de janeiro de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-161-21-janeiro-2004-498136-norma-pe.html",
     "sha256_fonte": "8318492e23807e4a12a4f077ec170c83c4b264b25e88a6c8c41ced76f26636f4",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-01-21-161.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/fd45053e-e18d-41e6-acbb-10d2b2dea977/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-01-21;161",
     "vinculos_fonte": [
@@ -700,6 +1045,24 @@
     ]
   },
   "br-federal-medida-provisoria-2004-01-22-162": {
+    "anexos_camara": [
+      {
+        "bytes": 64513,
+        "conversao": "soffice-html",
+        "html_sha256": "a84f1b61a2fb5e754decd6f8a4f1d752dfdc7dd80013824d5738f3f928870b51",
+        "sha256": "c189ba886b08e1fe492ab0f5dd137a15c488ea2748aae6f3d13044b51dc42a6a",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-01-22-162.0.medidaprovisoria-162-22-janeiro-2004-498169-anexo1-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-162-22-janeiro-2004-498169-anexo1-pe.doc"
+      },
+      {
+        "bytes": 57345,
+        "conversao": "soffice-html",
+        "html_sha256": "d032c7dc4f322afa47d7d315990fe59398682b0f2d3ed891ff8a789592606632",
+        "sha256": "33f514c921157325a6d4370501a3c06d88431235dffa7d98b435111b752ab349",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-01-22-162.1.medidaprovisoria-162-22-janeiro-2004-498169-anexo2-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-162-22-janeiro-2004-498169-anexo2-pe.doc"
+      }
+    ],
     "bytes": 12061,
     "capturado_em": "2026-11-04T19:17:24Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-01-22-162.dados.json.xz",
@@ -711,9 +1074,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 162, de 22 de janeiro de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-162-22-janeiro-2004-498169-norma-pe.html",
     "sha256_fonte": "63827ed0e6939be07e1c30c454dbd00595d7aaa9a23e435709768ea21b71b5ce",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-01-22-162.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/feb68e89-15fb-4c1e-9f48-a7bcb606d085/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-01-22;162",
     "vinculos_fonte": [
@@ -725,6 +1089,40 @@
     ]
   },
   "br-federal-medida-provisoria-2004-02-18-166": {
+    "anexos_camara": [
+      {
+        "bytes": 25089,
+        "conversao": "soffice-html",
+        "html_sha256": "12e64adf8895867dc4a16278a2b91ffae5f554b7506f005f3365182748f5ab43",
+        "sha256": "9f12646c44490f15b4a6b5cb176c214027c7940640659ef2357aae1b23f89dc6",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-02-18-166.0.medidaprovisoria-166-18-fevereiro-2004-531035-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-166-18-fevereiro-2004-531035-anexoi-pe.doc"
+      },
+      {
+        "bytes": 39425,
+        "conversao": "soffice-html",
+        "html_sha256": "f52ab07ef03eee719db680685f3a16b90662bc60d5394b1aba47cc8cff25a1f7",
+        "sha256": "d6f6f064cd68258e880a0c742f1d25df7492d334066970446ecc44276308722b",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-02-18-166.1.medidaprovisoria-166-18-fevereiro-2004-531035-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-166-18-fevereiro-2004-531035-anexoii-pe.doc"
+      },
+      {
+        "bytes": 59393,
+        "conversao": "soffice-html",
+        "html_sha256": "f75da420af84ae81226f33722327e9a16968f409c8a5df35ee51b0afb12a5712",
+        "sha256": "0e52da5181ec802f843c8ea38cb4097877cc9f54685b302b925abe15c4f694d1",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-02-18-166.2.medidaprovisoria-166-18-fevereiro-2004-531035-anexoiii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-166-18-fevereiro-2004-531035-anexoiii-pe.doc"
+      },
+      {
+        "bytes": 26113,
+        "conversao": "soffice-html",
+        "html_sha256": "a5fd681564283371d1ec6a76b9ba36d501c6ae23c710805f37645b99d60b4b62",
+        "sha256": "ed5b1e8c0e30bfec8303b779456e8aafb59f9f620e9dd9908167d742a6a8457e",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-02-18-166.3.medidaprovisoria-166-18-fevereiro-2004-531035-anexoiv-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-166-18-fevereiro-2004-531035-anexoiv-pe.doc"
+      }
+    ],
     "bytes": 70394,
     "capturado_em": "2026-11-04T19:17:25Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-02-18-166.dados.json.xz",
@@ -736,9 +1134,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 166, de 18 de fevereiro de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-166-18-fevereiro-2004-531035-norma-pe.html",
     "sha256_fonte": "e382ac63a3268bcaeb1cde968a8bba76f0caea0ffb48a9b177f921d79dd9cd8a",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-02-18-166.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/1b346078-fb87-441c-ae1b-19cfdfb7b876/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-02-18;166",
     "vinculos_fonte": [
@@ -750,6 +1149,48 @@
     ]
   },
   "br-federal-medida-provisoria-2004-03-04-170": {
+    "anexos_camara": [
+      {
+        "bytes": 26625,
+        "conversao": "soffice-html",
+        "html_sha256": "86c472eb057e16a0b2cd0ccddf95ba6e62019ff741e0eec76b6b59c275147b93",
+        "sha256": "96f3f621ec3dedd623a77ceca8ac205d21891ea71cf875be3007aca06eeb4e27",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-03-04-170.0.medidaprovisoria-170-4-marco-2004-531099-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-170-4-marco-2004-531099-anexoi-pe.doc"
+      },
+      {
+        "bytes": 32769,
+        "conversao": "soffice-html",
+        "html_sha256": "35a631093b26371f807c6987938e8d68450da5cfcb479753fd117f8707ac1555",
+        "sha256": "ea680b993aa953b4056a0b797fe84626436d914238964d00775154ff7156aa49",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-03-04-170.1.medidaprovisoria-170-4-marco-2004-531099-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-170-4-marco-2004-531099-anexoii-pe.doc"
+      },
+      {
+        "bytes": 68609,
+        "conversao": "soffice-html",
+        "html_sha256": "a82e4425f5e4923ee755a0495dbbc817f3d849c3253f50f392745e0cc1ab799e",
+        "sha256": "86ec3622610169def7897dddbb05c7e49bc2771032ecab4498d2b2edc4424796",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-03-04-170.2.medidaprovisoria-170-4-marco-2004-531099-anexoiii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-170-4-marco-2004-531099-anexoiii-pe.doc"
+      },
+      {
+        "bytes": 26625,
+        "conversao": "soffice-html",
+        "html_sha256": "3e0d3d87309ce361e7556b6b011abe26bc4dd4ecac9dee130763c222f19d63da",
+        "sha256": "444913eacfc24571f9c6eb4560523f9bdd10a3a73a0e25ce761c70c7e1700fa5",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-03-04-170.3.medidaprovisoria-170-4-marco-2004-531099-anexoiv-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-170-4-marco-2004-531099-anexoiv-pe.doc"
+      },
+      {
+        "bytes": 24577,
+        "conversao": "soffice-html",
+        "html_sha256": "89905bdc94bd2a0d2921cc535233a3c5adce16ddf813b7839412b7ff23068917",
+        "sha256": "4e025c9471e56b3993c168adf1ff221ec0c2c0a313e100efcb74315c9d270716",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-03-04-170.4.medidaprovisoria-170-4-marco-2004-531099-anexov-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-170-4-marco-2004-531099-anexov-pe.doc"
+      }
+    ],
     "bytes": 38918,
     "capturado_em": "2026-11-04T19:17:26Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-03-04-170.dados.json.xz",
@@ -761,9 +1202,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 170, de 04 de março de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-170-4-marco-2004-531099-norma-pe.html",
     "sha256_fonte": "90ed4bc7c3cec964cc889175ec36e098b5869bea8b43a86857b05f6b5d9cb1ee",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-03-04-170.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/ee9cf846-b106-4776-be36-68e1c23a5a47/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-03-04;170",
     "vinculos_fonte": [
@@ -775,6 +1217,16 @@
     ]
   },
   "br-federal-medida-provisoria-2004-04-07-180": {
+    "anexos_camara": [
+      {
+        "bytes": 73729,
+        "conversao": "soffice-html",
+        "html_sha256": "93df01093918c68cb10a85c05890fa0081847defd75836e2be5a8f4c134523c3",
+        "sha256": "7c8a9bb2c655b1b37c86c067ee36f1225bf8b27b2dd97e41b0d9172a0d2763ba",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-04-07-180.0.medidaprovisoria-180-7-abril-2004-531663-anexo-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-180-7-abril-2004-531663-anexo-pe.doc"
+      }
+    ],
     "bytes": 11907,
     "capturado_em": "2026-11-04T19:17:27Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-04-07-180.dados.json.xz",
@@ -786,9 +1238,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 180, de 07 de abril de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-180-7-abril-2004-531663-norma-pe.html",
     "sha256_fonte": "0e16b5505a42f832e359f81e90777912d9f19b7b1bbcb93baa22f6f20ed8a4ec",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-04-07-180.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/0928346b-97bc-4246-815a-aabddf4c619c/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-04-07;180",
     "vinculos_fonte": [
@@ -800,6 +1253,40 @@
     ]
   },
   "br-federal-medida-provisoria-2004-05-10-184": {
+    "anexos_camara": [
+      {
+        "bytes": 353281,
+        "conversao": "soffice-html",
+        "html_sha256": "b9b0d56c2239473525a76666fccaaf1420e75f161486a44f39c1579323a785d6",
+        "sha256": "9458046b14d74a304e5c170759595b9a8faa718d430bd7093e6d5f766105e17e",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-10-184.0.medidaprovisoria-184-10-maio-2004-532209-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-184-10-maio-2004-532209-anexoi-pe.doc"
+      },
+      {
+        "bytes": 196097,
+        "conversao": "soffice-html",
+        "html_sha256": "a68ce04b918e581c700f5eb0f4aec9ac3dd6a0216581a736a4fe3b02ba69b7cf",
+        "sha256": "3f0ed81077a2a86942b3267fe0b6b27051a63214779ed2ba12d02fc3b02038b5",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-10-184.1.medidaprovisoria-184-10-maio-2004-532209-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-184-10-maio-2004-532209-anexoii-pe.doc"
+      },
+      {
+        "bytes": 374785,
+        "conversao": "soffice-html",
+        "html_sha256": "77058a1a9f66b57e2eabd387933c7e48a2cd5cb79d215dc7b42bbeddebb8bfaa",
+        "sha256": "043d87e013458944ffa4ff8b82bfee81f8129e97446b0ae35d39740c7ab0244e",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-10-184.2.medidaprovisoria-184-10-maio-2004-532209-anexoiii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-184-10-maio-2004-532209-anexoiii-pe.doc"
+      },
+      {
+        "bytes": 71169,
+        "conversao": "soffice-html",
+        "html_sha256": "72acdc8b50435f31beefa7ad8ae58cf350a6334b6017e4009ce3b76297940c58",
+        "sha256": "8c38321fa7344f33923a095b34e21cd7a0492cca498bd9d77ea4c2e1f50a5837",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-10-184.3.medidaprovisoria-184-10-maio-2004-532209-anexoiv-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-184-10-maio-2004-532209-anexoiv-pe.doc"
+      }
+    ],
     "bytes": 15799,
     "capturado_em": "2026-11-04T19:17:27Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-05-10-184.dados.json.xz",
@@ -811,9 +1298,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 184, de 10 de maio de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-184-10-maio-2004-532209-norma-pe.html",
     "sha256_fonte": "f0f0ece15520258f6b6dd4cefb57f478b8288f6009171a43da0fb10f68cb192a",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-05-10-184.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/f7a7ccfe-9a4f-4e31-86cc-33ba5a16d7a1/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-05-10;184",
     "vinculos_fonte": [
@@ -825,6 +1313,16 @@
     ]
   },
   "br-federal-medida-provisoria-2004-05-13-187": {
+    "anexos_camara": [
+      {
+        "bytes": 26625,
+        "conversao": "soffice-html",
+        "html_sha256": "f63daa41fb093f53c0272175822c866a81ad96ffc53f9e7505f9d1b13c82a39c",
+        "sha256": "731feece6c8c49ba720f2c5d6be9d9f4e17d3e7c99a8facb55d90beaf70476bb",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-13-187.0.medidaprovisoria-187-13-maio-2004-532286-anexo-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-187-13-maio-2004-532286-anexo-pe.doc"
+      }
+    ],
     "bytes": 49970,
     "capturado_em": "2026-11-04T19:17:28Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-05-13-187.dados.json.xz",
@@ -836,9 +1334,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 187, de 13 de maio de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-187-13-maio-2004-532286-norma-pe.html",
     "sha256_fonte": "c2ed309d37a50301829740c6cb3f4f583c424d8c475d989ce5a57f9b940ed707",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-05-13-187.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/ba23d562-77dd-4545-aee6-ab0f7d7e62ce/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-05-13;187",
     "vinculos_fonte": [
@@ -850,6 +1349,16 @@
     ]
   },
   "br-federal-medida-provisoria-2004-05-18-188": {
+    "anexos_camara": [
+      {
+        "bytes": 84993,
+        "conversao": "soffice-html",
+        "html_sha256": "1e0b68ed1bef6e612a58ee5d33c09f64b8b862e48f93ced50d0f98df27a66988",
+        "sha256": "a7095b322e5427756adf77c9659ecdb38441acd22261b4123b85428b44437264",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-18-188.0.medidaprovisoria-188-18-maio-2004-532316-anexo-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-188-18-maio-2004-532316-anexo-pe.doc"
+      }
+    ],
     "bytes": 11911,
     "capturado_em": "2026-11-04T19:17:29Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-05-18-188.dados.json.xz",
@@ -861,9 +1370,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 188, de 18 de maio de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-188-18-maio-2004-532316-norma-pe.html",
     "sha256_fonte": "a78934b746c0174eec67a463030a18b358bb42e4dee91c33a211e6d759067eea",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-05-18-188.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/72a179e2-8f60-47ac-816b-7d341e736880/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-05-18;188",
     "vinculos_fonte": [
@@ -875,6 +1385,24 @@
     ]
   },
   "br-federal-medida-provisoria-2004-05-31-189": {
+    "anexos_camara": [
+      {
+        "bytes": 74241,
+        "conversao": "soffice-html",
+        "html_sha256": "a42e5af204c7cd80eb37256f095a4c7491ee765b62513f67377abeed75e20a71",
+        "sha256": "52db09182099cbc493a55ae82c8a59aa5e09c524cc6446c2effd3ed72f7a0150",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-31-189.0.medidaprovisoria-189-31-maio-2004-532507-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-189-31-maio-2004-532507-anexoi-pe.doc"
+      },
+      {
+        "bytes": 73729,
+        "conversao": "soffice-html",
+        "html_sha256": "575a396a41fa35f1f50a21b63d89dfe5dd1c33bcd850ed231674ce99ba390a2e",
+        "sha256": "a3ab2a9825d3e3f80a78c437da5ff7c1176c440f1e70d1743af2bcfe922c7381",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-05-31-189.1.medidaprovisoria-189-31-maio-2004-532507-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-189-31-maio-2004-532507-anexoii-pe.doc"
+      }
+    ],
     "bytes": 11808,
     "capturado_em": "2026-11-04T19:17:29Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-05-31-189.dados.json.xz",
@@ -886,9 +1414,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 189, de 31 de maio de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-189-31-maio-2004-532507-norma-pe.html",
     "sha256_fonte": "28bec4b92dfecbb2f007a140d1089dd9ca410ebee258f384c30f688999834937",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-05-31-189.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/63ad805c-ff6b-4cbb-833a-8154ca9ce44f/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-05-31;189",
     "vinculos_fonte": [
@@ -900,6 +1429,16 @@
     ]
   },
   "br-federal-medida-provisoria-2004-06-24-193": {
+    "anexos_camara": [
+      {
+        "bytes": 26625,
+        "conversao": "soffice-html",
+        "html_sha256": "55462c70308f3782668e4b5f7e8f8234234720c08ef3bef981ad8d182d3e0a9d",
+        "sha256": "3654fc4b9086803aa2a1964b80fa5062913998195d4f77c7720df33ae77a6fc2",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-06-24-193.0.medidaprovisoria-193-24-junho-2004-532737-anexo-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-193-24-junho-2004-532737-anexo-pe.doc"
+      }
+    ],
     "bytes": 30381,
     "capturado_em": "2026-11-04T19:17:30Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-06-24-193.dados.json.xz",
@@ -911,9 +1450,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 193, de 24 de junho de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-193-24-junho-2004-532737-norma-pe.html",
     "sha256_fonte": "0497451cb9313968166b53f968cd64245d5f460d115050b54d59c9916722aac2",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-06-24-193.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/4a4f6e6f-fc75-431e-8a48-2f477043de3d/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-06-24;193",
     "vinculos_fonte": [
@@ -925,6 +1465,24 @@
     ]
   },
   "br-federal-medida-provisoria-2004-06-28-194": {
+    "anexos_camara": [
+      {
+        "bytes": 76289,
+        "conversao": "soffice-html",
+        "html_sha256": "50d59740c9b70f37d39631d866cc991105d6e59005fd0e0489ef354f9485ef58",
+        "sha256": "f86b28c85022a62dcea94be54890cb7b9ec54516a1b040fed50a0a8bfbd7c5dc",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-06-28-194.0.medidaprovisoria-194-28-junho-2004-532812-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-194-28-junho-2004-532812-anexoi-pe.doc"
+      },
+      {
+        "bytes": 74241,
+        "conversao": "soffice-html",
+        "html_sha256": "2a9399d2eb354a8a799148ee052cc9d100278f47200c8e1413eca9f4b1d82560",
+        "sha256": "ce8694308fa86f7e6b8c717ba1ef1950a64bbd5615bdb93940d9bb07e36a07db",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-06-28-194.1.medidaprovisoria-194-28-junho-2004-532812-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-194-28-junho-2004-532812-anexoii-pe.doc"
+      }
+    ],
     "bytes": 9687,
     "capturado_em": "2026-11-04T19:17:31Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-06-28-194.dados.json.xz",
@@ -936,9 +1494,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 194, de 28 de junho de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-194-28-junho-2004-532812-norma-pe.html",
     "sha256_fonte": "4c80bdbe95f4715dc47ca190089d43c3297e44f76c1ad135574d07a594c04e8e",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-06-28-194.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/c69425a8-ddfb-41d2-ae15-8be39bf53bd8/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-06-28;194",
     "vinculos_fonte": [
@@ -950,6 +1509,24 @@
     ]
   },
   "br-federal-medida-provisoria-2004-07-02-196": {
+    "anexos_camara": [
+      {
+        "bytes": 283137,
+        "conversao": "soffice-html",
+        "html_sha256": "e6687bdd28494c52706d64afc74b6b5e9187edf5be1c0d6827f3096963078908",
+        "sha256": "6a142180747e60a5da474722ad5389953bfb19f25a59951b09c21b676501cadf",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-02-196.0.medidaprovisoria-196-2-julho-2004-532858-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-196-2-julho-2004-532858-anexoi-pe.doc"
+      },
+      {
+        "bytes": 129025,
+        "conversao": "soffice-html",
+        "html_sha256": "eba22a92fe1f0097a3a4cd94c8a8063ca8f756a5c723e1644dcfe73e7815ed80",
+        "sha256": "7b48f23450102399f96e3ebb0789f67ed1cf31acaa1c4c4ada4710e849636ecf",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-02-196.1.medidaprovisoria-196-2-julho-2004-532858-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-196-2-julho-2004-532858-anexoii-pe.doc"
+      }
+    ],
     "bytes": 12087,
     "capturado_em": "2026-11-04T19:17:31Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-07-02-196.dados.json.xz",
@@ -961,9 +1538,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 196, de 02 de julho de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-196-2-julho-2004-532858-norma-pe.html",
     "sha256_fonte": "c4e9713bd947c20e453b8b10ff2217e1e4f7ba0bb10a6f8d0a5ee40b78879bf1",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-07-02-196.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/ad15bc6f-886f-4d14-834e-81f6f679638f/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-07-02;196",
     "vinculos_fonte": [
@@ -975,6 +1553,40 @@
     ]
   },
   "br-federal-medida-provisoria-2004-07-15-198": {
+    "anexos_camara": [
+      {
+        "bytes": 23553,
+        "conversao": "soffice-html",
+        "html_sha256": "417865d002f6b2435e7e7658a0a3d66fbe58d9a8541e2bd1654684607e2bf31d",
+        "sha256": "1e38ea49a68dcc5c283463acf0e1de767fdbabe82b872787a90e9ed3764490af",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-15-198.0.medidaprovisoria-198-15-julho-2004-533058-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-198-15-julho-2004-533058-anexoi-pe.doc"
+      },
+      {
+        "bytes": 26113,
+        "conversao": "soffice-html",
+        "html_sha256": "7b4b8d8ab9ecc18da9ee986c66ba4c148afd8b95299cb737344aedcc7b0ffed4",
+        "sha256": "10cad20e1e3898cca21821292721c90ead6a1f023f236f413b92c56171dec685",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-15-198.1.medidaprovisoria-198-15-julho-2004-533058-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-198-15-julho-2004-533058-anexoii-pe.doc"
+      },
+      {
+        "bytes": 27649,
+        "conversao": "soffice-html",
+        "html_sha256": "16e6ca4381cf34592d8e6e639da64e3b28009255bdb6effb6559611655b17731",
+        "sha256": "3bcb1dda24b0a811fdefe2ce073765d8440d2e48877c4d2c782b5a2503cfd752",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-15-198.2.medidaprovisoria-198-15-julho-2004-533058-anexoiii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-198-15-julho-2004-533058-anexoiii-pe.doc"
+      },
+      {
+        "bytes": 24577,
+        "conversao": "soffice-html",
+        "html_sha256": "8c42a786d3084a3a6441e8808cedebf98287c0c9525ad3d279a35bd8f914b7cf",
+        "sha256": "9a0e68e23d97cf7206172e15e3c976ed0e888e8ce49034b2763d981cc747636b",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-15-198.3.medidaprovisoria-198-15-julho-2004-533058-anexoiv-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-198-15-julho-2004-533058-anexoiv-pe.doc"
+      }
+    ],
     "bytes": 32466,
     "capturado_em": "2026-11-04T19:17:32Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-07-15-198.dados.json.xz",
@@ -986,9 +1598,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 198, de 15 de julho de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-198-15-julho-2004-533058-norma-pe.html",
     "sha256_fonte": "3f9b6b2743d4d7bfc042d0f87e543e2a26427594b6ae36dbdd160bfcb352e2bb",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-07-15-198.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/22a0642d-961a-41b6-bd09-9349f4570706/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-07-15;198",
     "vinculos_fonte": [
@@ -1025,6 +1638,24 @@
     ]
   },
   "br-federal-medida-provisoria-2004-07-23-201": {
+    "anexos_camara": [
+      {
+        "bytes": 29697,
+        "conversao": "soffice-html",
+        "html_sha256": "c82a90c1a34035db688c14b795259d031685014e996c5f26b9cbd61dbb08cbef",
+        "sha256": "7012a73d599b91390718ad65de9e721e3f97a87f201601cc311793b9733b73d7",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-23-201.0.medidaprovisoria-201-23-julho-2004-533118-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-201-23-julho-2004-533118-anexoi-pe.doc"
+      },
+      {
+        "bytes": 30209,
+        "conversao": "soffice-html",
+        "html_sha256": "c40a24053be8574e0c4c8e1371a4c8e11661a518e4c36cb8fb447bf6a4409716",
+        "sha256": "b0dae5cf48d1ace6364eb3065bc5bfee63e94e1aefe02e4e0f9402fafc9f6614",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-07-23-201.1.medidaprovisoria-201-23-julho-2004-533118-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-201-23-julho-2004-533118-anexoii-pe.doc"
+      }
+    ],
     "bytes": 57703,
     "capturado_em": "2026-11-04T19:17:34Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-07-23-201.dados.json.xz",
@@ -1036,9 +1667,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 201, de 23 de julho de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-201-23-julho-2004-533118-norma-pe.html",
     "sha256_fonte": "349357d9a22dfd72047646487ddb5fa827e3e1020f01230e5dd448b3390aca52",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-07-23-201.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/357a7c8a-a26e-4c22-be9e-da63c79b43e2/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-07-23;201",
     "vinculos_fonte": [
@@ -1050,6 +1682,16 @@
     ]
   },
   "br-federal-medida-provisoria-2004-08-20-208": {
+    "anexos_camara": [
+      {
+        "bytes": 27137,
+        "conversao": "soffice-html",
+        "html_sha256": "7f77b390ebbcd6d6de737ebffc50fa0f4cabbdd32f0a92cb969a6f70c6171014",
+        "sha256": "5a69df198459b7295a211e02895228a37232c58881aacb8a584283036e360bbf",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-08-20-208.0.medidaprovisoria-208-20-agosto-2004-533723-anexo-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-208-20-agosto-2004-533723-anexo-pe.doc"
+      }
+    ],
     "bytes": 19358,
     "capturado_em": "2026-11-04T19:17:35Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-08-20-208.dados.json.xz",
@@ -1061,9 +1703,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 208, de 20 de agosto de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-208-20-agosto-2004-533723-norma-pe.html",
     "sha256_fonte": "d684463e3f9a300d3000ecee9d82b8b51dc9d09cac9f0bb32eab110bbd04ef98",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-08-20-208.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/8ae37705-1c56-4c44-a85f-75a0703b206d/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-08-20;208",
     "vinculos_fonte": [
@@ -1075,6 +1718,48 @@
     ]
   },
   "br-federal-medida-provisoria-2004-08-31-210": {
+    "anexos_camara": [
+      {
+        "bytes": 25089,
+        "conversao": "soffice-html",
+        "html_sha256": "a66f7aec720c911aeadfb9b7252b1a3369c1a7ad772956b5dad733a420e900b3",
+        "sha256": "9923c4ef7a8ac597d8c283f0976f98d040918c1322e5ea65182a237cfcbfe840",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-08-31-210.0.medidaprovisoria-210-31-agosto-2004-533941-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-210-31-agosto-2004-533941-anexoi-pe.doc"
+      },
+      {
+        "bytes": 21505,
+        "conversao": "soffice-html",
+        "html_sha256": "1be0c0e6e1624a1121913f47392d090c25ff27660b50bc4b71ed3eaad2c8a429",
+        "sha256": "eddae8a499586f845746ce51b09b06c8d924ef835940ce62ddd45a68dfea0185",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-08-31-210.1.medidaprovisoria-210-31-agosto-2004-533941-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-210-31-agosto-2004-533941-anexoii-pe.doc"
+      },
+      {
+        "bytes": 29697,
+        "conversao": "soffice-html",
+        "html_sha256": "f647c29af793528d59cb6f9f732a0d7d6422a1fe4b534cedb71745ce433c1a77",
+        "sha256": "13810b2aeb0d0f05a8f8dba3a482714b55df5aab28d58e4a55541ebc85c6f27c",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-08-31-210.2.medidaprovisoria-210-31-agosto-2004-533941-anexoiii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-210-31-agosto-2004-533941-anexoiii-pe.doc"
+      },
+      {
+        "bytes": 22017,
+        "conversao": "soffice-html",
+        "html_sha256": "5f14ea787c07681f5bde2b670ff4b57f20b51d70c0ee7eeb1237e4634aa05a16",
+        "sha256": "6069e6754d46cba1db8e80f209bda1905264fd409c3a2d26a2775b70b8ab943c",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-08-31-210.3.medidaprovisoria-210-31-agosto-2004-533941-anexoiv-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-210-31-agosto-2004-533941-anexoiv-pe.doc"
+      },
+      {
+        "bytes": 31745,
+        "conversao": "soffice-html",
+        "html_sha256": "487c25d51fa93f25bf1a713dabb36d9a794c2dc3fb8459896e7a9e5fd2398aeb",
+        "sha256": "0a727f02273b7ba9bcfbe1003a5d8fa6589ff596d26183ee0702fd73e5f7061f",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-08-31-210.4.medidaprovisoria-210-31-agosto-2004-533941-anexov-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-210-31-agosto-2004-533941-anexov-pe.doc"
+      }
+    ],
     "bytes": 90722,
     "capturado_em": "2026-11-04T19:17:36Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-08-31-210.dados.json.xz",
@@ -1086,9 +1771,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 210, de 31 de agosto de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-210-31-agosto-2004-533941-norma-pe.html",
     "sha256_fonte": "d5b1dd0e1ee49f125462d108b9d9e46ac6c9eede3c6ec57ff67163295c9f56a6",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-08-31-210.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/a1abed70-227c-4f4d-9d8b-81d169f92472/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-08-31;210",
     "vinculos_fonte": [
@@ -1100,6 +1786,56 @@
     ]
   },
   "br-federal-medida-provisoria-2004-09-09-212": {
+    "anexos_camara": [
+      {
+        "bytes": 25601,
+        "conversao": "soffice-html",
+        "html_sha256": "f9827048d785040476ccc222235a34b2ea36bd479f2e73604a0b7f8b803780be",
+        "sha256": "d2da7b38e42b68b6d9be5482cb940d86f320feb14e84e2c5e9f5d426d9f12465",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-09-212.0.medidaprovisoria-212-9-setembro-2004-534028-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-212-9-setembro-2004-534028-anexoi-pe.doc"
+      },
+      {
+        "bytes": 27649,
+        "conversao": "soffice-html",
+        "html_sha256": "0b8c47dc5767706b8ea6f5f5a3154e8a7893280a425c3f7f95231ab27f0aa53c",
+        "sha256": "a17cdc3cf758205a25a2a26ed98cca016de7019ef20d69fdbe732ebd45d6754f",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-09-212.1.medidaprovisoria-212-9-setembro-2004-534028-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-212-9-setembro-2004-534028-anexoii-pe.doc"
+      },
+      {
+        "bytes": 26113,
+        "conversao": "soffice-html",
+        "html_sha256": "c33fc06a7628c536c26f3bcf876217282844bec0c6bb71b16632ef2d1c896a1e",
+        "sha256": "1f032a3210da1382a96e343926a677208afe8725ca48084e0589576650955537",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-09-212.2.medidaprovisoria-212-9-setembro-2004-534028-anexoiii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-212-9-setembro-2004-534028-anexoiii-pe.doc"
+      },
+      {
+        "bytes": 32769,
+        "conversao": "soffice-html",
+        "html_sha256": "d27947ae17a2d2c69511cfc66540cdce59447cd0d4661b6d5c68365a31ba6d84",
+        "sha256": "3bd784f6526cda1ca4d1a9bead142c2661cc58f72cd0e2c1c899ee166bc3107e",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-09-212.3.medidaprovisoria-212-9-setembro-2004-534028-anexoiv-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-212-9-setembro-2004-534028-anexoiv-pe.doc"
+      },
+      {
+        "bytes": 30721,
+        "conversao": "soffice-html",
+        "html_sha256": "7a2680a799d0fe39b86168f0056411af14b6099dba302351f047a07c71f36c1d",
+        "sha256": "0c13e83549dc1cb4618c5bc77a94c48cc5a9e6400d43bdd622ec30325dfef386",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-09-212.4.medidaprovisoria-212-9-setembro-2004-534028-anexov-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-212-9-setembro-2004-534028-anexov-pe.doc"
+      },
+      {
+        "bytes": 23553,
+        "conversao": "soffice-html",
+        "html_sha256": "928ff3da3cf714c3dc6c3a456235ac7c360996d972aaf9e14345365ef982796b",
+        "sha256": "f495580e9373c4fee59aa2e57887beb3f05aa80b1de31b12fb431cba8c02e185",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-09-212.5.medidaprovisoria-212-9-setembro-2004-534028-anexovi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-212-9-setembro-2004-534028-anexovi-pe.doc"
+      }
+    ],
     "bytes": 68584,
     "capturado_em": "2026-11-04T19:17:36Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-09-09-212.dados.json.xz",
@@ -1111,9 +1847,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 212, de 09 de setembro de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-212-9-setembro-2004-534028-norma-pe.html",
     "sha256_fonte": "40459b742412a92557c175d0bee9090980a3b71fec074c06b872a605149b52b5",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-09-09-212.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/7a33bf9e-d38f-4fa1-b8b8-54dcd03ca3e5/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-09-09;212",
     "vinculos_fonte": [
@@ -1150,6 +1887,104 @@
     ]
   },
   "br-federal-medida-provisoria-2004-09-23-216": {
+    "anexos_camara": [
+      {
+        "bytes": 26625,
+        "conversao": "soffice-html",
+        "html_sha256": "f9b71712be63aa7f72865ca38367d59e543eda5350c91f147ec058ddadc77848",
+        "sha256": "2d02b863641958634db15f4169ec7d6797f3ee0bd9c17c4ab02e3a50e0800dd7",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.0.medidaprovisoria-216-23-setembro-2004-534156-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexoi-pe.doc"
+      },
+      {
+        "bytes": 28673,
+        "conversao": "soffice-html",
+        "html_sha256": "23dcd5f8c9ca53488b1cd79af825209550788332d9a9ce3d14b598c99157fd2d",
+        "sha256": "47054062cedc6fb45821a4aefa5c85495152a28a0b5c909d87cfb0e3c18dad0b",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.1.medidaprovisoria-216-23-setembro-2004-534156-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexoii-pe.doc"
+      },
+      {
+        "bytes": 33281,
+        "conversao": "soffice-html",
+        "html_sha256": "8da0400cf2e056708d2cabb858aee50e7dee33183c3ccff37478f53c9881cd7a",
+        "sha256": "67064b1977deb375fef16aae7494774c708129ff07ea495e09a376e04d58209b",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.2.medidaprovisoria-216-23-setembro-2004-534156-anexoiii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexoiii-pe.doc"
+      },
+      {
+        "bytes": 26113,
+        "conversao": "soffice-html",
+        "html_sha256": "f99592841c83e61b3887be4322c2bb10730a8557758242faa0d2fca98e01643c",
+        "sha256": "15709c99bdbc852971793719a97d68a964323bd44d5bcdf91c4e1016b09e99a5",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.3.medidaprovisoria-216-23-setembro-2004-534156-anexoiv-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexoiv-pe.doc"
+      },
+      {
+        "bytes": 26113,
+        "conversao": "soffice-html",
+        "html_sha256": "a31843ccd85c4bb801ae372f49d10c84caacb100956360d96cc319f45dcbd128",
+        "sha256": "4f1e4d39117b3608653b890f7ff8e34a7c8f4f41fa44d96535f4c5210304b593",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.4.medidaprovisoria-216-23-setembro-2004-534156-anexoix-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexoix-pe.doc"
+      },
+      {
+        "bytes": 24577,
+        "conversao": "soffice-html",
+        "html_sha256": "3b7fd5103d06691a777cbde01c06bd1d6a87566ee50bf92373a9dfa9ee6444b7",
+        "sha256": "d75299a383619bb2848b77d95f64cf4e34ed60c9185746f8d79c62ad5146ca6e",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.5.medidaprovisoria-216-23-setembro-2004-534156-anexov-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexov-pe.doc"
+      },
+      {
+        "bytes": 24065,
+        "conversao": "soffice-html",
+        "html_sha256": "0462a6f8da587e48b31341d486f4dc273cb839a9c66d413b018275185c62501f",
+        "sha256": "812d684ba07df75b834bd37e61b85be0c9a2be94985b46b0fe338b529cc6e2d3",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.6.medidaprovisoria-216-23-setembro-2004-534156-anexovi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexovi-pe.doc"
+      },
+      {
+        "bytes": 25601,
+        "conversao": "soffice-html",
+        "html_sha256": "e5061f58754dd2e890b1609de87b1164ad8dd3858d8b8845c22a018d433908cd",
+        "sha256": "8788402087fda68322f50b61bbbb9212db278700b8dae67a4c66a332306e0347",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.7.medidaprovisoria-216-23-setembro-2004-534156-anexovii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexovii-pe.doc"
+      },
+      {
+        "bytes": 34305,
+        "conversao": "soffice-html",
+        "html_sha256": "accca864eccbf476144bfc07eed701131d81cac63a1050dff4a7b4bab0e8cd50",
+        "sha256": "9187957e43d1c83e4bfa810a1a6d86659e6d7abd3f50f93fbe704952e55e77df",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.8.medidaprovisoria-216-23-setembro-2004-534156-anexoviii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexoviii-pe.doc"
+      },
+      {
+        "bytes": 23553,
+        "conversao": "soffice-html",
+        "html_sha256": "71c04cf41e64999974a622dbc6b9c41bfeadcd39da0b3fe745ab8e6a447e8868",
+        "sha256": "c2a2f2d27fff52b33dc893bdb738c0aba26deab8922713d762cae13ba0f36b67",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.9.medidaprovisoria-216-23-setembro-2004-534156-anexox-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexox-pe.doc"
+      },
+      {
+        "bytes": 27137,
+        "conversao": "soffice-html",
+        "html_sha256": "f79e9caba983f4151809bd292840b2c9a2c4b11c3292ddd45c888a86db5255be",
+        "sha256": "5cd5ae2dc0d2e85416cc20318faf213a1fd0e5650dc1dc8d048626e5f7dd6908",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.10.medidaprovisoria-216-23-setembro-2004-534156-anexoxi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexoxi-pe.doc"
+      },
+      {
+        "bytes": 23553,
+        "conversao": "soffice-html",
+        "html_sha256": "66ccc47c9ff1c5620798ec55e899c3844273aec1b8aa8f4850599c56fc553b4c",
+        "sha256": "f8ae31c32b0ec2b3b49f2f2e0e1879381b82e5f81fdff581ec9c24e3f8be154e",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-09-23-216.11.medidaprovisoria-216-23-setembro-2004-534156-anexoxii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-anexoxii-pe.doc"
+      }
+    ],
     "bytes": 119202,
     "capturado_em": "2026-11-04T19:17:38Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-09-23-216.dados.json.xz",
@@ -1161,9 +1996,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 216, de 23 de setembro de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-216-23-setembro-2004-534156-norma-pe.html",
     "sha256_fonte": "ef115264b5df0997b5df14add036b2ab0fa2cdce0b535c686facaeaf167f7884",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-09-23-216.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/eec0b9ed-7732-4db2-a501-6b2f84ced7ad/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-09-23;216",
     "vinculos_fonte": [
@@ -1200,6 +2036,24 @@
     ]
   },
   "br-federal-medida-provisoria-2004-10-01-221": {
+    "anexos_camara": [
+      {
+        "bytes": 25089,
+        "conversao": "soffice-html",
+        "html_sha256": "f762cc2604022c4c41191fa0136d046cfe4d1666d3a513b0d3b72afd0c88ffaa",
+        "sha256": "8dda2dcc8af0bc8fb815485494a68ae8bd9178180b5139ac6c7b806aac799b1d",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-10-01-221.0.medidaprovisoria-221-1-outubro-2004-534238-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-221-1-outubro-2004-534238-anexoi-pe.doc"
+      },
+      {
+        "bytes": 24577,
+        "conversao": "soffice-html",
+        "html_sha256": "0be5ca61bac8131e59445a659e1b2aa240a780b7238b45f29b4e479ed0f614fb",
+        "sha256": "8cf7aa6046aa1020511cdc7277732d22c3a9c7d4ed2e18eb3dd20ee0241aff6a",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-10-01-221.1.medidaprovisoria-221-1-outubro-2004-534238-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-221-1-outubro-2004-534238-anexoii-pe.doc"
+      }
+    ],
     "bytes": 37255,
     "capturado_em": "2026-11-04T19:17:39Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-10-01-221.dados.json.xz",
@@ -1211,9 +2065,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 221, de 01 de outubro de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-221-1-outubro-2004-534238-norma-pe.html",
     "sha256_fonte": "727606618c20f904875bf5a68223fad640d12eea4863d18180a36c30b1b81639",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-10-01-221.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/9e65ea70-cbe7-43c3-8b04-c97b115e4411/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-10-01;221",
     "vinculos_fonte": [
@@ -1225,6 +2080,16 @@
     ]
   },
   "br-federal-medida-provisoria-2004-10-04-222": {
+    "anexos_camara": [
+      {
+        "bytes": 25089,
+        "conversao": "soffice-html",
+        "html_sha256": "4e9079c3d79e3b2884f90f430e83e7243b806453406cfa0a4e9701279b8f871b",
+        "sha256": "06ee44511a02ec734d5c8b146d1ebf682a1a5a100d0f87b6650d9bc564a851ca",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2004-10-04-222.0.medidaprovisoria-222-4-outubro-2004-534252-anexo-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-222-4-outubro-2004-534252-anexo-pe.doc"
+      }
+    ],
     "bytes": 35596,
     "capturado_em": "2026-11-04T19:17:40Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-10-04-222.dados.json.xz",
@@ -1236,9 +2101,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 222, de 04 de outubro de 2004",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2004/medidaprovisoria-222-4-outubro-2004-534252-norma-pe.html",
     "sha256_fonte": "7e3319121b342b52efe3920223866860e5ddb038a0a38d1043310e29405e4359",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2004-10-04-222.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/88dd1603-5b5b-45f8-b797-75620485a2c4/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2004-10-04;222",
     "vinculos_fonte": [
@@ -1450,6 +2316,24 @@
     ]
   },
   "br-federal-medida-provisoria-2005-03-03-241": {
+    "anexos_camara": [
+      {
+        "bytes": 193537,
+        "conversao": "soffice-html",
+        "html_sha256": "ff1c6e36b8c8f54dfa0db7b73de9344206d6624a69d7aef2b0c1ba8705fc0317",
+        "sha256": "f660e21e9270883218689d586889866cb26998f4196d22326c3f5e2ba288fb3a",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-03-03-241.0.medidaprovisoria-241-3-marco-2005-536013-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-241-3-marco-2005-536013-anexoi-pe.doc"
+      },
+      {
+        "bytes": 144385,
+        "conversao": "soffice-html",
+        "html_sha256": "3279cf034753847f2a43960a86626870dd6e2b5fe3201c2b4b4b05168f1d1aba",
+        "sha256": "bbf0263600d61a37763447c36232c6e7aa0573677d6e886a6d7b4f17008daddf",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-03-03-241.1.medidaprovisoria-241-3-marco-2005-536013-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-241-3-marco-2005-536013-anexoii-pe.doc"
+      }
+    ],
     "bytes": 5652,
     "capturado_em": "2026-11-04T19:17:47Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-03-03-241.dados.json.xz",
@@ -1461,9 +2345,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 241, de 03 de março de 2005",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-241-3-marco-2005-536013-norma-pe.html",
     "sha256_fonte": "82d1ccbdd0169176c5fead801fb33fc4360285b8b67a6c697f0374ab3281e0ce",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-03-03-241.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/0e34d1a2-0ca9-473c-a6ca-4b119cbbe4ff/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2005-03-03;241",
     "vinculos_fonte": [
@@ -1525,6 +2410,24 @@
     ]
   },
   "br-federal-medida-provisoria-2005-04-15-247": {
+    "anexos_camara": [
+      {
+        "bytes": 407553,
+        "conversao": "soffice-html",
+        "html_sha256": "7c1d4bb594f430411e5bcd3cf2b5b4d242d679c0481bb771471bc4dcd8965406",
+        "sha256": "2c4eae9ed6fce08d9ba5050683b9404da486cc4a4af2eb07ab6bb971d9e0b52e",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-04-15-247.0.medidaprovisoria-247-15-abril-2005-536573-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-247-15-abril-2005-536573-anexoi-pe.doc"
+      },
+      {
+        "bytes": 69121,
+        "conversao": "soffice-html",
+        "html_sha256": "b0f12331f0621c9dbc61a61cb746e8f5a475bc4cee7c207671840cb83471e319",
+        "sha256": "d1c452e3de495bbb5caa7dffe26f2df0cf6188d57befd21e73c22fb5624e38c9",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-04-15-247.1.medidaprovisoria-247-15-abril-2005-536573-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-247-15-abril-2005-536573-anexoii-pe.doc"
+      }
+    ],
     "bytes": 7887,
     "capturado_em": "2026-11-04T19:17:49Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-04-15-247.dados.json.xz",
@@ -1536,9 +2439,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 247, de 15 de abril de 2005",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-247-15-abril-2005-536573-norma-pe.html",
     "sha256_fonte": "1117636df700e2bc7ed3dfbff6ddd7ab79e975a27eff37b3f9cd6546cba47ba9",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-04-15-247.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/10f1bc6d-2b5f-4258-8b44-d40aea10a6c4/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2005-04-15;247",
     "vinculos_fonte": [
@@ -1550,6 +2454,24 @@
     ]
   },
   "br-federal-medida-provisoria-2005-07-21-256": {
+    "anexos_camara": [
+      {
+        "bytes": 290305,
+        "conversao": "soffice-html",
+        "html_sha256": "0355012a58524bd069d1ba4dd3deddeb882e0c52572bf8d3c9f61f95fcd5636c",
+        "sha256": "dc7914035b1cc66b3a0e5ae67b0176ca1b1fb0b8a77d37350280c10437682850",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-07-21-256.0.medidaprovisoria-256-21-julho-2005-537882-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-256-21-julho-2005-537882-anexoi-pe.doc"
+      },
+      {
+        "bytes": 229377,
+        "conversao": "soffice-html",
+        "html_sha256": "061fe9fee21ffe865a734f8063c0d3aada241f5c2604a3ef262f5860a0020bf2",
+        "sha256": "759b706c5c4cf2850eb4f06340f2699209cef7cd74f7154eba2c3b17c0d19efc",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-07-21-256.1.medidaprovisoria-256-21-julho-2005-537882-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-256-21-julho-2005-537882-anexoii-pe.doc"
+      }
+    ],
     "bytes": 6590,
     "capturado_em": "2026-11-04T19:17:50Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-07-21-256.dados.json.xz",
@@ -1561,9 +2483,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 256, de 21 de julho de 2005",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-256-21-julho-2005-537882-norma-pe.html",
     "sha256_fonte": "ab85d6805d7afab3d14df5cf158b516cd4fb1e3a00ab86f9c8a02cd1998f5313",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-07-21-256.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/04972625-5967-4b90-9221-8ebd6ebb4d77/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2005-07-21;256",
     "vinculos_fonte": [
@@ -1575,6 +2498,24 @@
     ]
   },
   "br-federal-medida-provisoria-2005-07-21-257": {
+    "anexos_camara": [
+      {
+        "bytes": 205825,
+        "conversao": "soffice-html",
+        "html_sha256": "f9197c0d4794e051e79f3c10a14177ec56f02d59684bda9344941a75ceecaf8a",
+        "sha256": "5615a6ac58aea405c61047a14233cdfd21519c1828fefe5b5a51755bb94732a5",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-07-21-257.0.medidaprovisoria-257-21-julho-2005-537883-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-257-21-julho-2005-537883-anexoi-pe.doc"
+      },
+      {
+        "bytes": 88577,
+        "conversao": "soffice-html",
+        "html_sha256": "fa5e7b98ca6bfede2e260102c1a1ae2bfd2c9a0677364429303b07edd7545abc",
+        "sha256": "bfbf359fa185029a035d122b9c23054f8b3c2cf346b6f72a09181e19fd2eb79e",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-07-21-257.1.medidaprovisoria-257-21-julho-2005-537883-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-257-21-julho-2005-537883-anexoii-pe.doc"
+      }
+    ],
     "bytes": 7263,
     "capturado_em": "2026-11-04T19:17:51Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-07-21-257.dados.json.xz",
@@ -1586,9 +2527,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 257, de 21 de julho de 2005",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-257-21-julho-2005-537883-norma-pe.html",
     "sha256_fonte": "5a85da1e68d4b9fe92eea9d8cc80d69f0f87ae97cac8167dab949f6dba011abb",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-07-21-257.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/d320e6cd-0a1f-4037-b5bf-15210768d6b9/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2005-07-21;257",
     "vinculos_fonte": [
@@ -1650,6 +2592,24 @@
     ]
   },
   "br-federal-medida-provisoria-2005-09-30-261": {
+    "anexos_camara": [
+      {
+        "bytes": 210433,
+        "conversao": "soffice-html",
+        "html_sha256": "512db5b79d635e2bc5e77ea4f92b47737937081f2ea85a5cb018077dd0830313",
+        "sha256": "fd1449ad715d899ae4c568fcd119ab63da3840c00064ccdcc91b8a478acb28b7",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-09-30-261.0.medidaprovisoria-261-30-setembro-2005-538687-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-261-30-setembro-2005-538687-anexoi-pe.doc"
+      },
+      {
+        "bytes": 156673,
+        "conversao": "soffice-html",
+        "html_sha256": "a35e93b1c1fcd1c66d65e89218ca5554b6c7657b9670c7d9eebb73b894a2d601",
+        "sha256": "e4ccd509863471cdefa8b142ea3c5f32bae847bbd65312eed3e413954081a810",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-09-30-261.1.medidaprovisoria-261-30-setembro-2005-538687-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-261-30-setembro-2005-538687-anexoii-pe.doc"
+      }
+    ],
     "bytes": 7402,
     "capturado_em": "2026-11-04T19:17:53Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-09-30-261.dados.json.xz",
@@ -1661,9 +2621,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 261, de 30 de setembro de 2005",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-261-30-setembro-2005-538687-norma-pe.html",
     "sha256_fonte": "9d33f61e48619a65bc102318b83736426135dd96d76eebae65c0b8fb7549ada2",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-09-30-261.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/a0e34998-3bbd-41cf-be13-a67b29bbaeb9/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2005-09-30;261",
     "vinculos_fonte": [
@@ -1675,6 +2636,16 @@
     ]
   },
   "br-federal-medida-provisoria-2005-10-18-262": {
+    "anexos_camara": [
+      {
+        "bytes": 73729,
+        "conversao": "soffice-html",
+        "html_sha256": "6340a7a76db2fd7704c1ac280b542da976722c722094c12cf75cef85f6af2d3e",
+        "sha256": "734ec033aae0981e064a9997d5be52cb313399bb03ea80e48d4c799a8207714e",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-10-18-262.0.medidaprovisoria-262-18-outubro-2005-538932-anexo-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-262-18-outubro-2005-538932-anexo-pe.doc"
+      }
+    ],
     "bytes": 6307,
     "capturado_em": "2026-11-04T19:17:54Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-10-18-262.dados.json.xz",
@@ -1686,9 +2657,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 262, de 18 de outubro de 2005",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-262-18-outubro-2005-538932-norma-pe.html",
     "sha256_fonte": "29c321f941e521cf0d3c49a394ef2b81a4bb32e9d244dc6ba6bdd2a08272c694",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-10-18-262.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/4f493efd-db52-47f2-91cc-675164bc9ab2/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2005-10-18;262",
     "vinculos_fonte": [
@@ -1700,6 +2672,16 @@
     ]
   },
   "br-federal-medida-provisoria-2005-10-20-263": {
+    "anexos_camara": [
+      {
+        "bytes": 28673,
+        "conversao": "soffice-html",
+        "html_sha256": "85f403392338f62dd52f5807dfae60e91e2306e01cddb5dd25005b5a95a2af40",
+        "sha256": "2936866e01c7e0d697f7b074a8e1b843ac5b5ef25ae4c97f248a703e23a10868",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-10-20-263.0.medidaprovisoria-263-20-outubro-2005-539011-anexo-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-263-20-outubro-2005-539011-anexo-pe.doc"
+      }
+    ],
     "bytes": 5324,
     "capturado_em": "2026-11-04T19:17:55Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-10-20-263.dados.json.xz",
@@ -1711,9 +2693,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 263, de 20 de outubro de 2005",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-263-20-outubro-2005-539011-norma-pe.html",
     "sha256_fonte": "79a66b2da3935282a96739fa12d3c440fed167b39f444c892fb232f6f846bd66",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-10-20-263.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/f68cd640-6d3d-4a97-ae9c-f0edf5527142/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2005-10-20;263",
     "vinculos_fonte": [
@@ -1725,6 +2708,16 @@
     ]
   },
   "br-federal-medida-provisoria-2005-10-26-264": {
+    "anexos_camara": [
+      {
+        "bytes": 135681,
+        "conversao": "soffice-html",
+        "html_sha256": "3037e68ae825d51b45a3ed20ee2f294caa07bf930ddced0c7dbc84a8b4db9436",
+        "sha256": "f228315ef9ccfbddaba5cba085c5c1d15137ea13000de8ac56ad1416205e0d7f",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-10-26-264.0.medidaprovisoria-264-26-outubro-2005-539037-anexo-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-264-26-outubro-2005-539037-anexo-pe.doc"
+      }
+    ],
     "bytes": 6340,
     "capturado_em": "2026-11-04T19:17:55Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-10-26-264.dados.json.xz",
@@ -1736,9 +2729,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 264, de 26 de outubro de 2005",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-264-26-outubro-2005-539037-norma-pe.html",
     "sha256_fonte": "a85b6042387e8ae6fea367a9cf54e8c4b13e67b5c95d1fa30a40cd4e703973d1",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-10-26-264.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/553a1eac-1e64-41ac-8318-5562960654cf/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2005-10-26;264",
     "vinculos_fonte": [
@@ -1750,6 +2744,16 @@
     ]
   },
   "br-federal-medida-provisoria-2005-10-27-265": {
+    "anexos_camara": [
+      {
+        "bytes": 53761,
+        "conversao": "soffice-html",
+        "html_sha256": "3aeadcb120314e365f43ea6847ec82381d1b5509c6abd23b15a7a8bfd3c701e4",
+        "sha256": "ffd33f0835cd2701883ea56be71993bdf7d79951bea82f9ce8b9abf8df57f833",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-10-27-265.0.medidaprovisoria-265-27-outubro-2005-539060-anexo-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-265-27-outubro-2005-539060-anexo-pe.doc"
+      }
+    ],
     "bytes": 4476,
     "capturado_em": "2026-11-04T19:17:56Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-10-27-265.dados.json.xz",
@@ -1761,9 +2765,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 265, de 27 de outubro de 2005",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-265-27-outubro-2005-539060-norma-pe.html",
     "sha256_fonte": "bb424fc966292477186e1bd412aec89f4551747637ea72a8f27ac06f5295d9e2",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-10-27-265.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/fbd2b12d-0274-4729-b625-7900f3ee79ba/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2005-10-27;265",
     "vinculos_fonte": [
@@ -1775,6 +2780,24 @@
     ]
   },
   "br-federal-medida-provisoria-2005-11-09-266": {
+    "anexos_camara": [
+      {
+        "bytes": 115201,
+        "conversao": "soffice-html",
+        "html_sha256": "f944b11c837a48637d562efcefb17b41a72dfb0b9836620d053d896070c5c06a",
+        "sha256": "e842d32c40de9e72944f3c825c15f1bda43b30b725828e4460e1f19898b7065f",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-11-09-266.0.medidaprovisoria-266-9-novembro-2005-539139-anexoi-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-266-9-novembro-2005-539139-anexoi-pe.doc"
+      },
+      {
+        "bytes": 188929,
+        "conversao": "soffice-html",
+        "html_sha256": "f1fb72208d1699ddfb658e283ef5d9a0a91f787b2a155edff53f1df11311298d",
+        "sha256": "c3aac2151800d7fc8e597254448564c4288a09c0fed588557d5e418ece63dd6b",
+        "snapshot_rel": "provas/mps-pos-ec32/anexos-camara/br-federal-medida-provisoria-2005-11-09-266.1.medidaprovisoria-266-9-novembro-2005-539139-anexoii-pe.doc.xz",
+        "url": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-266-9-novembro-2005-539139-anexoii-pe.doc"
+      }
+    ],
     "bytes": 6821,
     "capturado_em": "2026-11-04T19:17:57Z",
     "dados_snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-11-09-266.dados.json.xz",
@@ -1786,9 +2809,10 @@
       "version": "Original"
     },
     "headline": "Medida Provisória nº 266, de 09 de novembro de 2005",
+    "norma_camara": "https://www2.camara.leg.br/legin/fed/medpro/2005/medidaprovisoria-266-9-novembro-2005-539139-norma-pe.html",
     "sha256_fonte": "4dda33cd359665a397e7e03b756e70e5359e15adce1d1b57e830b4edf6981caa",
     "snapshot": "provas/mps-pos-ec32/fontes/br-federal-medida-provisoria-2005-11-09-266.html.xz",
-    "status": "capturado",
+    "status": "capturado-com-anexos-camara",
     "url": "https://normas.leg.br/api/public/binario/84c9e800-a34e-419e-b794-0da1b78c3cb0/texto",
     "urn": "urn:lex:br:federal:medida.provisoria:2005-11-09;266",
     "vinculos_fonte": [

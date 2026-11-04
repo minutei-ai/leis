@@ -7,17 +7,22 @@
     "presentes": 9643,
     "revisao_mesmo_numero": 1997,
     "sha256_bate_com_issue": false,
+    "subtipos": {
+      "DEL": 12369,
+      "DEL-mpv": 9
+    },
     "total_registros": 12378
   },
-  "n_publicados": 58,
-  "n_retidos": 53,
-  "nota": "111 HTML capturados; 58 publicadas; 53 retidos por anexo. Demais ausências pendentes.",
+  "n_publicados": 124,
+  "n_retidos": 56,
+  "nota": "Epígrafes «Decreto nº» divergentes preservadas. Marcadores oficiais; anexos .doc Câmara publicados; PDF retido. DEL vs DEL-mpv sem fusão.",
   "regras": [
-    "Não inferir vigência/completude de presença de arquivo ou HTTP.",
-    "<<ANEXO>>/<<TABELA>> na conversão retêm a norma (sem publicar corpo incompleto).",
-    "Provas privadas fora do repo público; divergências literais preservadas."
+    "Não inferir vigência de HTTP/arquivo.",
+    "Número coincidente exige revisão, não correção automática.",
+    "<<ANEXO>> retém até peça oficial recuperada."
   ],
   "retidos_por_status": {
-    "retido-marcador-anexo-tabela": 53
+    "retido-anexo-pdf-layout-pendente": 20,
+    "retido-sem-anexo-camara": 36
   }
 }
