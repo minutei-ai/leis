@@ -16,7 +16,7 @@
       "url": "https://legis.senado.leg.br/norma/572902",
       "estado": "publicado",
       "caminho": "federal/br-federal-lei-complementar-2014-08-07-147.md",
-      "fonte": "Senado/normas.leg.br publicação original"
+      "fonte": "Planalto Lcp147.htm (Anexo Único); Senado original preservado sem tabelas do anexo"
     },
     {
       "norma": "LC 115/2002",
@@ -25,7 +25,7 @@
       "url": "https://legis.senado.leg.br/norma/572870",
       "estado": "publicado",
       "caminho": "federal/br-federal-lei-complementar-2002-12-26-115.md",
-      "fonte": "Senado/normas.leg.br publicação original"
+      "fonte": "Senado/normas.leg.br publicação original (marcadores do coletor removidos; Anexo preservado)"
     },
     {
       "norma": "LC 1/1962",
@@ -34,7 +34,7 @@
       "url": "https://legis.senado.leg.br/norma/30812083",
       "estado": "publicado",
       "caminho": "federal/br-federal-lei-complementar-1962-07-17-1.md",
-      "fonte": "Planalto Lcp01-62.htm"
+      "fonte": "Planalto Lcp01-62.htm (reconversão integral)"
     },
     {
       "norma": "LC 1/1967",
@@ -46,5 +46,10 @@
       "fonte": "já no acervo; identidade distinta da LC 1/1962; não fundir pelo número"
     }
   ],
-  "regra": "LC 1/1962 e LC 1/1967 são identidades distintas (data+número+URN). Número igual com data diferente não autoriza fusão nem alteração da data já publicada."
+  "regra": "LC 1/1962 e LC 1/1967 são identidades distintas (data+número+URN). Número igual com data diferente não autoriza fusão nem alteração da data já publicada.",
+  "limites": [
+    "Lista LCP do Senado é catálogo vivo; hash desta captura pode divergir do citado na issue.",
+    "LC 147: HTML Senado/normas.leg.br sem peças tabulares do anexo; íntegra com Anexo Único via Planalto.",
+    "Não se certifica vigência; LC 1/1962 e LC 1/1967 permanecem identidades distintas."
+  ]
 }

@@ -1,4 +1,47 @@
+---
+id: "br-federal-lei-complementar-1962-07-17-1"
+norma_id: "br-federal-lei-complementar-1962-07-17-1"
+norma_tipo: "lei-complementar"
+norma_numero: "1"
+norma_data: "1962-07-17"
+titulo: "LEI COMPLEMENTAR Nº 1, DE 17 DE JULHO DE 1962"
+esfera: "federal"
+edicao_id: "br-federal-lei-complementar-1962-07-17-1@planalto"
+edicao_tipo: "consolidada"
+edicao_integral: true
+edicao_relacionada: "nenhuma"
+fonte_orgao: "Presidência da República — Planalto"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp01-62.htm"
+fonte_formato: "html"
+fonte_conferencia: "nenhuma"
+capturado_em: "2026-11-04T15:52:00Z"
+sha256_fonte: "19990ded100459c1aafa874daf2bd83dd0f4ce7fe49260e0fc6397284a311237"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 1
+efeitos_diferidos: "nao-aplicavel-sem-notas-na-edicao"
+sha256_markdown: "552a67626407ec99c65d21c5bd34ca0e02b03af805033f975b17f608b44ede6c"
+manifesto: "provas/lc-complementares-68/reconciliacao-identidades.json"
+contrato_versao: 1
+---
+
+Presidência da República Subchefia para Assuntos Jurídicos
+
 # LEI COMPLEMENTAR Nº 1, DE 17 DE JULHO DE 1962 AO ATO ADICIONAL
+
+<!-- nota-edicao:inicio -->
+
+> **Edição Planalto — Lcp01-62.htm (lote lc-complementares-68, issue #68).** Fonte: https://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp01-62.htm (capturada em 2026-11-04T15:52:00Z, SHA-256 `19990ded100459c1aafa874daf2bd83dd0f4ce7fe49260e0fc6397284a311237`, conteúdo sem script de proteção `dad2127888dc3ad6f269d29e37721b7fda836683032df18470176411efd13562`). Snapshot: `provas/lc-complementares-68/fontes/planalto-lcp01-62.htm.xz`. Registro Senado: https://legis.senado.leg.br/norma/30812083 (senadoId 30812083). O acervo não certifica vigência.
+>
+> Identidade distinta de `federal/br-federal-lei-complementar-1967-11-09-1.md` (LC 1/1967). Número igual com data diferente não autoriza fusão.
+>
+> 1 imagem(ns) institucional(is) omitida(s).
+
+<!-- nota-edicao:fim -->
 
 [(Vide Emc 4, de 1961)](https://www.planalto.gov.br/ccivil_03/Constituicao/Emendas/Emc_anterior1988/emc04-61.htm)
 
