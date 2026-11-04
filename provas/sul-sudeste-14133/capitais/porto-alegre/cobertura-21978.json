@@ -1,0 +1,25 @@
+{
+  "norma_id": "br-municipal-4314902-decreto-2023-05-11-21978",
+  "carater": "especifico-contratacoes-diretas",
+  "paginas": 12,
+  "page_text_lens": [
+    2459,
+    2446,
+    2288,
+    2411,
+    2610,
+    2660,
+    2812,
+    2649,
+    2753,
+    2688,
+    2413,
+    2033
+  ],
+  "extracao": "pdftotext-layout-todas-paginas",
+  "sha256_fonte": "b683af79e86f9e5a465e032750fde72a29ea456d326b554dc76bb24a0ed92ef0",
+  "sha256_markdown": "20cfcc95d23c3cac89c5fda4d3c299ccb850d86a7b3aba0ad7f49baaf18cc567",
+  "sha256_corpo_markdown": "e7a78d0d591418a80f8f2ee503c094b6139ca35f71099e6af7fb4db7a0fecef0",
+  "fold_equal": true,
+  "capturado_em": "2026-11-04T21:30:00Z"
+}
