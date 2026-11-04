@@ -277,7 +277,10 @@ class LimpezaUnit(unittest.TestCase):
 
     def test_generator_drops_camara_portal_prefix(self):
         sys.path.insert(0, str(ROOT / 'scripts'))
-        import nucleo_licitacoes as nl  # noqa: WPS433
+        try:
+            import nucleo_licitacoes as nl  # noqa: WPS433
+        except ModuleNotFoundError as exc:
+            self.skipTest(f'dependência do gerador ausente: {exc}')
         blocks = [
             'CÂMARA DOS DEPUTADOS',
             'Centro de Documentação e Informação',
