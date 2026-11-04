@@ -93,5 +93,64 @@
     "sha256": "94ec623831b2852872507e8407ac8ced3ea4db330dcb33dfa4e4f8d852866a91",
     "snapshot": "provas/atos-infralegais-seges/fontes/index-revogadas.html.xz",
     "papel": "catalogo"
+  },
+  "in-seges-mpdg-5-2017": {
+    "chave": "in-seges-mpdg-5-2017",
+    "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-5-de-26-de-maio-de-2017-atualizada",
+    "orgao": "SEGES/MPDG (histórico SEGES/ME)",
+    "formato": "html",
+    "capturado_em": "2026-11-04T20:15:00Z",
+    "sha256": "b4aac81fd366bf916c665736c83703a070ca66d4e00a6ea99a3e3ff8deac8e61",
+    "snapshot": "provas/atos-infralegais-seges/fontes/br-federal-in-seges-mpdg-2017-05-26-5.html.xz",
+    "sha256_snapshot_armazenado": "cd0408cdb003f49bff14af50b64d2740c7312e5addeb97c005526a28d2fa153a",
+    "http_status": 200
+  },
+  "portaria-seges-me-8678-2021": {
+    "chave": "portaria-seges-me-8678-2021",
+    "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias/portaria-seges-me-no-8-678-de-19-de-julho-de-2021",
+    "orgao": "SEGES/ME",
+    "formato": "html",
+    "capturado_em": "2026-11-04T20:15:00Z",
+    "sha256": "e89e28bff1527fbe74fd2abf52fe7c69fe99dacb356342e292656d7e8392a799",
+    "snapshot": "provas/atos-infralegais-seges/fontes/br-federal-portaria-seges-me-2021-07-19-8678.html.xz",
+    "sha256_snapshot_armazenado": "880e33fe994b004a2cb374483113938c2c3fe87a8f225beadfcad52b4ebdd1a3",
+    "http_status": 200
+  },
+  "in-seges-me-98-2022": {
+    "chave": "in-seges-me-98-2022",
+    "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-98-de-26-de-dezembro-de-2022",
+    "orgao": "SEGES/ME",
+    "formato": "html",
+    "capturado_em": "2026-11-04T20:15:00Z",
+    "sha256": "4d14972bd8f019bb2382cf512f5699bf8bc247ef0513824d6a76e6a79adb311e",
+    "snapshot": "provas/atos-infralegais-seges/fontes/br-federal-in-seges-me-2022-12-26-98.html.xz",
+    "sha256_snapshot_armazenado": "184dbd314efc72457c328b30c7b377c4755dc687544edc78534969c9c5e66f57",
+    "http_status": 200
+  },
+  "in5-dou-tentativa": {
+    "url": "https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/20239255/do1-2017-05-26-instrucao-normativa-n-5-de-26-de-maio-de-2017-20237783",
+    "formato": "html",
+    "papel": "tentativa-dou",
+    "resultado": "HTTP 403 (Azion WAF) em 2026-11-04; página de erro sem texto normativo"
+  },
+  "in5-cgu-base-conhecimento": {
+    "url": "https://basedeconhecimento-h.cgu.gov.br/items/aa5d5f4c-a9a7-456f-bf0f-90027df763c1",
+    "formato": "html+pdf",
+    "papel": "fonte-alternativa-oficial",
+    "nota": "CGU Base de Conhecimento: PDF integral 138p (não publicado no repositório) e recorte DOU 4p. Data no PDF: 25/05/2017; publicação DOU/portal: 26/05/2017. Markdown publicado segue a edição atualizada do portal Compras.gov.br.",
+    "bitstream_integral_url": "https://basedeconhecimento-h.cgu.gov.br/bitstreams/e5b87829-ec32-48f5-9bf4-d5bf88854750/download",
+    "sha256_pdf_integral": "b9aed5cf313ee39f593465db05bf3142a94aa7fad1773b94106edcee370314be",
+    "paginas_pdf_integral": 138
+  },
+  "catalogo-portarias-investigacao": {
+    "papel": "investigacao-portarias-catalogo",
+    "urls_indice": [
+      "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias",
+      "https://www.gov.br/compras/pt-br/nllc/legislacao-14-133-por-tema",
+      "https://www.gov.br/compras/pt-br/nllc/legislacao-14-133-por-tema/planejamento-da-contratacao-pgc-e-pca/catalogo-eletronico-de-padronizacao",
+      "https://www.gov.br/pncp/pt-br/acesso-a-informacao/legislacao/legislacao-por-tema/catalogo-eletronico-de-padronizacao"
+    ],
+    "resultado": "Índice de portarias vigentes amostrado sem ementa explícita de atualização CATMAT/CATSER. Página temática do Catálogo Eletrônico aponta ao PNCP, que retornou HTTP 404 nesta captura. Portaria 8.678/2021 cobre PCA. Inventário de portarias de catálogo permanece aberto (sem falso negativo).",
+    "capturado_em": "2026-11-04T20:15:00Z"
   }
 }

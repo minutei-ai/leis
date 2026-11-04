@@ -14,7 +14,19 @@ import nucleo_licitacoes as nl
 ROOT = Path(__file__).resolve().parent.parent
 PROVAS = ROOT / 'provas/atos-infralegais-seges'
 MANIFEST = ROOT / 'metadados/atos-infralegais-seges.json'
-TITLE_RE = r'^INSTRUÇÃO NORMATIVA'
+TITLE_IN_RE = r'^INSTRUÇÃO NORMATIVA'
+TITLE_PORTARIA_RE = r'^PORTARIA'
+EXPECTED_IDS = {
+    'br-federal-in-seges-me-2021-07-07-65',
+    'br-federal-in-seges-me-2021-07-08-67',
+    'br-federal-in-seges-me-2022-09-30-73',
+    'br-federal-in-seges-2022-08-08-58',
+    'br-federal-in-seges-me-2022-11-25-81',
+    'br-federal-in-seges-mgi-2023-02-07-2',
+    'br-federal-in-seges-mpdg-2017-05-26-5',
+    'br-federal-portaria-seges-me-2021-07-19-8678',
+    'br-federal-in-seges-me-2022-12-26-98',
+}
 
 
 def sha256(data: bytes) -> str:
@@ -53,23 +65,40 @@ def verify() -> list[str]:
     fontes = json.loads((PROVAS / 'fontes.json').read_text(encoding='utf-8'))
     if manifest.get('vigencia_certificada') is not False:
         errors.append('manifesto.vigencia_certificada deve ser false')
-    if len(manifest.get('documentos') or []) != 6:
-        errors.append('esperados 6 documentos publicados')
-    pend = manifest.get('pendencias_acesso') or []
-    if not any(p.get('norma_numero') == '5' for p in pend):
-        errors.append('IN 5/2017 deve permanecer em pendencias_acesso')
-    for doc in manifest['documentos']:
+    docs = manifest.get('documentos') or []
+    ids = {d['id'] for d in docs}
+    if ids != EXPECTED_IDS:
+        missing = sorted(EXPECTED_IDS - ids)
+        extra = sorted(ids - EXPECTED_IDS)
+        if missing:
+            errors.append(f'documentos faltando: {missing}')
+        if extra:
+            errors.append(f'documentos extras: {extra}')
+    if any(p.get('norma_numero') == '5' for p in (manifest.get('pendencias_acesso') or [])):
+        errors.append('IN 5/2017 já publicada; não deve permanecer em pendencias_acesso')
+    if not any(
+        (p.get('tema') or '').startswith('portarias-atualizacao-catalogo')
+        for p in (manifest.get('pendencias_acesso') or [])
+    ):
+        errors.append('pendência de inventário de portarias de catálogo deve permanecer registrada')
+    for doc in docs:
         slug = doc['id']
         path = ROOT / doc['arquivo']
         if not path.is_file():
             errors.append(f'{slug}: arquivo ausente')
             continue
-        if not re.match(r'^br-federal-in-[a-z0-9-]+-\d{4}-\d{2}-\d{2}-\d+$', slug):
-            errors.append(f'{slug}: fora do padrão de nome com órgão')
+        if doc['norma_tipo'] == 'in':
+            if not re.match(r'^br-federal-in-[a-z0-9-]+-\d{4}-\d{2}-\d{2}-\d+$', slug):
+                errors.append(f'{slug}: fora do padrão de nome in com órgão')
+        elif doc['norma_tipo'] == 'portaria':
+            if not re.match(r'^br-federal-portaria-[a-z0-9-]+-\d{4}-\d{2}-\d{2}-\d+$', slug):
+                errors.append(f'{slug}: fora do padrão de nome portaria com órgão')
+        else:
+            errors.append(f'{slug}: norma_tipo inesperado {doc["norma_tipo"]!r}')
         text = path.read_text(encoding='utf-8')
         meta, body = parse_frontmatter(text)
-        if meta.get('norma_tipo') != 'in':
-            errors.append(f'{slug}: norma_tipo deve ser in')
+        if meta.get('norma_tipo') != doc['norma_tipo']:
+            errors.append(f'{slug}: norma_tipo diverge do manifesto')
         if meta.get('vigencia_certificada') is not False:
             errors.append(f'{slug}: vigencia_certificada deve ser false')
         if not meta.get('orgao_emissor'):
@@ -94,12 +123,15 @@ def verify() -> list[str]:
             continue
         frag = extract_fragment(raw)
         conv = nl.convert_html(frag, 'utf-8', fonte['url'])
-        recon = nl.blocks_to_markdown(conv.blocks, TITLE_RE)
-        if 'INSTRUÇÃO NORMATIVA' not in recon.split('\n', 1)[0].upper():
+        title_re = TITLE_PORTARIA_RE if doc['norma_tipo'] == 'portaria' else TITLE_IN_RE
+        recon = nl.blocks_to_markdown(conv.blocks, title_re)
+        first = recon.split('\n', 1)[0].upper()
+        if doc['norma_tipo'] == 'in' and 'INSTRUÇÃO NORMATIVA' not in first:
             errors.append(f'{slug}: reconversão sem título de IN')
+        if doc['norma_tipo'] == 'portaria' and 'PORTARIA' not in first:
+            errors.append(f'{slug}: reconversão sem título de Portaria')
         if not re.search(r'(?m)^Art\.\s*1', recon):
             errors.append(f'{slug}: reconversão sem Art. 1')
-        # Corpo publicado inclui nota editorial; a reconversão do fragmento é o núcleo.
         if 'Art. 1' not in body:
             errors.append(f'{slug}: Markdown publicado sem Art. 1')
         proof_path = ROOT / doc['prova']

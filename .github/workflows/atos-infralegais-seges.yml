@@ -10,6 +10,7 @@ on:
       - 'metadados/CONTRATO-atos-infralegais-seges.md'
       - 'provas/atos-infralegais-seges/**'
       - 'federal/br-federal-in-seges*.md'
+      - 'federal/br-federal-portaria-seges*.md'
 permissions:
   contents: read
 jobs:

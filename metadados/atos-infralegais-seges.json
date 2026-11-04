@@ -5,20 +5,29 @@
   "issue_refs": [
     "https://github.com/minutei-ai/leis/issues/72"
   ],
-  "descricao": "Primeiro lote de atos infralegais federais de contratação: INs SEGES/ME e SEGES/MGI prioritárias da Lei 14.133, com espécie `in` e órgão no identificador.",
-  "gerado_em": "2026-11-04T19:28:30Z",
+  "descricao": "Lote de atos infralegais federais de contratação: INs SEGES/ME/MGI prioritárias da Lei 14.133, IN 5/2017 (serviços), IN 98/2022 (ponte IN5→14.133) e Portaria SEGES/ME 8.678/2021 (governança/PCA), com espécie e órgão no identificador.",
+  "gerado_em": "2026-11-04T20:15:00Z",
   "vigencia_certificada": false,
   "especie": {
     "norma_tipo": "in",
-    "padrao_id": "br-federal-in-<orgao>-<AAAA-MM-DD>-<numero>",
+    "padrao_id": "br-federal-<especie>-<orgao>-<AAAA-MM-DD>-<numero>",
     "exemplos": [
       "br-federal-in-seges-me-2021-07-07-65",
       "br-federal-in-seges-me-2021-07-08-67",
       "br-federal-in-seges-me-2022-09-30-73",
       "br-federal-in-seges-2022-08-08-58",
       "br-federal-in-seges-me-2022-11-25-81",
-      "br-federal-in-seges-mgi-2023-02-07-2"
-    ]
+      "br-federal-in-seges-mgi-2023-02-07-2",
+      "br-federal-in-seges-mpdg-2017-05-26-5",
+      "br-federal-portaria-seges-me-2021-07-19-8678",
+      "br-federal-in-seges-me-2022-12-26-98"
+    ],
+    "norma_tipos": [
+      "in",
+      "portaria"
+    ],
+    "padrao_id_in": "br-federal-in-<orgao>-<AAAA-MM-DD>-<numero>",
+    "padrao_id_portaria": "br-federal-portaria-<orgao>-<AAAA-MM-DD>-<numero>"
   },
   "escopo": {
     "estado": "parcial",
@@ -28,16 +37,18 @@
       "br-federal-in-seges-me-2022-09-30-73",
       "br-federal-in-seges-2022-08-08-58",
       "br-federal-in-seges-me-2022-11-25-81",
-      "br-federal-in-seges-mgi-2023-02-07-2"
+      "br-federal-in-seges-mgi-2023-02-07-2",
+      "br-federal-in-seges-mpdg-2017-05-26-5",
+      "br-federal-portaria-seges-me-2021-07-19-8678",
+      "br-federal-in-seges-me-2022-12-26-98"
     ],
-    "catalogado_sem_markdown_integral": [
-      "br-federal-in-seges-mpdg-2017-05-26-5"
-    ],
+    "catalogado_sem_markdown_integral": [],
     "nao_cataloga": [
-      "demais INs SEGES/ME/MGI fora da prioridade da issue #72",
-      "portarias de catálogo/PCA (mencionadas na issue; lote futuro)",
+      "demais INs SEGES/ME/MGI fora da prioridade da issue #72 ainda não publicadas neste lote",
+      "portarias pontuais de atualização CATMAT/CATSER ainda não localizadas no índice amostrado (pendência de inventário, não falso negativo)",
       "atos infralegais de ANVISA/RFB/CMN (issue #75)",
-      "resoluções do Senado (#66) e decretos legislativos (#65)"
+      "resoluções do Senado (#66) e decretos legislativos (#65)",
+      "Decreto 10.947/2022 (PCA/PGC) — espécie decreto, fora deste lote de infralegais SEGES"
     ]
   },
   "documentos": [
@@ -190,37 +201,112 @@
       "sha256_markdown": "366c32aa59f125d1fd3eac7064957d876397dfbd6bcc61c70e5b39f04bc55fd9",
       "prova": "provas/atos-infralegais-seges/reconciliacao-br-federal-in-seges-mgi-2023-02-07-2.json",
       "vigencia_certificada": false
-    }
-  ],
-  "pendencias_acesso": [
+    },
     {
-      "slug_previsto": "br-federal-in-seges-mpdg-2017-05-26-5",
-      "orgao_id": "seges-mpdg",
-      "orgao_label": "SEGES/MPDG (histórico SEGES/ME)",
+      "id": "br-federal-in-seges-mpdg-2017-05-26-5",
+      "arquivo": "federal/br-federal-in-seges-mpdg-2017-05-26-5.md",
+      "norma_tipo": "in",
+      "orgao_emissor": "seges-mpdg",
+      "orgao_emissor_label": "SEGES/MPDG (histórico SEGES/ME)",
       "norma_numero": "5",
       "norma_data": "2017-05-26",
-      "titulo": "INSTRUÇÃO NORMATIVA Nº 5, DE 26 DE MAIO DE 2017",
+      "titulo": "INSTRUÇÃO NORMATIVA Nº 5, DE 26 DE MAIO DE 2017 (Atualizada)",
+      "ementa": "Dispõe sobre as regras e diretrizes do procedimento de contratação de serviços sob o regime de execução indireta no âmbito da Administração Pública federal direta, autárquica e fundacional.",
       "tema": "contratacao-servicos-execucao-indireta",
       "lei_regulamentada": [
         "br-federal-lei-1993-06-21-8666",
         "br-federal-lei-2002-07-17-10520"
       ],
-      "estado_acesso": "fonte-oficial-inacessivel-nesta-captura",
+      "edicao_id": "br-federal-in-seges-mpdg-2017-05-26-5@compras-gov",
+      "edicao_tipo": "consolidada",
+      "fonte": "in-seges-mpdg-5-2017",
+      "fonte_url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-5-de-26-de-maio-de-2017-atualizada",
+      "estado_recuperacao": "publicado",
+      "estado_acesso": "ok",
+      "sha256_fonte": "b4aac81fd366bf916c665736c83703a070ca66d4e00a6ea99a3e3ff8deac8e61",
+      "sha256_markdown": "dfb6aec832700aba7b689b87558055354d6d4441b812523d3757ae9a8750b75b",
+      "prova": "provas/atos-infralegais-seges/reconciliacao-br-federal-in-seges-mpdg-2017-05-26-5.json",
+      "vigencia_certificada": false
+    },
+    {
+      "id": "br-federal-portaria-seges-me-2021-07-19-8678",
+      "arquivo": "federal/br-federal-portaria-seges-me-2021-07-19-8678.md",
+      "norma_tipo": "portaria",
+      "orgao_emissor": "seges-me",
+      "orgao_emissor_label": "SEGES/ME",
+      "norma_numero": "8678",
+      "norma_data": "2021-07-19",
+      "titulo": "PORTARIA SEGES/ME Nº 8.678, DE 19 DE JULHO DE 2021",
+      "ementa": "Dispõe sobre a governança das contratações públicas no âmbito da Administração Pública federal direta, autárquica e fundacional (inclui Plano de Contratações Anual).",
+      "tema": "governanca-contratacoes-pca-pgc",
+      "lei_regulamentada": [
+        "br-federal-lei-2021-04-01-14133"
+      ],
+      "edicao_id": "br-federal-portaria-seges-me-2021-07-19-8678@compras-gov",
+      "edicao_tipo": "portal",
+      "fonte": "portaria-seges-me-8678-2021",
+      "fonte_url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias/portaria-seges-me-no-8-678-de-19-de-julho-de-2021",
+      "estado_recuperacao": "publicado",
+      "estado_acesso": "ok",
+      "sha256_fonte": "e89e28bff1527fbe74fd2abf52fe7c69fe99dacb356342e292656d7e8392a799",
+      "sha256_markdown": "46e5997ad6b28c588dc65e8d8099625215fb725267c2c59ef876c9dc6dc92eae",
+      "prova": "provas/atos-infralegais-seges/reconciliacao-br-federal-portaria-seges-me-2021-07-19-8678.json",
+      "vigencia_certificada": false
+    },
+    {
+      "id": "br-federal-in-seges-me-2022-12-26-98",
+      "arquivo": "federal/br-federal-in-seges-me-2022-12-26-98.md",
+      "norma_tipo": "in",
+      "orgao_emissor": "seges-me",
+      "orgao_emissor_label": "SEGES/ME",
+      "norma_numero": "98",
+      "norma_data": "2022-12-26",
+      "titulo": "INSTRUÇÃO NORMATIVA SEGES/ME Nº 98, DE 26 DE DEZEMBRO DE 2022",
+      "ementa": "Estabelece regras e diretrizes para o procedimento de contratação de serviços sob o regime de execução indireta de que dispõe a Lei nº 14.133/2021, autorizando a aplicação da IN nº 5/2017 no que couber.",
+      "tema": "aplicacao-in5-servicos-lei-14133",
+      "lei_regulamentada": [
+        "br-federal-lei-2021-04-01-14133"
+      ],
+      "edicao_id": "br-federal-in-seges-me-2022-12-26-98@compras-gov",
+      "edicao_tipo": "portal",
+      "fonte": "in-seges-me-98-2022",
+      "fonte_url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-98-de-26-de-dezembro-de-2022",
+      "estado_recuperacao": "publicado",
+      "estado_acesso": "ok",
+      "sha256_fonte": "4d14972bd8f019bb2382cf512f5699bf8bc247ef0513824d6a76e6a79adb311e",
+      "sha256_markdown": "646863278a91bd612707f0dbcafad38c5e083a0e20a4bb633e81d3713ee1f2e1",
+      "prova": "provas/atos-infralegais-seges/reconciliacao-br-federal-in-seges-me-2022-12-26-98.json",
+      "vigencia_certificada": false
+    }
+  ],
+  "pendencias_acesso": [
+    {
+      "slug_previsto": null,
+      "tema": "portarias-atualizacao-catalogo-catmat-catser",
+      "estado_acesso": "investigado-sem-integral-localizada",
       "fontes_tentadas": [
         {
-          "url": "https://www.in.gov.br/materia/-/asset_publisher/Kujrw0TZC2Mb/content/id/20239255/do1-2017-05-26-instrucao-normativa-n-5-de-26-de-maio-de-2017-20237783",
-          "resultado": "HTTP 403 (Azion WAF) em 2026-11-04; página de erro sem texto normativo"
+          "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias",
+          "resultado": "HTTP 200; índice paginado amostrado (primeiros lotes). Títulos/descrições sem ementa explícita de atualização CATMAT/CATSER nesta rodada. Página contém menções genéricas a CATMAT/CATSER em orientação e link do catálogo."
         },
         {
-          "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/perguntas-frequentes/instrucao-normativa-de-servicos-in-no-5-de-2017",
-          "resultado": "FAQ do portal; não é o texto integral da IN"
+          "url": "https://www.gov.br/compras/pt-br/sistemas/conheca-o-compras/catalogo",
+          "resultado": "HTTP 200; página do sistema Catálogo CATMAT/CATSER. Não lista portarias normativas de atualização como íntegras publicáveis neste lote."
         },
         {
-          "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas-revogadas",
-          "resultado": "Índice de revogadas aponta ao FAQ, sem HTML integral da IN 5/2017"
+          "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias/@search?SearchableText=CATMAT&portal_type=Document&b_size=20",
+          "resultado": "HTTP 401 Unauthorized no endpoint Plone @search (2026-11-04)."
+        },
+        {
+          "url": "https://www.gov.br/pncp/pt-br/acesso-a-informacao/legislacao/legislacao-por-tema/catalogo-eletronico-de-padronizacao",
+          "resultado": "HTTP 404 em 2026-11-04"
+        },
+        {
+          "url": "https://www.gov.br/compras/pt-br/agente-publico/orientacoes-e-procedimentos/36-recomendacao-sobre-uso-de-codigo-especifico-do-catalogo-de-bens-e-servicos-catmat-catser",
+          "resultado": "HTTP 404 na URL de recomendação citada pelo índice (2026-11-04)."
         }
       ],
-      "leitura": "Acesso bloqueado ou sem íntegra na captura não significa inexistência da norma. Publicação do Markdown integral fica pendente de fonte oficial recuperável (DOU/certificado ou HTML integral do portal)."
+      "leitura": "Não localização no índice amostrado, 401 no @search Plone, 404 em página temática PNCP ou em URL de recomendação não significa inexistência de portarias de atualização de catálogo. Inventário permanece aberto; amostra ≠ cobertura completa."
     }
   ],
   "relacoes": [
@@ -337,6 +423,86 @@
       "fonte": {
         "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-mgi-no-2-de-7-de-fevereiro-de-2023",
         "sha256": "35c7aea14aaac6347fcff57de2f51f5a66b033d08979d07f37a328768fe8832d"
+      },
+      "desconhecidos": [
+        "vigencia aplicável a casos concretos",
+        "integralidade histórica de todas as alterações"
+      ],
+      "leitura": "Metadado de ligação com a lei regulamentada; não afirma vigência nem esgota o histórico de alterações."
+    },
+    {
+      "id": "regulamento-br-federal-in-seges-mpdg-2017-05-26-5-br-federal-lei-1993-06-21-8666",
+      "tipo": "regulamento",
+      "origem": {
+        "norma_id": "br-federal-in-seges-mpdg-2017-05-26-5",
+        "arquivo": "federal/br-federal-in-seges-mpdg-2017-05-26-5.md"
+      },
+      "alvo": {
+        "norma_id": "br-federal-lei-1993-06-21-8666"
+      },
+      "fonte": {
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-5-de-26-de-maio-de-2017-atualizada",
+        "sha256": "b4aac81fd366bf916c665736c83703a070ca66d4e00a6ea99a3e3ff8deac8e61"
+      },
+      "desconhecidos": [
+        "vigencia aplicável a casos concretos",
+        "integralidade histórica de todas as alterações"
+      ],
+      "leitura": "Metadado de ligação com a lei regulamentada; não afirma vigência nem esgota o histórico de alterações."
+    },
+    {
+      "id": "regulamento-br-federal-in-seges-mpdg-2017-05-26-5-br-federal-lei-2002-07-17-10520",
+      "tipo": "regulamento",
+      "origem": {
+        "norma_id": "br-federal-in-seges-mpdg-2017-05-26-5",
+        "arquivo": "federal/br-federal-in-seges-mpdg-2017-05-26-5.md"
+      },
+      "alvo": {
+        "norma_id": "br-federal-lei-2002-07-17-10520"
+      },
+      "fonte": {
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-no-5-de-26-de-maio-de-2017-atualizada",
+        "sha256": "b4aac81fd366bf916c665736c83703a070ca66d4e00a6ea99a3e3ff8deac8e61"
+      },
+      "desconhecidos": [
+        "vigencia aplicável a casos concretos",
+        "integralidade histórica de todas as alterações"
+      ],
+      "leitura": "Metadado de ligação com a lei regulamentada; não afirma vigência nem esgota o histórico de alterações."
+    },
+    {
+      "id": "regulamento-br-federal-portaria-seges-me-2021-07-19-8678-br-federal-lei-2021-04-01-14133",
+      "tipo": "regulamento",
+      "origem": {
+        "norma_id": "br-federal-portaria-seges-me-2021-07-19-8678",
+        "arquivo": "federal/br-federal-portaria-seges-me-2021-07-19-8678.md"
+      },
+      "alvo": {
+        "norma_id": "br-federal-lei-2021-04-01-14133"
+      },
+      "fonte": {
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/portarias/portaria-seges-me-no-8-678-de-19-de-julho-de-2021",
+        "sha256": "e89e28bff1527fbe74fd2abf52fe7c69fe99dacb356342e292656d7e8392a799"
+      },
+      "desconhecidos": [
+        "vigencia aplicável a casos concretos",
+        "integralidade histórica de todas as alterações"
+      ],
+      "leitura": "Metadado de ligação com a lei regulamentada; não afirma vigência nem esgota o histórico de alterações."
+    },
+    {
+      "id": "regulamento-br-federal-in-seges-me-2022-12-26-98-br-federal-lei-2021-04-01-14133",
+      "tipo": "regulamento",
+      "origem": {
+        "norma_id": "br-federal-in-seges-me-2022-12-26-98",
+        "arquivo": "federal/br-federal-in-seges-me-2022-12-26-98.md"
+      },
+      "alvo": {
+        "norma_id": "br-federal-lei-2021-04-01-14133"
+      },
+      "fonte": {
+        "url": "https://www.gov.br/compras/pt-br/acesso-a-informacao/legislacao/instrucoes-normativas/instrucao-normativa-seges-me-no-98-de-26-de-dezembro-de-2022",
+        "sha256": "4d14972bd8f019bb2382cf512f5699bf8bc247ef0513824d6a76e6a79adb311e"
       },
       "desconhecidos": [
         "vigencia aplicável a casos concretos",
