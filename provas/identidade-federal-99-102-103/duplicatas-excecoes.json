@@ -1,0 +1,279 @@
+{
+  "gerado_em": "2026-11-04",
+  "issue": 99,
+  "politica": "Exceções documentam pares/grupos com SHA-1 idêntico após as correções de identidade federal. Novos grupos fora desta lista falham no teste.",
+  "grupos": [
+    {
+      "sha1": "6d2055549a0defedaafcddfa44c7acb6b03895fe",
+      "arquivos": [
+        "estaduais/BA/br-ba-norma-112696.md",
+        "estaduais/BA/br-ba-norma-42978.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "db1a7ab36165f4ed048dcb41603b8bd523d1e41e",
+      "arquivos": [
+        "estaduais/BA/br-ba-norma-126457.md",
+        "estaduais/BA/br-ba-norma-33648.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "246e3ee320a8aa1c5cf3cdb80260bfc6700c2da5",
+      "arquivos": [
+        "estaduais/BA/br-ba-norma-127611.md",
+        "estaduais/BA/br-ba-norma-45202.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "205a3c05d190b79ebaaf376599b546d7d8884bbf",
+      "arquivos": [
+        "estaduais/BA/br-ba-norma-135667.md",
+        "estaduais/BA/br-ba-norma-144995.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "8f9376f6c2c3dd50b6ca36ba7803427a5cdd53ac",
+      "arquivos": [
+        "estaduais/GO/br-go-norma-107588.md",
+        "estaduais/GO/br-go-norma-107589.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "9f75f70ff0778816e270d1edee4d9b69f34377d5",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1937-04-08-803.md",
+        "estaduais/MG/br-mg-decreto-1937-04-08-804.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "373d9740100ea7fad848896072f09f3bdcb40ee3",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1945-06-14-2159.md",
+        "estaduais/MG/br-mg-decreto-1945-06-26-2160.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "0507cab60d41365a2bb07c5726e9278dd11ae362",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1953-04-28-3996.md",
+        "estaduais/MG/br-mg-decreto-1953-04-28-3997.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "796a78469d347e79369aa0f190dbebd490fc3958",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1956-09-03-5082.md",
+        "estaduais/MG/br-mg-decreto-1956-09-10-5085.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "dbd81e0ec53f5d8991d85cfcc95a2364df67ccdb",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1956-10-09-5120.md",
+        "estaduais/MG/br-mg-decreto-1956-10-10-5121.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "558fba391a3d5e1375b31b27bbab07fe6ddcb4c5",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1964-07-15-7720.md",
+        "estaduais/MG/br-mg-decreto-1964-07-15-7721.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "aaf76ce8c2078566fe3b8953c1f2c2a534b8664e",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1966-08-17-9983.md",
+        "estaduais/MG/br-mg-decreto-1966-08-17-9985.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "bce3e55a6c216d9fc4aee9e6175f226f961c32d8",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1970-04-29-12612.md",
+        "estaduais/MG/br-mg-decreto-1970-05-27-12704.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "e51abb9bc82e3778bbd0c5967186eb70791eb594",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1975-12-23-17645.md",
+        "estaduais/MG/br-mg-decreto-1976-01-16-17720.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "a7f8900b7277410cff7d9ec1b7a5e767f35702e7",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1977-08-16-18653.md",
+        "estaduais/MG/br-mg-decreto-1977-09-06-18693.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "e75079249b143732b5e77567ad1ba0e644471578",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1982-09-16-22346.md",
+        "estaduais/MG/br-mg-lei-2016-11-18-22346.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "f5915b3d2f77f3147044235938e4ffe536dfbaf9",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1994-08-05-35816.md",
+        "estaduais/MG/br-mg-decreto-1994-08-05-35817.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "2cb6e64052b848d746bab72f88ee7d7c2f33c267",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1994-10-05-36127.md",
+        "estaduais/MG/br-mg-decreto-1994-10-05-36128.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "4e8697f1a7751c69eeccc1dbf2df1cf030c1c40d",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1994-12-26-36566.md",
+        "estaduais/MG/br-mg-decreto-1994-12-27-36574.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "dabb4415036294bff3350d6f5ba4ba324591321b",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1995-10-05-37343.md",
+        "estaduais/MG/br-mg-decreto-1995-10-05-37344.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "253e02ce51f2a80cc759efa8431796618c8c36dc",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1995-10-05-37349.md",
+        "estaduais/MG/br-mg-decreto-1995-10-05-37351.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "0bae94564556496182db2d1725ea08c351256a7d",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1995-10-05-37352.md",
+        "estaduais/MG/br-mg-decreto-1995-10-05-37353.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "1ed0557eeb09f7d6c00f8c028c9308152635693a",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1995-10-05-37365.md",
+        "estaduais/MG/br-mg-decreto-1995-10-05-37367.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "5e13a58f052b584f997ded5d9932a4d9369c9e17",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1995-10-05-37373.md",
+        "estaduais/MG/br-mg-decreto-1995-10-05-37374.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "7c71d7325f77e85a5f566da13b588b7d45ba7ff4",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-2000-03-08-40951.md",
+        "estaduais/MG/br-mg-decreto-2000-03-21-40955.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "f162cfda1214d8f780039494c8d8ea23873b3407",
+      "arquivos": [
+        "estaduais/MG/br-mg-lei-1991-01-22-10454.md",
+        "estaduais/MG/br-mg-lei-1991-11-22-10523.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "e2aeadfc2d138f7870403647a7d382f32c9a171a",
+      "arquivos": [
+        "estaduais/MS/br-ms-conleg-govato-40675c6be194c96f042588230075d695.md",
+        "estaduais/MS/br-ms-conleg-govato-cfb560b2f763c12c042588230076ed49.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "667d7a61513d8bcdb0247a6b1374704a429b83d5",
+      "arquivos": [
+        "estaduais/MS/br-ms-conleg-govato-9917eeae5147c2eb0425834d003cdfbf.md",
+        "estaduais/MS/br-ms-conleg-govato-a6cc860829d6f3670425834d003d584d.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "bf0ed24af787108cd074a67fd32db33af957cf29",
+      "arquivos": [
+        "estaduais/RJ/br-rj-contlei-nsf-227bfa4990d7458503258a3f0005445b.md",
+        "estaduais/RJ/br-rj-contlei-nsf-976b6f531939a8de03258a3f00054494.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "6f4e94a75d66fe2b7122fadf51f7f7a7c82413e7",
+      "arquivos": [
+        "estaduais/RJ/br-rj-contlei-nsf-32ecec8da0373f9603258bf5006ca7d2.md",
+        "estaduais/RJ/br-rj-contlei-nsf-7f358953f8357f6103258bf5006ba494.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "6eb4bd07f35dfecec65b8f89fd845481dbc9b7f7",
+      "arquivos": [
+        "estaduais/RJ/br-rj-contlei-nsf-3c6da8382899725c03258868006441a3.md",
+        "estaduais/RJ/br-rj-contlei-nsf-cd7714b690b1698f03258868006137a2.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "0fec250ed07860a16427d0a2a51896debf50db20",
+      "arquivos": [
+        "estaduais/RJ/br-rj-contlei-nsf-4f3dd9688269d2d003258ba9006c5ee0.md",
+        "estaduais/RJ/br-rj-contlei-nsf-50ad23f80f24c78b03258ba9006c5ef0.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "63eab22926bcee1fd21ce75f82839a0c7d972ce7",
+      "arquivos": [
+        "estaduais/RJ/br-rj-contlei-nsf-589238c5ed89434a03258a150069a96a.md",
+        "estaduais/RJ/br-rj-contlei-nsf-c3fbbad04e7b3c8203258a150062ccec.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    },
+    {
+      "sha1": "5d34648f3341f76ba473b8a07727bde139b59006",
+      "arquivos": [
+        "municipais/5218805/br-municipal-5218805-norma-114481.md",
+        "municipais/5218805/br-municipal-5218805-norma-114499.md"
+      ],
+      "justificativa": "Conteúdo byte a byte idêntico sob identidades de catálogo distintas no acervo estadual/municipal. Mantidos ambos os caminhos até desambiguação na fonte; não é troca silenciosa de texto entre normas federais (os 4 grupos federais da issue #99 foram resolvidos pela recoleta de identidade)."
+    }
+  ]
+}
