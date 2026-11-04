@@ -1,0 +1,64 @@
+{
+  "dispositivos": [
+    {
+      "dispositivo": "art. 5º, VIII",
+      "campo": "redacao",
+      "trecho_esperado": "Agência Nacional de Proteção de Dados (ANPD)"
+    },
+    {
+      "dispositivo": "art. 5º, XIX",
+      "campo": "redacao",
+      "trecho_esperado": "entidade da administração pública responsável"
+    },
+    {
+      "dispositivo": "Capítulo IX (título)",
+      "campo": "titulo",
+      "trecho_esperado": "DA AGÊNCIA NACIONAL DE PROTEÇÃO DE DADOS E DO CONSELHO NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS E DA PRIVACIDADE"
+    },
+    {
+      "dispositivo": "Capítulo IX, Seção I (título)",
+      "campo": "titulo",
+      "trecho_esperado": "Da Agência Nacional de Proteção de Dados"
+    },
+    {
+      "dispositivo": "art. 55-A, caput",
+      "campo": "redacao",
+      "trecho_esperado": "Agência Nacional de Proteção de Dados (ANPD), autarquia de natureza especial vinculada ao Ministério da Justiça e Segurança Pública"
+    },
+    {
+      "dispositivo": "art. 55-C, V-A",
+      "campo": "redacao",
+      "trecho_esperado": "Procuradoria"
+    },
+    {
+      "dispositivo": "art. 55-C, V-B",
+      "campo": "redacao",
+      "trecho_esperado": "Auditoria"
+    },
+    {
+      "dispositivo": "art. 55-C, VI",
+      "campo": "redacao",
+      "trecho_esperado": "unidades administrativas e unidades especializadas"
+    }
+  ],
+  "snippets": {
+    "art5_VIII": "VIII - encarregado: pessoa indicada pelo controlador e operador para atuar como canal de comunicação entre o controlador, os titulares dos dados e a Agência Nacional de Proteção de Dados (ANPD);",
+    "art5_XIX": "XIX - autoridade nacional: entidade da administração pública responsável por zelar, implementar e fiscalizar o cumprimento desta Lei em todo o território nacional.",
+    "cap_ix_titulo": "CAPÍTULO IX DA AGÊNCIA NACIONAL DE PROTEÇÃO DE DADOS E DO CONSELHO NACIONAL DE PROTEÇÃO DE DADOS PESSOAIS E DA PRIVACIDADE",
+    "secao_i_titulo": "Seção I Da Agência Nacional de Proteção de Dados",
+    "art55A": "Art. 55-A. Fica criada a Agência Nacional de Proteção de Dados (ANPD), autarquia de natureza especial vinculada ao Ministério da Justiça e Segurança Pública, dotada de autonomia funcional, técnica, decisória, administrativa e financeira, com patrimônio próprio e com sede e foro no Distrito Federal, nos termos da Lei nº 13.848, de 25 de junho de 2019.",
+    "art55C": "Art. 55-C. A ANPD é composta de: [(“Caput” do artigo acrescido pela Medida Provisória nº 869, de 27/12/2018,](http://www2.camara.leg.br/legin/fed/medpro/2018/medidaprovisoria-869-27-dezembro-2018-787546-publicacaooriginal-157122-pe.html) [convertida na Lei nº 13.853, de 8/7/2019)](https://www2.camara.leg.br/legin/fed/lei/2019/lei-13853-8-julho-2019-788785-publicacaooriginal-158684-pl.html) I - Conselho Diretor, órgão máximo de direção; [(Inciso acrescido pela Medida Provisória nº 869, de 27/12/2018,](http://www2.camara.leg.br/legin/fed/medpro/2018/medidaprovisoria-869-27-dezembro-2018-787546-publicacaooriginal-157122-pe.html) [convertida na Lei nº 13.853, de 8/7/2019)](https://www2.camara.leg.br/legin/fed/lei/2019/lei-13853-8-julho-2019-788785-publicacaooriginal-158684-pl.html) II - Conselho Nacional de Proteção de Dados Pessoais e da Privacidade; [(Inciso acrescido pela Medida Provisória nº 869, de 27/12/2018,](http://www2.camara.leg.br/legin/fed/medpro/2018/medidaprovisoria-869-27-dezembro-2018-787546-publicacaooriginal-157122-pe.html) [convertida na Lei nº 13.853, de 8/7/2019)](https://www2.camara.leg.br/legin/fed/lei/2019/lei-13853-8-julho-2019-788785-publicacaooriginal-158684-pl.html) III - Corregedoria; [(Inciso acrescido pela Medida Provisória nº 869, de 27/12/2018,](http://www2.camara.leg.br/legin/fed/medpro/2018/medidaprovisoria-869-27-dezembro-2018-787546-publicacaooriginal-157122-pe.html) [convertida na Lei nº 13.853, de 8/7/2019)](https://www2.camara.leg.br/legin/fed/lei/2019/lei-13853-8-julho-2019-788785-publicacaooriginal-158684-pl.html) IV - Ouvidoria; [(Inciso acrescido pela Medida Provisória nº 869, de 27/12/2018,](http://www2.camara.leg.br/legin/fed/medpro/2018/medidaprovisoria-869-27-dezembro-2018-787546-publicacaooriginal-157122-pe.html) [convertida na Lei nº 13.853, de 8/7/2019)](https://www2.camara.leg.br/legin/fed/lei/2019/lei-13853-8-julho-2019-788785-publicacaooriginal-158684-pl.html) V - [(Inciso acrescido pela Medida Provisória nº 869, de 27/12/2018,](http://www2.camara.leg.br/legin/fed/medpro/2018/medidaprovisoria-869-27-dezembro-2018-787546-publicacaooriginal-157122-pe.html) [convertida na Lei nº 13.853, de 8/7/2019](https://www2.camara.leg.br/legin/fed/lei/2019/lei-13853-8-julho-2019-788785-publicacaooriginal-158684-pl.html) e [revogado pela Lei nº 14.460, de 25/10/2022)](https://www2.camara.leg.br/legin/fed/lei/2022/lei-14460-25-outubro-2022-793355-publicacaooriginal-166348-pl.html) V-A - Procuradoria; [(Inciso acrescido pela Lei nº 14.460, de 25/10/2022](https://www2.camara.leg.br/legin/fed/lei/2022/lei-14460-25-outubro-2022-793355-publicacaooriginal-166348-pl.html), [e com redação dada pela Medida Provisória nº 1.317, de 17/9/2025](https://www2.camara.leg.br/legin/fed/medpro/2025/medidaprovisoria-1317-17-setembro-2025-797987-publicacaooriginal-176485-pe.html), [convertida na Lei nº 15.352, de 25/2/2026)](https://www2.camara.leg.br/legin/fed/lei/2026/lei-15352-25-fevereiro-2026-798731-publicacaooriginal-178208-pl.html) V-B - Auditoria; e [(Inciso acrescido pela Medida Provisória nº 1.317, de 17/9/2025](https://www2.camara.leg.br/legin/fed/medpro/2025/medidaprovisoria-1317-17-setembro-2025-797987-publicacaooriginal-176485-pe.html), [convertida na Lei nº 15.352, de 25/2/2026)](https://www2.camara.leg.br/legin/fed/lei/2026/lei-15352-25-fevereiro-2026-798731-publicacaooriginal-178208-pl.html) VI - unidades administrativas e unidades especializadas.",
+    "nota_art5_VIII": true,
+    "nota_cap_ix": true,
+    "nota_secao_i": true,
+    "nota_art55A": true,
+    "nota_art55C_VB": true
+  },
+  "notas_camara_presentes": {
+    "nota_art5_VIII": true,
+    "nota_cap_ix": true,
+    "nota_secao_i": true,
+    "nota_art55A": true,
+    "nota_art55C_VB": true
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "uf": "SP",
+  "cobertura": "parcial",
+  "descricao": "Catálogo temático parcial de regulamentação local de licitações em São Paulo (Estado e Município de São Paulo/IBGE 3550308). Amostra dirigida da issue #57; não é inventário estadual/municipal completo nem certificação de vigência.",
+  "documentos": [
+    {
+      "norma_id": "br-municipal-3550308-decreto-2022-12-27-62100",
+      "arquivo": "municipais/3550308/br-municipal-3550308-decreto-2022-12-27-62100.md",
+      "uf": "SP",
+      "ibge": "3550308",
+      "ente": {
+        "tipo": "municipio",
+        "nome": "Município de São Paulo",
+        "ibge": "3550308",
+        "uf": "SP"
+      },
+      "orgao": {
+        "nome": "Prefeitura do Município de São Paulo",
+        "chefe_governo_informado": "RICARDO NUNES",
+        "origem_informada": "EXECUTIVO",
+        "fonte_campo": "página de detalhes do Catálogo de Legislação Municipal"
+      },
+      "ambito": {
+        "poder": "Executivo",
+        "administracao": [
+          "direta",
+          "autarquica",
+          "fundacional"
+        ],
+        "abrangencia_literal": "Administração Pública direta, autárquica e fundacional do Município de São Paulo",
+        "adesao": "desconhecido",
+        "empresas_estatais": {
+          "literal": "As disposições deste decreto poderão se aplicar subsidiariamente às licitações e contratações promovidas pelas empresas estatais do Município de São Paulo, naquilo que não conflitar com o disposto na Lei Federal nº 13.303, de 30 de junho de 2016.",
+          "dispositivo": "art. 154",
+          "leitura": "Aplicação subsidiária literal do art. 154; não afirma abrangência automática nem prevalência sobre a Lei 13.303."
+        },
+        "nao_e": "endereço do fornecedor; Estado de São Paulo; administração estadual"
+      },
+      "fonte": {
+        "orgao": "Prefeitura do Município de São Paulo — Catálogo de Legislação Municipal (Casa Civil do Gabinete do Prefeito)",
+        "url": "https://legislacao.prefeitura.sp.gov.br/decreto-62100-de-27-de-dezembro-de-2022",
+        "formato": "html",
+        "publicacao_informada": {
+          "veiculo": "Diário Oficial da Cidade",
+          "data": "2022-12-27",
+          "pagina": "1",
+          "fonte_campo": "detalhes da norma"
+        },
+        "conferencia": [
+          "https://legislacao.prefeitura.sp.gov.br/decreto-62100-de-27-de-dezembro-de-2022/detalhe/694a9b27561d4850eef21173",
+          "https://legislacao.prefeitura.sp.gov.br/decreto-62100-de-27-de-dezembro-de-2022/consolidado"
+        ]
+      },
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "situacao_informada_pela_fonte": "ALTERADO",
+        "alteracoes_listadas_pela_fonte": [
+          "Decreto nº 62.436/2023 - Altera o artigo 153.",
+          "Decreto nº 64.863/2025 - Altera os artigos 27, 56, 130, 132 e 137."
+        ],
+        "aviso_fonte": "Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo",
+        "vigencia_certificada": false,
+        "leitura": "Edição consolidada/compilada exibida pelo catálogo oficial na URL capturada, com notas de alteração e trechos riscados. Integralidade refere-se à reprodução conferida dessa página HTML, não ao fac-símile do DOM nem à certificação de vigência."
+      },
+      "captura": {
+        "capturado_em": "2026-11-04T11:48:03Z",
+        "sha256_fonte": "34b523bbdb2c31e92fbec5ec1ddbfdcd46383402b9bc4e8bcfe3285e8088389f",
+        "sha256_markdown": "bed11a6059cf5fd2661f35fff3b13fe6c8a7203106bbb3ccd55cabb1fe269291",
+        "bytes_fonte": 163390
+      },
+      "hashes": {
+        "sha256_fonte": "34b523bbdb2c31e92fbec5ec1ddbfdcd46383402b9bc4e8bcfe3285e8088389f",
+        "sha256_markdown": "bed11a6059cf5fd2661f35fff3b13fe6c8a7203106bbb3ccd55cabb1fe269291",
+        "sha256_fonte_detalhe": "6252d43f097afd2a62574dfafef38b63501260293ed37403056062b7cd8a6ca2",
+        "sha256_fonte_consolidado": "ed95d9ce795b3b89b95aca588527a963aabc94fe57a6f166728909c474b06ae7"
+      },
+      "relacoes_federais": [
+        {
+          "tipo": "regulamento",
+          "alvo_norma_id": "br-federal-lei-2021-04-01-14133",
+          "alvo_titulo": "Lei Federal nº 14.133, de 1º de abril de 2021",
+          "evidencia_literal": "Dispõe sobre normas de licitação e contratos administrativos para a Administração Pública direta, autárquica e fundacional do Município de São Paulo, nos termos previstos na Lei Federal nº 14.133, de 1º de abril de 2021, bem como consolida a regulamentação da matéria em âmbito municipal.",
+          "fonte_url": "https://legislacao.prefeitura.sp.gov.br/decreto-62100-de-27-de-dezembro-de-2022",
+          "desconhecidos": [
+            "vigencia_aplicavel_a_casos_concretos",
+            "alcance_dispositivo_a_dispositivo_nao_catalogado_aqui"
+          ],
+          "leitura": "Remissão literal da ementa/art. 1º do decreto municipal. Não aplica automaticamente regulamentos federais ao município nem o inverso."
+        },
+        {
+          "tipo": "remissao",
+          "alvo_norma_id": "br-federal-lei-2016-06-30-13303",
+          "alvo_titulo": "Lei Federal nº 13.303, de 30 de junho de 2016",
+          "evidencia_literal": "As disposições deste decreto poderão se aplicar subsidiariamente às licitações e contratações promovidas pelas empresas estatais do Município de São Paulo, naquilo que não conflitar com o disposto na Lei Federal nº 13.303, de 30 de junho de 2016.",
+          "dispositivo_origem": "art. 154",
+          "fonte_url": "https://legislacao.prefeitura.sp.gov.br/decreto-62100-de-27-de-dezembro-de-2022",
+          "desconhecidos": [
+            "vigencia_certificada",
+            "conflitos_concretos_com_13303"
+          ],
+          "leitura": "Remissão literal do art. 154; subsidiariedade condicionada ao não conflito com a Lei 13.303."
+        }
+      ],
+      "provas": [
+        "provas/licitacoes-locais/SP/fontes.json",
+        "provas/licitacoes-locais/SP/cobertura-decreto-62100.json",
+        "provas/licitacoes-locais/SP/fontes/prefeitura-sp-decreto-62100.html.xz",
+        "provas/licitacoes-locais/SP/fontes/prefeitura-sp-decreto-62100-detalhe.html.xz",
+        "provas/licitacoes-locais/SP/fontes/prefeitura-sp-decreto-62100-consolidado.html.xz"
+      ],
+      "limites": [
+        "Cobertura parcial do tema licitações locais em SP; outras normas municipais/estaduais ficam fora deste catálogo.",
+        "Fac-símile do Diário Oficial da Cidade (27/12/2022, p. 1) não recuperado nesta entrega.",
+        "Edição histórica sem consolidações posteriores não foi publicada pelo catálogo como página separada na captura.",
+        "Não certifica vigência, eficácia residual nem aplicabilidade a editais concretos.",
+        "Não se confunde com o Decreto estadual 67.608/2023 nem com o âmbito da Administração Pública estadual."
+      ],
+      "anexos": [],
+      "alertas": [
+        {
+          "tipo": "transicao",
+          "dispositivo": "art. 153",
+          "resumo": "A fonte consolida redações sucessivas do art. 153 (incluindo alteração pelo Decreto nº 62.436/2023), com trecho anterior riscado; preservar notas e risco de conflito de regimes (14.133 vs 8.666/10.520/12.462) conforme o texto.",
+          "evidencia": "lista de alterações do catálogo + corpo consolidado com del/~~"
+        },
+        {
+          "tipo": "revogacao",
+          "dispositivo": "art. 159",
+          "resumo": "Art. 159 informa entrada em vigor em 1º de fevereiro de 2023 e lista revogações de decretos/dispositivos anteriores; o acervo reproduz a lista sem afirmar vigência residual dos atos revogados.",
+          "evidencia": "texto literal do art. 159 na fonte"
+        }
+      ]
+    }
+  ],
+  "reutilizados": [
+    {
+      "norma_id": "br-sp-norma-207462",
+      "arquivo": "estaduais/SP/br-sp-norma-207462.md",
+      "uf": "SP",
+      "ibge": null,
+      "ente": {
+        "tipo": "estado",
+        "nome": "Estado de São Paulo",
+        "uf": "SP"
+      },
+      "titulo_informado_no_arquivo": "DECRETO Nº 67.608, DE 27 DE MARÇO DE 2023",
+      "orgao": {
+        "nome": "Assembleia Legislativa do Estado de São Paulo / Governo do Estado de São Paulo",
+        "fonte_url_no_arquivo": "https://www.al.sp.gov.br/norma/?id=207462"
+      },
+      "ambito": {
+        "abrangencia_literal_no_arquivo": "no âmbito da Administração Pública estadual direta e autárquica",
+        "carater": "norma transitória (aplicação transitória de regulamentos federais enquanto não houver regulamentação estadual específica)",
+        "nao_e": "Município de São Paulo (IBGE 3550308); regulamentação municipal do Decreto 62.100/2022"
+      },
+      "edicao": {
+        "status_edicao_arquivo": "desconhecido",
+        "edicao_integral": "desconhecido",
+        "vigencia_certificada": false,
+        "leitura": "Arquivo já presente no acervo; presença não certifica edição atualizada nem integridade. Caráter transitório deve ser preservado; não tratar como regra universal atual."
+      },
+      "fonte": {
+        "url": "https://www.al.sp.gov.br/norma/207462",
+        "sha256_fonte": "desconhecido",
+        "capturado_em": "desconhecido"
+      },
+      "relacoes_federais": [
+        {
+          "tipo": "aplicacao_transitoria_regulamentos_federais",
+          "alvo_norma_id": "br-federal-lei-2021-04-01-14133",
+          "evidencia_literal_no_arquivo": "Dispõe sobre a aplicação transitória de regulamentos federais enquanto não houver regulamentação estadual específica sobre a regra de transição entre os regimes jurídicos de contratações públicas, no âmbito da Administração Pública estadual direta e autárquica, para a Lei federal nº 14.133, de 1º de abril de 2021",
+          "desconhecidos": [
+            "edicao_integral_do_arquivo",
+            "vigencia_certificada",
+            "atualizacao_posterior_ao_arquivo"
+          ],
+          "leitura": "Remissão e caráter transitório lidos do arquivo existente; sem nova captura nesta entrega SP."
+        }
+      ],
+      "provas": [],
+      "limites": [
+        "Reutilizado por identidade (ALESP norma/207462); não duplicar o Markdown.",
+        "Sem captura/hash próprios nesta entrega: edição e integridade permanecem desconhecidas.",
+        "Âmbito estadual distinto do Decreto municipal 62.100/2022 (IBGE 3550308)."
+      ],
+      "acao": "reutilizar",
+      "duplicar": false
+    }
+  ],
+  "pendencias": [
+    "Fac-símile do Diário Oficial da Cidade de São Paulo relativo à publicação do Decreto 62.100/2022 (27/12/2022, p. 1).",
+    "Edição histórica (texto original sem consolidações) do Decreto 62.100/2022, se/quando o catálogo ou o DOM a oferecerem de forma recuperável sem navegador/JS proprietário.",
+    "Conferência/captura própria do Decreto estadual 67.608/2023 (br-sp-norma-207462) para sair de edicao_integral=desconhecido.",
+    "Outras normas locais de licitações de SP (municípios além de 3550308; regulamentos estaduais posteriores ao 67.608) fora do recorte desta entrega."
+  ]
+}
