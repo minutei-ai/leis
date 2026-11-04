@@ -1,0 +1,10 @@
+{
+  "norma_id": "br-municipal-2611606-lei-organica-1990-04-04",
+  "metodo": "pdftotext -raw",
+  "sha256_corpo_markdown": "7c4e6108c07a9c94dc7ad063e0ef929559d28d4110b9b371a8feacbe3262a590",
+  "sha256_fonte": "579ec5c4d4b1468740d7a09251ebdfcf0e7b77fa512363d9e8301043e081ab3b",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "artigos_contados": 186,
+  "fold_ok": false,
+  "nota_fold": "Fonte PDF; cobertura por hashes e contagem de artigos."
+}

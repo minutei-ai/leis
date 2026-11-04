@@ -1,0 +1,11 @@
+{
+  "norma_id": "br-pi-decreto-2023-03-07-21872",
+  "metodo": "pdftotext -raw do PDF CGE + recorte Decreto 21.872 + higienização cabeçalhos DOE",
+  "sha256_corpo_markdown": "481151a497119258d3267eb4472e556e2f603a58b7a8532a058e5bd3be2a8b32",
+  "sha256_fonte": "0f2d4952fa3b72250ad8a9557b4db189535046ac2c3128f64c790fc1e54e62bb",
+  "capturado_em": "2026-11-04T21:20:00Z",
+  "artigos_contados": 188,
+  "artigos_max_marcador": 191,
+  "fold_ok": false,
+  "nota_fold": "Fonte PDF; cobertura por contagem de artigos e hashes — fold HTML↔MD não aplicável."
+}

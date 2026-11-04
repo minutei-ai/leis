@@ -1,0 +1,10 @@
+{
+  "norma_id": "br-se-decreto-2023-06-28-342",
+  "metodo": "pdftotext -raw do PDF SEFAZ + remoção de números de página isolados",
+  "sha256_corpo_markdown": "c0860553bf0b8fda77bdad17d60768356ff2f87f0c3f9de4d53b751813218a47",
+  "sha256_fonte": "8b9a4611809f85dfb4bc90148687c0dfcf20ca3ad1b7145b132ac882b3ac7054",
+  "capturado_em": "2026-11-04T21:05:00Z",
+  "artigos_contados": 258,
+  "fold_ok": false,
+  "nota_fold": "Fonte PDF; cobertura por contagem de artigos e hashes."
+}

@@ -1,0 +1,535 @@
+{
+  "tema": "nordeste-lei-14133-recorte",
+  "cobertura": "parcial",
+  "contrato_versao": 1,
+  "issues": [
+    73,
+    101
+  ],
+  "recorte_ufs": [
+    "AL",
+    "BA",
+    "CE",
+    "MA",
+    "PB",
+    "PE",
+    "PI",
+    "RN",
+    "SE"
+  ],
+  "nota": "Inventário setorial do recorte Nordeste (issues #73/#101). Não altera índices compartilhados regulamentacao-14133-ufs/capitais nem README global. Não certifica vigência. HTTP≠ausência. Parcial/temático/transitório ≠ geral. Menção ≠ norma. DF fora (entidade especial). Não duplica AM/DF/SP.",
+  "ufs": [
+    {
+      "uf": "AL",
+      "status_acervo": "nao-encontrado-geral-no-acervo",
+      "decretos_14133": [],
+      "fonte_oficial_indicada": "https://diario.imprensaoficial.al.gov.br/",
+      "tentativas": [
+        {
+          "url": "https://diario.imprensaoficial.al.gov.br/",
+          "resultado": "DOE AL acessível; decretos pontuais (ex. convênios) — não geral 14.133",
+          "bloqueio": false
+        },
+        {
+          "url": "https://sapl.maceio.al.leg.br/",
+          "resultado": "timeout/falha de conexão neste ambiente",
+          "bloqueio": true
+        }
+      ],
+      "pendencias": [
+        "Localizar e publicar decreto geral estadual 14.133 se existir; LO + decreto geral municipal de Maceió (2704302)."
+      ]
+    },
+    {
+      "uf": "BA",
+      "status_acervo": "lei-disciplinadora-e-suite-tematica",
+      "decretos_14133": [
+        {
+          "norma_id": "br-ba-norma-143524",
+          "titulo": "Lei 14.634/2023",
+          "arquivo": "estaduais/BA/br-ba-norma-143524.md",
+          "carater": "lei-estadual-disciplinadora-14133",
+          "reutilizado": true,
+          "fonte_url": "https://www.legislabahia.ba.gov.br/documentos/lei-no-14634-de-28-de-novembro-de-2023"
+        },
+        {
+          "norma_id": "br-ba-decreto-2024-06-20-22885",
+          "titulo": "Decreto 22.885/2024",
+          "arquivo": "estaduais/BA/br-ba-decreto-2024-06-20-22885.md",
+          "carater": "agentes-funcoes-essenciais",
+          "fonte_url": "https://www.legislabahia.ba.gov.br/documentos/decreto-no-22885-de-20-de-junho-de-2024"
+        }
+      ],
+      "fonte_oficial_indicada": "https://www.legislabahia.ba.gov.br/",
+      "pendencias": [
+        "Mapear demais decretos temáticos; decreto geral estadual se existir além da Lei 14.634; decreto geral municipal Salvador."
+      ]
+    },
+    {
+      "uf": "CE",
+      "status_acervo": "suite-tematica-sem-decreto-geral",
+      "decretos_14133": [
+        {
+          "norma_id": "br-ce-decreto-2023-01-19-35283",
+          "titulo": "Decreto 35.283/2023",
+          "arquivo": "estaduais/CE/br-ce-decreto-2023-01-19-35283.md",
+          "carater": "etp-tr",
+          "fonte_url": "https://www.seplag.ce.gov.br/wp-content/uploads/sites/14/2023/01/Decreto-Estadual-no-35.283-19012023-Regulamenta-Lei-Federal-no-14.133-Ambito-Adm-Publica-Poder-Executivo-1.pdf"
+        }
+      ],
+      "fonte_oficial_indicada": "https://www.seplag.ce.gov.br/",
+      "tentativas": [
+        {
+          "url": "seplag PDF direto",
+          "resultado": "HTTP 500",
+          "bloqueio": true
+        },
+        {
+          "url": "wayback do mesmo URL",
+          "resultado": "PDF obtido; 35.283 ETP/TR publicado",
+          "bloqueio": false
+        },
+        {
+          "url": "https://legislacao.pgm.fortaleza.ce.gov.br/ api search 14.133",
+          "resultado": "0 hits para decreto municipal geral 14.133",
+          "bloqueio": false
+        }
+      ],
+      "pendencias": [
+        "Localizar decreto geral estadual se existir; decreto geral municipal Fortaleza."
+      ]
+    },
+    {
+      "uf": "MA",
+      "status_acervo": "identificado-transitorio-nao-coletado",
+      "decretos_14133": [],
+      "identificacao_externa": {
+        "titulo": "Decreto 38.189/2023",
+        "carater_alegado": "marco-temporal-transicao",
+        "status": "identificado-nao-coletado"
+      },
+      "fonte_oficial_indicada": "https://www.diariooficial.ma.gov.br/",
+      "tentativas": [
+        {
+          "url": "https://www.diariooficial.ma.gov.br/",
+          "resultado": "portal acessível; íntegra 38.189 não recuperada automaticamente",
+          "bloqueio": false
+        },
+        {
+          "url": "https://leisestaduais.com.br/ma/decreto-n-38189-2023-maranhao",
+          "resultado": "Cloudflare challenge 403",
+          "bloqueio": true
+        },
+        {
+          "url": "https://www.normasbrasil.com.br/norma/decreto-38189-2023-ma_425891.html",
+          "resultado": "ID aponta norma diversa (não 38.189 licitações)",
+          "bloqueio": false
+        },
+        {
+          "url": "LegisWeb IDs tentados",
+          "resultado": "IDs errados (SUSEP/ICMS); 38.136 SRP encontrado como temático distinto",
+          "bloqueio": false
+        }
+      ],
+      "pendencias": [
+        "Coletar 38.189 classificando como transitório; buscar regulamento geral; LO + decreto São Luís (2111300)."
+      ]
+    },
+    {
+      "uf": "PB",
+      "status_acervo": "nao-encontrado-geral-no-acervo",
+      "decretos_14133": [],
+      "fonte_oficial_indicada": "https://paraiba.pb.gov.br/diretas/secretaria-de-administracao/",
+      "tentativas": [
+        {
+          "url": "SEA/PB legislacao",
+          "resultado": "WAF/captcha — bloqueio de acesso, não ausência",
+          "bloqueio": true
+        },
+        {
+          "url": "https://www.cmjp.pb.gov.br/",
+          "resultado": "HTTP 500 intermitente",
+          "bloqueio": true
+        },
+        {
+          "url": "https://sapl.joaopessoa.pb.leg.br/",
+          "resultado": "SAPL acessível; LO publicada neste lote; decreto municipal 14.133 não localizado na busca rápida",
+          "bloqueio": false
+        }
+      ],
+      "pendencias": [
+        "Retomar SEA/PB quando WAF permitir; localizar geral estadual; decreto geral municipal João Pessoa."
+      ]
+    },
+    {
+      "uf": "PE",
+      "status_acervo": "suite-tematica-sem-decreto-geral",
+      "decretos_14133": [
+        {
+          "norma_id": "br-pe-decreto-2021-10-27-51651",
+          "titulo": "Decreto 51.651/2021",
+          "arquivo": "estaduais/PE/br-pe-decreto-2021-10-27-51651.md",
+          "carater": "agentes-funcoes-essenciais",
+          "fonte_url": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=6&numero=51651&complemento=0&ano=2021&tipo=&url="
+        },
+        {
+          "norma_id": "br-pe-decreto-2021-10-27-51652",
+          "titulo": "Decreto 51.652/2021",
+          "arquivo": "estaduais/PE/br-pe-decreto-2021-10-27-51652.md",
+          "carater": "planejamento-bens-consumo-padronizacao",
+          "fonte_url": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=6&numero=51652&complemento=0&ano=2021&tipo=&url="
+        },
+        {
+          "norma_id": "br-pe-decreto-2022-12-14-54142",
+          "titulo": "Decreto 54.142/2022",
+          "arquivo": "estaduais/PE/br-pe-decreto-2022-12-14-54142.md",
+          "carater": "rito-menor-preco-maior-desconto-pregao-concorrencia",
+          "fonte_url": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=6&numero=54142&complemento=0&ano=2022&tipo=&url="
+        },
+        {
+          "norma_id": "br-pe-decreto-2023-05-16-54700",
+          "titulo": "Decreto 54.700/2023",
+          "arquivo": "estaduais/PE/br-pe-decreto-2023-05-16-54700.md",
+          "carater": "srp-art78-iv",
+          "fonte_url": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=6&numero=54700&complemento=0&ano=2023&tipo=&url="
+        },
+        {
+          "norma_id": "br-pe-decreto-2023-12-12-55916",
+          "titulo": "Decreto 55.916/2023",
+          "arquivo": "estaduais/PE/br-pe-decreto-2023-12-12-55916.md",
+          "carater": "especifico-gratificacoes-lei-18384",
+          "reutilizado": true,
+          "fonte_url": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=6&numero=55916&complemento=0&ano=2023&tipo=&url="
+        }
+      ],
+      "fonte_oficial_indicada": "https://legis.alepe.pe.gov.br/",
+      "pendencias": [
+        "Suite temática ≠ geral; localizar geral se existir; decreto geral municipal Recife."
+      ]
+    },
+    {
+      "uf": "PI",
+      "status_acervo": "decreto-geral-publicado",
+      "decretos_14133": [
+        {
+          "norma_id": "br-pi-decreto-2023-03-07-21872",
+          "titulo": "Decreto 21.872/2023",
+          "arquivo": "estaduais/PI/br-pi-decreto-2023-03-07-21872.md",
+          "carater": "regulamento-geral-estadual",
+          "fonte_url": "https://portal.pi.gov.br/cge/download/155/licitacoes-e-contratos-administrativos/5577/decreto-estadual-21-872-2023-regulamenta-nova-lei-de-licitacoes-e-contratos.pdf",
+          "provas": {
+            "fontes": "provas/regulamentacao-14133-ufs/PI/fontes.json",
+            "cobertura": "provas/regulamentacao-14133-ufs/PI/cobertura-21872.json"
+          }
+        }
+      ],
+      "fonte_oficial_indicada": "https://portal.pi.gov.br/cge/",
+      "tentativas": [
+        {
+          "url": "DOE PI Api/buscaavancada.json",
+          "resultado": "HTTP 200 null",
+          "bloqueio": false
+        },
+        {
+          "url": "DOE antigo março/2023",
+          "resultado": "páginas brancas / sem PDFs",
+          "bloqueio": true
+        },
+        {
+          "url": "CGE PDF",
+          "resultado": "PDF multi-ato obtido; 21.872 recortado e publicado (191 arts. na fonte; marcadores Art. 188)",
+          "bloqueio": false
+        }
+      ],
+      "pendencias": [
+        "LO + decreto geral municipal Teresina (2211001); inventariar alterações posteriores ao 21.872."
+      ]
+    },
+    {
+      "uf": "RN",
+      "status_acervo": "decreto-geral-publicado",
+      "decretos_14133": [
+        {
+          "norma_id": "br-rn-decreto-2023-03-07-32449",
+          "titulo": "Decreto 32.449/2023",
+          "arquivo": "estaduais/RN/br-rn-decreto-2023-03-07-32449.md",
+          "carater": "regulamento-geral-estadual",
+          "fonte_url": "https://webdisk.diariooficial.rn.gov.br/Jornal/12023-03-08.pdf",
+          "provas": {
+            "fontes": "provas/regulamentacao-14133-ufs/RN/fontes.json",
+            "cobertura": "provas/regulamentacao-14133-ufs/RN/cobertura-32449.json"
+          }
+        }
+      ],
+      "fonte_oficial_indicada": "https://webdisk.diariooficial.rn.gov.br/",
+      "pendencias": [
+        "Decreto geral municipal Natal; inventariar anexos/alterações DOE."
+      ]
+    },
+    {
+      "uf": "SE",
+      "status_acervo": "decreto-geral-publicado",
+      "decretos_14133": [
+        {
+          "norma_id": "br-se-decreto-2023-06-28-342",
+          "titulo": "Decreto 342/2023",
+          "arquivo": "estaduais/SE/br-se-decreto-2023-06-28-342.md",
+          "carater": "regulamento-geral-estadual",
+          "fonte_url": "https://www.sefaz.se.gov.br/Biblioteca%20de%20Arquivos/PDFS/Transpar%C3%AAncia/Decreto-342-2023.pdf",
+          "provas": {
+            "fontes": "provas/regulamentacao-14133-ufs/SE/fontes.json",
+            "cobertura": "provas/regulamentacao-14133-ufs/SE/cobertura-342.json"
+          }
+        }
+      ],
+      "fonte_oficial_indicada": "https://www.sefaz.se.gov.br/",
+      "tentativas": [
+        {
+          "url": "AGRESE 'PDF' alterado pelo 432",
+          "resultado": "HTML espelho, não PDF da íntegra original",
+          "bloqueio": false
+        }
+      ],
+      "pendencias": [
+        "Incorporar/alterações 432/2023 em inventário; LO + decreto Aracaju (2800308)."
+      ]
+    }
+  ],
+  "capitais": [
+    {
+      "uf": "AL",
+      "capital": "Maceió",
+      "ibge": "2704302",
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "tentativas": [
+        {
+          "url": "https://sapl.maceio.al.leg.br/",
+          "resultado": "timeout/falha",
+          "bloqueio": true
+        }
+      ],
+      "pendencias": [
+        "LO + decreto geral municipal"
+      ]
+    },
+    {
+      "uf": "BA",
+      "capital": "Salvador",
+      "ibge": "2927408",
+      "lei_organica": "municipais/2927408/br-municipal-2927408-lei-organica-consolidada-2024.md",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "tentativas": [
+        {
+          "url": "https://www.cms.ba.gov.br/lei-organica",
+          "resultado": "PDF consolidado Emenda 41 publicado",
+          "bloqueio": false
+        },
+        {
+          "url": "https://dom.salvador.ba.gov.br/",
+          "resultado": "falha de conexão",
+          "bloqueio": true
+        }
+      ],
+      "pendencias": [
+        "Localizar e publicar decreto geral municipal 14.133"
+      ]
+    },
+    {
+      "uf": "CE",
+      "capital": "Fortaleza",
+      "ibge": "2304400",
+      "lei_organica": "municipais/2304400/br-municipal-2304400-lei-organica.md",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "tentativas": [
+        {
+          "url": "https://legislacao.pgm.fortaleza.ce.gov.br/index.php/Lei_Orgânica_do_Município",
+          "resultado": "HTML MediaWiki publicado",
+          "bloqueio": false
+        },
+        {
+          "url": "API search 14.133",
+          "resultado": "0 hits",
+          "bloqueio": false
+        },
+        {
+          "url": "http://www.cmfor.ce.gov.br/",
+          "resultado": "página mínima ~1KB",
+          "bloqueio": true
+        }
+      ],
+      "pendencias": [
+        "Decreto geral municipal 14.133"
+      ]
+    },
+    {
+      "uf": "MA",
+      "capital": "São Luís",
+      "ibge": "2111300",
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "tentativas": [
+        {
+          "url": "https://www.camara.saoluis.ma.gov.br/",
+          "resultado": "falha de conexão",
+          "bloqueio": true
+        },
+        {
+          "url": "https://sapl.saoluis.ma.leg.br/",
+          "resultado": "falha de conexão",
+          "bloqueio": true
+        }
+      ],
+      "pendencias": [
+        "LO + decreto geral"
+      ]
+    },
+    {
+      "uf": "PB",
+      "capital": "João Pessoa",
+      "ibge": "2507507",
+      "lei_organica": "municipais/2507507/br-municipal-2507507-lei-organica-1990.md",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "tentativas": [
+        {
+          "url": "https://sapl.joaopessoa.pb.leg.br/norma tipo=9",
+          "resultado": "LO consolidada até ELO 44/2026 publicada",
+          "bloqueio": false
+        }
+      ],
+      "pendencias": [
+        "Decreto geral municipal 14.133"
+      ]
+    },
+    {
+      "uf": "PE",
+      "capital": "Recife",
+      "ibge": "2611606",
+      "lei_organica": "municipais/2611606/br-municipal-2611606-lei-organica-1990-04-04.md",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "tentativas": [
+        {
+          "url": "https://www.recife.pe.leg.br/.../lei-organica_atualizada-em-15-12-2025-docx.pdf",
+          "resultado": "PDF 146 págs publicado",
+          "bloqueio": false
+        },
+        {
+          "url": "https://dome.recife.pe.gov.br/",
+          "resultado": "falha de conexão",
+          "bloqueio": true
+        }
+      ],
+      "pendencias": [
+        "Decreto geral municipal 14.133"
+      ]
+    },
+    {
+      "uf": "PI",
+      "capital": "Teresina",
+      "ibge": "2211001",
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "tentativas": [
+        {
+          "url": "https://www.camara.teresina.pi.gov.br/",
+          "resultado": "falha de conexão",
+          "bloqueio": true
+        },
+        {
+          "url": "https://sapl.teresina.pi.leg.br/",
+          "resultado": "falha de conexão",
+          "bloqueio": true
+        }
+      ],
+      "pendencias": [
+        "LO + decreto geral"
+      ]
+    },
+    {
+      "uf": "RN",
+      "capital": "Natal",
+      "ibge": "2408102",
+      "lei_organica": "municipais/2408102/br-municipal-2408102-lei-organica-1990.md",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "tentativas": [
+        {
+          "url": "https://sapl.natal.rn.leg.br/norma tipo=10",
+          "resultado": "LO consolidada publicada",
+          "bloqueio": false
+        },
+        {
+          "url": "https://www.natal.rn.gov.br/dom",
+          "resultado": "portal DOM acessível; decreto 14.133 municipal não localizado automaticamente",
+          "bloqueio": false
+        }
+      ],
+      "pendencias": [
+        "Decreto geral municipal 14.133"
+      ]
+    },
+    {
+      "uf": "SE",
+      "capital": "Aracaju",
+      "ibge": "2800308",
+      "lei_organica": "ausente",
+      "decreto_14133": "ausente",
+      "decreto_14133_carater": "ausente",
+      "tentativas": [
+        {
+          "url": "https://www.aracaju.se.leg.br/",
+          "resultado": "home acessível sem LO direta",
+          "bloqueio": false
+        },
+        {
+          "url": "https://www.aracaju.se.leg.br/atividade-legislativa/lei-organica",
+          "resultado": "HTTP 404",
+          "bloqueio": true
+        },
+        {
+          "url": "https://sapl.aracaju.se.leg.br/",
+          "resultado": "falha de conexão",
+          "bloqueio": true
+        }
+      ],
+      "pendencias": [
+        "LO + decreto geral"
+      ]
+    }
+  ],
+  "resumo": {
+    "ufs_com_geral_publicado": [
+      "PI",
+      "RN",
+      "SE"
+    ],
+    "ufs_suite_ou_lei_sem_geral": [
+      "BA",
+      "CE",
+      "PE"
+    ],
+    "ufs_identificado_nao_coletado": [
+      "MA"
+    ],
+    "ufs_sem_geral_localizado": [
+      "AL",
+      "PB"
+    ],
+    "capitais_com_lo_publicada": [
+      "BA",
+      "CE",
+      "PB",
+      "PE",
+      "RN"
+    ],
+    "capitais_com_decreto_geral_14133": [],
+    "nota": "Índices compartilhados NÃO atualizados neste PR; integração posterior."
+  }
+}

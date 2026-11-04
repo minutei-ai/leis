@@ -13,6 +13,67 @@
       "sha256_corpo_markdown": "4316315976e3282b4f159a3bb04693f38991cbce057270bc95ab3f317ee0b356",
       "sha256_markdown": "39ceb656c02fe090202fbb528b95cd9039b5aff071b6e874431c6f8fc1774ef2",
       "carater": "especifico-gratificacoes-lei-18384"
+    },
+    {
+      "chave": "alepe-decreto-51651-2021",
+      "url": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=6&numero=51651&complemento=0&ano=2021&tipo=&url=",
+      "arquivo": "provas/regulamentacao-14133-ufs/PE/fontes/alepe-decreto-51651-2021.html.xz",
+      "formato": "html",
+      "sha256_conteudo": "52d21f28d59729f9db52bb13dae6ee4755316d105087f43d9a59fe0ca1594be8",
+      "sha256_arquivo_xz": "f6ab71dcd39f4af74f04b9f3addaaabf5a82960db9778b286be3be5cdb6e5893",
+      "bytes_fonte": 302449,
+      "capturado_em": "2026-11-04T21:05:00Z",
+      "sha256_corpo_markdown": "771325740de4e698ad1b5d3efc9a21ba14fb55bbe3541a3208f0bf708bc2d7db",
+      "sha256_markdown": "6e47e6edb65ed10062afb546a54bea36cfd49d37c9acae861432cd06ee3577ae",
+      "carater": "agentes-funcoes-essenciais",
+      "norma_id": "br-pe-decreto-2021-10-27-51651",
+      "arquivo_md": "estaduais/PE/br-pe-decreto-2021-10-27-51651.md"
+    },
+    {
+      "chave": "alepe-decreto-54700-2023",
+      "url": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=6&numero=54700&complemento=0&ano=2023&tipo=&url=",
+      "arquivo": "provas/regulamentacao-14133-ufs/PE/fontes/alepe-decreto-54700-2023.html.xz",
+      "formato": "html",
+      "sha256_conteudo": "307209872a13c7b287ad6eb0f034462ec179b4eda10c12754a5e8e1168e6a41c",
+      "sha256_arquivo_xz": "9ced9184ef5b041fa9fc13b7537105b6c5f09e79f8e7ae4ac44407c607735012",
+      "bytes_fonte": 489843,
+      "capturado_em": "2026-11-04T21:05:00Z",
+      "sha256_corpo_markdown": "ccc2aff361836ef85cdbd50cd2ba5212291139d4acc5835713b0321420ec22a3",
+      "sha256_markdown": "803c7e08ee0abdada5649283711abf05acb8fad04c6d5e285709bd6676d33f73",
+      "carater": "srp-art78-iv",
+      "norma_id": "br-pe-decreto-2023-05-16-54700",
+      "arquivo_md": "estaduais/PE/br-pe-decreto-2023-05-16-54700.md"
+    },
+    {
+      "chave": "alepe-decreto-51652-2021",
+      "url": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=6&numero=51652&complemento=0&ano=2021&tipo=&url=",
+      "arquivo": "provas/regulamentacao-14133-ufs/PE/fontes/alepe-decreto-51652-2021.html.xz",
+      "formato": "html",
+      "sha256_conteudo": "7009721b99fe62abfdc272724ac4627672aa19fe258552561fdafbbe36fdb6d0",
+      "sha256_arquivo_xz": "114e12a310bcf768564c0808b503bb9cd20c441cb87f87835778f45b5da6ca21",
+      "bytes_fonte": 155410,
+      "capturado_em": "2026-11-04T21:20:00Z",
+      "sha256_corpo_markdown": "78a7b2b7b6084950954f5310f4f7a2d4f2b7427a315db8037b35bcb41cc3f263",
+      "sha256_markdown": "791c26b874a76a34ff58dbd82f074d3aa2c544b2a720f33cae418173f86bd88f",
+      "carater": "planejamento-bens-consumo-padronizacao",
+      "norma_id": "br-pe-decreto-2021-10-27-51652",
+      "arquivo_md": "estaduais/PE/br-pe-decreto-2021-10-27-51652.md"
+    },
+    {
+      "chave": "alepe-decreto-54142-2022",
+      "url": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=6&numero=54142&complemento=0&ano=2022&tipo=&url=",
+      "arquivo": "provas/regulamentacao-14133-ufs/PE/fontes/alepe-decreto-54142-2022.html.xz",
+      "formato": "html",
+      "sha256_conteudo": "72cc78205ae64bf1abc587df65cb06414f8b926b2f7014730aa094018d0b9c89",
+      "sha256_arquivo_xz": "5fb5b98d8250f03660d62e2d3fb728c5059225c620527f555e2a2f5e83014599",
+      "bytes_fonte": 597979,
+      "capturado_em": "2026-11-04T21:20:00Z",
+      "sha256_corpo_markdown": "d00e66d747ec3c9ab9376ca86c68576ad90532d8df326f2424c6cd5c08be5548",
+      "sha256_markdown": "88d8041221352793bfe64f41b591b899da1c2d9769a8534ca2d328167f07abce",
+      "carater": "rito-menor-preco-maior-desconto-pregao-concorrencia",
+      "norma_id": "br-pe-decreto-2022-12-14-54142",
+      "arquivo_md": "estaduais/PE/br-pe-decreto-2022-12-14-54142.md"
     }
-  ]
+  ],
+  "capturado_em_lote_nordeste": "2026-11-04T21:05:00Z"
 }

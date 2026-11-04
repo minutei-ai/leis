@@ -1,0 +1,9 @@
+{
+  "norma_id": "br-municipal-2408102-lei-organica-1990",
+  "metodo": "pdftotext -raw",
+  "sha256_corpo_markdown": "5d1bf8aca516d69dd692a144a609dcd8b7c675972402ce0647162ab139771f40",
+  "sha256_fonte": "41c3a5e75035541559086faa1ade980903177a90162fe5834247179d3b15e44d",
+  "capturado_em": "2026-11-04T21:45:00Z",
+  "artigos_contados": 180,
+  "fold_ok": false
+}
