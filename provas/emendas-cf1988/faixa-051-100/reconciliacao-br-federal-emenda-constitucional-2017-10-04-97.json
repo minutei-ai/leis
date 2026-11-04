@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-emenda-constitucional-2017-10-04-97",
+  "fonte_principal": "planalto-emc97",
+  "sha256_fonte_principal": "ace489a6e55f09015135d1c8588e47b30ec74145d7f6e850a04c226b655d9bbf",
+  "sha256_conteudo": "5ccec2d9443c43bd7c807c53e1930c1c65cba8afdbf3c8da34e7bf2a44537d27",
+  "capturado_em": "2026-11-04T12:40:24Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc97.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-051-100/fontes/planalto-emc97.htm.xz",
+  "sha256_snapshot_armazenado": "b835851bb0df580032e090310209d2de31426070a66e190c16c87cb3d07c07c3",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": null,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 3736,
+    "caracteres_normalizados_markdown": 3736,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 7,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 45,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2017-10-04-97",
+    "numero": "97",
+    "data": "2017-10-04",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 97, DE 4 DE OUTUBRO DE 2017",
+    "ementa": "Altera a Constituição Federal para vedar as coligações partidárias nas eleições proporcionais, estabelecer normas sobre acesso dos partidos políticos aos recursos do fundo partidário e ao tempo de propaganda gratuito no rádio e na televisão e dispor sobre regras de transição.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2017-10-04;97",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}
