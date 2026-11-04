@@ -561,6 +561,17 @@ def verify() -> list[str]:
             errors.append(f'provas/nucleo-cdc-eca/{name}: ausente')
             continue
         published = json.loads(path.read_text(encoding='utf-8'))
+        if name == 'ferramentas.json':
+            # Proveniência do ambiente de geração, não do executor do verify.
+            # A reconversão acima continua exigindo igualdade integral dos artefatos.
+            if set(published) != set(expected) or any(
+                    not isinstance(published.get(k), str) or not published[k].strip()
+                    for k in expected):
+                errors.append('ferramentas.json: registro de geração inválido')
+            for k in ('nota', 'lote'):
+                if published.get(k) != expected[k]:
+                    errors.append(f'ferramentas.json: {k} diverge')
+            continue
         if published != json.loads(json.dumps(expected, ensure_ascii=False)):
             errors.append(f'provas/nucleo-cdc-eca/{name}: diverge do recálculo')
     if not MANIFESTO.exists():

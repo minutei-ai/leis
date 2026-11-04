@@ -4,6 +4,7 @@ from __future__ import annotations
 import json
 import tempfile
 import unittest
+from unittest.mock import patch
 from pathlib import Path
 import sys
 
@@ -96,6 +97,11 @@ class VerifyOfflineTests(unittest.TestCase):
     def test_verify_clean(self):
         errors = lote.verify()
         self.assertEqual(errors, [], msg='\n'.join(errors))
+
+    def test_runtime_versions_do_not_rewrite_generation_provenance(self):
+        versions = dict(lote.nl.tool_versions(), python='3.12-ci', pdftotext='CI poppler')
+        with patch.object(lote.nl, 'tool_versions', return_value=versions):
+            self.assertEqual(lote.verify(), [])
 
     def test_new_substantial_divergence_fails(self):
         doc = lote.DOCS[0]
