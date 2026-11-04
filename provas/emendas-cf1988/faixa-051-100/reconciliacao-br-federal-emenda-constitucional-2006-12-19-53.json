@@ -1,0 +1,76 @@
+{
+  "documento": "br-federal-emenda-constitucional-2006-12-19-53",
+  "fonte_principal": "planalto-emc53",
+  "sha256_fonte_principal": "39dcbe41c2be864027a098fd2bbf99d5d1ee09ef7c87af40e4919f7b49ca46d1",
+  "sha256_conteudo": "f8bd95c6e7510f9b984cd07616a7ca4d3c6108bdcf5d97bd90c660b47bed9c1d",
+  "capturado_em": "2026-11-04T12:40:24Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc53.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-051-100/fontes/planalto-emc53.htm.xz",
+  "sha256_snapshot_armazenado": "a3c539d276cb4ef59498e74df87793ebd402a6a564039b9fd378105472f3568b",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": "https://www2.camara.leg.br/legin/fed/emecon/2006/emendaconstitucional-53-19-dezembro-2006-548446-publicacaooriginal-63582-pl.html",
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 8269,
+    "caracteres_normalizados_markdown": 8269,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 12,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 77,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2006-12-19-53",
+    "numero": "53",
+    "data": "2006-12-19",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 53, DE 19 DE DEZEMBRO DE 2006",
+    "ementa": "Dá nova redação aos arts. 7º, 23, 30, 206, 208, 211 e 212 da Constituição Federal e ao art. 60 do Ato das Disposições Constitucionais Transitórias.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2006-12-19;53",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}

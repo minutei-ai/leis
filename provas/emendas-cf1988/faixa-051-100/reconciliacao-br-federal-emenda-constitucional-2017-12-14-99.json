@@ -1,0 +1,78 @@
+{
+  "documento": "br-federal-emenda-constitucional-2017-12-14-99",
+  "fonte_principal": "planalto-emc99",
+  "sha256_fonte_principal": "6eca3d9c71d73732d9f751705c60bca39a04f00535e1d877961f0ea2a0c89fa0",
+  "sha256_conteudo": "444f109c641e8aaf939df16c61e70dd1e7bdd999f0c4c1ad0579f8f7d1b44404",
+  "capturado_em": "2026-11-04T12:40:24Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc99.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-051-100/fontes/planalto-emc99.htm.xz",
+  "sha256_snapshot_armazenado": "46347711a13f085619e5b857f35fa38e86715a1fc198e21361f08b2ca4009d4f",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": null,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 7557,
+    "caracteres_normalizados_markdown": 7557,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 16,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 15,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 36,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2017-12-14-99",
+    "numero": "99",
+    "data": "2017-12-14",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 99, DE 14 DE DEZEMBRO DE 2017",
+    "ementa": "Altera o art. 101 do Ato das Disposições Constitucionais Transitórias, para instituir novo regime especial de pagamento de precatórios, e os arts. 102, 103 e 105 do Ato das Disposições Constitucionais Transitórias.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2017-12-14;99",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}
