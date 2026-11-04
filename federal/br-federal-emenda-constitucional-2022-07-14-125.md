@@ -1,0 +1,101 @@
+---
+id: "br-federal-emenda-constitucional-2022-07-14-125"
+norma_id: "br-federal-emenda-constitucional-2022-07-14-125"
+norma_tipo: "emenda-constitucional"
+norma_numero: "125"
+norma_data: "2022-07-14"
+titulo: "EMENDA CONSTITUCIONAL Nº 125, DE 14 DE JULHO DE 2022"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2022-07-14-125@consolidada-planalto"
+edicao_tipo: "consolidada"
+edicao_integral: true
+fonte_orgao: "Presidência da República — Planalto"
+fonte_url: "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc125.htm"
+fonte_formato: "html"
+fonte_conferencia: "nenhuma"
+capturado_em: "2026-11-04T12:54:08Z"
+sha256_fonte: "93f6283f924e735aaefaa9d6ea7bd38df672f0b745915e64763c603c32311f4f"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 1
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "e7cef3ceb11d7599295919484e32265db9bcd0cdb4216a9e066e056aafc0ab28"
+manifesto: "provas/emendas-cf1988/faixa-101-141/manifesto.json"
+contrato_versao: 1
+---
+
+Presidência da República Casa Civil Subchefia para Assuntos Jurídicos
+
+# EMENDA CONSTITUCIONAL Nº 125, DE 14 DE JULHO DE 2022
+
+<!-- nota-edicao:inicio -->
+
+> **Edição Planalto — texto autônomo da Emenda Constitucional nº 125.** Fonte: https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc125.htm (capturada em 2026-11-04T12:54:08Z, SHA-256 da fonte `93f6283f924e735aaefaa9d6ea7bd38df672f0b745915e64763c603c32311f4f`, SHA-256 do conteúdo sem script de proteção `15e6b88028ea157ee439723b310a8098ec63c240b97c4c8b6ac31b7e41f45272`). Snapshot: `provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc125.htm.xz`. O acervo não certifica vigência.
+>
+> Texto autônomo do ato modificador (regras de transição, produção de efeitos, aplicação, revogações e dispositivos próprios), conforme publicado pelo Planalto — não é apenas a redação incorporada no corpo consolidado da Constituição/ADCT.
+>
+> Texto entre `~~` é redação superada, vetada ou revogada que a fonte oficial mantém riscada; não é dispositivo em vigor. A presença deste arquivo no acervo não indica vigência.
+>
+> Série: Emenda Constitucional à Constituição de 1988. Não confundir com Emenda Constitucional de Revisão nem com emendas a constituições históricas.
+>
+> URL de publicação original da Câmara não estava vinculada no texto constitucional publicado neste acervo para este número; a coleta usou o Planalto oficial. Falha de acesso à Câmara não foi tratada como ausência da norma.
+>
+> Este texto não substitui o publicado no DOU de 15.7.2022
+>
+> Prova de cobertura fonte→Markdown e reconversão: `provas/emendas-cf1988/faixa-101-141/reconciliacao-br-federal-emenda-constitucional-2022-07-14-125.json`.
+>
+> 1 imagem(ns) institucional(is) do cabeçalho da página foram omitidas do Markdown (brasão/logotipo sem texto jurídico).
+>
+> 1 tabela(s) da fonte foram convertidas para Markdown/`<table>` no corpo.
+
+<!-- nota-edicao:fim -->
+
+Altera o art. 105 da Constituição Federal para instituir no recurso especial o requisito da relevância das questões de direito federal infraconstitucional.
+
+As Mesas da Câmara dos Deputados e do Senado Federal, nos termos do § 3º do art. 60 da Constituição Federal, promulgam a seguinte Emenda ao texto constitucional:
+
+Art. 1º O art. 105 da [Constituição Federal](https://www.planalto.gov.br/ccivil_03/constituicao/Constituicao.htm) passa a vigorar com as seguintes alterações:
+
+"Art. 105. ......................................................................................................
+
+§ 1º ...............................................................................................................
+
+[§ 2º](https://www.planalto.gov.br/ccivil_03/constituicao/Constituicao.htm#art105§2) No recurso especial, o recorrente deve demonstrar a relevância das questões de direito federal infraconstitucional discutidas no caso, nos termos da lei, a fim de que a admissão do recurso seja examinada pelo Tribunal, o qual somente pode dele não conhecer com base nesse motivo pela manifestação de 2/3 (dois terços) dos membros do órgão competente para o julgamento.
+
+§ 3º Haverá a relevância de que trata o § 2º deste artigo nos seguintes casos:
+
+I - ações penais;
+
+II - ações de improbidade administrativa;
+
+III - ações cujo valor da causa ultrapasse 500 (quinhentos) salários mínimos;
+
+IV - ações que possam gerar inelegibilidade;
+
+V - hipóteses em que o acórdão recorrido contrariar jurisprudência dominante do Superior Tribunal de Justiça;
+
+VI - outras hipóteses previstas em lei."(NR)
+
+Art. 2º A relevância de que trata o § 2º do art. 105 da Constituição Federal será exigida nos recursos especiais interpostos após a entrada em vigor desta Emenda Constitucional, ocasião em que a parte poderá atualizar o valor da causa para os fins de que trata o inciso III do § 3º do referido artigo.
+
+Art. 3º Esta Emenda Constitucional entra em vigor na data de sua publicação.
+
+Brasília, em 14 de julho de 2022
+
+| Mesa da Câmara dos Deputados | Mesa do Senado Federal |
+| --- | --- |
+| Deputado ARTHUR LIRA Presidente | Senador RODRIGO PACHECO Presidente |
+| Deputado LINCOLN PORTELA 1º Vice-Presidente | Senador VENEZIANO VITAL DO RÊGO 1º Vice-Presidente |
+| Deputado ANDRÉ DE PAULA 2º Vice-Presidente | Senador ROMÁRIO 2º Vice-Presidente |
+| Deputado LUCIANO BIVAR 1º Secretário | Senador IRAJÁ 1º Secretário |
+| Deputado ODAIR CUNHA 2º Secretário | Senador ELMANO FÉRRER 2º Secretário |
+| Deputada GEOVANIA DE SÁ 3ª Secretária | Senador ROGÉRIO CARVALHO 3º Secretário |
+| Deputada ROSANGELA GOMES 4ª Secretária |  |
+
+Este texto não substitui o publicado no DOU 15.7.2022
+
+\*

@@ -1,0 +1,80 @@
+{
+  "documento": "br-federal-emenda-constitucional-2024-08-22-133",
+  "fonte_principal": "planalto-emc133",
+  "sha256_fonte_principal": "0d2febceb7d36cedb61a739a8fe3e8c2cf8d512e594c4cf8be3c3b86aed50c15",
+  "sha256_conteudo": "157986310f2de74f55ff8751dbddffd2b780cf87cd747d41a805a0036f13081a",
+  "capturado_em": "2026-11-04T12:54:08Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc133.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc133.htm.xz",
+  "sha256_snapshot_armazenado": "d518ad8c0affad19c210226625f04edd2a985f94e61954c3a52f99f68ff661d1",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": "https://www2.camara.leg.br/legin/fed/emecon/2024/emendaconstitucional-133-22-agosto-2024-796112-publicacaooriginal-172800-pl.html",
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 4974,
+    "caracteres_normalizados_markdown": 4974,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 5,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/LEIS/QUADRO/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 28,
+    "artigos": 9,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2024-08-22-133",
+    "numero": "133",
+    "data": "2024-08-22",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 133, DE 22 DE AGOSTO DE 2024",
+    "ementa": "Impõe aos partidos políticos a obrigatoriedade da aplicação de recursos financeiros para candidaturas de pessoas pretas e pardas; estabelece parâmetros e condições para regularização e refinanciamento de débitos de partidos políticos; e reforça a imunidade tributária dos partidos políticos conforme prevista na Constituição Federal.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2024-08-22;133",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}
