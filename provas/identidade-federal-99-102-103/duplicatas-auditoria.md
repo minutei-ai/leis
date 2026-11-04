@@ -1,44 +1,56 @@
-# Auditoria dos 34 grupos SHA-1 idênticos (issue #99)
+# Auditoria dos grupos SHA-1 idênticos (issue #99) — atualização 2026-11-04
 
-Data: 2026-11-04. Fonte estadual consultada: ALMG (fichas de ementa), sem inferir ausência por HTTP.
+Fonte estadual consultada: ALMG (fichas de ementa + API `dadosabertos` com campos `ementa`/`nomes`/`resumo`/`texto`), sem inferir ausência por HTTP. Evidências API em `mg-recoleta/*.json.xz`.
 
 ## Resumo
 
 | Tipo | Qtd | Significado |
 | --- | --- | --- |
 | `alias_catalogo` | 13 | Mesma norma (mesma epígrafe) sob duas chaves de catálogo (BA/GO/MS/RJ/município 5218805) |
-| `pendencia_identidade` | 12 | Ementa ALMG dos dois números diverge; o Markdown é o mesmo corpo — texto atribuído errado; recoleta pendente |
-| `mesmo_texto_fonte_com_ressalva` | 9 | ALMG também exibe a mesma ementa/texto para ambos; ressalva (pode haver atos distintos com ementa genérica) |
+| `mesmo_texto_fonte_com_ressalva` | 1 | 35816/35817 — ementa e nomes ALMG idênticos; bytes iguais; ressalva sem microfilme |
+| Desmembrados (não mais SHA-1 idêntico) | 19 pares→arquivos | Corpo correto no caminho certo; caminho órfão com nota `corpo_digital_indisponivel` |
 
-Os 5 decretos federais da issue (#99) foram recolecionados e **não** entram nesta lista.
+Os 5 decretos federais da issue (#99) permanecem recolecionados e **não** entram nesta lista.
 
-## Pendências de identidade (não fecham #99)
+## Matriz dos 12 grupos `pendencia_identidade` (resolução parcial)
 
-Casos em que a ficha ALMG prova normas distintas, mas o acervo repete um único corpo:
+Critério: ementa ALMG diverge; Markdown era o mesmo corpo. Ação: manter corpo no caminho cuja ficha/nomes batem; substituir o outro por nota documental (sem inventar dispositivo a partir da ementa). HTML ALMG do número órfão continua a servir o corpo errado — evidência preservada.
 
-| Caminhos | Corpo presente | Ementa ALMG do “outro” número |
+| Par | Corpo mantido em | Órfão (nota) | Identidade do órfão (ficha) | Bloqueio residual |
+| --- | --- | --- | --- | --- |
+| 803/804 (1937) | `…-804` Manhumirim | `…-803` | Escola distrital Jequitinhonha | Microfilme/DO 09/04/1937 p.2 |
+| 2159/2160 (1945) | `…-2159` Sete Lagoas | `…-2160` | 2º grupo escolar Pouso Alegre | DO / microfilme |
+| 3996/3997 (1953) | `…-3996` José Donato | `…-3997` | Magalhães Drumont | DO 29/04/1953 p.1 |
+| 5082/5085 (1956) | `…-5082` transfere Álvaro | `…-5085` | Extingue função isolada (DJ) | DO 11/09/1956 p.1 |
+| 5120/5121 (1956) | `…-5121` transfere Antônio | `…-5120` | Extingue/transforma Vigilante Policial | DO 10/10/1956 p.1 |
+| 12612/12704 (1970) | `…-12612` José Teubner | `…-12704` | Lotação Regina da Costa Val | DO 28–30/05/1970 |
+| 17645/17720 | `…-17645` Darowish | `…-17720` | Lotação Carlos Aniceto Pimenta (motorista) | DO 17/01/1976 p.6 |
+| 18653/18693 (1977) | `…-18653` Olivia Pinto | `…-18693` | Padre Lourenço → Márcio Nicolato | DO 07/09/1977 p.6 |
+| 22346/1982 × lei/2016 | `…lei-2016-…-22346` Limeira | `…decreto-1982-…-22346` | Crédito FJP CR$ 63.417.500,00 | DO 17/09/1982 p.7 |
+| 36566/36574 (1994) | `…-36566` crédito DER 26/12 | `…-36574` | Ficha 27/12; HTML ALMG ainda traz 26/12 | DO 28/12/1994 p.6 |
+| 40951/40955 (2000) | `…-40951` FEAM R$200.000,00 | `…-40955` | FIA R$327.713,81 | DO 22/03/2000 p.1 |
+| 10454/10523 (1991) | `…-10454` Bias Fortes | `…-10523` | Permuta Sapucaí-Mirim | DO 23/11/1991 p.1 |
+
+## Matriz dos 9 grupos `mesmo_texto_fonte_com_ressalva` (reauditoria)
+
+A ementa genérica ALMG era idêntica; a reauditoria usou `nomes`/`resumo` da ficha.
+
+| Par | Achado | Ação |
 | --- | --- | --- |
-| `…-803` / `…-804` (1937) | Manhumirim 4.ª/5.ª escolas (=804) | 803: escola distrital em Jequitinhonha |
-| `…-2159` / `…-2160` (1945) | Sete Lagoas 14/06 (=2159) | 2160: segundo grupo escolar em Pouso Alegre |
-| `…-3996` / `…-3997` (1953) | José Donato da Fonseca | 3997: Magalhães Drumont |
-| `…-5082` / `…-5085` (1956) | transfere extranumerário | 5085: extingue função isolada |
-| `…-5120` / `…-5121` (1956) | extingue/transforma | 5121: transfere extranumerário |
-| `…-12612` / `…-12704` (1970) | faz lotação (um ato) | datas/ementas de lotação distintas |
-| `…-17645` / `…-17720` | prorroga Darowish (1975) | 17720: faz lotação (1976) |
-| `…-18653` / `…-18693` (1977) | altera denominação (um texto) | datas distintas na ficha ALMG |
-| `…-36566` / `…-36574` (1994) | crédito DER R$15.090.000,00 (um texto) | datas 26/12 vs 27/12 na ficha |
-| `…-40951` / `…-40955` (2000) | crédito FEAM R$200.000,00 | 40955: crédito FIA R$327.713,81 |
-| `…-10454` / `…-10523` (1991) | doação Bias Fortes (=10454) | 10523: permuta Sapucaí-Mirim |
-| `…decreto-1982-…-22346` / `…lei-2016-…-22346` | Lei 22.346/2016 Limeira do Oeste | DEC 22346/1982: crédito FJP |
+| 7720/7721 | Nomes Angelo × Etelvina; HTML = Angelo | Mantido 7720; nota em 7721 |
+| 9983/9985 | Nomes Hely × Marly; HTML = Hely | Mantido 9983; nota em 9985 |
+| 35816/35817 | Nomes **iguais** (N. Sra. das Graças) | **Preservado** como ressalva (único remanescente na lista SHA-1) |
+| 36127/36128 | Nomes Vila Kennedy × Afonso Pena; HTML = Afonso Pena | Mantido 36128; nota em 36127 |
+| 37343/37344 | Nomes Vereador José × Juscelino; HTML = Juscelino | Mantido 37344; nota em 37343 |
+| 37349/37351 | API entrega corpos **distintos** (Zacarias × Valentina); corpus tinha Valentina nos dois | **Recoleta** 37349 (Zacarias Roque) da API; 37351 Valentina mantida |
+| 37352/37353 | Nomes Monsenhor Mendes × Marechal Hermes; HTML = Hermes | Mantido 37353; nota em 37352 |
+| 37365/37367 | Nomes Cristiano Machado × Maria de Lourdes; HTML = Cristiano | Mantido 37365; nota em 37367 |
+| 37373/37374 | Nomes Afrânio × Alfredo Valadão; HTML = Alfredo | Mantido 37374; nota em 37373 |
 
-O “texto original” HTML da ALMG, em vários desses números, **também** reproduz o corpo errado; a ementa da ficha é a evidência de identidade. Não se inventou texto a partir da ementa.
+Não se finge resolução plena onde o corpo integral do número órfão permanece indisponível na fonte digital.
 
 ## Aliases de catálogo (justificados)
 
-BA (4), GO (1), MS (2), RJ (5), município Rio Verde/5218805 (1): epígrafe do corpo idêntica nos dois arquivos; chaves de catálogo distintas. Não é o padrão “arquivo com texto de outra norma” dos cinco decretos federais.
-
-## Ressalvas
-
-Pares MG com ementa ALMG idêntica (ex.: série “CRIA O ENSINO MÉDIO…”, “FAZ LOTAÇÃO DE CARGO”, 35816/35817). Bytes iguais batem com a fonte consultada; ainda podem existir atos distintos sob ementa genérica. Não se declara resolução plena sem microfilme/DO por ato.
+BA (4), GO (1), MS (2), RJ (5), município Rio Verde/5218805 (1): epígrafe do corpo idêntica nos dois arquivos; chaves de catálogo distintas.
 
 Detalhe máquina: `duplicatas-excecoes.json`.

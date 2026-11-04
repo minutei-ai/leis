@@ -1,12 +1,13 @@
 {
   "gerado_em": "2026-11-04",
   "issue": 99,
-  "politica": "Cada grupo tem tipo/status e justificativa documental. alias_catalogo=mesma norma sob duas chaves. pendencia_identidade=texto atribuído errado (ementa ALMG diverge); NÃO resolvido. mesmo_texto_fonte_com_ressalva=fonte/ALMG também mostra mesmo texto/ementa; ressalva. Novos SHA-1 fora da lista falham no teste. Hash sem identidade não basta.",
+  "politica": "Cada grupo tem tipo/status e justificativa documental. alias_catalogo=mesma norma sob duas chaves. mesmo_texto_fonte_com_ressalva=fonte/ALMG também mostra mesmo texto/ementa/nomes; ressalva. Pares MG com ementa/nomes divergentes e HTML ALMG atribuído errado foram DESMEMBRADOS: corpo correto no caminho certo; caminho órfão com nota corpo_digital_indisponivel (não entram mais como SHA-1 idêntico). Novos SHA-1 fora da lista falham no teste. Hash sem identidade não basta.",
   "resumo": {
-    "total": 34,
+    "total": 14,
     "alias_catalogo": 13,
-    "pendencia_identidade": 12,
-    "mesmo_texto_fonte_com_ressalva": 9
+    "pendencia_identidade": 0,
+    "mesmo_texto_fonte_com_ressalva": 1,
+    "corpo_digital_indisponivel_resolvido_parcial": 19
   },
   "grupos": [
     {
@@ -63,285 +64,6 @@
       "status": "justificado",
       "identidade_do_corpo": "Portaria Orçamentária nº 372/2023 - Economia",
       "justificativa": "Mesma Portaria Orçamentária nº 372/2023 - Economia sob IDs GO br-go-norma-107588/br-go-norma-107589. Alias de catálogo."
-    },
-    {
-      "sha1": "9f75f70ff0778816e270d1edee4d9b69f34377d5",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1937-04-08-803.md",
-        "estaduais/MG/br-mg-decreto-1937-04-08-804.md"
-      ],
-      "tipo": "pendencia_identidade",
-      "status": "pendente_recoleta",
-      "identidade_do_corpo": "Decreto MG 804/1937 — 4.ª/5.ª escolas Presidente Soares/Manhumirim",
-      "catalogo_oficial": {
-        "estaduais/MG/br-mg-decreto-1937-04-08-803.md": "ALMG DEC/803/1937: CRIA UMA ESCOLA DISTRITAL NO MUNICÍPIO DE JEQUITINHONHA",
-        "estaduais/MG/br-mg-decreto-1937-04-08-804.md": "ALMG DEC/804/1937: CRIA 4.ª E 5.ª ESCOLAS … MANHUMIRIM"
-      },
-      "justificativa": "NÃO é duplicata legítima. Bytes idênticos por atribuição do corpo de «Decreto MG 804/1937 — 4.ª/5.ª escolas Presidente Soares/Manhumirim» aos dois caminhos. Corpo de 803 (Jequitinhonha) ausente; ambos os arquivos trazem Manhumirim. Evidência ALMG 2026-11-04. Mantido só para regressão de hash; não fecha #99."
-    },
-    {
-      "sha1": "373d9740100ea7fad848896072f09f3bdcb40ee3",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1945-06-14-2159.md",
-        "estaduais/MG/br-mg-decreto-1945-06-26-2160.md"
-      ],
-      "tipo": "pendencia_identidade",
-      "status": "pendente_recoleta",
-      "identidade_do_corpo": "Decreto MG 2.159/1945-06-14 — Sete Lagoas",
-      "catalogo_oficial": {
-        "estaduais/MG/br-mg-decreto-1945-06-14-2159.md": "ALMG DEC/2159/1945: CRIA UM SEGUNDO GRUPO ESCOLAR NA CIDADE DE SETE LAGOAS",
-        "estaduais/MG/br-mg-decreto-1945-06-26-2160.md": "ALMG DEC/2160/1945: CRIA O SEGUNDO GRUPO ESCOLAR NA CIDADE DE POUSO ALEGRE"
-      },
-      "justificativa": "NÃO é duplicata legítima. Bytes idênticos por atribuição do corpo de «Decreto MG 2.159/1945-06-14 — Sete Lagoas» aos dois caminhos. Corpo de 2160 (Pouso Alegre) ausente; arquivo 2160 reproduz Sete Lagoas de 14/06. Evidência ALMG 2026-11-04. Mantido só para regressão de hash; não fecha #99."
-    },
-    {
-      "sha1": "0507cab60d41365a2bb07c5726e9278dd11ae362",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1953-04-28-3996.md",
-        "estaduais/MG/br-mg-decreto-1953-04-28-3997.md"
-      ],
-      "tipo": "pendencia_identidade",
-      "status": "pendente_recoleta",
-      "identidade_do_corpo": "Corpo atual: Lei nº 408, de 14 de setembro de 1949, decreta:",
-      "catalogo_oficial": {
-        "estaduais/MG/br-mg-decreto-1953-04-28-3996.md": "28/04/1953 TRANSFORMA EM GRUPO ESCOLAR AS ESCOLAS REUNIDAS PROFESSOR JOSÉ DONATO DA FONSECA DO QUADRO A DA CAPITAL.",
-        "estaduais/MG/br-mg-decreto-1953-04-28-3997.md": "28/04/1953 TRANSFORMA EM GRUPO ESCOLAR, AS ESCOLAS REUNIDAS PROFESSOR MAGALHÃES DRUMONT, DO QUADRO A DA CAPITAL."
-      },
-      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='28/04/1953 TRANSFORMA EM GRUPO ESCOLAR AS ESCOLAS REUNIDAS PROFESSOR JOSÉ DONATO DA FONSECA DO QUADRO A DA CAPITAL.'; B='28/04/1953 TRANSFORMA EM GRUPO ESCOLAR, AS ESCOLAS REUNIDAS PROFESSOR MAGALHÃES DRUMONT, DO QUADRO A DA CAPITAL.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
-    },
-    {
-      "sha1": "796a78469d347e79369aa0f190dbebd490fc3958",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1956-09-03-5082.md",
-        "estaduais/MG/br-mg-decreto-1956-09-10-5085.md"
-      ],
-      "tipo": "pendencia_identidade",
-      "status": "pendente_recoleta",
-      "identidade_do_corpo": "Corpo atual: Lei n. 858, de 29 de dezembro de 1951, decreta:",
-      "catalogo_oficial": {
-        "estaduais/MG/br-mg-decreto-1956-09-03-5082.md": "03/09/1956 TRANSFERE FUNÇÃO DE EXTRANUMERÁRIO MENSALISTA.",
-        "estaduais/MG/br-mg-decreto-1956-09-10-5085.md": "10/09/1956 EXTINGUE FUNÇÃO ISOLADA."
-      },
-      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='03/09/1956 TRANSFERE FUNÇÃO DE EXTRANUMERÁRIO MENSALISTA.'; B='10/09/1956 EXTINGUE FUNÇÃO ISOLADA.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
-    },
-    {
-      "sha1": "dbd81e0ec53f5d8991d85cfcc95a2364df67ccdb",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1956-10-09-5120.md",
-        "estaduais/MG/br-mg-decreto-1956-10-10-5121.md"
-      ],
-      "tipo": "pendencia_identidade",
-      "status": "pendente_recoleta",
-      "identidade_do_corpo": "Corpo atual: Decreto n. 3.689, de 31 de janeiro de 1952, uma função d",
-      "catalogo_oficial": {
-        "estaduais/MG/br-mg-decreto-1956-10-09-5120.md": "09/10/1956 EXTINGUE E TRANSFORMA FUNÇÕES DE EXTRANUMERÁRIOS MENSALISTAS.",
-        "estaduais/MG/br-mg-decreto-1956-10-10-5121.md": "10/10/1956 TRANSFERE FUNÇÃO DE EXTRANUMERÁRIO MENSALISTA."
-      },
-      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='09/10/1956 EXTINGUE E TRANSFORMA FUNÇÕES DE EXTRANUMERÁRIOS MENSALISTAS.'; B='10/10/1956 TRANSFERE FUNÇÃO DE EXTRANUMERÁRIO MENSALISTA.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
-    },
-    {
-      "sha1": "558fba391a3d5e1375b31b27bbab07fe6ddcb4c5",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1964-07-15-7720.md",
-        "estaduais/MG/br-mg-decreto-1964-07-15-7721.md"
-      ],
-      "tipo": "mesmo_texto_fonte_com_ressalva",
-      "status": "justificado_com_ressalva",
-      "identidade_do_corpo": "Lei n. 858, de 29 de dezembro de 1951,",
-      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Lei n. 858, de 29 de dezembro de 1951,). ALMG ementa idêntica para ambos: '15/07/1964 FAZ LOTAÇÃO DE CARGO.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
-    },
-    {
-      "sha1": "aaf76ce8c2078566fe3b8953c1f2c2a534b8664e",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1966-08-17-9983.md",
-        "estaduais/MG/br-mg-decreto-1966-08-17-9985.md"
-      ],
-      "tipo": "mesmo_texto_fonte_com_ressalva",
-      "status": "justificado_com_ressalva",
-      "identidade_do_corpo": "Lei n. 858, de 29 de dezembro de 1951, decreta:",
-      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Lei n. 858, de 29 de dezembro de 1951, decreta:). ALMG ementa idêntica para ambos: '17/08/1966 FAZ LOTAÇÃO DE CARGO.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
-    },
-    {
-      "sha1": "bce3e55a6c216d9fc4aee9e6175f226f961c32d8",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1970-04-29-12612.md",
-        "estaduais/MG/br-mg-decreto-1970-05-27-12704.md"
-      ],
-      "tipo": "pendencia_identidade",
-      "status": "pendente_recoleta",
-      "identidade_do_corpo": "Corpo atual: Lei nº 858, de 29 de dezembro de 1951,",
-      "catalogo_oficial": {
-        "estaduais/MG/br-mg-decreto-1970-04-29-12612.md": "29/04/1970 FAZ LOTAÇÃO DE CARGO.",
-        "estaduais/MG/br-mg-decreto-1970-05-27-12704.md": "27/05/1970 FAZ LOTAÇÃO DE CARGO."
-      },
-      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='29/04/1970 FAZ LOTAÇÃO DE CARGO.'; B='27/05/1970 FAZ LOTAÇÃO DE CARGO.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
-    },
-    {
-      "sha1": "e51abb9bc82e3778bbd0c5967186eb70791eb594",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1975-12-23-17645.md",
-        "estaduais/MG/br-mg-decreto-1976-01-16-17720.md"
-      ],
-      "tipo": "pendencia_identidade",
-      "status": "pendente_recoleta",
-      "identidade_do_corpo": "Corpo atual: Prorroga a disposição do servidor do DER|MG José Paulo Darowish, junto à Superintendência Nacional do Abastecimento do M",
-      "catalogo_oficial": {
-        "estaduais/MG/br-mg-decreto-1975-12-23-17645.md": "23/12/1975 PRORROGA A DISPOSIÇÃO DO SERVIDOR DO DER/MG JOSE PAULO DAROWISH, JUNTO A SUPERINTENDENCIA NACIONAL DO ABASTECIMENTO DO MINISTERIO DA AGRICULTURA.",
-        "estaduais/MG/br-mg-decreto-1976-01-16-17720.md": "16/01/1976 FAZ LOTAÇÃO DE CARGO."
-      },
-      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='23/12/1975 PRORROGA A DISPOSIÇÃO DO SERVIDOR DO DER/MG JOSE PAULO DAROWISH, JUNTO A SUPERINTENDENCIA NACIONAL DO ABASTECIMENTO DO MINISTERIO DA AGRICULTURA.'; B='16/01/1976 FAZ LOTAÇÃO DE CARGO.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
-    },
-    {
-      "sha1": "a7f8900b7277410cff7d9ec1b7a5e767f35702e7",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1977-08-16-18653.md",
-        "estaduais/MG/br-mg-decreto-1977-09-06-18693.md"
-      ],
-      "tipo": "pendencia_identidade",
-      "status": "pendente_recoleta",
-      "identidade_do_corpo": "Corpo atual: Lei nº 5.378/69, de 03 de dezembro de 1969 e no pará",
-      "catalogo_oficial": {
-        "estaduais/MG/br-mg-decreto-1977-08-16-18653.md": "16/08/1977 ALTERA DENOMINAÇÃO DE UNIDADE DE ENSINO DE 1° GRAU DA REDE ESTADUAL.",
-        "estaduais/MG/br-mg-decreto-1977-09-06-18693.md": "06/09/1977 ALTERA DENOMINAÇÃO DE UNIDADE DE ENSINO DE 1° GRAU DA REDE ESTADUAL."
-      },
-      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='16/08/1977 ALTERA DENOMINAÇÃO DE UNIDADE DE ENSINO DE 1° GRAU DA REDE ESTADUAL.'; B='06/09/1977 ALTERA DENOMINAÇÃO DE UNIDADE DE ENSINO DE 1° GRAU DA REDE ESTADUAL.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
-    },
-    {
-      "sha1": "e75079249b143732b5e77567ad1ba0e644471578",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1982-09-16-22346.md",
-        "estaduais/MG/br-mg-lei-2016-11-18-22346.md"
-      ],
-      "tipo": "pendencia_identidade",
-      "status": "pendente_recoleta",
-      "identidade_do_corpo": "Lei MG 22.346/2016 — utilidade pública Limeira do Oeste",
-      "catalogo_oficial": {
-        "estaduais/MG/br-mg-decreto-1982-09-16-22346.md": "ALMG DEC/22346/1982: crédito suplementar FJP CR$ 63.417.500,00",
-        "estaduais/MG/br-mg-lei-2016-11-18-22346.md": "ALMG LEI/22346/2016: utilidade pública Limeira do Oeste"
-      },
-      "justificativa": "NÃO é duplicata legítima. Bytes idênticos por atribuição do corpo de «Lei MG 22.346/2016 — utilidade pública Limeira do Oeste» aos dois caminhos. Caminho decreto-1982 contém a Lei 2016; crédito 1982 pendente. Evidência ALMG 2026-11-04. Mantido só para regressão de hash; não fecha #99."
-    },
-    {
-      "sha1": "f5915b3d2f77f3147044235938e4ffe536dfbaf9",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1994-08-05-35816.md",
-        "estaduais/MG/br-mg-decreto-1994-08-05-35817.md"
-      ],
-      "tipo": "mesmo_texto_fonte_com_ressalva",
-      "status": "justificado_com_ressalva",
-      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e o Parecer n",
-      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e o Parecer n). ALMG ementa idêntica para ambos: '05/08/1994 CRIA UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
-    },
-    {
-      "sha1": "2cb6e64052b848d746bab72f88ee7d7c2f33c267",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1994-10-05-36127.md",
-        "estaduais/MG/br-mg-decreto-1994-10-05-36128.md"
-      ],
-      "tipo": "mesmo_texto_fonte_com_ressalva",
-      "status": "justificado_com_ressalva",
-      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer",
-      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer). ALMG ementa idêntica para ambos: '05/10/1994 CRIA O ENSINO MÉDIO EM UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
-    },
-    {
-      "sha1": "4e8697f1a7751c69eeccc1dbf2df1cf030c1c40d",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1994-12-26-36566.md",
-        "estaduais/MG/br-mg-decreto-1994-12-27-36574.md"
-      ],
-      "tipo": "pendencia_identidade",
-      "status": "pendente_recoleta",
-      "identidade_do_corpo": "Corpo atual: Lei nº 11.356, de 28 de dezembro de 1993 e no artigo",
-      "catalogo_oficial": {
-        "estaduais/MG/br-mg-decreto-1994-12-26-36566.md": "26/12/1994 ABRE O CRÉDITO SUPLEMENTAR DE R$15.090.000,00 A DOTAÇÕES ORÇAMENTÁRIAS DO DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE MINAS GERAIS – DER/ MG.",
-        "estaduais/MG/br-mg-decreto-1994-12-27-36574.md": "27/12/1994 ABRE O CRÉDITO SUPLEMENTAR DE R$15.090.000,00 A DOTAÇÕES ORÇAMENTÁRIAS DO DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE MINAS GERAIS – DER/ MG."
-      },
-      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='26/12/1994 ABRE O CRÉDITO SUPLEMENTAR DE R$15.090.000,00 A DOTAÇÕES ORÇAMENTÁRIAS DO DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE MINAS GERAIS – DER/ MG.'; B='27/12/1994 ABRE O CRÉDITO SUPLEMENTAR DE R$15.090.000,00 A DOTAÇÕES ORÇAMENTÁRIAS DO DEPARTAMENTO DE ESTRADAS DE RODAGEM DO ESTADO DE MINAS GERAIS – DER/ MG.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
-    },
-    {
-      "sha1": "dabb4415036294bff3350d6f5ba4ba324591321b",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1995-10-05-37343.md",
-        "estaduais/MG/br-mg-decreto-1995-10-05-37344.md"
-      ],
-      "tipo": "mesmo_texto_fonte_com_ressalva",
-      "status": "justificado_com_ressalva",
-      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer",
-      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer). ALMG ementa idêntica para ambos: '05/10/1995 CRIA O ENSINO MÉDIO EM UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
-    },
-    {
-      "sha1": "253e02ce51f2a80cc759efa8431796618c8c36dc",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1995-10-05-37349.md",
-        "estaduais/MG/br-mg-decreto-1995-10-05-37351.md"
-      ],
-      "tipo": "mesmo_texto_fonte_com_ressalva",
-      "status": "justificado_com_ressalva",
-      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer",
-      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer). ALMG ementa idêntica para ambos: '05/10/1995 CRIA O ENSINO MÉDIO EM UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
-    },
-    {
-      "sha1": "0bae94564556496182db2d1725ea08c351256a7d",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1995-10-05-37352.md",
-        "estaduais/MG/br-mg-decreto-1995-10-05-37353.md"
-      ],
-      "tipo": "mesmo_texto_fonte_com_ressalva",
-      "status": "justificado_com_ressalva",
-      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer",
-      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer). ALMG ementa idêntica para ambos: '05/10/1995 CRIA O ENSINO MÉDIO EM UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
-    },
-    {
-      "sha1": "1ed0557eeb09f7d6c00f8c028c9308152635693a",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1995-10-05-37365.md",
-        "estaduais/MG/br-mg-decreto-1995-10-05-37367.md"
-      ],
-      "tipo": "mesmo_texto_fonte_com_ressalva",
-      "status": "justificado_com_ressalva",
-      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer",
-      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer). ALMG ementa idêntica para ambos: '05/10/1995 CRIA O ENSINO MÉDIO EM UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
-    },
-    {
-      "sha1": "5e13a58f052b584f997ded5d9932a4d9369c9e17",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-1995-10-05-37373.md",
-        "estaduais/MG/br-mg-decreto-1995-10-05-37374.md"
-      ],
-      "tipo": "mesmo_texto_fonte_com_ressalva",
-      "status": "justificado_com_ressalva",
-      "identidade_do_corpo": "Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer",
-      "justificativa": "Par com SHA-1 idêntico e corpos iguais (Decreto nº 33.336, de 24 de janeiro de 1992 e no Parecer). ALMG ementa idêntica para ambos: '05/10/1995 CRIA O ENSINO MÉDIO EM UNIDADE ESTADUAL DE ENSINO E DÁ OUTRAS PROVIDÊNCIAS.'. Sem ementa ALMG divergente detectada nesta auditoria; ainda assim pode haver atos distintos com ementa genérica igual (ex.: escolas diferentes). Ressalva; não se afirma resolução plena."
-    },
-    {
-      "sha1": "7c71d7325f77e85a5f566da13b588b7d45ba7ff4",
-      "arquivos": [
-        "estaduais/MG/br-mg-decreto-2000-03-08-40951.md",
-        "estaduais/MG/br-mg-decreto-2000-03-21-40955.md"
-      ],
-      "tipo": "pendencia_identidade",
-      "status": "pendente_recoleta",
-      "identidade_do_corpo": "Corpo atual: Lei nº 13.471, de 18 de janeiro de 2000,",
-      "catalogo_oficial": {
-        "estaduais/MG/br-mg-decreto-2000-03-08-40951.md": "08/03/2000 ABRE O CRÉDITO SUPLEMENTAR DE R$ 200.000,00 A DOTAÇÕES ORÇAMENTÁRIAS DA FUNDAÇÃO ESTADUAL DO MEIO AMBIENTE - FEAM.",
-        "estaduais/MG/br-mg-decreto-2000-03-21-40955.md": "21/03/2000 ABRE O CRÉDITO SUPLEMENTAR DE R$ 327.713,81 A DOTAÇÕES ORÇAMENTÁRIAS DO FUNDO PARA A INFÂNCIA E A ADOLESCÊNCIA - FIA."
-      },
-      "justificativa": "NÃO é duplicata legítima de duas normas iguais. Ementas ALMG dos dois números divergem, mas os Markdown são byte a byte idênticos. A='08/03/2000 ABRE O CRÉDITO SUPLEMENTAR DE R$ 200.000,00 A DOTAÇÕES ORÇAMENTÁRIAS DA FUNDAÇÃO ESTADUAL DO MEIO AMBIENTE - FEAM.'; B='21/03/2000 ABRE O CRÉDITO SUPLEMENTAR DE R$ 327.713,81 A DOTAÇÕES ORÇAMENTÁRIAS DO FUNDO PARA A INFÂNCIA E A ADOLESCÊNCIA - FIA.'. Um dos corpos verdadeiros falta; recoleta pendente. Não fecha #99."
-    },
-    {
-      "sha1": "f162cfda1214d8f780039494c8d8ea23873b3407",
-      "arquivos": [
-        "estaduais/MG/br-mg-lei-1991-01-22-10454.md",
-        "estaduais/MG/br-mg-lei-1991-11-22-10523.md"
-      ],
-      "tipo": "pendencia_identidade",
-      "status": "pendente_recoleta",
-      "identidade_do_corpo": "Lei MG 10.454/1991-01-22 — doação Bias Fortes",
-      "catalogo_oficial": {
-        "estaduais/MG/br-mg-lei-1991-01-22-10454.md": "ALMG LEI/10454/1991: doação Bias Fortes",
-        "estaduais/MG/br-mg-lei-1991-11-22-10523.md": "ALMG LEI/10523/1991: permuta Sapucaí-Mirim"
-      },
-      "justificativa": "NÃO é duplicata legítima. Bytes idênticos por atribuição do corpo de «Lei MG 10.454/1991-01-22 — doação Bias Fortes» aos dois caminhos. Arquivo 10523 carrega corpo de 10454; permuta Sapucaí-Mirim pendente. Evidência ALMG 2026-11-04. Mantido só para regressão de hash; não fecha #99."
     },
     {
       "sha1": "e2aeadfc2d138f7870403647a7d382f32c9a171a",
@@ -430,6 +152,21 @@
       "status": "justificado",
       "identidade_do_corpo": "LEI Nº 7.635, DE 14 DE ABRIL DE 2025.",
       "justificativa": "Mesma LEI Nº 7.635, DE 14 DE ABRIL DE 2025. (Rio Verde/GO IBGE 5218805) sob dois IDs municipais. Alias de catálogo."
+    },
+    {
+      "sha1": "f5915b3d2f77f3147044235938e4ffe536dfbaf9",
+      "arquivos": [
+        "estaduais/MG/br-mg-decreto-1994-08-05-35816.md",
+        "estaduais/MG/br-mg-decreto-1994-08-05-35817.md"
+      ],
+      "tipo": "mesmo_texto_fonte_com_ressalva",
+      "status": "justificado_com_ressalva",
+      "identidade_do_corpo": "Escola Estadual Nossa Senhora das Graças — Coração de Jesus (Espigão)",
+      "catalogo_oficial": {
+        "estaduais/MG/br-mg-decreto-1994-08-05-35816.md": "ALMG DEC/35816/1994 nomes=ESCOLA ESTADUAL NOSSA SENHORA DAS GRAÇAS; ementa CRIA UNIDADE ESTADUAL DE ENSINO…",
+        "estaduais/MG/br-mg-decreto-1994-08-05-35817.md": "ALMG DEC/35817/1994 nomes=ESCOLA ESTADUAL NOSSA SENHORA DAS GRAÇAS; ementa idêntica"
+      },
+      "justificativa": "Bytes idênticos e ficha ALMG com a mesma ementa e o mesmo nome de escola nos dois números. A fonte digital serve o mesmo texto para ambos; não há divergência de nomes/resumo que prove atos distintos. Ressalva: sem microfilme/DO por ato não se afirma se são dois números para o mesmo ato ou coincidência de catálogo. Não se declara resolução plena."
     }
   ]
 }

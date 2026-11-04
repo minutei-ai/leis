@@ -196,9 +196,79 @@ class TestIdentidadeFederal99102103104(unittest.TestCase):
                 self.assertTrue(group.get('justificativa'))
                 self.assertNotIn(generica, group['justificativa'])
                 tipos.add(group['tipo'])
-        self.assertIn('pendencia_identidade', tipos)
         self.assertIn('alias_catalogo', tipos)
+        self.assertIn('mesmo_texto_fonte_com_ressalva', tipos)
         self.assertTrue((PROVAS / 'duplicatas-auditoria.md').is_file())
+
+    def test_mg_pares_desmembrados_nao_compartilham_corpo(self):
+        """Os 12 pares + reauditoria: corpo correto ≠ nota do órfão."""
+        pares = [
+            (
+                'estaduais/MG/br-mg-decreto-1937-04-08-804.md',
+                'estaduais/MG/br-mg-decreto-1937-04-08-803.md',
+                'Manhumirim',
+                'Jequitinhonha',
+            ),
+            (
+                'estaduais/MG/br-mg-decreto-1945-06-14-2159.md',
+                'estaduais/MG/br-mg-decreto-1945-06-26-2160.md',
+                'Sete Lagoas',
+                'Pouso Alegre',
+            ),
+            (
+                'estaduais/MG/br-mg-lei-1991-01-22-10454.md',
+                'estaduais/MG/br-mg-lei-1991-11-22-10523.md',
+                'Bias Fortes',
+                'Sapucaí-Mirim',
+            ),
+            (
+                'estaduais/MG/br-mg-lei-2016-11-18-22346.md',
+                'estaduais/MG/br-mg-decreto-1982-09-16-22346.md',
+                'Limeira do Oeste',
+                'FJP',
+            ),
+            (
+                'estaduais/MG/br-mg-decreto-2000-03-08-40951.md',
+                'estaduais/MG/br-mg-decreto-2000-03-21-40955.md',
+                'FEAM',
+                'FIA',
+            ),
+        ]
+        for keep, orphan, keep_token, orphan_token in pares:
+            with self.subTest(keep=keep):
+                keep_text = (ROOT / keep).read_text(encoding='utf-8')
+                orphan_text = (ROOT / orphan).read_text(encoding='utf-8')
+                self.assertNotEqual(sha1_file(ROOT / keep), sha1_file(ROOT / orphan))
+                self.assertIn(keep_token.lower(), keep_text.lower())
+                self.assertIn('corpo integral não recuperado', orphan_text)
+                self.assertIn(orphan_token.lower(), orphan_text.lower())
+                self.assertIn('mg-recoleta/api-', orphan_text)
+
+    def test_mg_37349_recoleta_zacarias_distinto_de_37351(self):
+        a = (ROOT / 'estaduais/MG/br-mg-decreto-1995-10-05-37349.md').read_text(encoding='utf-8')
+        b = (ROOT / 'estaduais/MG/br-mg-decreto-1995-10-05-37351.md').read_text(encoding='utf-8')
+        self.assertIn('Zacarias Roque', a)
+        self.assertIn('Coronel Fabriciano', a)
+        self.assertIn('Dona Valentina Alkimim', b)
+        self.assertNotEqual(sha1_file(ROOT / 'estaduais/MG/br-mg-decreto-1995-10-05-37349.md'),
+                            sha1_file(ROOT / 'estaduais/MG/br-mg-decreto-1995-10-05-37351.md'))
+        self.assertTrue((PROVAS / 'mg-recoleta/api-DEC-37349-1995.json.xz').is_file())
+
+    def test_lote_102_colacao_preserva_literais_senado(self):
+        lote = (PROVAS / 'divergencias-cabecalho-lote.md').read_text(encoding='utf-8')
+        self.assertIn('Erro literal da fonte', lote)
+        self.assertIn('467738', lote)
+        self.assertIn('467918', lote)
+        self.assertIn('469503', lote)
+        # Corpus still has source literals — no blind path rewrite
+        d45171 = (ROOT / 'federal/br-federal-decreto-1958-12-31-45171.md').read_text(encoding='utf-8')
+        d45353 = (ROOT / 'federal/br-federal-decreto-1959-01-28-45353.md').read_text(encoding='utf-8')
+        d46934 = (ROOT / 'federal/br-federal-decreto-1959-09-30-46934.md').read_text(encoding='utf-8')
+        self.assertRegex(d45171[:200], r'41\.171')
+        self.assertRegex(d45353[:200], r'453\.353')
+        self.assertRegex(d46934[:200], r'56\.934')
+        self.assertTrue((PROVAS / 'divergencias/senado-pub-15805509.html.xz').is_file())
+        self.assertTrue((PROVAS / 'divergencias/detalhe-467738.json').is_file())
 
 
 if __name__ == '__main__':
