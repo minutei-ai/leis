@@ -1,0 +1,132 @@
+{
+  "contrato_versao": 1,
+  "export_schema_versao": 1,
+  "regra": "Nenhum campo é coberto só porque apareceu em amostra. Contagens abaixo percorrem todas as edições publicadas no export.",
+  "escolha_armazenamento": {
+    "metadados_acervo_geral": "sidecar-export-jsonl",
+    "frontmatter": "reutilizado-quando-ja-presente",
+    "markdown_corpos": "nao-reescrevidos-em-massa"
+  },
+  "total_edicoes": 230059,
+  "por_campo": {
+    "norma_id": {
+      "conhecido": 230059
+    },
+    "edicao_id": {
+      "conhecido": 230059
+    },
+    "especie": {
+      "conhecido": 171234,
+      "desconhecido": 58825
+    },
+    "numero": {
+      "desconhecido": 59347,
+      "nao-aplicavel": 150,
+      "conhecido": 170562
+    },
+    "complemento": {
+      "nao-aplicavel": 229625,
+      "conhecido": 434
+    },
+    "numero_estado": {
+      "desconhecido": 59347,
+      "conhecido": 170712
+    },
+    "provedor_id": {
+      "ausente": 176303,
+      "conhecido": 53756
+    },
+    "provedor_token": {
+      "nao-aplicavel": 229909,
+      "conhecido": 150
+    },
+    "esfera": {
+      "conhecido": 230059
+    },
+    "uf": {
+      "nao-aplicavel": 97311,
+      "conhecido": 119921,
+      "desconhecido": 12827
+    },
+    "ibge": {
+      "nao-aplicavel": 217232,
+      "conhecido": 12827
+    },
+    "orgao_emissor": {
+      "desconhecido": 229982,
+      "conhecido": 77
+    },
+    "poder": {
+      "desconhecido": 230059
+    },
+    "ambito_aplicacao": {
+      "desconhecido": 230059
+    },
+    "titulo": {
+      "desconhecido": 2035,
+      "conhecido": 228024
+    },
+    "ementa": {
+      "desconhecido": 230059
+    },
+    "data_ato": {
+      "conhecido": 170714,
+      "desconhecido": 59345
+    },
+    "edicao_tipo": {
+      "desconhecido": 229980,
+      "conhecido": 79
+    },
+    "situacao": {
+      "desconhecido": 230057,
+      "conhecido": 2
+    },
+    "representacao": {
+      "conhecido": 230059
+    },
+    "cobertura_transcricao": {
+      "conhecido": 230059
+    },
+    "vigencia_certificada": {
+      "conhecido": 230059
+    },
+    "fonte_url": {
+      "desconhecido": 229982,
+      "conhecido": 77
+    },
+    "sha256_markdown": {
+      "conhecido": 230059
+    },
+    "fonte_do_campo": {
+      "conhecido": 230059
+    },
+    "estado_identidade": {
+      "conhecido": 230059
+    }
+  },
+  "por_estado_identidade": {
+    "derivada-do-caminho-candidata": 171151,
+    "registrada-no-cabecalho": 264,
+    "candidata-nao-conferida": 4888,
+    "provedor-id-nao-e-numero-legal": 53756
+  },
+  "por_armazenamento_metadados": {
+    "sidecar-export": 229793,
+    "frontmatter": 266
+  },
+  "por_esfera": {
+    "federal": 97311,
+    "estadual": 119913,
+    "distrital": 8,
+    "municipal": 12827
+  },
+  "por_numero_estado": {
+    "desconhecido": 59347,
+    "sem-numero": 150,
+    "informado": 170562
+  },
+  "anomalias": {
+    "provedor_id_igual_numero_sem_frontmatter": 0
+  },
+  "limites": "Identidade derivada só do caminho permanece candidata. orgao_emissor/poder/ambito_aplicacao/serie sem prova ficam desconhecidos. Presença no export não certifica vigência."
+}

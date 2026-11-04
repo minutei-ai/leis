@@ -60,9 +60,9 @@
     },
     {
       "id": "#70",
-      "tema": "cabeçalhos estruturados no acervo geral",
-      "estado": "piloto-iniciado",
-      "acao": "expandir metadados/acervo-geral-piloto.json sem inventar fonte_url/situação"
+      "tema": "export tipado BM25 do acervo geral",
+      "estado": "export-sidecar-streaming",
+      "acao": "Sidecars JSONL + inventário por campo no acervo completo; frontmatter só onde já existe; sem inventar órgão/série/âmbito"
     }
   ],
   "limites": "Contagem de caminhos ≠ reconciliação de identidade jurídica completa."

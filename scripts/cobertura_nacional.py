@@ -3,6 +3,9 @@
 
 Lê somente o repositório. Não acessa a rede. Não certifica vigência nem
 completude nacional. Desconhecido permanece explícito.
+
+Exportação do acervo geral: manifesto/sidecars JSONL streaming (não reescreve
+Markdown em massa). Frontmatter existente (lotes setoriais + piloto) é reutilizado.
 """
 from __future__ import annotations
 
@@ -14,18 +17,53 @@ import json
 import math
 import re
 import sys
+import time
 from pathlib import Path
-from typing import Any
+from typing import Any, Iterator
 
 ROOT = Path(__file__).resolve().parent.parent
 PROVAS = ROOT / 'provas/cobertura-nacional'
 METADADOS = ROOT / 'metadados'
+EXPORT_DIR = PROVAS / 'export-acervo'
 CONTRATO_VERSAO = 1
 SPECIAL_IBGE = {'5300108', '2605459'}
 OPAQUE_PATH = re.compile(r'^br-(?:[a-z]{2}|municipal-\d{7})-norma-\d+$')
 FAC_START = '<!-- fac-simile-oficial:inicio -->'
 FAC_END = '<!-- fac-simile-oficial:fim -->'
 YAML_HEAD = re.compile(r'\A---\n(.*?)\n---\n', re.S)
+EXPORT_SCHEMA_VERSION = 1
+DEFAULT_SHARD_SIZE = 10000
+TITLE_SCAN_CHARS = 8000
+
+# Campos inventariados no relatório de cobertura do acervo completo.
+CAMPOS_INVENTARIO = [
+    'norma_id',
+    'edicao_id',
+    'especie',
+    'numero',
+    'complemento',
+    'numero_estado',
+    'provedor_id',
+    'provedor_token',
+    'esfera',
+    'uf',
+    'ibge',
+    'orgao_emissor',
+    'poder',
+    'ambito_aplicacao',
+    'titulo',
+    'ementa',
+    'data_ato',
+    'edicao_tipo',
+    'situacao',
+    'representacao',
+    'cobertura_transcricao',
+    'vigencia_certificada',
+    'fonte_url',
+    'sha256_markdown',
+    'fonte_do_campo',
+    'estado_identidade',
+]
 
 # Casos de identidade usados em testes e no export de demonstração.
 CASOS_IDENTIDADE = [
@@ -177,16 +215,8 @@ def path_identity_candidate(rel: str) -> dict[str, Any]:
             out['numero_estado'] = 'desconhecido'
             out['estado_identidade'] = 'provedor-id-nao-e-numero-legal'
         return out
-    # Padrões canônicos frequentes no federal.
-    m = re.fullmatch(
-        r'br-federal-(lei-complementar|lei-delegada|lei|decreto-lei|decreto|medida-provisoria|'
-        r'emenda-constitucional|constituicao|resolucao|decreto-legislativo)'
-        r'(?:-(\d{4})(?:-(\d{2})(?:-(\d{2}))?)?)?(?:-(\d+))?(?:-([a-z0-9-]+))?',
-        stem,
-    )
-    if m:
-        out['especie_candidata'] = m.group(1)
-        y, mo, d, num, rest = m.group(2), m.group(3), m.group(4), m.group(5), m.group(6)
+
+    def _apply_date_number(y, mo, d, num, rest) -> None:
         if y and mo and d:
             out['data_candidata'] = f'{y}-{mo}-{d}'
         elif y:
@@ -202,6 +232,44 @@ def path_identity_candidate(rel: str) -> dict[str, Any]:
         if rest and re.fullmatch(r'[a-z]', rest):
             out['complemento'] = rest.upper()
         out['estado_identidade'] = 'derivada-do-caminho-candidata'
+
+    # Padrões canônicos frequentes no federal.
+    m = re.fullmatch(
+        r'br-federal-(lei-complementar|lei-delegada|lei|decreto-lei|decreto|medida-provisoria|'
+        r'emenda-constitucional|constituicao|resolucao|decreto-legislativo)'
+        r'(?:-(\d{4})(?:-(\d{2})(?:-(\d{2}))?)?)?(?:-(\d+))?(?:-([a-z0-9-]+))?',
+        stem,
+    )
+    if m:
+        out['especie_candidata'] = m.group(1)
+        _apply_date_number(m.group(2), m.group(3), m.group(4), m.group(5), m.group(6))
+        return out
+
+    # Municipal canônico: br-municipal-IBGE-especie-YYYY-MM-DD-numero…
+    m = re.fullmatch(
+        r'br-municipal-(\d{7})-(lei-complementar|lei|decreto-lei|decreto|resolucao|emenda)'
+        r'(?:-(\d{4})(?:-(\d{2})(?:-(\d{2}))?)?)?(?:-(\d+))?(?:-([a-z0-9-]+))?',
+        stem,
+    )
+    if m:
+        out['ibge'] = m.group(1)
+        out['especie_candidata'] = m.group(2)
+        _apply_date_number(m.group(3), m.group(4), m.group(5), m.group(6), m.group(7))
+        return out
+
+    # Estadual/distrital canônico (não opaco): br-uf-especie-…
+    m = re.fullmatch(
+        r'br-([a-z]{2})-(lei-complementar|lei|decreto-lei|decreto|resolucao|constituicao|'
+        r'emenda-constitucional)'
+        r'(?:-(\d{4})(?:-(\d{2})(?:-(\d{2}))?)?)?(?:-(\d+))?(?:-([a-z0-9-]+))?',
+        stem,
+    )
+    if m:
+        out['uf'] = m.group(1).upper()
+        out['especie_candidata'] = m.group(2)
+        _apply_date_number(m.group(3), m.group(4), m.group(5), m.group(6), m.group(7))
+        return out
+
     return out
 
 
@@ -606,6 +674,12 @@ def build_field_coverage() -> dict[str, Any]:
             'manifesto': 'metadados/acervo-geral-piloto.json',
             'campos_cabecalho': 'conhecidos-com-campo_fontes-no-piloto',
         },
+        'acervo-geral-export-sidecar': {
+            'contrato': 'metadados/CONTRATO-acervo.md',
+            'manifesto': 'provas/cobertura-nacional/export-acervo-manifesto.json',
+            'inventario': 'provas/cobertura-nacional/inventario-campos-acervo.json',
+            'campos_cabecalho': 'inventariados-no-export-completo-com-proveniencia',
+        },
     }
     fields = [
         'norma_id',
@@ -785,7 +859,10 @@ def build_national_matrix() -> dict[str, Any]:
             'territorial': 'provas/cobertura-nacional/inventario-territorial.json',
             'fac_similes': 'provas/cobertura-nacional/inventario-fac-similes.json',
             'campos': 'provas/cobertura-nacional/cobertura-campos.json',
+            'campos_acervo_completo': 'provas/cobertura-nacional/inventario-campos-acervo.json',
+            'export_acervo_manifesto': 'provas/cobertura-nacional/export-acervo-manifesto.json',
             'bm25': 'provas/cobertura-nacional/bm25-mapeamento.json',
+            'bm25_filtros_integrados': 'provas/cobertura-nacional/bm25-filtros-integrados.json',
             'fontes_jurisdicao': 'provas/cobertura-nacional/registro-fontes-jurisdicao.json',
             'reconciliacao_especies': 'provas/cobertura-nacional/reconciliacao-especies-publicadas.json',
             'piloto_cabecalhos': 'metadados/acervo-geral-piloto.json',
@@ -793,6 +870,7 @@ def build_national_matrix() -> dict[str, Any]:
         },
         'avanco_desde_inventario_inicial': [
             'piloto de 4 cabeçalhos gerais com campo_fontes (#70)',
+            'export sidecar JSONL streaming do acervo completo + inventário por campo (#70)',
             'registro de fontes por UF + municípios publicados (#74)',
             'colação visual estrutural do formulário CPP (#77)',
             'contagem federal por espécie + blockers #102/#103 (#83)',
@@ -800,44 +878,188 @@ def build_national_matrix() -> dict[str, Any]:
     }
 
 
-def export_document(rel: str) -> dict[str, Any]:
+def _extract_titulo(meta: dict[str, Any] | None, text: str) -> tuple[Any, str]:
+    """Retorna (titulo, fonte). Título literal só do frontmatter ou cabeçalho escaneado."""
+    if meta and meta.get('titulo') not in (None, '', 'desconhecido'):
+        return meta['titulo'], 'frontmatter'
+    # Escaneia só o prefixo do corpo (após frontmatter) — não inventa espécie/número.
+    head = text[:TITLE_SCAN_CHARS]
+    for line in head.splitlines():
+        s = line.strip()
+        if not s:
+            continue
+        if s.startswith('#') or s.startswith('>') or s.startswith('<') or s.startswith('**'):
+            titulo = re.sub(r'^#+\s*', '', s)
+            titulo = re.sub(r'[<>*]', '', titulo).strip()
+            if titulo:
+                return titulo, 'cabecalho-literal'
+            continue
+        if 'LEI' in s.upper() or 'DECRETO' in s.upper() or 'CONSTITUI' in s.upper():
+            titulo = re.sub(r'<[^>]+>', '', s).strip()
+            if titulo:
+                return titulo, 'cabecalho-literal'
+    return None, 'desconhecido-explicito'
+
+
+def _estado_campo_valor(field: str, value: Any, doc: dict[str, Any]) -> str:
+    """Classifica o estado de conhecimento de um valor exportado (não inventa)."""
+    if field == 'vigencia_certificada':
+        return 'conhecido' if value is False else 'conflitante'
+    if field == 'fonte_do_campo':
+        return 'conhecido' if isinstance(value, dict) and value else 'ausente'
+    if field == 'sha256_markdown':
+        return 'conhecido' if value else 'ausente'
+    if field in {'uf', 'ibge'}:
+        esfera = doc.get('esfera')
+        if value not in (None, '', 'desconhecido'):
+            return 'conhecido'
+        if field == 'uf' and esfera == 'federal':
+            return 'nao-aplicavel'
+        if field == 'ibge' and esfera in {'federal', 'estadual', 'distrital'}:
+            return 'nao-aplicavel'
+        return 'desconhecido' if value in (None, '', 'desconhecido') else 'conhecido'
+    if field == 'complemento':
+        if value not in (None, ''):
+            return 'conhecido'
+        # Ausência de complemento é legítima; não confundir com desconhecido.
+        return 'nao-aplicavel'
+    if field == 'provedor_token':
+        if value not in (None, ''):
+            return 'conhecido'
+        return 'nao-aplicavel'
+    if field == 'provedor_id':
+        if value not in (None, ''):
+            return 'conhecido'
+        return 'ausente'
+    if field == 'numero':
+        estado = doc.get('numero_estado')
+        if estado == 'sem-numero':
+            return 'nao-aplicavel' if value is None else 'conflitante'
+        if estado == 'desconhecido':
+            return 'desconhecido'
+        if value not in (None, '', 'desconhecido'):
+            return 'conhecido'
+        return 'desconhecido'
+    if field == 'ementa':
+        if value in (None, '', 'desconhecido'):
+            return 'desconhecido'
+        return 'conhecido'
+    if field in {'orgao_emissor', 'poder', 'ambito_aplicacao'}:
+        if value in (None, '', 'desconhecido', 'nao-informado'):
+            return 'desconhecido'
+        return 'conhecido'
+    if field == 'especie':
+        if value in (None, '', 'desconhecido'):
+            return 'desconhecido'
+        fonte = (doc.get('fonte_do_campo') or {}).get('especie', '')
+        if fonte.startswith('caminho') and 'registrada' not in str(doc.get('estado_identidade', '')):
+            return 'conhecido'  # candidata tipada, ainda com proveniência de caminho
+        return 'conhecido'
+    if field == 'data_ato':
+        if value in (None, '', 'desconhecido'):
+            return 'desconhecido'
+        return 'conhecido'
+    if field == 'titulo':
+        if value in (None, '', 'desconhecido'):
+            return 'desconhecido'
+        return 'conhecido'
+    if field == 'situacao':
+        if value in (None, '', 'nao-informada', 'desconhecido'):
+            return 'desconhecido'
+        return 'conhecido'
+    if field == 'edicao_tipo':
+        if value in (None, '', 'desconhecida', 'desconhecido'):
+            return 'desconhecido'
+        return 'conhecido'
+    if field == 'fonte_url':
+        if value in (None, '', 'desconhecido'):
+            return 'desconhecido'
+        return 'conhecido'
+    if field == 'estado_identidade':
+        return 'conhecido' if value else 'ausente'
+    if value in (None, '', 'desconhecido'):
+        return 'desconhecido'
+    return 'conhecido'
+
+
+def export_document(rel: str, *, include_markdown: bool = True) -> dict[str, Any]:
+    """Exporta metadados tipados de uma edição.
+
+    Por padrão inclui `markdown_integral` (consumidores BM25). Para varredura
+    massiva use `include_markdown=False` — o corpo permanece no arquivo
+    publicado e o hash/bytes permitem recuperação sem truncamento.
+    """
     path = ROOT / rel
     raw = path.read_bytes()
     text = raw.decode('utf-8')
-    meta, body, body_hash = markdown_body_hash(path)
+    meta, body = parse_frontmatter(text)
+    if meta is None:
+        body = text
+        body_hash = sha256_bytes(raw)
+        hash_semantica = 'arquivo-inteiro-sem-frontmatter'
+    else:
+        body_hash = sha256_bytes(body.encode('utf-8'))
+        hash_semantica = 'corpo-apos-frontmatter'
     cand = path_identity_candidate(rel)
     rep = classify_representation(text)
-    titulo = None
-    if meta and meta.get('titulo'):
-        titulo = meta['titulo']
+    titulo, titulo_fonte = _extract_titulo(meta, body if meta is not None else text)
+
+    # Órgão/poder/âmbito: só frontmatter explícito — nunca inferir do caminho.
+    orgao = (meta or {}).get('fonte_orgao') or (meta or {}).get('orgao_emissor') or 'desconhecido'
+    poder = (meta or {}).get('poder') or 'desconhecido'
+    ambito = (meta or {}).get('ambito_aplicacao') or 'desconhecido'
+    ementa = (meta or {}).get('ementa')
+    if ementa in (None, ''):
+        ementa = None
+
+    numero: Any
+    if meta and 'norma_numero' in meta:
+        numero = meta.get('norma_numero')
+        if numero == 'desconhecido':
+            numero_estado = 'desconhecido'
+        elif numero is None:
+            # null no frontmatter = ato sem número só se marcado; senão desconhecido
+            numero_estado = meta.get('numero_estado') or 'desconhecido'
+        else:
+            numero_estado = meta.get('numero_estado') or 'informado'
     else:
-        for line in text.splitlines():
-            s = line.strip()
-            if not s:
-                continue
-            if s.startswith('#') or s.startswith('>') or s.startswith('<') or s.startswith('**'):
-                titulo = re.sub(r'^#+\s*', '', s)
-                titulo = re.sub(r'[<>*]', '', titulo).strip()
-                break
-            if 'LEI' in s.upper() or 'DECRETO' in s.upper() or 'CONSTITUI' in s.upper():
-                titulo = re.sub(r'<[^>]+>', '', s).strip()
-                break
-    doc = {
+        numero = cand.get('numero')
+        numero_estado = cand.get('numero_estado')
+
+    # Caminho opaco: provedor_id nunca vira numero.
+    if cand.get('caminho_opaco') and not (meta and 'norma_numero' in meta):
+        numero = None
+        numero_estado = 'desconhecido'
+
+    estado_identidade = (
+        'registrada-no-cabecalho'
+        if meta
+        else cand.get('estado_identidade')
+    )
+    # Identidade verificada só com frontmatter/contrato; caminho canônico permanece candidata.
+    if meta and meta.get('estado_identidade'):
+        estado_identidade = meta['estado_identidade']
+
+    doc: dict[str, Any] = {
         'contrato_versao': CONTRATO_VERSAO,
+        'export_schema_versao': EXPORT_SCHEMA_VERSION,
         'arquivo': rel,
         'norma_id': (meta or {}).get('norma_id') or cand.get('stem'),
         'edicao_id': (meta or {}).get('edicao_id') or cand.get('stem'),
         'especie': (meta or {}).get('norma_tipo') or cand.get('especie_candidata') or 'desconhecido',
-        'numero': (meta or {}).get('norma_numero') if meta and 'norma_numero' in meta else cand.get('numero'),
-        'numero_estado': cand.get('numero_estado'),
-        'complemento': cand.get('complemento'),
+        'numero': numero,
+        'numero_estado': numero_estado,
+        'complemento': (meta or {}).get('complemento') if meta and 'complemento' in meta else cand.get('complemento'),
         'provedor_id': cand.get('provedor_id'),
         'provedor_token': cand.get('provedor_token'),
         'esfera': (meta or {}).get('esfera') or cand.get('esfera'),
-        'uf': cand.get('uf'),
-        'ibge': cand.get('ibge'),
+        'uf': (meta or {}).get('uf') if meta and meta.get('uf') is not None else cand.get('uf'),
+        'ibge': (meta or {}).get('ibge') if meta and meta.get('ibge') is not None else cand.get('ibge'),
+        'orgao_emissor': orgao,
+        'poder': poder,
+        'ambito_aplicacao': ambito,
         'titulo': titulo,
-        'ementa': None,
+        'ementa': ementa,
         'data_ato': (meta or {}).get('norma_data') or cand.get('data_candidata') or 'desconhecido',
         'edicao_tipo': (meta or {}).get('edicao_tipo') or 'desconhecida',
         'situacao': (meta or {}).get('situacao') or 'nao-informada',
@@ -849,48 +1071,83 @@ def export_document(rel: str) -> dict[str, Any]:
         'fonte_integral_preservada': rep['fonte_integral_preservada'],
         'alerta_cobertura_textual': rep['cobertura_transcricao'] != 'integral',
         'alerta_reproducao_incompleta': '<!-- reproducao-incompleta:inicio -->' in text,
-        'sha256_markdown': body_hash if meta is not None else sha256_bytes(raw),
-        'sha256_markdown_semantica': 'corpo-apos-frontmatter' if meta is not None else 'arquivo-inteiro-sem-frontmatter',
+        'sha256_markdown': body_hash,
+        'sha256_markdown_semantica': hash_semantica,
+        'markdown_integral_bytes': len(body.encode('utf-8')),
         'fonte_url': (meta or {}).get('fonte_url') or 'desconhecido',
-        'markdown_integral': body if meta is not None else text,
-        'estado_identidade': 'registrada-no-cabecalho' if meta else cand.get('estado_identidade'),
+        'estado_identidade': estado_identidade,
+        'tem_frontmatter': meta is not None,
+        'armazenamento_metadados': 'frontmatter' if meta is not None else 'sidecar-export',
     }
-    # Número do cabeçalho setorial é string; preservar estado.
-    if meta and meta.get('norma_numero') not in (None, 'desconhecido'):
-        doc['numero_estado'] = 'informado'
-    elif meta and meta.get('norma_numero') == 'desconhecido':
-        doc['numero_estado'] = 'desconhecido'
 
-    # Proveniência por campo: frontmatter explícito > caminho > desconhecido.
-    campo_fontes = {}
+    campo_fontes: dict[str, Any] = {}
     if meta and isinstance(meta.get('campo_fontes'), dict):
         campo_fontes.update(meta['campo_fontes'])
+
     def _src(field: str, default: str) -> str:
         return campo_fontes.get(field, default)
 
     doc['fonte_do_campo'] = {
         'norma_id': _src('norma_id', 'frontmatter' if meta and meta.get('norma_id') else 'caminho'),
         'edicao_id': _src('edicao_id', 'frontmatter' if meta and meta.get('edicao_id') else 'caminho'),
-        'especie': _src('norma_tipo', 'frontmatter' if meta and meta.get('norma_tipo') else (
-            'caminho-canonico' if cand.get('especie_candidata') else 'desconhecido-explicito'
-        )),
-        'numero': _src('norma_numero', 'frontmatter' if meta and 'norma_numero' in (meta or {}) else (
-            'caminho-canonico' if cand.get('numero') is not None else (
-                'sem-numero' if cand.get('numero_estado') == 'sem-numero' else 'desconhecido-explicito'
-            )
-        )),
+        'especie': _src(
+            'norma_tipo',
+            'frontmatter'
+            if meta and meta.get('norma_tipo')
+            else ('caminho-canonico' if cand.get('especie_candidata') else 'desconhecido-explicito'),
+        ),
+        'numero': _src(
+            'norma_numero',
+            'frontmatter'
+            if meta and 'norma_numero' in (meta or {})
+            else (
+                'caminho-canonico'
+                if cand.get('numero') is not None
+                else ('sem-numero' if cand.get('numero_estado') == 'sem-numero' else 'desconhecido-explicito')
+            ),
+        ),
+        'complemento': _src(
+            'complemento',
+            'frontmatter'
+            if meta and 'complemento' in (meta or {})
+            else ('caminho-canonico' if cand.get('complemento') else 'nao-aplicavel'),
+        ),
         'esfera': _src('esfera', 'frontmatter' if meta and meta.get('esfera') else 'caminho'),
-        'uf': _src('uf', 'caminho' if cand.get('uf') else 'nao-aplicavel'),
-        'ibge': _src('ibge', 'caminho' if cand.get('ibge') else 'nao-aplicavel'),
-        'titulo': _src('titulo', 'frontmatter' if meta and meta.get('titulo') else (
-            'cabecalho-literal' if titulo else 'desconhecido-explicito'
+        'uf': _src('uf', 'frontmatter' if meta and meta.get('uf') is not None else (
+            'caminho' if cand.get('uf') else 'nao-aplicavel'
         )),
-        'data_ato': _src('norma_data', 'frontmatter' if meta and meta.get('norma_data') else (
-            'caminho-canonico' if cand.get('data_candidata') else 'desconhecido-explicito'
+        'ibge': _src('ibge', 'frontmatter' if meta and meta.get('ibge') is not None else (
+            'caminho' if cand.get('ibge') else 'nao-aplicavel'
         )),
-        'edicao_tipo': _src('edicao_tipo', 'frontmatter' if meta and meta.get('edicao_tipo') else 'desconhecido-explicito'),
-        'fonte_url': _src('fonte_url', 'frontmatter' if meta and meta.get('fonte_url') else 'desconhecido-explicito'),
-        'situacao': _src('situacao', 'frontmatter' if meta and meta.get('situacao') else 'desconhecido-explicito'),
+        'orgao_emissor': _src(
+            'fonte_orgao',
+            'frontmatter' if meta and (meta.get('fonte_orgao') or meta.get('orgao_emissor')) else 'desconhecido-explicito',
+        ),
+        'poder': _src('poder', 'frontmatter' if meta and meta.get('poder') else 'desconhecido-explicito'),
+        'ambito_aplicacao': _src(
+            'ambito_aplicacao',
+            'frontmatter' if meta and meta.get('ambito_aplicacao') else 'desconhecido-explicito',
+        ),
+        'titulo': _src('titulo', titulo_fonte),
+        'ementa': _src('ementa', 'frontmatter' if ementa is not None else 'desconhecido-explicito'),
+        'data_ato': _src(
+            'norma_data',
+            'frontmatter'
+            if meta and meta.get('norma_data')
+            else ('caminho-canonico' if cand.get('data_candidata') else 'desconhecido-explicito'),
+        ),
+        'edicao_tipo': _src(
+            'edicao_tipo',
+            'frontmatter' if meta and meta.get('edicao_tipo') else 'desconhecido-explicito',
+        ),
+        'fonte_url': _src(
+            'fonte_url',
+            'frontmatter' if meta and meta.get('fonte_url') else 'desconhecido-explicito',
+        ),
+        'situacao': _src(
+            'situacao',
+            'frontmatter' if meta and meta.get('situacao') else 'desconhecido-explicito',
+        ),
         'representacao': 'classificador-local',
         'cobertura_transcricao': 'classificador-local',
         'vigencia_certificada': 'contrato-global-sempre-false',
@@ -901,7 +1158,277 @@ def export_document(rel: str) -> dict[str, Any]:
         doc['fonte_do_campo']['provedor_id'] = _src('provedor_id', 'frontmatter')
     elif cand.get('provedor_id') is not None:
         doc['fonte_do_campo']['provedor_id'] = 'caminho-opaco'
+    else:
+        doc['fonte_do_campo']['provedor_id'] = 'ausente'
+
+    if include_markdown:
+        doc['markdown_integral'] = body
     return doc
+
+
+def iter_markdown_rels() -> list[str]:
+    return [p.relative_to(ROOT).as_posix() for p in iter_markdown_files()]
+
+
+def iter_export_records(
+    *,
+    include_markdown: bool = False,
+    paths: list[str] | None = None,
+) -> Iterator[dict[str, Any]]:
+    """Gera um registro tipado por edição, sem acumular corpos em memória."""
+    rels = paths if paths is not None else iter_markdown_rels()
+    for rel in rels:
+        yield export_document(rel, include_markdown=include_markdown)
+
+
+def _checkpoint_path(out_dir: Path) -> Path:
+    return out_dir / 'checkpoint.json'
+
+
+def _load_checkpoint(out_dir: Path) -> dict[str, Any]:
+    path = _checkpoint_path(out_dir)
+    if path.is_file():
+        return load_json(path)
+    return {
+        'schema_versao': EXPORT_SCHEMA_VERSION,
+        'next_index': 0,
+        'shards': [],
+        'processados': 0,
+        'bytes_jsonl': 0,
+    }
+
+
+def _write_checkpoint(out_dir: Path, data: dict[str, Any]) -> None:
+    write_json(_checkpoint_path(out_dir), data)
+
+
+def export_acervo_streaming(
+    *,
+    out_dir: Path | None = None,
+    shard_size: int = DEFAULT_SHARD_SIZE,
+    resume: bool = True,
+    include_markdown: bool = False,
+    limit: int | None = None,
+) -> dict[str, Any]:
+    """Exporta o acervo inteiro em shards JSONL.gz retomáveis.
+
+    Não carrega o corpus em memória: um arquivo por vez. Por padrão omite o
+    corpo Markdown do JSONL (sidecar de metadados); a íntegra permanece no
+    `.md` publicado e é recuperável por `arquivo` + `sha256_markdown`.
+    """
+    out_dir = out_dir or EXPORT_DIR
+    shards_dir = out_dir / 'shards'
+    shards_dir.mkdir(parents=True, exist_ok=True)
+    rels = iter_markdown_rels()
+    if limit is not None:
+        rels = rels[:limit]
+    total = len(rels)
+    ckpt = _load_checkpoint(out_dir) if resume else {
+        'schema_versao': EXPORT_SCHEMA_VERSION,
+        'next_index': 0,
+        'shards': [],
+        'processados': 0,
+        'bytes_jsonl': 0,
+    }
+    start = int(ckpt.get('next_index') or 0)
+    if start > total:
+        start = 0
+        ckpt = {
+            'schema_versao': EXPORT_SCHEMA_VERSION,
+            'next_index': 0,
+            'shards': [],
+            'processados': 0,
+            'bytes_jsonl': 0,
+        }
+
+    inventory_counts: dict[str, collections.Counter] = {
+        field: collections.Counter() for field in CAMPOS_INVENTARIO
+    }
+    # Reprocessar inventário do zero a cada corrida completa; em resume parcial
+    # o inventário final é recalculado ao concluir.
+    identity_counts: collections.Counter = collections.Counter()
+    storage_counts: collections.Counter = collections.Counter()
+    esfera_counts: collections.Counter = collections.Counter()
+    numero_estado_counts: collections.Counter = collections.Counter()
+    opaque_provider_not_number = 0
+    t0 = time.time()
+
+    shard_idx = len(ckpt.get('shards') or [])
+    current_lines = 0
+    gz = None
+    shard_path: Path | None = None
+    shard_raw = 0
+
+    def _open_shard(idx: int):
+        nonlocal gz, shard_path, shard_raw, current_lines
+        shard_path = shards_dir / f'shard-{idx:05d}.jsonl.gz'
+        gz = gzip.open(shard_path, 'wt', encoding='utf-8', compresslevel=6)
+        shard_raw = 0
+        current_lines = 0
+
+    def _close_shard():
+        nonlocal gz, shard_idx, shard_raw, current_lines
+        if gz is None or shard_path is None:
+            return
+        gz.close()
+        gz = None
+        digest = sha256_file(shard_path)
+        ckpt.setdefault('shards', []).append(
+            {
+                'arquivo': shard_path.relative_to(out_dir).as_posix(),
+                'registros': current_lines,
+                'sha256': digest,
+                'bytes': shard_path.stat().st_size,
+            }
+        )
+        shard_idx += 1
+        current_lines = 0
+        shard_raw = 0
+
+    if start < total:
+        _open_shard(shard_idx)
+
+    for i in range(start, total):
+        rel = rels[i]
+        doc = export_document(rel, include_markdown=include_markdown)
+        line = json.dumps(doc, ensure_ascii=False, separators=(',', ':'))
+        assert gz is not None
+        gz.write(line + '\n')
+        shard_raw += len(line) + 1
+        current_lines += 1
+        ckpt['bytes_jsonl'] = int(ckpt.get('bytes_jsonl') or 0) + len(line) + 1
+        ckpt['processados'] = i + 1
+        ckpt['next_index'] = i + 1
+
+        identity_counts[str(doc.get('estado_identidade'))] += 1
+        storage_counts[str(doc.get('armazenamento_metadados'))] += 1
+        esfera_counts[str(doc.get('esfera'))] += 1
+        numero_estado_counts[str(doc.get('numero_estado'))] += 1
+        if (
+            doc.get('provedor_id') is not None
+            and doc.get('numero') is not None
+            and str(doc['provedor_id']) == str(doc['numero'])
+            and not doc.get('tem_frontmatter')
+            and path_identity_candidate(rel).get('caminho_opaco')
+        ):
+            opaque_provider_not_number += 1
+
+        for field in CAMPOS_INVENTARIO:
+            inventory_counts[field][_estado_campo_valor(field, doc.get(field), doc)] += 1
+
+        if current_lines >= shard_size:
+            _close_shard()
+            _write_checkpoint(out_dir, ckpt)
+            if i + 1 < total:
+                _open_shard(shard_idx)
+
+    if gz is not None:
+        _close_shard()
+
+    elapsed = time.time() - t0
+
+    # Resume parcial: reconta inventário a partir dos shards (sem corpos).
+    if start > 0 and ckpt['processados'] == total:
+        inventory_counts = {field: collections.Counter() for field in CAMPOS_INVENTARIO}
+        identity_counts = collections.Counter()
+        storage_counts = collections.Counter()
+        esfera_counts = collections.Counter()
+        numero_estado_counts = collections.Counter()
+        opaque_provider_not_number = 0
+        for shard in ckpt.get('shards') or []:
+            with gzip.open(out_dir / shard['arquivo'], 'rt', encoding='utf-8') as fh:
+                for line in fh:
+                    doc = json.loads(line)
+                    identity_counts[str(doc.get('estado_identidade'))] += 1
+                    storage_counts[str(doc.get('armazenamento_metadados'))] += 1
+                    esfera_counts[str(doc.get('esfera'))] += 1
+                    numero_estado_counts[str(doc.get('numero_estado'))] += 1
+                    if (
+                        doc.get('provedor_id') is not None
+                        and doc.get('numero') is not None
+                        and str(doc['provedor_id']) == str(doc['numero'])
+                        and not doc.get('tem_frontmatter')
+                        and path_identity_candidate(doc['arquivo']).get('caminho_opaco')
+                    ):
+                        opaque_provider_not_number += 1
+                    for field in CAMPOS_INVENTARIO:
+                        inventory_counts[field][_estado_campo_valor(field, doc.get(field), doc)] += 1
+
+    inventario = {
+        'contrato_versao': CONTRATO_VERSAO,
+        'export_schema_versao': EXPORT_SCHEMA_VERSION,
+        'regra': (
+            'Nenhum campo é coberto só porque apareceu em amostra. '
+            'Contagens abaixo percorrem todas as edições publicadas no export.'
+        ),
+        'escolha_armazenamento': {
+            'metadados_acervo_geral': 'sidecar-export-jsonl',
+            'frontmatter': 'reutilizado-quando-ja-presente',
+            'markdown_corpos': 'nao-reescrevidos-em-massa',
+        },
+        'total_edicoes': ckpt['processados'],
+        'por_campo': {
+            field: dict(counter) for field, counter in inventory_counts.items()
+        },
+        'por_estado_identidade': dict(identity_counts),
+        'por_armazenamento_metadados': dict(storage_counts),
+        'por_esfera': dict(esfera_counts),
+        'por_numero_estado': dict(numero_estado_counts),
+        'anomalias': {
+            'provedor_id_igual_numero_sem_frontmatter': opaque_provider_not_number,
+        },
+        'limites': (
+            'Identidade derivada só do caminho permanece candidata. '
+            'orgao_emissor/poder/ambito_aplicacao/serie sem prova ficam desconhecidos. '
+            'Presença no export não certifica vigência.'
+        ),
+    }
+
+    manifesto = {
+        'contrato_versao': CONTRATO_VERSAO,
+        'export_schema_versao': EXPORT_SCHEMA_VERSION,
+        'gerado_por': 'scripts/cobertura_nacional.py export-acervo',
+        'include_markdown': include_markdown,
+        'shard_size': shard_size,
+        'total_edicoes': ckpt['processados'],
+        'total_esperado': total,
+        'completo': ckpt['processados'] == total,
+        'bytes_jsonl_nao_comprimidos': ckpt.get('bytes_jsonl'),
+        'shards': ckpt.get('shards') or [],
+        'elapsed_seconds': round(elapsed, 3),
+        'checkpoint': 'checkpoint.json',
+        'inventario_campos': 'inventario-campos-acervo.json',
+        'recuperacao_integra': {
+            'modo': 'arquivo-publicado+sha256_markdown',
+            'nota': (
+                'Consumidor BM25 obtém markdown_integral via export-one/--include-markdown '
+                'ou lendo o Markdown publicado e conferindo o hash; sidecars não truncam o corpo.'
+            ),
+        },
+        'filtros_bm25': [
+            'esfera',
+            'especie',
+            'numero',
+            'complemento',
+            'numero_estado',
+            'uf',
+            'ibge',
+            'edicao_tipo',
+            'data_ato',
+            'representacao',
+            'cobertura_transcricao',
+            'edicao_id',
+            'norma_id',
+        ],
+    }
+    write_json(out_dir / 'manifesto.json', manifesto)
+    write_json(out_dir / 'inventario-campos-acervo.json', inventario)
+    # Cópia estável em provas/ só no export canônico (não em fixtures de teste).
+    if out_dir.resolve() == EXPORT_DIR.resolve():
+        write_json(PROVAS / 'export-acervo-manifesto.json', manifesto)
+        write_json(PROVAS / 'inventario-campos-acervo.json', inventario)
+    _write_checkpoint(out_dir, {**ckpt, 'completo': manifesto['completo']})
+    return {'manifesto': manifesto, 'inventario': inventario}
 
 
 def bm25_score(query: str, document: str, avgdl: float, df: int, n_docs: int, k1: float = 1.2, b: float = 0.75) -> float:
@@ -1208,12 +1735,221 @@ def build_species_reconciliation() -> dict[str, Any]:
             },
             {
                 'id': '#70',
-                'tema': 'cabeçalhos estruturados no acervo geral',
-                'estado': 'piloto-iniciado',
-                'acao': 'expandir metadados/acervo-geral-piloto.json sem inventar fonte_url/situação',
+                'tema': 'export tipado BM25 do acervo geral',
+                'estado': 'export-sidecar-streaming',
+                'acao': (
+                    'Sidecars JSONL + inventário por campo no acervo completo; '
+                    'frontmatter só onde já existe; sem inventar órgão/série/âmbito'
+                ),
             },
         ],
         'limites': 'Contagem de caminhos ≠ reconciliação de identidade jurídica completa.',
+    }
+
+
+def apply_bm25_filters(docs: list[dict[str, Any]], filters: dict[str, Any]) -> list[dict[str, Any]]:
+    """Aplica filtros exatos tipados (keyword) separados do ranking textual."""
+    out = []
+    for d in docs:
+        ok = True
+        for key, expected in filters.items():
+            if key == 'data_ato_prefix':
+                if not str(d.get('data_ato', '')).startswith(str(expected)):
+                    ok = False
+                    break
+                continue
+            if key == 'data_ato_intervalo':
+                inicio, fim = expected
+                val = str(d.get('data_ato') or '')
+                if val in ('', 'desconhecido') or not (inicio <= val <= fim):
+                    ok = False
+                    break
+                continue
+            if d.get(key) != expected:
+                ok = False
+                break
+        if ok:
+            out.append(d)
+    return out
+
+
+def iter_export_shards(out_dir: Path | None = None) -> Iterator[dict[str, Any]]:
+    """Lê registros do export sidecar sem carregar todos os shards de uma vez."""
+    out_dir = out_dir or EXPORT_DIR
+    manifesto_path = out_dir / 'manifesto.json'
+    if not manifesto_path.is_file():
+        return
+        yield  # pragma: no cover — torna a função um gerador mesmo sem shards
+    manifesto = load_json(manifesto_path)
+    for shard in manifesto.get('shards') or []:
+        path = out_dir / shard['arquivo']
+        if not path.is_file():
+            continue
+        with gzip.open(path, 'rt', encoding='utf-8') as fh:
+            for line in fh:
+                if line.strip():
+                    yield json.loads(line)
+
+
+def verify_bm25_filters_integrated(out_dir: Path | None = None) -> dict[str, Any]:
+    """Verifica filtros BM25 sobre o export (sidecars) + entrega da íntegra.
+
+    Não basta a demonstração isolada de meia dúzia de arquivos: confere
+    combinações de filtro no fluxo de exportação e a recuperação do Markdown
+    integral por hash.
+    """
+    out_dir = out_dir or EXPORT_DIR
+    # Casos de filtro exigidos pelo aceite #70.
+    cases = [
+        {
+            'id': 'federal-lei-2021-historica',
+            'filters': {
+                'esfera': 'federal',
+                'especie': 'lei',
+                'data_ato_prefix': '2021',
+                'edicao_tipo': 'historica',
+            },
+            'expect_min': 1,
+            'must_include_arquivo': 'federal/br-federal-lei-2021-04-01-14133.md',
+        },
+        {
+            'id': 'federal-lei-complementar-numero-1-1967',
+            'filters': {
+                'esfera': 'federal',
+                'especie': 'lei-complementar',
+                'numero': '1',
+                'data_ato_prefix': '1967',
+            },
+            'expect_min': 1,
+            'must_include_arquivo': 'federal/br-federal-lei-complementar-1967-11-09-1.md',
+            'must_exclude_norma_id_substring': '1962',
+        },
+        {
+            'id': 'acre-opaco-provedor-nao-e-numero',
+            'filters': {
+                'esfera': 'estadual',
+                'uf': 'AC',
+                'provedor_id': '1121',
+            },
+            'expect_min': 1,
+            'must_include_arquivo': 'estaduais/AC/br-ac-norma-1121.md',
+            'assert_numero': '300',
+        },
+        {
+            'id': 'municipal-ibge-decreto',
+            'filters': {
+                'esfera': 'municipal',
+                'ibge': '3550308',
+                'especie': 'decreto',
+            },
+            'expect_min': 1,
+            'must_include_arquivo': 'municipais/3550308/br-municipal-3550308-decreto-2022-12-27-62100.md',
+        },
+        {
+            'id': 'facsimile-nao-texto-integral',
+            'filters': {
+                'representacao': 'fac-simile',
+                'cobertura_transcricao': 'ausente',
+            },
+            'expect_min': 1,
+            'must_include_arquivo': 'federal/br-federal-decreto-1954-02-25-35110.md',
+        },
+        {
+            'id': 'ato-sem-numero-seq-sf',
+            'filters': {
+                'numero_estado': 'sem-numero',
+                'esfera': 'federal',
+            },
+            'expect_min': 1,
+        },
+    ]
+
+    # Carrega metadados dos arquivos-alvo + amostra do export se existir.
+    target_rels = sorted(
+        {
+            c['must_include_arquivo']
+            for c in cases
+            if c.get('must_include_arquivo')
+        }
+        | {
+            'federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md',
+            'federal/br-federal-decreto-1823-01-09-seq-sf-1.md',
+        }
+    )
+    docs_by_arquivo = {}
+    for rel in target_rels:
+        if (ROOT / rel).is_file():
+            docs_by_arquivo[rel] = export_document(rel, include_markdown=True)
+
+    # Integração com sidecars: se manifesto completo existir, filtra no stream.
+    stream_hits: dict[str, list[str]] = {c['id']: [] for c in cases}
+    manifesto_path = out_dir / 'manifesto.json'
+    streamed = 0
+    if manifesto_path.is_file():
+        manifesto = load_json(manifesto_path)
+        if manifesto.get('completo'):
+            for doc in iter_export_shards(out_dir):
+                streamed += 1
+                for case in cases:
+                    matched = apply_bm25_filters([doc], case['filters'])
+                    if matched:
+                        stream_hits[case['id']].append(doc['arquivo'])
+
+    results = []
+    for case in cases:
+        # Base: documentos alvo carregados com íntegra.
+        pool = list(docs_by_arquivo.values())
+        filtered = apply_bm25_filters(pool, case['filters'])
+        arquivos = {d['arquivo'] for d in filtered}
+        if stream_hits[case['id']]:
+            arquivos |= set(stream_hits[case['id']])
+        entry = {
+            'id': case['id'],
+            'filters': case['filters'],
+            'hits': sorted(arquivos),
+            'hit_count': len(arquivos),
+            'ok': len(arquivos) >= case['expect_min'],
+        }
+        must = case.get('must_include_arquivo')
+        if must:
+            entry['must_include_ok'] = must in arquivos
+            entry['ok'] = entry['ok'] and entry['must_include_ok']
+            if must in docs_by_arquivo:
+                doc = docs_by_arquivo[must]
+                meta, body, body_hash = markdown_body_hash(ROOT / must)
+                entry['integra'] = {
+                    'sha256_ok': doc['sha256_markdown'] == body_hash,
+                    'corpo_igual': doc.get('markdown_integral') == body,
+                    'bytes': doc.get('markdown_integral_bytes'),
+                    'truncado': False,
+                    'fonte_citada': doc.get('fonte_url'),
+                    'vigencia_certificada': doc.get('vigencia_certificada'),
+                }
+                entry['ok'] = entry['ok'] and entry['integra']['sha256_ok'] and entry['integra']['corpo_igual']
+                if 'assert_numero' in case:
+                    entry['numero_ok'] = str(doc.get('numero')) == str(case['assert_numero'])
+                    entry['provedor_distinto'] = str(doc.get('provedor_id')) != str(doc.get('numero'))
+                    entry['ok'] = entry['ok'] and entry['numero_ok'] and entry['provedor_distinto']
+        if case.get('must_exclude_norma_id_substring'):
+            sub = case['must_exclude_norma_id_substring']
+            entry['exclude_ok'] = all(sub not in (d.get('norma_id') or '') for d in filtered)
+            entry['ok'] = entry['ok'] and entry['exclude_ok']
+        results.append(entry)
+
+    # Correlação dispositivo/fonte: fac-símile filtrado não vira texto integral.
+    fac = docs_by_arquivo.get('federal/br-federal-decreto-1954-02-25-35110.md')
+    correlacao = {
+        'facsimile_arquivo': 'federal/br-federal-decreto-1954-02-25-35110.md',
+        'texto_integral_pesquisavel': False if not fac else fac['texto_integral_pesquisavel'],
+        'alerta_cobertura_textual': True if not fac else fac['alerta_cobertura_textual'],
+        'ok': bool(fac) and fac['texto_integral_pesquisavel'] is False and fac['alerta_cobertura_textual'] is True,
+    }
+
+    return {
+        'stream_registros_lidos': streamed,
+        'casos': results,
+        'correlacao_representacao': correlacao,
+        'todos_ok': all(r['ok'] for r in results) and correlacao['ok'],
     }
 
 
@@ -1229,16 +1965,17 @@ def build_bm25_demo() -> dict[str, Any]:
     docs = []
     for rel in sample_files:
         if (ROOT / rel).is_file():
-            docs.append(export_document(rel))
+            docs.append(export_document(rel, include_markdown=True))
     # Filtro combinado: federal + lei + ano 2021 + edição histórica
-    filtered = [
-        d
-        for d in docs
-        if d['esfera'] == 'federal'
-        and str(d.get('especie')) in {'lei', 'lei'}
-        and str(d.get('data_ato', '')).startswith('2021')
-        and d.get('edicao_tipo') == 'historica'
-    ]
+    filtered = apply_bm25_filters(
+        docs,
+        {
+            'esfera': 'federal',
+            'especie': 'lei',
+            'data_ato_prefix': '2021',
+            'edicao_tipo': 'historica',
+        },
+    )
     # Query no corpo da consolidada / histórica
     query = 'licitação pregão eletrônico'
     scored = []
@@ -1348,7 +2085,34 @@ def cmd_generate() -> None:
     write_json(PROVAS / 'bm25-mapeamento.json', demo['mapping'])
     write_json(PROVAS / 'bm25-demonstracao.json', {k: v for k, v in demo.items() if k != 'mapping'})
     write_json(PROVAS / 'identidade-casos.json', {'casos': CASOS_IDENTIDADE})
+    filtros = verify_bm25_filters_integrated()
+    write_json(PROVAS / 'bm25-filtros-integrados.json', filtros)
     print('inventários e demonstrações gravados em', PROVAS)
+
+
+def cmd_export_acervo(
+    *,
+    resume: bool = True,
+    shard_size: int = DEFAULT_SHARD_SIZE,
+    include_markdown: bool = False,
+    limit: int | None = None,
+) -> None:
+    result = export_acervo_streaming(
+        resume=resume,
+        shard_size=shard_size,
+        include_markdown=include_markdown,
+        limit=limit,
+    )
+    filtros = verify_bm25_filters_integrated()
+    write_json(PROVAS / 'bm25-filtros-integrados.json', filtros)
+    man = result['manifesto']
+    inv = result['inventario']
+    print(
+        f"export-acervo: {man['total_edicoes']}/{man['total_esperado']} "
+        f"completo={man['completo']} shards={len(man['shards'])} "
+        f"anomalia_provedor_numero={inv['anomalias']['provedor_id_igual_numero_sem_frontmatter']} "
+        f"bm25_filtros_ok={filtros['todos_ok']}"
+    )
 
 
 def cmd_verify() -> None:
@@ -1477,34 +2241,108 @@ def cmd_verify() -> None:
     assert '#103' in {b['id'] for b in recon['blockers_concretos']}
     assert 'avanco_desde_inventario_inicial' in matriz
 
+    # Export sidecar / inventário do acervo completo (#70)
+    total_md = len(iter_markdown_rels())
+    inv_path = PROVAS / 'inventario-campos-acervo.json'
+    man_path = PROVAS / 'export-acervo-manifesto.json'
+    assert inv_path.is_file(), 'inventario-campos-acervo.json ausente — rode export-acervo'
+    assert man_path.is_file(), 'export-acervo-manifesto.json ausente — rode export-acervo'
+    inventario = load_json(inv_path)
+    manifesto = load_json(man_path)
+    assert inventario['total_edicoes'] == total_md
+    assert manifesto['total_edicoes'] == total_md
+    assert manifesto['completo'] is True
+    assert inventario['escolha_armazenamento']['metadados_acervo_geral'] == 'sidecar-export-jsonl'
+    assert inventario['escolha_armazenamento']['markdown_corpos'] == 'nao-reescrevidos-em-massa'
+    assert inventario['anomalias']['provedor_id_igual_numero_sem_frontmatter'] == 0
+    # Cobertura por campo: todo campo inventariado tem contagem que soma o total.
+    for field, states in inventario['por_campo'].items():
+        assert sum(states.values()) == total_md, field
+    # Número legal nunca é ID opaco sem frontmatter (amostra AC).
+    ac_doc = export_document('estaduais/AC/br-ac-norma-1121.md', include_markdown=False)
+    assert str(ac_doc['provedor_id']) == '1121'
+    assert str(ac_doc['numero']) == '300'
+    assert ac_doc['numero'] != ac_doc['provedor_id']
+    # Sem markdown no sidecar: íntegra recuperável do arquivo + hash.
+    assert 'markdown_integral' not in ac_doc or ac_doc.get('markdown_integral') is None
+    full = export_document('estaduais/AC/br-ac-norma-1121.md', include_markdown=True)
+    meta, body, body_hash = markdown_body_hash(ROOT / 'estaduais/AC/br-ac-norma-1121.md')
+    assert full['markdown_integral'] == body
+    assert full['sha256_markdown'] == body_hash == ac_doc['sha256_markdown']
+
+    # Filtros BM25 integrados (não só demo isolada)
+    filtros = verify_bm25_filters_integrated()
+    assert filtros['todos_ok'], filtros
+    published_filtros = PROVAS / 'bm25-filtros-integrados.json'
+    if published_filtros.is_file():
+        prev = load_json(published_filtros)
+        assert prev.get('todos_ok') is True
+
+    # Se shards locais existem, confere contagem e hashes dos shards.
+    if (EXPORT_DIR / 'manifesto.json').is_file():
+        live_man = load_json(EXPORT_DIR / 'manifesto.json')
+        assert live_man['total_edicoes'] == total_md
+        n_shard_docs = 0
+        for shard in live_man.get('shards') or []:
+            sp = EXPORT_DIR / shard['arquivo']
+            assert sp.is_file()
+            assert sha256_file(sp) == shard['sha256']
+            with gzip.open(sp, 'rt', encoding='utf-8') as fh:
+                for line in fh:
+                    if line.strip():
+                        n_shard_docs += 1
+                        row = json.loads(line)
+                        assert 'markdown_integral' not in row
+                        assert row.get('vigencia_certificada') is False
+                        assert 'fonte_do_campo' in row
+        assert n_shard_docs == total_md
+
     print(
         f"verify ok: IBGE {captura['municipios']} municípios; "
         f"{published['resumo']['municipios_com_diretorio']} diretórios municipais; "
         f"{published_fac['resumo']['fac_simile_oficial']} fac-símiles oficiais; "
         f"piloto_cabecalhos={len(piloto['documentos'])}; "
+        f"export_acervo={manifesto['total_edicoes']}; "
+        f"bm25_filtros_ok={filtros['todos_ok']}; "
         'sem certificação de completude nacional.'
     )
 
 
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('cmd', choices=['generate', 'verify', 'export-one'])
+    parser.add_argument(
+        'cmd',
+        choices=['generate', 'verify', 'export-one', 'export-acervo'],
+    )
     parser.add_argument('--arquivo', help='caminho relativo para export-one')
+    parser.add_argument('--include-markdown', action='store_true', help='incluir corpo no JSONL (pesado)')
+    parser.add_argument('--no-resume', action='store_true', help='reinicia export-acervo do zero')
+    parser.add_argument('--shard-size', type=int, default=DEFAULT_SHARD_SIZE)
+    parser.add_argument('--limit', type=int, default=None, help='limite de edições (testes)')
     args = parser.parse_args(argv)
     if args.cmd == 'generate':
         cmd_generate()
     elif args.cmd == 'verify':
         cmd_verify()
+    elif args.cmd == 'export-acervo':
+        cmd_export_acervo(
+            resume=not args.no_resume,
+            shard_size=args.shard_size,
+            include_markdown=args.include_markdown,
+            limit=args.limit,
+        )
     else:
         if not args.arquivo:
             raise SystemExit('--arquivo é obrigatório para export-one')
-        doc = export_document(args.arquivo)
-        # Não despejar markdown enorme no stdout em CI sem pedido; incluir hash e tamanho.
-        preview = {
-            **{k: v for k, v in doc.items() if k != 'markdown_integral'},
-            'markdown_integral_bytes': len(doc['markdown_integral'].encode('utf-8')),
-            'markdown_integral_sha256': doc['sha256_markdown'],
-        }
+        doc = export_document(args.arquivo, include_markdown=args.include_markdown)
+        if args.include_markdown:
+            preview = {
+                **{k: v for k, v in doc.items() if k != 'markdown_integral'},
+                'markdown_integral_bytes': len(doc['markdown_integral'].encode('utf-8')),
+                'markdown_integral_sha256': doc['sha256_markdown'],
+            }
+        else:
+            preview = doc
         print(json.dumps(preview, ensure_ascii=False, indent=2))
     return 0
 
