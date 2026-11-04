@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2006-08-23-11343",
+  "fonte_principal": "planalto-L11343",
+  "sha256_fonte_principal": "093812da628a164adc3458f8b3dc26dca8a6e35f48f34fc84ca51cc07f5e4141",
+  "sha256_conteudo": "dccc342fbf9ef6f3c70400019ce358280a89e632f3ec43b97cdeee63226e3c29",
+  "capturado_em": "2026-11-04T19:02:16Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11343.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L11343.htm.xz",
+  "sha256_snapshot_armazenado": "497b4b3234593bce7d3934317891a478ff462f2be2e75a796cf6fc9f4cd43a38",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 78077,
+    "caracteres_normalizados_markdown": 78077,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 74,
+    "links": 320,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 579,
+    "artigos": 100,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "71",
+      "72",
+      "73",
+      "74",
+      "75"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2006-08-23-11343",
+    "numero": "11343",
+    "data": "2006-08-23",
+    "titulo_fonte": "LEI Nº 11343, DE 23 DE AGOSTO DE 2006",
+    "ementa": "Institui o Sistema Nacional de Políticas Públicas sobre Drogas - Sisnad; prescreve medidas para prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas; estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas e define crimes.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    }
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+  ]
+}

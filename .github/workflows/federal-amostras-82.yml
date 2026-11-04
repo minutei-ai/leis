@@ -1,0 +1,36 @@
+name: Federal amostras issue 82
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/federal-amostras-82.yml'
+      - 'scripts/federal_amostras_82.py'
+      - 'scripts/nucleo_licitacoes.py'
+      - 'tests/test_federal_amostras_82.py'
+      - 'provas/federal-amostras-82/**'
+      - 'provas/federal-lacunas-catalogo/**'
+      - 'federal/br-federal-lei-1965-12-23-4923.md'
+      - 'federal/br-federal-lei-2019-11-11-13898.md'
+      - 'federal/br-federal-lei-2020-09-22-14059.md'
+      - 'federal/br-federal-lei-2020-11-17-14087.md'
+      - 'federal/br-federal-lei-2023-08-01-14642.md'
+      - 'federal/br-federal-lei-2024-02-29-14823.md'
+      - 'federal/br-federal-lei-2024-04-25-14847.md'
+      - 'federal/br-federal-lei-2024-08-02-14950.md'
+      - 'federal/br-federal-lei-2025-01-22-15103.md'
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends python3-venv
+      - run: python3 -m venv "$RUNNER_TEMP/venv" && "$RUNNER_TEMP/venv/bin/pip" install beautifulsoup4==4.15.0 lxml==6.1.3
+      - name: Reconverter snapshots e conferir Markdown/provas
+        run: $RUNNER_TEMP/venv/bin/python scripts/federal_amostras_82.py verify
+      - name: Cobertura das amostras #82 e catálogo de pendências
+        run: $RUNNER_TEMP/venv/bin/python -m unittest tests.test_federal_amostras_82 -v

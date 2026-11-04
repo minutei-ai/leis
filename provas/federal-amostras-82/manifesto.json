@@ -1,0 +1,401 @@
+{
+  "contrato_versao": 1,
+  "lote": "federal-amostras-82",
+  "descricao": "Amostras da #82 recuperadas do Planalto; catálogo amplo de pendências em provas/federal-lacunas-catalogo/.",
+  "gerado_em": "2026-11-04T19:27:22Z",
+  "vigencia_certificada": false,
+  "documentos": [
+    {
+      "id": "br-federal-lei-2025-01-22-15103",
+      "arquivo": "federal/br-federal-lei-2025-01-22-15103.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "15103",
+        "data": "2025-01-22",
+        "titulo": "LEI Nº 15103, DE 22 DE JANEIRO DE 2025",
+        "ementa": "Institui o Programa de Aceleração da Transição Energética (Paten); e altera as Leis nºs 13.988, de 14 de abril de 2020, 11.484, de 31 de maio de 2007, 9.991, de 24 de julho de 2000, e 9.478, de 6 de agosto de 1997.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-2025-01-22-15103@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L15103",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2025/lei/L15103.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:15:08Z",
+        "sha256": "355513764b456bbf623f667069c0fd3a8d8a672605392cb50210613929d9163d",
+        "sha256_conteudo": "06c218939a04017251506446f160170e31905f3cf18734f380569ac85b732d12",
+        "snapshot": "provas/federal-amostras-82/fontes/planalto-L15103.htm.xz",
+        "sha256_snapshot_armazenado": "81f10e3ff403478815e797466144632e82e9cb4f63dc88c42544ae57db2315a7",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 23.1.2025"
+      },
+      "prova": "provas/federal-amostras-82/reconciliacao-br-federal-lei-2025-01-22-15103.json",
+      "sha256_markdown": "715f5dd0775332168345b75de61ade1f511b622d7da347942b0e386d640cf0da",
+      "estrutura": {
+        "blocos": 146,
+        "artigos": 22,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 2,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-2024-08-02-14950",
+      "arquivo": "federal/br-federal-lei-2024-08-02-14950.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "14950",
+        "data": "2024-08-02",
+        "titulo": "LEI Nº 14950, DE 2 DE AGOSTO DE 2024",
+        "ementa": "Altera a Lei nº 8.069, de 13 de julho de 1990 (Estatuto da Criança e do Adolescente), para dispor sobre o direito da criança e do adolescente de visitação à mãe ou ao pai internados em instituição de saúde",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-2024-08-02-14950@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L14950",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14950.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:15:08Z",
+        "sha256": "0ed91f35111c2522f21d6af85b12ca5507c1bb62dfdcd126fe0d656dbdc07dc5",
+        "sha256_conteudo": "056e8a5eeb54fcb6411a9a68ec312258ff4797635c2cab89b166c8ec1752d4fc",
+        "snapshot": "provas/federal-amostras-82/fontes/planalto-L14950.htm.xz",
+        "sha256_snapshot_armazenado": "f685dcba3b06ca726c8c9c5c26192105a60ae8784927fd93c3eeeb10d32e096b",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 5.8.2024"
+      },
+      "prova": "provas/federal-amostras-82/reconciliacao-br-federal-lei-2024-08-02-14950.json",
+      "sha256_markdown": "1558629b605b1e4e46fc2fda1a68443eff5e98094d87b84706c9f5f2d05c211c",
+      "estrutura": {
+        "blocos": 14,
+        "artigos": 3,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-lei-2024-04-25-14847",
+      "arquivo": "federal/br-federal-lei-2024-04-25-14847.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "14847",
+        "data": "2024-04-25",
+        "titulo": "LEI Nº 14847, DE 25 DE ABRIL DE 2024",
+        "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para dispor sobre o atendimento de mulheres vítimas de violência em ambiente privativo e individualizado nos serviços de saúde prestados no âmbito do Sistema Único de Saúde.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-2024-04-25-14847@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L14847",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14847.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:15:08Z",
+        "sha256": "a584bda8a39618a9879bed2ccc5a28c70b703e77f0e85192c9c8e1001cce2e41",
+        "sha256_conteudo": "4f6a45972240de86c961130de727a853b8d0283f53fc86ef9b8d973ea97cad22",
+        "snapshot": "provas/federal-amostras-82/fontes/planalto-L14847.htm.xz",
+        "sha256_snapshot_armazenado": "94ba6f5c63a72110f948fab737766f2845416e8b8c82f2b1276f8cc27db83f10",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 26.4.2024."
+      },
+      "prova": "provas/federal-amostras-82/reconciliacao-br-federal-lei-2024-04-25-14847.json",
+      "sha256_markdown": "3fc0d08a617d51ddb4adf19495862a06e954f133b1ae3727d69e849c77b523b5",
+      "estrutura": {
+        "blocos": 18,
+        "artigos": 2,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-lei-2024-02-29-14823",
+      "arquivo": "federal/br-federal-lei-2024-02-29-14823.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "14823",
+        "data": "2024-02-29",
+        "titulo": "LEI Nº 14823, DE 29 DE FEVEREIRO DE 2024",
+        "ementa": "Abre crédito extraordinário em favor dos Ministérios da Defesa, da Integração e do Desenvolvimento Regional e do Desenvolvimento e Assistência Social, Família e Combate à Fome, no valor de R$ 360.900.000,00 (trezentos e sessenta milhões e novecentos mil reais), para os fins que especifica.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-2024-02-29-14823@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L14823",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14823.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:15:08Z",
+        "sha256": "5a080b8330d6fd45e9115474646f98de81952ff16dd63cb9a1f00164f376cd6d",
+        "sha256_conteudo": "2a0b9666349cb2ad09005794628b92e96eac192c1800d900f1e32e3743a2eaf3",
+        "snapshot": "provas/federal-amostras-82/fontes/planalto-L14823.htm.xz",
+        "sha256_snapshot_armazenado": "d44eaa0f4317a27b84780735a7f2bb459e8ce8f67b140ba9bd7af0eba407a4da",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 1º.3.2024."
+      },
+      "prova": "provas/federal-amostras-82/reconciliacao-br-federal-lei-2024-02-29-14823.json",
+      "sha256_markdown": "09893017b32c782fc7b43540475e194d5de0b9f96ee46967e42b054f956cb874",
+      "estrutura": {
+        "blocos": 13,
+        "artigos": 2,
+        "tabelas": 1,
+        "anexos_no_corpo": 1,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-lei-2023-08-01-14642",
+      "arquivo": "federal/br-federal-lei-2023-08-01-14642.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "14642",
+        "data": "2023-08-01",
+        "titulo": "LEI Nº 14642, DE 1 DE AGOSTO DE 2023",
+        "ementa": "Denomina João Batista Menegatti o viaduto localizado na rodovia BR-282, na travessia urbana do Município de Xanxerê, Estado de Santa Catarina.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-2023-08-01-14642@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L14642",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/L14642.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:15:08Z",
+        "sha256": "5ce8616507b378374ce468aedfd4a12ca0e520dcd377389168fa9bb91fabe91e",
+        "sha256_conteudo": "e55c7dfdf7a764900bfbf80403e044f063d85c206b6beee82164120fba25a423",
+        "snapshot": "provas/federal-amostras-82/fontes/planalto-L14642.htm.xz",
+        "sha256_snapshot_armazenado": "3a473509acb5d6a71342d9c011d7149d157b72d762a3af1e2b599dd7cadac4b4",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 2.8.2023 e republicado em 3.8.2023."
+      },
+      "prova": "provas/federal-amostras-82/reconciliacao-br-federal-lei-2023-08-01-14642.json",
+      "sha256_markdown": "ce474d004101322963625ca66ebdef4b2542cc0d146d122110006c8c1e92d7f1",
+      "estrutura": {
+        "blocos": 11,
+        "artigos": 2,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-lei-2020-11-17-14087",
+      "arquivo": "federal/br-federal-lei-2020-11-17-14087.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "14087",
+        "data": "2020-11-17",
+        "titulo": "LEI Nº 14087, DE 17 DE NOVEMBRO DE 2020",
+        "ementa": "Abre ao Orçamento Fiscal da União, em favor da Justiça Federal, crédito suplementar no valor de R$ 6.194.427,00, para reforço de dotações constantes da Lei Orçamentária vigente.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-2020-11-17-14087@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L14087",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L14087.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:15:08Z",
+        "sha256": "10e57e3aef2414a51d4d508ad58aeabf18780cfe8c2e93619febd754b728410d",
+        "sha256_conteudo": "08a6b1ff66d7329543e71f721f16149f216239c0e46bee1750757cfd88d2c6d6",
+        "snapshot": "provas/federal-amostras-82/fontes/planalto-L14087.htm.xz",
+        "sha256_snapshot_armazenado": "7d15f39cd0c578935de597bdecba2ebfbb7201ba7b1f781f6478baf81b8a9ffe",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 18.11 de 2020"
+      },
+      "prova": "provas/federal-amostras-82/reconciliacao-br-federal-lei-2020-11-17-14087.json",
+      "sha256_markdown": "d1778d4519643d2c3918e7ae27bd8cf35abdbd8c86250b73abd14c248608d765",
+      "estrutura": {
+        "blocos": 24,
+        "artigos": 3,
+        "tabelas": 4,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 0,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-lei-2020-09-22-14059",
+      "arquivo": "federal/br-federal-lei-2020-09-22-14059.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "14059",
+        "data": "2020-09-22",
+        "titulo": "LEI Nº 14059, DE 22 DE SETEMBRO DE 2020",
+        "ementa": "Altera as L eis nºs 9.264, de 7 de fevereiro de 1996 , 11.134, de 15 de julho de 2005 , 11.361, de 19 de outubro de 2006 , e 13.328, de 29 de julho de 2016 , para aumentar a remuneração da Polícia Militar, do Corpo de Bombeiros Militar e da Polícia Civil do Distrito Federal e da Polícia Militar e do Corpo de Bombeiros Militar dos extintos Territórios Federais e pa",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-2020-09-22-14059@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L14059",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L14059.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:15:08Z",
+        "sha256": "fdce577bf38e00130e2416a554a7b7ebc1cc1bf1b9e0103ac324b1131a0a5b5e",
+        "sha256_conteudo": "92274478d726d2bdaa8255d41edfb2c978d7a4a45de678ad473001472403095e",
+        "snapshot": "provas/federal-amostras-82/fontes/planalto-L14059.htm.xz",
+        "sha256_snapshot_armazenado": "200d5fbc2bde1d8d0a5c2c41f0ca1bf79bd5235153a7d30d0a4b48f2e0f35b7c",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 23.9.2020."
+      },
+      "prova": "provas/federal-amostras-82/reconciliacao-br-federal-lei-2020-09-22-14059.json",
+      "sha256_markdown": "117542eb28983fb07814bf0cc6318a16aa8a5623db3031dcbea586e2997a6018",
+      "estrutura": {
+        "blocos": 57,
+        "artigos": 6,
+        "tabelas": 5,
+        "anexos_no_corpo": 4,
+        "imagens_omitidas": 0,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-2019-11-11-13898",
+      "arquivo": "federal/br-federal-lei-2019-11-11-13898.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "13898",
+        "data": "2019-11-11",
+        "titulo": "LEI Nº 13898, DE 11 DE NOVEMBRO DE 2019",
+        "ementa": "Dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2020 e dá outras providências.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-2019-11-11-13898@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L13898",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13898.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:15:08Z",
+        "sha256": "b761449b55727bf887218c1cf5b2f91cd0d05f8df5dbf78ed80037169be9c081",
+        "sha256_conteudo": "fcc3783424f74ae6e740c3347b6dd46ebcd288136356eaf8d5a08605398577db",
+        "snapshot": "provas/federal-amostras-82/fontes/planalto-L13898.htm.xz",
+        "sha256_snapshot_armazenado": "d11c7fe74b39d4df6c4ec78136c4e668abfd740acfd4afe8b1697fa2a379231c",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 11.11.2019 - Edição extra"
+      },
+      "prova": "provas/federal-amostras-82/reconciliacao-br-federal-lei-2019-11-11-13898.json",
+      "sha256_markdown": "2b733ce440a0e6fc544b207be7cc9bc4ce99a55c9c1876ad48bfb0f703f85746",
+      "estrutura": {
+        "blocos": 1339,
+        "artigos": 161,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1965-12-23-4923",
+      "arquivo": "federal/br-federal-lei-1965-12-23-4923.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "4923",
+        "data": "1965-12-23",
+        "titulo": "LEI Nº 4923, DE 23 DE DEZEMBRO DE 1965",
+        "ementa": "Institui o Cadastro Permanente das Admissões e Dispensas de Empregados, Estabelece Medidas Contra o Desemprego e de Assistência aos Desempregados, e dá outras Providências.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1965-12-23-4923@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L4923",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L4923.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:15:08Z",
+        "sha256": "7573dc9bf904100580397c21fdbb2cc178d773734ea170b4ceec144faab2dcdc",
+        "sha256_conteudo": "515728103c28c3d5e70ab763c00383ccf21414f0ce8f0f6a83dd6e3058a1020c",
+        "snapshot": "provas/federal-amostras-82/fontes/planalto-L4923.htm.xz",
+        "sha256_snapshot_armazenado": "e34c383c6d0a473d94486aa1b0d4fc0fbc6746e09994854466d37886bf178c8d",
+        "dou_aviso": null
+      },
+      "prova": "provas/federal-amostras-82/reconciliacao-br-federal-lei-1965-12-23-4923.json",
+      "sha256_markdown": "d803882eed62496596ed519e7ade75f4f9b5bbc553f2b7d35ad12c6a2ffd94e6",
+      "estrutura": {
+        "blocos": 63,
+        "artigos": 16,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    }
+  ],
+  "limites": [
+    "Lote parcial da #82; não esgota 1822–1965 nem 2010–2026.",
+    "Não altera nucleo_licitacoes.",
+    "Sem segunda fonte de conferência nesta entrega."
+  ]
+}

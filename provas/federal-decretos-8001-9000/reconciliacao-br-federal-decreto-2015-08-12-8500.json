@@ -1,0 +1,63 @@
+{
+  "documento": "br-federal-decreto-2015-08-12-8500",
+  "fonte_principal": "planalto-D8500",
+  "sha256_fonte_principal": "702de2bb937395b772204df7c7283fd26aebaf3588526387cd1b7e084750881b",
+  "sha256_conteudo": "3d683fc576fc0bcf413543d922a759b8e747ff6c696590dcff1ea78b1b0f1098",
+  "capturado_em": "2026-11-04T19:28:37Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/decreto/D8500.htm",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/D8500.htm.xz",
+  "sha256_snapshot_armazenado": "1456efc0e0a1cf3b0705952e01edda83aa5b6d3ef296d831336cf931ceae820c",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 2025,
+    "caracteres_normalizados_markdown": 2025,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 20,
+    "links": 10,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 25,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-08-12-8500",
+    "numero": "8500",
+    "data": "2015-08-12",
+    "titulo_fonte": "DECRETO Nº 8500, DE 12 DE AGOSTO DE 2015",
+    "ementa": "Decreto nº 8.500, de 12 de agosto de 2015.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    }
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "documento": "br-federal-decreto-2016-03-30-8700",
+  "fonte_principal": "planalto-D8700",
+  "sha256_fonte_principal": "2d6616528c5070fde088c1d846693e28e5025cb8ed85e4af4525c31c9bd04a6a",
+  "sha256_conteudo": "d7c10ff760acf4cc3b5db81c65185d033430880fc566e6fa639e492f304b1481",
+  "capturado_em": "2026-11-04T19:28:37Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8700.htm",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/D8700.htm.xz",
+  "sha256_snapshot_armazenado": "0b23fa5f3297c4877df8484ad6e3dd98ba6335be6a080bdfac719f3b957fde34",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 14791,
+    "caracteres_normalizados_markdown": 14791,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 30,
+    "tabelas_markdown": 1,
+    "tabelas_html": 6,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 38,
+        "colunas_max": 9,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 38,
+        "colunas_max": 12,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 47,
+        "colunas_max": 3,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 16,
+        "colunas_max": 8,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 34,
+        "colunas_max": 8,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 23,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 33,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 56,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-03-30-8700",
+    "numero": "8700",
+    "data": "2016-03-30",
+    "titulo_fonte": "DECRETO Nº 8700, DE 30 DE MARÇO DE 2016",
+    "ementa": "Decreto nº 8.700, de 30 de março de 2016.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    }
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+  ]
+}

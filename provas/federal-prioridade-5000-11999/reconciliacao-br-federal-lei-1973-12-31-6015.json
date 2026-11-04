@@ -1,0 +1,95 @@
+{
+  "documento": "br-federal-lei-1973-12-31-6015",
+  "fonte_principal": "planalto-L6015",
+  "sha256_fonte_principal": "1e6fd0a0dfa805a812554e3cc6c2f85fda9c551f3e09a6ef2a47b7ed0873adff",
+  "sha256_conteudo": "20fb7606f0535c4683e11b923f2b7844f088a222ef6028b60568520ef84a0a01",
+  "capturado_em": "2026-11-04T19:02:16Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L6015compilada.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L6015.htm.xz",
+  "sha256_snapshot_armazenado": "67c864920c572659a8d13b000b6617d5f2134eb86dc74fb547df9a4409559846",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 179974,
+    "caracteres_normalizados_markdown": 179974,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 878,
+    "tabelas_markdown": 1,
+    "tabelas_html": 4,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 3,
+        "colunas_max": 5,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 2,
+        "colunas_max": 1,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 3,
+        "colunas_max": 5,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 3,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 3,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 1229,
+    "artigos": 321,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "295-O",
+      "296",
+      "297",
+      "298",
+      "299"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1973-12-31-6015",
+    "numero": "6015",
+    "data": "1973-12-31",
+    "titulo_fonte": "LEI Nº 6015, DE 31 DE DEZEMBRO DE 1973",
+    "ementa": "Dispõe sobre os registros públicos e dá outras providências.",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "compilado-planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+  ]
+}

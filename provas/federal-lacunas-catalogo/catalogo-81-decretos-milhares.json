@@ -1,0 +1,100 @@
+{
+  "gerado_em": "2026-11-04T19:13:52Z",
+  "issue_81": {
+    "descricao": "Decretos federais numerados pós-1991 — presença local por milhar",
+    "metodo": "Contagem de br-federal-decreto-YYYY-...-N.md com ano>=1991 e N<=13000",
+    "faixas": [
+      {
+        "faixa": "1-1000",
+        "presentes": 727,
+        "denominador": 1000,
+        "observacao": "Nem todo número existe (vetos/não usados); cruzar índice oficial antes de marcar lacuna."
+      },
+      {
+        "faixa": "1001-2000",
+        "presentes": 806,
+        "denominador": 1000,
+        "observacao": "Nem todo número existe (vetos/não usados); cruzar índice oficial antes de marcar lacuna."
+      },
+      {
+        "faixa": "2001-3000",
+        "presentes": 872,
+        "denominador": 1000,
+        "observacao": "Nem todo número existe (vetos/não usados); cruzar índice oficial antes de marcar lacuna."
+      },
+      {
+        "faixa": "3001-4000",
+        "presentes": 887,
+        "denominador": 1000,
+        "observacao": "Nem todo número existe (vetos/não usados); cruzar índice oficial antes de marcar lacuna."
+      },
+      {
+        "faixa": "4001-5000",
+        "presentes": 785,
+        "denominador": 1000,
+        "observacao": "Nem todo número existe (vetos/não usados); cruzar índice oficial antes de marcar lacuna."
+      },
+      {
+        "faixa": "5001-6000",
+        "presentes": 742,
+        "denominador": 1000,
+        "observacao": "Nem todo número existe (vetos/não usados); cruzar índice oficial antes de marcar lacuna."
+      },
+      {
+        "faixa": "6001-7000",
+        "presentes": 746,
+        "denominador": 1000,
+        "observacao": "Nem todo número existe (vetos/não usados); cruzar índice oficial antes de marcar lacuna."
+      },
+      {
+        "faixa": "7001-8000",
+        "presentes": 891,
+        "denominador": 1000,
+        "observacao": "Nem todo número existe (vetos/não usados); cruzar índice oficial antes de marcar lacuna."
+      },
+      {
+        "faixa": "8001-9000",
+        "presentes": 567,
+        "denominador": 1000,
+        "observacao": "Nem todo número existe (vetos/não usados); cruzar índice oficial antes de marcar lacuna.",
+        "lote_amostra": {
+          "docs": 7,
+          "novos": 3,
+          "stubs_reintegrados": 4,
+          "provas": "provas/federal-decretos-8001-9000/"
+        }
+      },
+      {
+        "faixa": "9001-10000",
+        "presentes": 956,
+        "denominador": 1000,
+        "observacao": "Nem todo número existe (vetos/não usados); cruzar índice oficial antes de marcar lacuna."
+      },
+      {
+        "faixa": "10001-11000",
+        "presentes": 983,
+        "denominador": 1000,
+        "observacao": "Nem todo número existe (vetos/não usados); cruzar índice oficial antes de marcar lacuna."
+      },
+      {
+        "faixa": "11001-12000",
+        "presentes": 993,
+        "denominador": 1000,
+        "observacao": "Nem todo número existe (vetos/não usados); cruzar índice oficial antes de marcar lacuna."
+      },
+      {
+        "faixa": "12001-13000",
+        "presentes": 986,
+        "denominador": 1000,
+        "observacao": "Nem todo número existe (vetos/não usados); cruzar índice oficial antes de marcar lacuna."
+      }
+    ],
+    "limites": [
+      "Presença de arquivo não certifica íntegra/atualização.",
+      "Ausência de arquivo não prova inexistência do número.",
+      "Próximo passo: cruzar com lista Senado tipo=DEC / Planalto por milhar e coletar."
+    ],
+    "nota_lote": "Lote amostral 8100/8300/8500/8600/8700/8800/8900 publicado com cobertura integral; cruzamento sistemático Senado DEC e recuperação das demais lacunas permanece pendente. Denominador 1000 por milhar não é índice oficial — números inexistentes/vetados não são lacunas."
+  },
+  "atualizado_em": "2026-11-04T20:00:00Z"
+}

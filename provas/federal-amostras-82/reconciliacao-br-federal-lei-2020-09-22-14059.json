@@ -1,0 +1,86 @@
+{
+  "documento": "br-federal-lei-2020-09-22-14059",
+  "fonte_principal": "planalto-L14059",
+  "sha256_fonte_principal": "fdce577bf38e00130e2416a554a7b7ebc1cc1bf1b9e0103ac324b1131a0a5b5e",
+  "sha256_conteudo": "92274478d726d2bdaa8255d41edfb2c978d7a4a45de678ad473001472403095e",
+  "capturado_em": "2026-11-04T19:15:08Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L14059.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L14059.htm.xz",
+  "sha256_snapshot_armazenado": "200d5fbc2bde1d8d0a5c2c41f0ca1bf79bd5235153a7d30d0a4b48f2e0f35b7c",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 4825,
+    "caracteres_normalizados_markdown": 4825,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 202,
+    "links": 22,
+    "tabelas_markdown": 3,
+    "tabelas_html": 2,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 24,
+        "colunas_max": 3,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 6,
+        "colunas_max": 4,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 6,
+        "colunas_max": 4,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 6,
+        "colunas_max": 4,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 24,
+        "colunas_max": 3,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 57,
+    "artigos": 6,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "2",
+      "3",
+      "4",
+      "5",
+      "6"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2020-09-22-14059",
+    "numero": "14059",
+    "data": "2020-09-22",
+    "titulo_fonte": "LEI Nº 14059, DE 22 DE SETEMBRO DE 2020",
+    "ementa": "Altera as L eis nºs 9.264, de 7 de fevereiro de 1996 , 11.134, de 15 de julho de 2005 , 11.361, de 19 de outubro de 2006 , e 13.328, de 29 de julho de 2016 , para aumentar a remuneração da Polícia Militar, do Corpo de Bombeiros Militar e da Polícia Civil do Distrito Federal e da Polícia Militar e do Corpo de Bombeiros Militar dos extintos Territórios Federais e pa",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    }
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+  ]
+}

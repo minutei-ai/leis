@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-1990-03-29-8009",
+  "fonte_principal": "planalto-L8009",
+  "sha256_fonte_principal": "92778a5de2b5dddbba7cfbc5f72ec36402b0f6cd8457b44b1452c05b53bc36e4",
+  "sha256_conteudo": "a0f34dec4877bf1a7cab22754fda54c811c341f69a8b1d8ea0adb7669da58fed",
+  "capturado_em": "2026-11-04T19:02:16Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L8009.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8009.htm.xz",
+  "sha256_snapshot_armazenado": "fddf718c3523cb2527ae6e57bc625c1630b9b008c830fbc9aa598592d242b6cc",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 3851,
+    "caracteres_normalizados_markdown": 3851,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 5,
+    "links": 11,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 33,
+    "artigos": 8,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "4",
+      "5",
+      "6",
+      "7",
+      "8"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1990-03-29-8009",
+    "numero": "8009",
+    "data": "1990-03-29",
+    "titulo_fonte": "LEI Nº 8009, DE 29 DE MARÇO DE 1990",
+    "ementa": "Dispõe sobre a impenhorabilidade do bem de família.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    }
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+  ]
+}

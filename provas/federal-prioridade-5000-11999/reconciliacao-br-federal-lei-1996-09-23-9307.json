@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-1996-09-23-9307",
+  "fonte_principal": "planalto-L9307",
+  "sha256_fonte_principal": "79b523791f30b38a978822ffe38813fd00bfe77b94a147623fce29b2d0ad8f1f",
+  "sha256_conteudo": "b3630c7d3ddb935baf0774ac6921d301c10861776e207e80c8599b3b9a97b09b",
+  "capturado_em": "2026-11-04T19:02:16Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L9307.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9307.htm.xz",
+  "sha256_snapshot_armazenado": "c46c49e348b4e079308379097ec7e41106769fd99c229878a16abc055d9f6794",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 23777,
+    "caracteres_normalizados_markdown": 23777,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 20,
+    "links": 86,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 198,
+    "artigos": 47,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "40",
+      "41",
+      "42",
+      "43",
+      "44"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1996-09-23-9307",
+    "numero": "9307",
+    "data": "1996-09-23",
+    "titulo_fonte": "LEI Nº 9307, DE 23 DE SETEMBRO DE 1996",
+    "ementa": "Dispõe sobre a arbitragem.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    }
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+  ]
+}

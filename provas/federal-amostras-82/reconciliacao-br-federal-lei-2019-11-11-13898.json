@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2019-11-11-13898",
+  "fonte_principal": "planalto-L13898",
+  "sha256_fonte_principal": "b761449b55727bf887218c1cf5b2f91cd0d05f8df5dbf78ed80037169be9c081",
+  "sha256_conteudo": "fcc3783424f74ae6e740c3347b6dd46ebcd288136356eaf8d5a08605398577db",
+  "capturado_em": "2026-11-04T19:15:08Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13898.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13898.htm.xz",
+  "sha256_snapshot_armazenado": "d11c7fe74b39d4df6c4ec78136c4e668abfd740acfd4afe8b1697fa2a379231c",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 208215,
+    "caracteres_normalizados_markdown": 208215,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 20,
+    "links": 326,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 1339,
+    "artigos": 161,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "151",
+      "152",
+      "153",
+      "154",
+      "155"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2019-11-11-13898",
+    "numero": "13898",
+    "data": "2019-11-11",
+    "titulo_fonte": "LEI Nº 13898, DE 11 DE NOVEMBRO DE 2019",
+    "ementa": "Dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária de 2020 e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    }
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "documento": "br-federal-lei-1990-05-11-8036",
+  "fonte_principal": "planalto-L8036",
+  "sha256_fonte_principal": "17ab5b1136142c06bcca691c0453142d690969dd901287389905e1dc452f66ab",
+  "sha256_conteudo": "4e3e7e8b5903d05d5f9e9a6745f5db3a8b99a72b0f0121a7f859f4aeb1784d3b",
+  "capturado_em": "2026-11-04T19:02:16Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8036.htm.xz",
+  "sha256_snapshot_armazenado": "5760d6a1f579319202cf081e10751a6f866f723b11a7dc2a870f314736e055b4",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 62662,
+    "caracteres_normalizados_markdown": 62662,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 7,
+    "links": 350,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/leis/QUADRO/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 379,
+    "artigos": 49,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "29-C",
+      "29-D",
+      "30",
+      "31",
+      "32"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1990-05-11-8036",
+    "numero": "8036",
+    "data": "1990-05-11",
+    "titulo_fonte": "LEI Nº 8036, DE 11 DE MAIO DE 1990",
+    "ementa": "Dispõe sobre o Fundo de Garantia do Tempo de Serviço e dá outras providências.",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "compilado-planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+  ]
+}

@@ -1,0 +1,1170 @@
+{
+  "contrato_versao": 1,
+  "lote": "federal-prioridade-5000-11999",
+  "descricao": "Lote prioritário da #71: leis ordinárias federais essenciais da faixa 5.000–11.999 recuperadas do Planalto com cobertura integral.",
+  "gerado_em": "2026-11-04T19:26:30Z",
+  "vigencia_certificada": false,
+  "documentos": [
+    {
+      "id": "br-federal-lei-1964-03-17-4320",
+      "arquivo": "federal/br-federal-lei-1964-03-17-4320.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "4320",
+        "data": "1964-03-17",
+        "titulo": "LEI Nº 4320, DE 17 DE MARÇO DE 1964",
+        "ementa": "Estatui Normas Gerais de Direito Financeiro para elaboração e contrôle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1964-03-17-4320@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L4320",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L4320.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "ad76257f6c4998b694db9adc106da1522be903367e573f7b1a8aaa6ca08cc612",
+        "sha256_conteudo": "5001a54e47882b46f6542d10267a56b0cc309dd81071e14cfd080f346fbce3fb",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L4320.htm.xz",
+        "sha256_snapshot_armazenado": "4026020e30d61e2b495df6b5109e57a6360bafc3d37b65ea2f7a86144c9e1b29",
+        "dou_aviso": "Este texto não substitui o publicado no D.O.U. de 23.3.1964, retificado em 9.4.1964"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1964-03-17-4320.json",
+      "sha256_markdown": "a045080abbca8ff697782f522f630f0a4750e307ee5b4212a63a13ed068f7531",
+      "estrutura": {
+        "blocos": 536,
+        "artigos": 89,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1968-07-25-5478",
+      "arquivo": "federal/br-federal-lei-1968-07-25-5478.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "5478",
+        "data": "1968-07-25",
+        "titulo": "LEI Nº 5478, DE 25 DE JULHO DE 1968",
+        "ementa": "Dispõe sobre ação de alimentos e dá outras providências.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1968-07-25-5478@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L5478",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L5478.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "13c7b720d05bc2c24e410674d6ca5dc760bc30e2c48951659f99dfcbd26b8f01",
+        "sha256_conteudo": "72ad88184b3d29f01bb2dd1c4d10815243e152730f0eb917e034cf077efd3d06",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L5478.htm.xz",
+        "sha256_snapshot_armazenado": "f2bb7185cc60002d23ccc59eece4c719c8bed5059549a532343438f6b64aad34",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 26.7.1968 e retificado em 14.8.1968"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1968-07-25-5478.json",
+      "sha256_markdown": "800fad2ef531e82b46c229aacd167c463381d3925138361d0eecff6f4c9ec0ae",
+      "estrutura": {
+        "blocos": 86,
+        "artigos": 22,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1973-12-31-6015",
+      "arquivo": "federal/br-federal-lei-1973-12-31-6015.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "6015",
+        "data": "1973-12-31",
+        "titulo": "LEI Nº 6015, DE 31 DE DEZEMBRO DE 1973",
+        "ementa": "Dispõe sobre os registros públicos e dá outras providências.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "compilado-planalto",
+        "edicao_id": "br-federal-lei-1973-12-31-6015@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L6015",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L6015compilada.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "1e6fd0a0dfa805a812554e3cc6c2f85fda9c551f3e09a6ef2a47b7ed0873adff",
+        "sha256_conteudo": "20fb7606f0535c4683e11b923f2b7844f088a222ef6028b60568520ef84a0a01",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L6015.htm.xz",
+        "sha256_snapshot_armazenado": "67c864920c572659a8d13b000b6617d5f2134eb86dc74fb547df9a4409559846",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 31.12.1973 e retificado em 30.10.1975"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1973-12-31-6015.json",
+      "sha256_markdown": "a01f4d185dc7f096441b4401e4df0b27e3ba616cdd3ab577fefc45c7a65867a3",
+      "estrutura": {
+        "blocos": 1229,
+        "artigos": 321,
+        "tabelas": 5,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-lei-1976-12-15-6404",
+      "arquivo": "federal/br-federal-lei-1976-12-15-6404.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "6404",
+        "data": "1976-12-15",
+        "titulo": "LEI Nº 6404, DE 15 DE DEZEMBRO DE 1976",
+        "ementa": "Dispõe sobre as sociedades por ações.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "compilado-planalto",
+        "edicao_id": "br-federal-lei-1976-12-15-6404@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L6404",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L6404compilada.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "5d12df12d97bfe922586ac2a16a684308a690a46688c65e2b58417702fc92241",
+        "sha256_conteudo": "5e8f292f7c920f1202db95eb80f254b3f71adfba4630cb53139549c98bee39a1",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L6404.htm.xz",
+        "sha256_snapshot_armazenado": "e075a0c2620ea5c9bdd0aba18fc353d624e7d785cd934353327fb2e30aafa688",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 17.12.1976 (suplemento)"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1976-12-15-6404.json",
+      "sha256_markdown": "c5947b53734202c525492b83eb3c022fbfd65aa490284f001329943d88149e0f",
+      "estrutura": {
+        "blocos": 1952,
+        "artigos": 128,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1979-12-19-6766",
+      "arquivo": "federal/br-federal-lei-1979-12-19-6766.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "6766",
+        "data": "1979-12-19",
+        "titulo": "LEI Nº 6766, DE 19 DE DEZEMBRO DE 1979",
+        "ementa": "Dispõe sobre o parcelamento do solo urbano e dá outras providências.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1979-12-19-6766@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L6766",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L6766.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "178f4577aec8c89c45b32a9296ef5c76c7edcabc8a1da1816b488db5cdd665b2",
+        "sha256_conteudo": "0cab2750fd6512a34ee1640e3785715d9933d850cd48a9c370ee7f96c1599d4a",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L6766.htm.xz",
+        "sha256_snapshot_armazenado": "6203862aa0fd182f5d158ab5cb77fc56c5e97d520f7fb8cc95a7f032ae95b077",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 20.12.1979"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1979-12-19-6766.json",
+      "sha256_markdown": "72a29a78c1f3c55a3c527f6a1a100538abdb53248cfa2d10d8fbc78e89f6daeb",
+      "estrutura": {
+        "blocos": 352,
+        "artigos": 66,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1980-09-22-6830",
+      "arquivo": "federal/br-federal-lei-1980-09-22-6830.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "6830",
+        "data": "1980-09-22",
+        "titulo": "LEI Nº 6830, DE 22 DE SETEMBRO DE 1980",
+        "ementa": "Dispõe sobre a cobrança judicial da Dívida Ativa da Fazenda Pública e dá outras providências.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1980-09-22-6830@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L6830",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L6830.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "91da732cbd3ae146eb0dc12cb70b5697a53c370b75a78050c76c3b7e41347ef8",
+        "sha256_conteudo": "e3d3bc0b125baf6e0ae5345165f832a20c84946706cddfd82b9f1e004351026b",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L6830.htm.xz",
+        "sha256_snapshot_armazenado": "16c0c43394097ee4c8508da643048139ef5ae21d5c83f78f4c121cda74c27271",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 24.9.1980"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1980-09-22-6830.json",
+      "sha256_markdown": "58f8822a340b826ccc4ce11321110acbe95cf07c18626b3d77b3a5e627a9f2c4",
+      "estrutura": {
+        "blocos": 175,
+        "artigos": 42,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1984-07-11-7210",
+      "arquivo": "federal/br-federal-lei-1984-07-11-7210.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "7210",
+        "data": "1984-07-11",
+        "titulo": "LEI Nº 7210, DE 11 DE JULHO DE 1984",
+        "ementa": "Institui a Lei de Execução Penal.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1984-07-11-7210@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L7210",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L7210.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "99ce0d62a3ffde90d2eedf8a435b1a8f0348ec88c912fc0c9de113b80ce05c9c",
+        "sha256_conteudo": "c32ed04d7aaf958a11bf9c34402dbc29b307ca57c169f1da32052d0dc7c6e8c1",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L7210.htm.xz",
+        "sha256_snapshot_armazenado": "e82fc1914631ebce475aced09187261df9df7acdd1aef4e6ac0589ce9902b92d",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 13.7.1984"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1984-07-11-7210.json",
+      "sha256_markdown": "7f07dcffd16d5c68b35577e2dd92f920d57d4d6babf5bfc29c96fe35c9cd245a",
+      "estrutura": {
+        "blocos": 982,
+        "artigos": 219,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1985-07-24-7347",
+      "arquivo": "federal/br-federal-lei-1985-07-24-7347.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "7347",
+        "data": "1985-07-24",
+        "titulo": "LEI Nº 7347, DE 24 DE JULHO DE 1985",
+        "ementa": "Disciplina a ação civil pública de responsabilidade por danos causados ao meio-ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico e dá outras providências.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "compilado-planalto",
+        "edicao_id": "br-federal-lei-1985-07-24-7347@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L7347",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L7347compilada.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "174b712f960d7300912e62d2647e01e573ba197c303b88e2d90cf36ab142c891",
+        "sha256_conteudo": "c9c79dcacac9260920d66d34ce4f51b92d279a8d1573e9aff8c56a512a8a7e45",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L7347.htm.xz",
+        "sha256_snapshot_armazenado": "ef3c61f374ff6bf98a92a78b8169d99bf72589620e9f199e6a208eb58a21c288",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 25.7.1985"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1985-07-24-7347.json",
+      "sha256_markdown": "e25347e1b4d805f5ed3efe878fd80f078e7f3aebd808992da4606fbd44fc3a0c",
+      "estrutura": {
+        "blocos": 68,
+        "artigos": 23,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-lei-1990-03-29-8009",
+      "arquivo": "federal/br-federal-lei-1990-03-29-8009.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "8009",
+        "data": "1990-03-29",
+        "titulo": "LEI Nº 8009, DE 29 DE MARÇO DE 1990",
+        "ementa": "Dispõe sobre a impenhorabilidade do bem de família.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1990-03-29-8009@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L8009",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L8009.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "92778a5de2b5dddbba7cfbc5f72ec36402b0f6cd8457b44b1452c05b53bc36e4",
+        "sha256_conteudo": "a0f34dec4877bf1a7cab22754fda54c811c341f69a8b1d8ea0adb7669da58fed",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8009.htm.xz",
+        "sha256_snapshot_armazenado": "fddf718c3523cb2527ae6e57bc625c1630b9b008c830fbc9aa598592d242b6cc",
+        "dou_aviso": null
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1990-03-29-8009.json",
+      "sha256_markdown": "b74a001b553955b17c20d9379afb7c79a9281093a94174258955406f4151a2f1",
+      "estrutura": {
+        "blocos": 33,
+        "artigos": 8,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1990-05-11-8036",
+      "arquivo": "federal/br-federal-lei-1990-05-11-8036.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "8036",
+        "data": "1990-05-11",
+        "titulo": "LEI Nº 8036, DE 11 DE MAIO DE 1990",
+        "ementa": "Dispõe sobre o Fundo de Garantia do Tempo de Serviço e dá outras providências.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "compilado-planalto",
+        "edicao_id": "br-federal-lei-1990-05-11-8036@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L8036",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "17ab5b1136142c06bcca691c0453142d690969dd901287389905e1dc452f66ab",
+        "sha256_conteudo": "4e3e7e8b5903d05d5f9e9a6745f5db3a8b99a72b0f0121a7f859f4aeb1784d3b",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8036.htm.xz",
+        "sha256_snapshot_armazenado": "5760d6a1f579319202cf081e10751a6f866f723b11a7dc2a870f314736e055b4",
+        "dou_aviso": null
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1990-05-11-8036.json",
+      "sha256_markdown": "d26e830afc63f3c1b80015f460af5d3b028ab69192890fcd1635a650f1ad01d6",
+      "estrutura": {
+        "blocos": 379,
+        "artigos": 49,
+        "tabelas": 1,
+        "anexos_no_corpo": 1,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1990-07-25-8072",
+      "arquivo": "federal/br-federal-lei-1990-07-25-8072.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "8072",
+        "data": "1990-07-25",
+        "titulo": "LEI Nº 8072, DE 25 DE JULHO DE 1990",
+        "ementa": "Dispõe sobre os crimes hediondos, nos termos do art. 5º, inciso XLIII, da Constituição Federal, e determina outras providências.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1990-07-25-8072@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L8072",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L8072.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "3b93e4af5589b3e2aa4fe5610db12cd5b5cdc5bb794581c8df5fbdf5335f02d2",
+        "sha256_conteudo": "1fd4251a5b29ff2429726c2c638085634e41c0c4c05a160067c4073b80706159",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8072.htm.xz",
+        "sha256_snapshot_armazenado": "0cb4fcfdfb9136cd1d8ae86835daad69bf2d26358c3543b9d3ec695b8da368f4",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 26.7.1990"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1990-07-25-8072.json",
+      "sha256_markdown": "8ed8014e54c104607dea9fd9455d3d63360b39ffe71b3f6532b68feb32624e31",
+      "estrutura": {
+        "blocos": 121,
+        "artigos": 13,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1990-12-11-8112",
+      "arquivo": "federal/br-federal-lei-1990-12-11-8112.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "8112",
+        "data": "1990-12-11",
+        "titulo": "LEI Nº 8112, DE 11 DE DEZEMBRO DE 1990",
+        "ementa": "Dispõe sobre o Regime Jurídico dos Servidores Públicos Civis da União, das autarquias e das fundações públicas federais.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "compilado-planalto",
+        "edicao_id": "br-federal-lei-1990-12-11-8112@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L8112",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L8112cons.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "14d9d9d9a27592ffa054db8771c342046713b930c983fa203bc2126c6a0ffe10",
+        "sha256_conteudo": "d99984a124063b4cf57c97b0eed4375b2185fc5f155323be1d2fe8b8091d26c8",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8112.htm.xz",
+        "sha256_snapshot_armazenado": "7590c3139ac17632e047fe1c3ee700ae2fed6fde8075659d4d12a9e2fcbd329d",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 12.12.1990 e republicado em 18.3.1998"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1990-12-11-8112.json",
+      "sha256_markdown": "0e0a40dfb026c640c9f69609311075a52eef3d3b9303e9a1967cdea9aa5f855b",
+      "estrutura": {
+        "blocos": 1439,
+        "artigos": 263,
+        "tabelas": 1,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 2,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1991-10-18-8245",
+      "arquivo": "federal/br-federal-lei-1991-10-18-8245.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "8245",
+        "data": "1991-10-18",
+        "titulo": "LEI Nº 8245, DE 18 DE OUTUBRO DE 1991",
+        "ementa": "Dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1991-10-18-8245@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L8245",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L8245.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "46dd75acf7b57b9c11521322fd9fc4235c6fb8c6f57e9b76a89ad0e034b2e0cc",
+        "sha256_conteudo": "c325efe1d58ae3259bccb7dbeec48eabb0767e122dd6dea6c45d4d36142244cc",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8245.htm.xz",
+        "sha256_snapshot_armazenado": "83763392791b0b60fd199f93d481e5584e8ca81eb103ee641573b9bb7a9951ea",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 21.10.1991"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1991-10-18-8245.json",
+      "sha256_markdown": "e46754229c10958aca3e6c5ed6bab8194b194f4180d9d6b0a4dc6278d871a61f",
+      "estrutura": {
+        "blocos": 416,
+        "artigos": 91,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1992-06-02-8429",
+      "arquivo": "federal/br-federal-lei-1992-06-02-8429.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "8429",
+        "data": "1992-06-02",
+        "titulo": "LEI Nº 8429, DE 2 DE JUNHO DE 1992",
+        "ementa": "Dispõe sobre as sanções aplicáveis em virtude da prática de atos de improbidade administrativa, de que trata o § 4º do art. 37 da Constituição Federal; e dá outras providências.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "compilado-planalto",
+        "edicao_id": "br-federal-lei-1992-06-02-8429@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L8429",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L8429compilada.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "9086d0b43b80f1be9429671246f019380b1f8a19bd9896e7b75cbeb6bc335270",
+        "sha256_conteudo": "9f07bdc94cd12f0030c3e91c2789bcdf0804b6dac2c96e5102f95472a545b6ed",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8429.htm.xz",
+        "sha256_snapshot_armazenado": "972e4871ac553a0efff0113b9850febb772ad597b069b641c6f9be156405e2ed",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 3.6.1992."
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1992-06-02-8429.json",
+      "sha256_markdown": "7e21c2a0d3d2fecf860eadc5dc63823d68204ea6a961ff486488f5afbee90a00",
+      "estrutura": {
+        "blocos": 276,
+        "artigos": 35,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1994-07-04-8906",
+      "arquivo": "federal/br-federal-lei-1994-07-04-8906.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "8906",
+        "data": "1994-07-04",
+        "titulo": "LEI Nº 8906, DE 4 DE JULHO DE 1994",
+        "ementa": "Dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1994-07-04-8906@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L8906",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L8906.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "ecfa034840622725225f505aa35a28f3c3cebeab9b41ae7eb4c413cb4d54eef4",
+        "sha256_conteudo": "896b43dcb63438c96e864635e8293b3a7fe0512cb1a747f42d704b921a7101cb",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8906.htm.xz",
+        "sha256_snapshot_armazenado": "a2c2f9ba43e9eaeeb3ef71274793b38beaf7b9224cfc6cb9c0f42be31e9b1236",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 5.7.1994."
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1994-07-04-8906.json",
+      "sha256_markdown": "fe1ad52bc73125cf832b1d154d59e7bf26d687cd42dcf0d0bc96f94e9d05db31",
+      "estrutura": {
+        "blocos": 580,
+        "artigos": 96,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1995-02-13-8987",
+      "arquivo": "federal/br-federal-lei-1995-02-13-8987.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "8987",
+        "data": "1995-02-13",
+        "titulo": "LEI Nº 8987, DE 13 DE FEVEREIRO DE 1995",
+        "ementa": "Dispõe sobre o regime de concessão e permissão da prestação de serviços públicos previsto no art. 175 da Constituição Federal e dá outras providências.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "compilado-planalto",
+        "edicao_id": "br-federal-lei-1995-02-13-8987@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L8987",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L8987compilada.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "a011740cb79b6d8bf4f89e4fdd3ab3c75f987d6dba88ce60a5239da1a1bd4976",
+        "sha256_conteudo": "fae4fade71ab2037b5e3fcf9802ef9edc1c0e7a4dc3e3a1f353615ef882a9130",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8987.htm.xz",
+        "sha256_snapshot_armazenado": "79ae1334e3cab5e58fcf21ffca54a6fc6c503e550732338fff6432bf507eea8e",
+        "dou_aviso": "Este texto não substitui o republicado no DOU de 14.2.1995"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1995-02-13-8987.json",
+      "sha256_markdown": "a115eb4a5c71fb42f551cb9741b5343d3b5821afc72748a18808cc49e8c70a01",
+      "estrutura": {
+        "blocos": 262,
+        "artigos": 52,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-lei-1995-09-26-9099",
+      "arquivo": "federal/br-federal-lei-1995-09-26-9099.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "9099",
+        "data": "1995-09-26",
+        "titulo": "LEI Nº 9099, DE 26 DE SETEMBRO DE 1995",
+        "ementa": "Dispõe sobre os Juizados Especiais Cíveis e Criminais e dá outras providências.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1995-09-26-9099@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L9099",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L9099.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "703748346a61f67f42ee48c64aaf8c530d2e9f678bdb048a9ce62485a8c53fdd",
+        "sha256_conteudo": "2aaa58cb77a9f0d244500babf8216a871ec31a872a9d1d0e36459a74bdd5478c",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9099.htm.xz",
+        "sha256_snapshot_armazenado": "1c4b77394d0ba9da8cbfc859ab65b7b4f33556c181c25a2cd24932d53a2eabeb",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 27.9.1995"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1995-09-26-9099.json",
+      "sha256_markdown": "2d785b6fc97766d937857028073e31c611840853e63e8d81a8541bd5a6402866",
+      "estrutura": {
+        "blocos": 319,
+        "artigos": 99,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1996-09-23-9307",
+      "arquivo": "federal/br-federal-lei-1996-09-23-9307.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "9307",
+        "data": "1996-09-23",
+        "titulo": "LEI Nº 9307, DE 23 DE SETEMBRO DE 1996",
+        "ementa": "Dispõe sobre a arbitragem.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1996-09-23-9307@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L9307",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L9307.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "79b523791f30b38a978822ffe38813fd00bfe77b94a147623fce29b2d0ad8f1f",
+        "sha256_conteudo": "b3630c7d3ddb935baf0774ac6921d301c10861776e207e80c8599b3b9a97b09b",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9307.htm.xz",
+        "sha256_snapshot_armazenado": "c46c49e348b4e079308379097ec7e41106769fd99c229878a16abc055d9f6794",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 24.9.1996"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1996-09-23-9307.json",
+      "sha256_markdown": "501c108967720e0689020b6c7817884a08bc36c19464e818c90e49748e391c5b",
+      "estrutura": {
+        "blocos": 198,
+        "artigos": 47,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1996-12-20-9394",
+      "arquivo": "federal/br-federal-lei-1996-12-20-9394.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "9394",
+        "data": "1996-12-20",
+        "titulo": "LEI Nº 9394, DE 20 DE DEZEMBRO DE 1996",
+        "ementa": "Estabelece as diretrizes e bases da educação nacional.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1996-12-20-9394@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L9394",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L9394.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "0b58acd3ded16e6a04a59ac1f293ac3d23d05e2655442fce25db5df059c73b0c",
+        "sha256_conteudo": "563f7fd6c13dbf3a3408456f11370989175355e5b6ac17815df79968a9d38d41",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9394.htm.xz",
+        "sha256_snapshot_armazenado": "855e7fc6de9cce4965b02adad50d02fded0aa8896ccca5e92563d613600bb117",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 23.12.1996."
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1996-12-20-9394.json",
+      "sha256_markdown": "cbf4808fcd1bfcc66d52c946ba86b58be11d1fe3369ede6d170bc0dba75e9616",
+      "estrutura": {
+        "blocos": 900,
+        "artigos": 121,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1997-09-23-9503",
+      "arquivo": "federal/br-federal-lei-1997-09-23-9503.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "9503",
+        "data": "1997-09-23",
+        "titulo": "LEI Nº 9503, DE 23 DE SETEMBRO DE 1997",
+        "ementa": "Institui o Código de Trânsito Brasileiro.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "consolidada",
+        "integral": true,
+        "identidade": "compilado-planalto",
+        "edicao_id": "br-federal-lei-1997-09-23-9503@consolidada-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L9503",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L9503Compilado.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "a04fa2f135346c638bd8feb1a0fec0f816d6043118590688d582f35069a1c267",
+        "sha256_conteudo": "e9b9c7236bec4288ac434b309e9919cdb46cc4e78700578e864b99de6d7b547d",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9503.htm.xz",
+        "sha256_snapshot_armazenado": "ad26cc42e5662dc91e4b8e07f9b5ee85f9e38889f7e41ee342049d88eeea2b0d",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 24.9.1997"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1997-09-23-9503.json",
+      "sha256_markdown": "6e7b7433f9b509dfe70e555a0cb567906d92741aaa212a317debd9e17e4ef8df",
+      "estrutura": {
+        "blocos": 2245,
+        "artigos": 391,
+        "tabelas": 0,
+        "anexos_no_corpo": 1,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1997-09-30-9504",
+      "arquivo": "federal/br-federal-lei-1997-09-30-9504.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "9504",
+        "data": "1997-09-30",
+        "titulo": "LEI Nº 9504, DE 30 DE SETEMBRO DE 1997",
+        "ementa": "Estabelece normas para as eleições.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1997-09-30-9504@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L9504",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L9504.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "ee6a7488c59a9289dc94f5f3f31db58a78ea05cce673fed8be624665b5f556bc",
+        "sha256_conteudo": "284d265ac9f81a5a3dc07f283991cdfdd81fea96f807ce3e8abd5511f83a7703",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9504.htm.xz",
+        "sha256_snapshot_armazenado": "43c7f2eae6789ae2e8c6dfa84bc7356f300c84fd4930d6349e8554927f395895",
+        "dou_aviso": null
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1997-09-30-9504.json",
+      "sha256_markdown": "5d7dc92de09ce97b7b847ed7b94fe77cd9d6a68146b673f0c01ebbeda5cbeb44",
+      "estrutura": {
+        "blocos": 1338,
+        "artigos": 151,
+        "tabelas": 10,
+        "anexos_no_corpo": 1,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-1998-02-12-9605",
+      "arquivo": "federal/br-federal-lei-1998-02-12-9605.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "9605",
+        "data": "1998-02-12",
+        "titulo": "LEI Nº 9605, DE 12 DE FEVEREIRO DE 1998",
+        "ementa": "Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, e dá outras providências.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-1998-02-12-9605@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L9605",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/leis/L9605.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "28af2193e106f33963239955493d78479d2137673c851e2434512193f9b420a5",
+        "sha256_conteudo": "00a811ae5cee1a1f36ebc999fe62e8df76c7828c4f54e35e49a831622f40cfe2",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9605.htm.xz",
+        "sha256_snapshot_armazenado": "f86adb26f85c7c152f64ff1ff677a8bb7c5624382db7c808780e12e9652e01fb",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 13.2.1998 e retificado em 17.2.1998"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-1998-02-12-9605.json",
+      "sha256_markdown": "81b60f6a38262453dfa21d968b0e5d1648e6700d89427550104339fb1d8dcd13",
+      "estrutura": {
+        "blocos": 411,
+        "artigos": 87,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-2004-12-30-11079",
+      "arquivo": "federal/br-federal-lei-2004-12-30-11079.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "11079",
+        "data": "2004-12-30",
+        "titulo": "LEI Nº 11079, DE 30 DE DEZEMBRO DE 2004",
+        "ementa": "Institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-2004-12-30-11079@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L11079",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L11079.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "f9ef8370387427da1338292a8da80cd35b1fc68f79451673c5bd0055dd6a50cd",
+        "sha256_conteudo": "b7f8760019f5b63207fab27e4de98b5bc8d797dbe7256b5aeca73aa4a2c00065",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L11079.htm.xz",
+        "sha256_snapshot_armazenado": "2a2d826d419f5a2e267f8f041189641f9fd18e19e3e7b06bfe2ed5ccdf287015",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 31.12.2004"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-2004-12-30-11079.json",
+      "sha256_markdown": "68b59a86a9b5425918bb71fb4f51f3bb95284c92d11d9c4e8091b7cd682cd033",
+      "estrutura": {
+        "blocos": 273,
+        "artigos": 32,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 0,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-2005-02-09-11101",
+      "arquivo": "federal/br-federal-lei-2005-02-09-11101.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "11101",
+        "data": "2005-02-09",
+        "titulo": "LEI Nº 11101, DE 9 DE FEVEREIRO DE 2005",
+        "ementa": "Regula a recuperação judicial, a extrajudicial e a falência do empresário e da sociedade empresária.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-2005-02-09-11101@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L11101",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11101.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "5ae90f63a32dba3fe76ea419abbc499d02867a86cf6bb8b5b0083827b002178c",
+        "sha256_conteudo": "215c22c22ef703a9ed8fe7eaadb5938123d051c8f501b211de80e109b8e73070",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L11101.htm.xz",
+        "sha256_snapshot_armazenado": "ef527d9ef12b1fa788f327bcfec2bf185ff1bdaa7d0b2f9365190855fd33d7a0",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 9.2.2005 - Edição extra"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-2005-02-09-11101.json",
+      "sha256_markdown": "6d51e615be9f593996595245080f9e9b43b3ac04c712864ef8e53e9a27f50a3e",
+      "estrutura": {
+        "blocos": 1385,
+        "artigos": 261,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-lei-2006-08-23-11343",
+      "arquivo": "federal/br-federal-lei-2006-08-23-11343.md",
+      "norma": {
+        "tipo": "lei",
+        "numero": "11343",
+        "data": "2006-08-23",
+        "titulo": "LEI Nº 11343, DE 23 DE AGOSTO DE 2006",
+        "ementa": "Institui o Sistema Nacional de Políticas Públicas sobre Drogas - Sisnad; prescreve medidas para prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas; estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas e define crimes.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-lei-2006-08-23-11343@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-L11343",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11343.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:02:16Z",
+        "sha256": "093812da628a164adc3458f8b3dc26dca8a6e35f48f34fc84ca51cc07f5e4141",
+        "sha256_conteudo": "dccc342fbf9ef6f3c70400019ce358280a89e632f3ec43b97cdeee63226e3c29",
+        "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L11343.htm.xz",
+        "sha256_snapshot_armazenado": "497b4b3234593bce7d3934317891a478ff462f2be2e75a796cf6fc9f4cd43a38",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 24.8.2006"
+      },
+      "prova": "provas/federal-prioridade-5000-11999/reconciliacao-br-federal-lei-2006-08-23-11343.json",
+      "sha256_markdown": "e8bde81a05c024fb3b8ffa761c0b43dd8c346314054781a57f9f24ff4904194c",
+      "estrutura": {
+        "blocos": 579,
+        "artigos": 100,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 0,
+        "texto_riscado": true
+      }
+    }
+  ],
+  "ja_no_acervo": [
+    "10520",
+    "11340",
+    "5172",
+    "8069",
+    "8078",
+    "8080",
+    "8213",
+    "8666"
+  ],
+  "prioridade_restante": [
+    5859,
+    5869,
+    5889,
+    6019,
+    6024,
+    6360,
+    6385,
+    6437,
+    6880,
+    6938,
+    7492,
+    7998,
+    8137,
+    8142,
+    8212,
+    8443,
+    8742,
+    8884,
+    8934,
+    9069,
+    9074,
+    9096,
+    9249,
+    9279,
+    9296,
+    9424,
+    9427,
+    9430,
+    9433,
+    9455,
+    9456,
+    9472,
+    9478,
+    9492,
+    9514,
+    9601,
+    9609,
+    9610,
+    9613,
+    9656,
+    9717,
+    9718,
+    9782,
+    9784,
+    9868,
+    9876,
+    9882,
+    9985,
+    10101,
+    10172,
+    10216,
+    10257,
+    10259,
+    10637,
+    10671,
+    10741,
+    10820,
+    10826,
+    10833,
+    10861,
+    10931,
+    11107,
+    11419,
+    11428,
+    11441,
+    11494,
+    11638,
+    11738,
+    11788
+  ],
+  "limites": [
+    "Lote parcial; não esgota as ~7.061 identidades do catálogo 1966–2009.",
+    "Não altera nucleo_licitacoes nem README agregado além da contagem federal deste PR.",
+    "Sem segunda fonte de conferência nesta entrega."
+  ]
+}

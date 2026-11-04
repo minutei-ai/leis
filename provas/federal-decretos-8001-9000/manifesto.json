@@ -1,0 +1,315 @@
+{
+  "contrato_versao": 1,
+  "lote": "federal-decretos-8001-9000",
+  "descricao": "Amostra de decretos federais 8.001–9.000 (#81) recuperados do Planalto.",
+  "gerado_em": "2026-11-04T19:29:02Z",
+  "vigencia_certificada": false,
+  "documentos": [
+    {
+      "id": "br-federal-decreto-2013-09-04-8100",
+      "arquivo": "federal/br-federal-decreto-2013-09-04-8100.md",
+      "norma": {
+        "tipo": "decreto",
+        "numero": "8100",
+        "data": "2013-09-04",
+        "titulo": "DECRETO Nº 8100, DE 4 DE SETEMBRO DE 2013",
+        "ementa": "Decreto nº 8.100, de 4 de setembro de 2013.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-decreto-2013-09-04-8100@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-D8100",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/decreto/D8100.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:28:37Z",
+        "sha256": "a57755c72fafd88b84b46647c00106bb3cdea1d2c8b2e76e4b83750afe720ddb",
+        "sha256_conteudo": "3b4a72fa2ed84f57898b4c71d016c21965baf786dae4c73c22f59731a52a6cc2",
+        "snapshot": "provas/federal-decretos-8001-9000/fontes/D8100.htm.xz",
+        "sha256_snapshot_armazenado": "9f315a7871a7e21a0255c5509e092aea712081c248bfd2e952387a3391e58781",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 5.9.2013"
+      },
+      "prova": "provas/federal-decretos-8001-9000/reconciliacao-br-federal-decreto-2013-09-04-8100.json",
+      "sha256_markdown": "389b2b063c2a80700565f1ccf46f9f92e7c40b7f7a5090cd1a821d28de11c693",
+      "estrutura": {
+        "blocos": 208,
+        "artigos": 19,
+        "tabelas": 8,
+        "anexos_no_corpo": 4,
+        "imagens_omitidas": 0,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-decreto-2014-08-29-8300",
+      "arquivo": "federal/br-federal-decreto-2014-08-29-8300.md",
+      "norma": {
+        "tipo": "decreto",
+        "numero": "8300",
+        "data": "2014-08-29",
+        "titulo": "DECRETO Nº 8300, DE 29 DE AGOSTO DE 2014",
+        "ementa": "Decreto nº 8.300, de 29 de agosto de 2014.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-decreto-2014-08-29-8300@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-D8300",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/D8300.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:28:37Z",
+        "sha256": "6c9667bb904e20fecbce415358f2fe9d9ec33c4706830e18394c6ccbf3c4019b",
+        "sha256_conteudo": "494495873b1db4fb7b7c4c356ab47733bea460cf0b598f42c4dac33b9cd95fb6",
+        "snapshot": "provas/federal-decretos-8001-9000/fontes/D8300.htm.xz",
+        "sha256_snapshot_armazenado": "0931b31576443633e6c94d698702cdbe2844ec7989b4041afd884edfdf70972f",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 1º .9.2014"
+      },
+      "prova": "provas/federal-decretos-8001-9000/reconciliacao-br-federal-decreto-2014-08-29-8300.json",
+      "sha256_markdown": "4d155a3c0e03ad9a3d4e4d6196347f6a2411b1211ee25f41e86092faffb55cc6",
+      "estrutura": {
+        "blocos": 282,
+        "artigos": 3,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 0,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-decreto-2015-08-12-8500",
+      "arquivo": "federal/br-federal-decreto-2015-08-12-8500.md",
+      "norma": {
+        "tipo": "decreto",
+        "numero": "8500",
+        "data": "2015-08-12",
+        "titulo": "DECRETO Nº 8500, DE 12 DE AGOSTO DE 2015",
+        "ementa": "Decreto nº 8.500, de 12 de agosto de 2015.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-decreto-2015-08-12-8500@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-D8500",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/decreto/D8500.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:28:37Z",
+        "sha256": "702de2bb937395b772204df7c7283fd26aebaf3588526387cd1b7e084750881b",
+        "sha256_conteudo": "3d683fc576fc0bcf413543d922a759b8e747ff6c696590dcff1ea78b1b0f1098",
+        "snapshot": "provas/federal-decretos-8001-9000/fontes/D8500.htm.xz",
+        "sha256_snapshot_armazenado": "1456efc0e0a1cf3b0705952e01edda83aa5b6d3ef296d831336cf931ceae820c",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 13.8.2015"
+      },
+      "prova": "provas/federal-decretos-8001-9000/reconciliacao-br-federal-decreto-2015-08-12-8500.json",
+      "sha256_markdown": "04b2b49957124e6cd1174a35fe20fe54b8d7ebb4a61c03811ee2a0b06fdd5d00",
+      "estrutura": {
+        "blocos": 25,
+        "artigos": 2,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    },
+    {
+      "id": "br-federal-decreto-2015-12-18-8600",
+      "arquivo": "federal/br-federal-decreto-2015-12-18-8600.md",
+      "norma": {
+        "tipo": "decreto",
+        "numero": "8600",
+        "data": "2015-12-18",
+        "titulo": "DECRETO Nº 8600, DE 18 DE DEZEMBRO DE 2015",
+        "ementa": "Decreto nº 8.600, de 18 de dezembro de 2015.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-decreto-2015-12-18-8600@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-D8600",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/decreto/D8600.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:28:37Z",
+        "sha256": "72a1a9d787b0993e0f3efb4f37f7f0654e761e279899a21d5d3f7189ff6e9725",
+        "sha256_conteudo": "e23c6f4593b704075ecdb42f0357e093b51ff811486c9482ecc8c49d5f3d7982",
+        "snapshot": "provas/federal-decretos-8001-9000/fontes/D8600.htm.xz",
+        "sha256_snapshot_armazenado": "9169319bca3472169d7cebc0a18c460f0e026e980cc714efcaa2fb705bcf0848",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 21.12.2015"
+      },
+      "prova": "provas/federal-decretos-8001-9000/reconciliacao-br-federal-decreto-2015-12-18-8600.json",
+      "sha256_markdown": "ec39478cd004ce095728041f69c630a650fee4f9abbbd763aa622926ffac0c2b",
+      "estrutura": {
+        "blocos": 58,
+        "artigos": 3,
+        "tabelas": 0,
+        "anexos_no_corpo": 0,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-decreto-2016-03-30-8700",
+      "arquivo": "federal/br-federal-decreto-2016-03-30-8700.md",
+      "norma": {
+        "tipo": "decreto",
+        "numero": "8700",
+        "data": "2016-03-30",
+        "titulo": "DECRETO Nº 8700, DE 30 DE MARÇO DE 2016",
+        "ementa": "Decreto nº 8.700, de 30 de março de 2016.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-decreto-2016-03-30-8700@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-D8700",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8700.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:28:37Z",
+        "sha256": "2d6616528c5070fde088c1d846693e28e5025cb8ed85e4af4525c31c9bd04a6a",
+        "sha256_conteudo": "d7c10ff760acf4cc3b5db81c65185d033430880fc566e6fa639e492f304b1481",
+        "snapshot": "provas/federal-decretos-8001-9000/fontes/D8700.htm.xz",
+        "sha256_snapshot_armazenado": "0b23fa5f3297c4877df8484ad6e3dd98ba6335be6a080bdfac719f3b957fde34",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 30.3.2016 - Edição extra"
+      },
+      "prova": "provas/federal-decretos-8001-9000/reconciliacao-br-federal-decreto-2016-03-30-8700.json",
+      "sha256_markdown": "7593685cd2194209932d6ec2a6921c23700028b4cb5bbcf9f16e33919f676f1b",
+      "estrutura": {
+        "blocos": 56,
+        "artigos": 3,
+        "tabelas": 7,
+        "anexos_no_corpo": 7,
+        "imagens_omitidas": 0,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-decreto-2016-07-06-8800",
+      "arquivo": "federal/br-federal-decreto-2016-07-06-8800.md",
+      "norma": {
+        "tipo": "decreto",
+        "numero": "8800",
+        "data": "2016-07-06",
+        "titulo": "DECRETO Nº 8800, DE 6 DE JULHO DE 2016",
+        "ementa": "Decreto nº 8.800, de 6 de julho de 2016.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-decreto-2016-07-06-8800@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-D8800",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8800.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:28:37Z",
+        "sha256": "a91d7db3c9a8800160e6f6dc52f952d4d55e893c6d80858c8ef5b9e7f6d997b2",
+        "sha256_conteudo": "03bf3a4c11070b7571fe39b43a59844123ea4be453200f1f17e791a9918d744c",
+        "snapshot": "provas/federal-decretos-8001-9000/fontes/D8800.htm.xz",
+        "sha256_snapshot_armazenado": "739ab3cf4dde9e73a612e08ec5e4accde4152247b444d84a6f71c884be2fbe1b",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 7.7.2016"
+      },
+      "prova": "provas/federal-decretos-8001-9000/reconciliacao-br-federal-decreto-2016-07-06-8800.json",
+      "sha256_markdown": "0339c3eb168a61c7ec57d0574aa7802d42aa05d0b316cffc6c20b39060300a10",
+      "estrutura": {
+        "blocos": 85,
+        "artigos": 2,
+        "tabelas": 0,
+        "anexos_no_corpo": 1,
+        "imagens_omitidas": 1,
+        "texto_riscado": false
+      }
+    },
+    {
+      "id": "br-federal-decreto-2016-11-10-8900",
+      "arquivo": "federal/br-federal-decreto-2016-11-10-8900.md",
+      "norma": {
+        "tipo": "decreto",
+        "numero": "8900",
+        "data": "2016-11-10",
+        "titulo": "DECRETO Nº 8900, DE 10 DE NOVEMBRO DE 2016",
+        "ementa": "Decreto nº 8.900, de 10 de novembro de 2016.",
+        "denominacao": null
+      },
+      "edicao": {
+        "tipo": "historica",
+        "integral": "desconhecido",
+        "identidade": "planalto",
+        "edicao_id": "br-federal-decreto-2016-11-10-8900@historica-planalto"
+      },
+      "situacao": {
+        "valor": "nao-informada"
+      },
+      "fonte": {
+        "chave": "planalto-D8900",
+        "orgao": "Presidência da República — Planalto",
+        "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/D8900.htm",
+        "formato": "html",
+        "capturado_em": "2026-11-04T19:28:37Z",
+        "sha256": "83972320b91f21fd53ad401134f52275fc1f2a3960bac9ac8164e3971376ece5",
+        "sha256_conteudo": "959e19f2374ef96bb39b4a29fee00d1366fc4c0a17f48f63fe80272774d77c8a",
+        "snapshot": "provas/federal-decretos-8001-9000/fontes/D8900.htm.xz",
+        "sha256_snapshot_armazenado": "9924959e669af34bea4bb677d6610ae58d770cbdf2899bf452be71f980453498",
+        "dou_aviso": "Este texto não substitui o publicado no DOU de 11.11.2016"
+      },
+      "prova": "provas/federal-decretos-8001-9000/reconciliacao-br-federal-decreto-2016-11-10-8900.json",
+      "sha256_markdown": "0c4cf6d57ac19e18d633f9b7a3c042f844d9303fcfd5bc1e05308bbf304f5f6b",
+      "estrutura": {
+        "blocos": 63,
+        "artigos": 9,
+        "tabelas": 6,
+        "anexos_no_corpo": 3,
+        "imagens_omitidas": 1,
+        "texto_riscado": true
+      }
+    }
+  ],
+  "limites": [
+    "Amostra parcial da #81; faixa 8.001–9.000 ainda tem centenas de números sem arquivo.",
+    "Não altera nucleo_licitacoes.",
+    "Sem segunda fonte de conferência nesta entrega."
+  ]
+}

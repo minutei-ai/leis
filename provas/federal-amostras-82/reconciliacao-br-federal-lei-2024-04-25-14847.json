@@ -1,0 +1,63 @@
+{
+  "documento": "br-federal-lei-2024-04-25-14847",
+  "fonte_principal": "planalto-L14847",
+  "sha256_fonte_principal": "a584bda8a39618a9879bed2ccc5a28c70b703e77f0e85192c9c8e1001cce2e41",
+  "sha256_conteudo": "4f6a45972240de86c961130de727a853b8d0283f53fc86ef9b8d973ea97cad22",
+  "capturado_em": "2026-11-04T19:15:08Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/lei/L14847.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L14847.htm.xz",
+  "sha256_snapshot_armazenado": "94ba6f5c63a72110f948fab737766f2845416e8b8c82f2b1276f8cc27db83f10",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 1076,
+    "caracteres_normalizados_markdown": 1076,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 3,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/LEIS/QUADRO/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 18,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2024-04-25-14847",
+    "numero": "14847",
+    "data": "2024-04-25",
+    "titulo_fonte": "LEI Nº 14847, DE 25 DE ABRIL DE 2024",
+    "ementa": "Altera a Lei nº 8.080, de 19 de setembro de 1990 (Lei Orgânica da Saúde), para dispor sobre o atendimento de mulheres vítimas de violência em ambiente privativo e individualizado nos serviços de saúde prestados no âmbito do Sistema Único de Saúde.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    }
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+  ]
+}

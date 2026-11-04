@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-1990-07-25-8072",
+  "fonte_principal": "planalto-L8072",
+  "sha256_fonte_principal": "3b93e4af5589b3e2aa4fe5610db12cd5b5cdc5bb794581c8df5fbdf5335f02d2",
+  "sha256_conteudo": "1fd4251a5b29ff2429726c2c638085634e41c0c4c05a160067c4073b80706159",
+  "capturado_em": "2026-11-04T19:02:16Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L8072.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8072.htm.xz",
+  "sha256_snapshot_armazenado": "0cb4fcfdfb9136cd1d8ae86835daad69bf2d26358c3543b9d3ec695b8da368f4",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 11891,
+    "caracteres_normalizados_markdown": 11891,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 24,
+    "links": 135,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/leis/QUADRO/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 121,
+    "artigos": 13,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "9",
+      "10",
+      "11",
+      "12",
+      "13"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1990-07-25-8072",
+    "numero": "8072",
+    "data": "1990-07-25",
+    "titulo_fonte": "LEI Nº 8072, DE 25 DE JULHO DE 1990",
+    "ementa": "Dispõe sobre os crimes hediondos, nos termos do art. 5º, inciso XLIII, da Constituição Federal, e determina outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    }
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "documento": "br-federal-lei-delegada-1962-10-11-10",
+  "fonte_principal": "planalto-ldl10",
+  "senado_id": "572943",
+  "sha256_fonte_principal": "ac2b847c233330460d552064d845a32a59cb840e3134e50c62f15dc1e2f70f48",
+  "sha256_conteudo": "b9e3a17a5cf61c4bd0c7a23553add2133037c670e4597dddc19cd924ab5d1783",
+  "capturado_em": "2026-11-04T18:54:31Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/ldl/ldl10.htm",
+  "snapshot": "provas/leis-delegadas/fontes/planalto-ldl10.htm.xz",
+  "sha256_snapshot_armazenado": "1ab65b05c3db39f49093071142a0124b44b4263f42e95aaab10c85faa6374251",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 9941,
+    "caracteres_normalizados_markdown": 9941,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 8,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 106,
+    "artigos": 27,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "23",
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-delegada-1962-10-11-10",
+    "tipo": "lei-delegada",
+    "numero": "10",
+    "data": "1962-10-11",
+    "titulo_fonte": "LEI DELEGADA Nº 10, DE 11 DE OUTUBRO DE 1962",
+    "ementa": "Cria a Superintendência do Desenvolvimento da Pesca e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto-ldl",
+      "integral": "desconhecido"
+    },
+    "senado_id": "572943",
+    "senado_url": "https://legis.senado.leg.br/norma/572943"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "Edição histórica da página do Planalto; não é publicação original do DOU isolada.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Catálogo Senado prova identidade; ementa/registro não substituem o Markdown integral."
+  ]
+}
