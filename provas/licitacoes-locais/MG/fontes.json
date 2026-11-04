@@ -1,0 +1,86 @@
+{
+  "capturado_em": "2026-11-04T11:47:38Z",
+  "nota": "Capturas HTTP oficiais do DOM-PBH e do catálogo da PGM para o Decreto municipal BH 18.289/2023. A ementa do catálogo não prova a íntegra.",
+  "fontes": [
+    {
+      "chave": "dom-ato-200561-json",
+      "descricao": "Resposta JSON do ato publicado (inclui conteudo_html).",
+      "url": "https://api-dom.pbh.gov.br/api/v1/edicoes/atos/200561/publicado",
+      "url_visualizacao": "https://dom-web.pbh.gov.br/visualizacao/ato/200561",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/dom-ato-200561.json.xz",
+      "sha256_arquivo_xz": "aa920bd5e1adaac488f77ed1c8e46d438acfabe10e6f819aa2f462e18ad9f19e",
+      "sha256_conteudo": "ca251d17670c40b4fb8c54bf1b2cfa913c1ebaa63727dcbf69dc0ef638dc128d",
+      "capturado_em": "2026-11-04T11:47:38Z",
+      "metadados_ato": {
+        "id": 200561,
+        "titulo_ato": "DECRETO Nº 18.289, DE 28 DE MARÇO DE 2023.",
+        "edicao_id": 6824,
+        "orgao": {
+          "sigla": "GP",
+          "nome": "Gabinete do Prefeito",
+          "poder": "E"
+        },
+        "documento_ato": {
+          "nome_original": "conteudoAto_id200561.html",
+          "nome_minio": "823a985c9f5d9d387b2327f529adaf8f0e8e20a02d6e555724ef4718f956f8a7",
+          "hash_arquivo": "3fae24568f0c82e5ae543daa3f11424dae32af818e3ef3110d9441d5c390c38d"
+        }
+      }
+    },
+    {
+      "chave": "dom-ato-200561-html",
+      "descricao": "Documento HTML integral do ato (download oficial).",
+      "url": "https://api-dom.pbh.gov.br/api/v1/documentos/823a985c9f5d9d387b2327f529adaf8f0e8e20a02d6e555724ef4718f956f8a7/download",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/conteudoAto_id200561.html.xz",
+      "sha256_arquivo_xz": "2b7fa174c0f6b3b9b3e182beae5e5468ab86bb1e79e0b02a77fa25ad0de4c108",
+      "sha256_conteudo": "3fae24568f0c82e5ae543daa3f11424dae32af818e3ef3110d9441d5c390c38d",
+      "capturado_em": "2026-11-04T11:47:38Z"
+    },
+    {
+      "chave": "dom-edicao-6824-json",
+      "descricao": "Metadados da edição DOM 6730 (publicação 2023-03-29).",
+      "url": "https://api-dom.pbh.gov.br/api/v1/edicoes/6824/publicado",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/dom-edicao-6824.json",
+      "sha256_conteudo": "f27ffc7f0889f33183483e20c2f5c91f5816cb04e39a6a9caea0fa68d71ac085",
+      "capturado_em": "2026-11-04T11:47:38Z",
+      "metadados_edicao": {
+        "id": 6824,
+        "numero_edicao": 6730,
+        "dt_publicacao": "2023-03-29",
+        "hr_publicacao": "00:01:00",
+        "documento_jornal": {
+          "nome_original": "Dom6730.pdf",
+          "nome_minio": "c8cdc2aa18ffee4dfa5bbb8e3a6cd69c0741b509859ec96a816629624fef19bd",
+          "hash_arquivo": "e9b1e293198bc3cccabf939611d76ca12a1284751b23c7263c3e8634bfdff671",
+          "size": 5276768
+        }
+      }
+    },
+    {
+      "chave": "dom-jornal-6730-pdf",
+      "descricao": "PDF completo da edição 6730 do DOM (jornal do dia; contém o Decreto 18.289 entre outros atos).",
+      "url": "https://api-dom.pbh.gov.br/api/v1/documentos/c8cdc2aa18ffee4dfa5bbb8e3a6cd69c0741b509859ec96a816629624fef19bd/download",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/Dom6730.pdf.xz",
+      "sha256_arquivo_xz": "1fe9e692ff69ec557acac5c5418b77ef28edad3e9d1d4d8a63c167af70ba3077",
+      "sha256_conteudo": "e9b1e293198bc3cccabf939611d76ca12a1284751b23c7263c3e8634bfdff671",
+      "capturado_em": "2026-11-04T11:47:38Z"
+    },
+    {
+      "chave": "dom-ato-200561-anexos",
+      "descricao": "Listagem oficial de anexos publicados do ato (vazia).",
+      "url": "https://api-dom.pbh.gov.br/api/v1/edicoes/atos/200561/anexos/publicado",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/dom-ato-200561-anexos.json",
+      "sha256_conteudo": "f7dea5b1f05cb17791817d80e704fab4c9b0e863063d0d169c5cd8f532a621e3",
+      "capturado_em": "2026-11-04T11:47:38Z"
+    },
+    {
+      "chave": "pgm-regulamentacao-municipal",
+      "descricao": "Catálogo PGM: identificação e ementa; não valida texto integral.",
+      "url": "https://prefeitura.pbh.gov.br/procuradoria/regulamentacao-municipal",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/pgm-regulamentacao-municipal.html.xz",
+      "sha256_arquivo_xz": "558aee68bff756b22b7fd46b8f15c53c7d4df9969f08c66d32faa41bc3491bd1",
+      "sha256_conteudo": "7ea6b2e5ca702c38f8da56b2f93ebf3cbbf04ba170ec27ee1cd34425be6434c2",
+      "capturado_em": "2026-11-04T11:47:38Z"
+    }
+  ]
+}

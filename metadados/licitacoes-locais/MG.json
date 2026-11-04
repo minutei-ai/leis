@@ -1,0 +1,220 @@
+{
+  "uf": "MG",
+  "cobertura": "parcial",
+  "contrato_versao": 1,
+  "nota": "Catálogo temático parcial de regulamentação local de licitações em Minas Gerais (issue #57). Não inventa vigência nem aplica decreto estadual a municípios. Separar Estado de MG e município de Belo Horizonte. Ausência de norma neste catálogo não significa inexistência no ordenamento.",
+  "escopo": {
+    "estado": "parcial",
+    "inclui": [
+      "Decreto municipal de Belo Horizonte 18.289/2023 (publicação DOM ato 200561), recuperado integralmente nesta entrega",
+      "Reuso do Decreto estadual MG 48.723/2023 já presente em estaduais/MG/"
+    ],
+    "nao_cataloga": [
+      "Demais decretos municipais de BH listados no catálogo da PGM além dos candidatos registrados em pendencias",
+      "Regulamentos de outros municípios de MG",
+      "Consolidação com alterações posteriores ao Decreto BH 18.289 (ex.: Decreto 18.621/2024)",
+      "Certificação de vigência ou de compatibilidade jurídica com a Lei 14.133"
+    ]
+  },
+  "documentos": [
+    {
+      "norma_id": "br-municipal-3106200-decreto-2023-03-28-18289",
+      "arquivo": "municipais/3106200/br-municipal-3106200-decreto-2023-03-28-18289.md",
+      "uf": "MG",
+      "ibge": "3106200",
+      "municipio": "Belo Horizonte",
+      "ente": {
+        "tipo": "municipio",
+        "nome": "Município de Belo Horizonte",
+        "ibge": "3106200",
+        "uf": "MG"
+      },
+      "orgao": {
+        "nome": "Gabinete do Prefeito",
+        "sigla": "GP",
+        "poder": "Executivo",
+        "evidencia": "Campo orgao da API DOM (sigla_orgao GP, nome_orgao Gabinete do Prefeito, poder E) e preâmbulo do ato (PREFEITO DE BELO HORIZONTE)."
+      },
+      "ambito": {
+        "texto_literal": "no âmbito da administração municipal direta e indireta e das entidades vinculadas ou controladas direta ou indiretamente pelo Poder Executivo",
+        "dispositivo": "art. 1º, caput",
+        "poder": "Executivo",
+        "administracao": ["direta", "indireta"],
+        "entidades": "vinculadas ou controladas direta ou indiretamente pelo Poder Executivo",
+        "adesao": {
+          "texto_literal": "As empresas públicas, as sociedades de economia mista e suas subsidiárias, nos termos do regulamento interno de que trata o art. 40 da Lei Federal nº 13.303, de 30 de junho de 2016, poderão adotar, no que couber, as disposições deste decreto.",
+          "dispositivo": "art. 1º, § 2º",
+          "natureza": "facultativa-no-que-couber"
+        },
+        "nao_e": "localização do fornecedor"
+      },
+      "titulo": "Decreto nº 18.289, de 28 de março de 2023",
+      "ementa_catalogo_pgm": "Regulamenta a licitação pelo critério de julgamento por menor preço ou maior desconto, na forma eletrônica, para a contratação de bens, serviços e obras e dá outras providências.",
+      "fonte": {
+        "orgao": "DOM-PBH",
+        "url_ato": "https://dom-web.pbh.gov.br/visualizacao/ato/200561",
+        "url_api": "https://api-dom.pbh.gov.br/api/v1/edicoes/atos/200561/publicado",
+        "url_documento_html": "https://api-dom.pbh.gov.br/api/v1/documentos/823a985c9f5d9d387b2327f529adaf8f0e8e20a02d6e555724ef4718f956f8a7/download",
+        "url_catalogo_pgm": "https://prefeitura.pbh.gov.br/procuradoria/regulamentacao-municipal",
+        "ato_dom_id": 200561,
+        "formato": "html-api-dom"
+      },
+      "edicao": {
+        "tipo": "historica",
+        "descricao": "Texto do ato na publicação do DOM (assinatura 28/03/2023; edição 6730 publicada em 2023-03-29).",
+        "integral": true,
+        "alteracoes_posteriores": {
+          "estado": "nao-incorporadas",
+          "evidencia_catalogo": "Catálogo PGM aponta Decreto nº 18.621, de 5/02/2024, alterando o Decreto 18.289; esta edição não incorpora essa alteração.",
+          "dom_ato_alterador": "https://dom-web.pbh.gov.br/visualizacao/ato/434009"
+        }
+      },
+      "captura": {
+        "capturado_em": "2026-11-04T11:47:38Z",
+        "sha256_html": "3fae24568f0c82e5ae543daa3f11424dae32af818e3ef3110d9441d5c390c38d",
+        "sha256_json_ato": "ca251d17670c40b4fb8c54bf1b2cfa913c1ebaa63727dcbf69dc0ef638dc128d",
+        "sha256_corpo_markdown": "61cb9cbaef37cf30f8e8bbb5a27dc5377aca2851ecc4be220cd393822495f66d",
+        "sha256_pdf_jornal": "e9b1e293198bc3cccabf939611d76ca12a1284751b23c7263c3e8634bfdff671"
+      },
+      "hashes": {
+        "html_ato": "3fae24568f0c82e5ae543daa3f11424dae32af818e3ef3110d9441d5c390c38d",
+        "json_ato": "ca251d17670c40b4fb8c54bf1b2cfa913c1ebaa63727dcbf69dc0ef638dc128d",
+        "corpo_markdown": "61cb9cbaef37cf30f8e8bbb5a27dc5377aca2851ecc4be220cd393822495f66d",
+        "pdf_jornal_edicao_6730": "e9b1e293198bc3cccabf939611d76ca12a1284751b23c7263c3e8634bfdff671"
+      },
+      "relacoes_federais": [
+        {
+          "tipo": "regulamento",
+          "alvo_norma_id": "br-federal-lei-2021-04-01-14133",
+          "alvo_dispositivos": ["desconhecido"],
+          "evidencia": "Preâmbulo: considerando o disposto na Lei Federal nº 14.133, de 1º de abril de 2021. Critérios de menor preço/maior desconto na forma eletrônica.",
+          "desconhecidos": [
+            "mapa completo dispositivo a dispositivo Lei 14.133 ↔ Decreto 18.289",
+            "vigência aplicável a contratos concretos"
+          ],
+          "leitura": "O acervo não aplica automaticamente o decreto federal ao município nem presume compatibilidade jurídica de cada regra."
+        },
+        {
+          "tipo": "remissao",
+          "alvo_norma_id": "br-federal-lei-2016-06-30-13303",
+          "alvo_dispositivos": ["art. 40"],
+          "evidencia": "art. 1º, § 2º, remete ao regulamento interno do art. 40 da Lei 13.303/2016 para adoção facultativa por EP/SEM.",
+          "desconhecidos": ["texto do regulamento interno das EP/SEM de BH"]
+        }
+      ],
+      "alertas": [
+        {
+          "tipo": "transicao-exclusao",
+          "dispositivo": "art. 47",
+          "texto_literal_resumo": "O disposto neste decreto não se aplica aos procedimentos administrativos regidos pela Lei Federal nº 10.520, de 17 de junho de 2001, que continuarão a ser regulados pelo Decreto nº 17.317, de 30 de março de 2020, bem como àqueles regidos pela Lei Federal nº 12.462, de 4 de agosto de 2011, regulamentada pelo Decreto Federal nº 7.581, de 11 de outubro de 2011.",
+          "leitura": "Preservar alerta; não resolver transição caso a caso."
+        },
+        {
+          "tipo": "alteracao-posterior-nao-incorporada",
+          "evidencia": "Catálogo PGM: Decreto 18.621/2024 altera o Decreto 18.289.",
+          "leitura": "Edição histórica da publicação; não consolidada."
+        }
+      ],
+      "provas": {
+        "diretorio": "provas/licitacoes-locais/MG/",
+        "fontes": "provas/licitacoes-locais/MG/fontes.json",
+        "cobertura": "provas/licitacoes-locais/MG/cobertura-18289.json"
+      },
+      "limites": [
+        "edicao_integral refere-se à publicação DOM do ato 200561, não a consolidação posterior",
+        "vigencia_certificada=false",
+        "anexos separados do ato: nenhum na API",
+        "PDF Dom6730.pdf é a edição completa do jornal"
+      ],
+      "vigencia_certificada": false,
+      "situacao": "nao-informada"
+    }
+  ],
+  "reutilizados": [
+    {
+      "norma_id": "br-mg-decreto-2023-11-24-48723",
+      "arquivo": "estaduais/MG/br-mg-decreto-2023-11-24-48723.md",
+      "uf": "MG",
+      "ente": {
+        "tipo": "estado",
+        "nome": "Estado de Minas Gerais",
+        "uf": "MG"
+      },
+      "orgao": {
+        "nome": "desconhecido",
+        "evidencia": "Arquivo estadual já presente; preâmbulo do arquivo cita o Governador do Estado de Minas Gerais. Sem captura/hash do núcleo local nesta entrega."
+      },
+      "ambito": {
+        "texto_literal": "no âmbito da Administração Pública direta, autárquica e fundacional do Poder Executivo",
+        "dispositivo": "art. 1º (texto do arquivo estadual)",
+        "poder": "Executivo",
+        "administracao": ["direta", "autarquica", "fundacional"],
+        "nao_e": "aplicação automática a municípios"
+      },
+      "fonte_indicada": {
+        "url": "https://www.almg.gov.br/legislacao-mineira/texto/DEC/48723/2023/atualizado",
+        "nota": "URL indicada na issue #57; esta entrega não recaptura nem revalida a edição/integridade do arquivo estadual existente."
+      },
+      "status_edicao_arquivo": "desconhecido",
+      "edicao_integral": "desconhecido",
+      "vigencia_certificada": false,
+      "relacoes_federais": [
+        {
+          "tipo": "regulamento",
+          "alvo_norma_id": "br-federal-lei-2021-04-01-14133",
+          "alvo_dispositivos": ["desconhecido"],
+          "evidencia": "Ementa/preâmbulo do arquivo estadual: menor preço/maior desconto na forma eletrônica, com remissão à Lei 14.133.",
+          "desconhecidos": ["mapa dispositivo a dispositivo", "atualização da edição ALMG versus arquivo do acervo"]
+        }
+      ],
+      "leitura": "Reutilizado sem duplicar. Separar do Decreto municipal BH 18.289. Não presumir edição atualizada nem integralidade só pela presença no repositório."
+    }
+  ],
+  "pendencias": [
+    {
+      "id": "bh-candidatos-complementares",
+      "tipo": "recuperacao-integral-pendente",
+      "descricao": "Candidatos adicionais do catálogo PGM verificados individualmente na API DOM (existência e título), sem publicação da íntegra nesta entrega. Prioridade cumprida: 18.289.",
+      "itens": [
+        {
+          "titulo": "Decreto nº 17.813, de 21 de dezembro de 2021",
+          "dom_ato_id": 7494,
+          "url": "https://dom-web.pbh.gov.br/visualizacao/ato/7494",
+          "api": "https://api-dom.pbh.gov.br/api/v1/edicoes/atos/7494/publicado",
+          "verificacao": "API 200 em 2026-11-04; titulo confirmado; conteudo_html presente (33167 chars). Íntegra não publicada neste PR.",
+          "assunto_catalogo": "pesquisa de preços"
+        },
+        {
+          "titulo": "Decreto nº 18.096, de 20 de setembro de 2022",
+          "dom_ato_id": 23012,
+          "url": "https://dom-web.pbh.gov.br/visualizacao/ato/23012",
+          "api": "https://api-dom.pbh.gov.br/api/v1/edicoes/atos/23012/publicado",
+          "verificacao": "API 200 em 2026-11-04; titulo confirmado; conteudo_html presente (134347 chars). Íntegra não publicada neste PR.",
+          "assunto_catalogo": "sanções administrativas"
+        },
+        {
+          "titulo": "Decreto nº 18.240, de 19 de janeiro de 2023",
+          "dom_ato_id": 30089,
+          "url": "https://dom-web.pbh.gov.br/visualizacao/ato/30089",
+          "api": "https://api-dom.pbh.gov.br/api/v1/edicoes/atos/30089/publicado",
+          "verificacao": "API 200 em 2026-11-04; titulo confirmado; conteudo_html presente (29575 chars). Íntegra não publicada neste PR.",
+          "assunto_catalogo": "credenciamento"
+        },
+        {
+          "titulo": "Decreto nº 18.242, de 25 de janeiro de 2023",
+          "dom_ato_id": 30413,
+          "url": "https://dom-web.pbh.gov.br/visualizacao/ato/30413",
+          "api": "https://api-dom.pbh.gov.br/api/v1/edicoes/atos/30413/publicado",
+          "verificacao": "API 200 em 2026-11-04; titulo confirmado; conteudo_html presente (113452 chars). Íntegra não publicada neste PR.",
+          "assunto_catalogo": "sistema de registro de preços"
+        }
+      ]
+    },
+    {
+      "id": "bh-18289-consolidacao-18621",
+      "tipo": "edicao-alternativa-nao-recuperada",
+      "descricao": "Decreto 18.621/2024 altera 18.289; consolidação/atualização não recuperada. A publicação DOM de 18.289 permanece como edição histórica.",
+      "url_catalogo_alterador": "https://dom-web.pbh.gov.br/visualizacao/ato/434009"
+    }
+  ]
+}
