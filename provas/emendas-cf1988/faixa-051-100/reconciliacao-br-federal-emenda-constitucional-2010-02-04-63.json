@@ -1,0 +1,74 @@
+{
+  "documento": "br-federal-emenda-constitucional-2010-02-04-63",
+  "fonte_principal": "planalto-emc63",
+  "sha256_fonte_principal": "0b5b120e6d4bf7690c5df3179d80e8eefd7865020ffd636cb5ab70fff328a0ea",
+  "sha256_conteudo": "0b5b120e6d4bf7690c5df3179d80e8eefd7865020ffd636cb5ab70fff328a0ea",
+  "capturado_em": "2026-11-04T12:40:24Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc63.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-051-100/fontes/planalto-emc63.htm.xz",
+  "sha256_snapshot_armazenado": "26e9c628ba9d5e4b8fbe055f7898e940beee18298b4089c9b11238879b135616",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": null,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 1464,
+    "caracteres_normalizados_markdown": 1464,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 14,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2010-02-04-63",
+    "numero": "63",
+    "data": "2010-02-04",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 63, DE 4 DE FEVEREIRO DE 2010",
+    "ementa": "Altera o § 5º do art. 198 da Constituição Federal para dispor sobre piso salarial profissional nacional e diretrizes para os Planos de Carreira de agentes comunitários de saúde e de agentes de combate às endemias.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2010-02-04;63",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}

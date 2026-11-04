@@ -1,0 +1,55 @@
+name: Emendas CF/1988 faixa 51–100
+
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/emendas-cf1988-faixa-051-100.yml'
+      - 'scripts/emendas_cf1988_faixa_051_100.py'
+      - 'scripts/nucleo_licitacoes.py'
+      - 'tests/test_emendas_cf1988_faixa_051_100.py'
+      - 'provas/emendas-cf1988/faixa-051-100/**'
+      - 'federal/br-federal-emenda-constitucional-*-53.md'
+      - 'federal/br-federal-emenda-constitucional-*-54.md'
+      - 'federal/br-federal-emenda-constitucional-*-56.md'
+      - 'federal/br-federal-emenda-constitucional-*-57.md'
+      - 'federal/br-federal-emenda-constitucional-*-63.md'
+      - 'federal/br-federal-emenda-constitucional-*-64.md'
+      - 'federal/br-federal-emenda-constitucional-*-71.md'
+      - 'federal/br-federal-emenda-constitucional-*-72.md'
+      - 'federal/br-federal-emenda-constitucional-*-73.md'
+      - 'federal/br-federal-emenda-constitucional-*-76.md'
+      - 'federal/br-federal-emenda-constitucional-*-77.md'
+      - 'federal/br-federal-emenda-constitucional-*-79.md'
+      - 'federal/br-federal-emenda-constitucional-*-82.md'
+      - 'federal/br-federal-emenda-constitucional-*-83.md'
+      - 'federal/br-federal-emenda-constitucional-*-85.md'
+      - 'federal/br-federal-emenda-constitucional-*-86.md'
+      - 'federal/br-federal-emenda-constitucional-*-87.md'
+      - 'federal/br-federal-emenda-constitucional-*-88.md'
+      - 'federal/br-federal-emenda-constitucional-*-89.md'
+      - 'federal/br-federal-emenda-constitucional-*-90.md'
+      - 'federal/br-federal-emenda-constitucional-*-91.md'
+      - 'federal/br-federal-emenda-constitucional-*-92.md'
+      - 'federal/br-federal-emenda-constitucional-*-93.md'
+      - 'federal/br-federal-emenda-constitucional-*-94.md'
+      - 'federal/br-federal-emenda-constitucional-*-95.md'
+      - 'federal/br-federal-emenda-constitucional-*-96.md'
+      - 'federal/br-federal-emenda-constitucional-*-97.md'
+      - 'federal/br-federal-emenda-constitucional-*-98.md'
+      - 'federal/br-federal-emenda-constitucional-*-99.md'
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends python3-venv
+      - run: python3 -m venv "$RUNNER_TEMP/venv" && "$RUNNER_TEMP/venv/bin/pip" install beautifulsoup4==4.15.0 lxml==6.1.3
+      - name: Reconverter snapshots e conferir Markdown/provas
+        run: $RUNNER_TEMP/venv/bin/python scripts/emendas_cf1988_faixa_051_100.py verify
+      - name: Cobertura fonte→Markdown e identidade
+        run: $RUNNER_TEMP/venv/bin/python -m unittest tests.test_emendas_cf1988_faixa_051_100 -v

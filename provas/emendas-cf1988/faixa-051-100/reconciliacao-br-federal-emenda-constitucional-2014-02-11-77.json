@@ -1,0 +1,62 @@
+{
+  "documento": "br-federal-emenda-constitucional-2014-02-11-77",
+  "fonte_principal": "planalto-emc77",
+  "sha256_fonte_principal": "785691f517e1ecd68c4528864a6bdf4dd80c6273f7a27d1b7df89c8976c86240",
+  "sha256_conteudo": "5dc3801e97ff36305e80b56586c96647b477b519ca4fe4da15c21fc4e368c1bd",
+  "capturado_em": "2026-11-04T12:40:24Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc77.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-051-100/fontes/planalto-emc77.htm.xz",
+  "sha256_snapshot_armazenado": "b9cb1f03de5c4fe67acb83d3e52ece9fbafeb07b40ad671e0bc6cd8c01260fee",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": null,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 1782,
+    "caracteres_normalizados_markdown": 1782,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 5,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 31,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": [],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2014-02-11-77",
+    "numero": "77",
+    "data": "2014-02-11",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 77, DE 11 DE FEVEREIRO DE 2014",
+    "ementa": "Altera os incisos II, III e VIII do § 3º do art. 142 da Constituição Federal, para estender aos profissionais de saúde das Forças Armadas a possibilidade de cumulação de cargo a que se refere o art. 37, inciso XVI, alínea \"c\".",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2014-02-11;77",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}
