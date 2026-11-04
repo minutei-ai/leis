@@ -16,11 +16,12 @@ Fora do escopo desta matriz:
 - emendas a constituições históricas (data &lt; 1988);
 - a Constituição consolidada / ADCT como substituto do ato modificador.
 
-## Artefato
+## Artefatos
 
 | Arquivo | Função |
 | --- | --- |
-| `matriz-serie.json` | Número, data, caminho publicado, fonte e estado de coleta para 1–141 |
+| `matriz-serie.json` | Número, data, caminho publicado, fonte, estado de coleta e vínculos CF→emenda |
+| `matriz-criterios-aceite.json` | Estado de cada critério de aceite do #63 (contagem ≠ fechamento) |
 
 As provas de captura e reconversão permanecem nas pastas de faixa. Esta pasta não republica Markdown.
 
@@ -34,4 +35,4 @@ python3 -m unittest tests.test_emendas_cf1988_serie_1_141 -v
 
 ## Limites
 
-O acervo não certifica vigência. A presença do arquivo e as citações na Constituição consolidada não substituem o texto autônomo da emenda.
+O acervo não certifica vigência. A presença do arquivo e as citações na Constituição consolidada não substituem o texto autônomo da emenda. A contagem 141/141 dos arquivos da série é necessária e insuficiente: a matriz de critérios mantém `issue_fechavel: false` enquanto vínculos dispositivo-a-dispositivo e metadados de frontmatter de lotes antigos permanecerem parciais.

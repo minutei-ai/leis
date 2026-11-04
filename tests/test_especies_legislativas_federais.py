@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import lzma
+import re
 import sys
 import unittest
 from pathlib import Path
@@ -119,6 +120,67 @@ class TestEspeciesLegislativasFederais(unittest.TestCase):
         self.assertIn('1991', rcd['aviso'])
         self.assertIn('16/2025', rcd['aviso'])
         self.assertTrue(rcd['fonte_complementar_regimento']['url'].startswith('https://bd.camara.leg.br/'))
+
+    def test_descoberta_camara_rcd_pos_1991(self):
+        path = PROVAS / 'descoberta-camara-rcd-pos-1991.json'
+        self.assertTrue(path.is_file(), 'descoberta Câmara pós-1991 ausente')
+        disc = json.loads(path.read_text(encoding='utf-8'))
+        self.assertEqual(disc['issue'], 89)
+        self.assertGreaterEqual(disc['contagem']['citacoes_unicas_numero_ano_pos_1991'], 20)
+        self.assertTrue(any(i['numero'] == '16' and i['ano'] == 2025 for i in disc['itens']))
+        pdf = lzma.decompress((ROOT / disc['fonte_oficial']['snapshot_pdf']).read_bytes())
+        self.assertEqual(nl.sha256(pdf), disc['fonte_oficial']['sha256_pdf'])
+        # Descoberta ≠ íntegra: nenhum item desta lista deve fingir publicação automática.
+        for item in disc['itens']:
+            self.assertEqual(item['estado_coleta'], 'identificado-nao-coletado')
+        # Limites devem apontar para o artefato.
+        self.assertIn('descoberta_camara_pos_1991', self.limites['RCD'])
+        self.assertEqual(
+            self.limites['RCD']['descoberta_camara_pos_1991']['arquivo'],
+            'provas/especies-legislativas-federais/descoberta-camara-rcd-pos-1991.json',
+        )
+
+    def test_rejeita_html_de_erro_login_e_falsa_integra(self):
+        cases = [
+            (b'<html><body>Just a moment...</body></html>', True),
+            (b'<html><title>Verifica\xc3\xa7\xc3\xa3o de seguran\xc3\xa7a</title><body>cloudflare</body></html>', True),
+            (b'<html><body>acesso negado</body></html>', True),
+            (b'<html><body>ok</body></html>', True),  # texto curto demais
+            (
+                b'<html><body><p>RESOLUCAO N 1 DE 2021</p>'
+                b'<p>Art. 1o Fica alterado o regimento comum do Congresso Nacional.</p>'
+                b'<p>Art. 2o Esta resolucao entra em vigor na data de sua publicacao.</p>'
+                b'<p>Art. 3o Revogam-se as disposicoes em contrario.</p>'
+                b'<p>Brasilia, 23 de marco de 2021.</p></body></html>',
+                False,
+            ),
+        ]
+        for html, should_reject in cases:
+            with self.subTest(html=html[:40]):
+                reason = lote.html_rejection_reason(html)
+                if should_reject:
+                    self.assertIsNotNone(reason)
+                else:
+                    self.assertIsNone(reason)
+
+    def test_corrupcao_semantica_do_markdown_publicado(self):
+        """Identidade no corpo: número da norma presente; remoção artificial é detectável."""
+        for doc in self.manifesto['documentos']:
+            slug = doc['id']
+            with self.subTest(slug=slug):
+                text = (ROOT / doc['arquivo']).read_text(encoding='utf-8')
+                meta, body = nl.parse_frontmatter(text)
+                numero = str(meta['norma_numero']).split('-')[0]
+                self.assertRegex(body, rf'\b{re.escape(numero)}\b')
+                corrupted = re.sub(rf'\b{re.escape(numero)}\b', '###', body)
+                self.assertIsNone(
+                    re.search(rf'\b{re.escape(numero)}\b', corrupted),
+                    f'{slug}: corrupção do número não foi total',
+                )
+                # O verificador do lote rejeitaria HTML de login injetado no snapshot.
+                self.assertIsNotNone(lote.html_rejection_reason(
+                    b'<html><body>Verificacao de seguranca - faca login</body></html>'
+                ))
 
 
 if __name__ == '__main__':

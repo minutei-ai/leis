@@ -13,12 +13,19 @@
       "url": "https://bd.camara.leg.br/bd/items/dc8e99ca-5f5c-4e33-8cab-626f82522a8b",
       "papel": "evidencia-de-atividade-posterior-a-1991"
     },
-    "senado_registros_capturados": 1885
+    "senado_registros_capturados": 1885,
+    "descoberta_camara_pos_1991": {
+      "arquivo": "provas/especies-legislativas-federais/descoberta-camara-rcd-pos-1991.json",
+      "citacoes_unicas": 63,
+      "gerado_em": "2026-11-04T19:39:22Z",
+      "estado": "catalogo-parcial-por-citacoes-do-regimento"
+    }
   },
   "notas_gerais": [
     "Catálogo é evidência de descoberta, não substitui texto integral nem certifica vigência.",
     "Número igual com espécie ou data diferente não é a mesma identidade.",
     "RSF, RCD e RCN são espécies distintas; não reunir sob identidade numérica comum.",
     "Lista vazia ou intervalo capturado não prova inexistência fora do recorte."
-  ]
+  ],
+  "atualizado_em": "2026-11-04T19:39:22Z"
 }

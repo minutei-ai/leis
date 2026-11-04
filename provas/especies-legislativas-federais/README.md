@@ -21,7 +21,9 @@ Espécies distintas: número/ano sem órgão não identifica a norma. Não confu
 | `reconciliacao-*.json` | Identidade, ID, URL, URN, estado de coleta e caminho publicado |
 | `resumo-reconciliacao.json` | Totais por espécie |
 | `limites-catalogos.json` | Limites do catálogo RCD (Senado até 1991) e fontes complementares |
-| `coleta.json` / `coletas/` | Lote inicial de HTML recuperado |
+| `descoberta-camara-rcd-pos-1991.json` | Catálogo complementar de RCD pós-1991 por citações do Regimento BD Câmara |
+| `fontes/camara-bd-regimento-30ed-2026.*` | Snapshots oficiais (PDF/EPUB/texto) do Regimento 30ª ed. |
+| `coleta.json` / `coletas/` | Coleta retomável de HTML (checkpoint por item) |
 | `fontes.json` / `manifesto.json` / `cobertura-conversao.json` | Provas do Markdown publicado neste lote |
 
 ## Reprodução
@@ -29,21 +31,28 @@ Espécies distintas: número/ano sem órgão não identifica a norma. Não confu
 ```bash
 python3 scripts/especies_legislativas_federais.py capture
 python3 scripts/especies_legislativas_federais.py reconcile
-python3 scripts/especies_legislativas_federais.py collect
+python3 scripts/especies_legislativas_federais.py discover-camara-rcd
+python3 scripts/especies_legislativas_federais.py collect --tipos RCN --all-pending
+python3 scripts/especies_legislativas_federais.py collect --tipos DLG,RSF,RCD --all-pending
 python3 scripts/especies_legislativas_federais.py build
 python3 scripts/especies_legislativas_federais.py verify
 python3 -m unittest tests.test_especies_legislativas_federais -v
 ```
 
+A coleta é retomável: `--no-resume` descarta o checkpoint; sem `--all-pending` respeita os limites `--*-limit` / alvos iniciais.
+
 ## Fontes de texto
 
 - **DLG / parte de RCN:** HTML em `normas.leg.br` (`/api/public/binario/.../texto`), a partir da URN LexML.
 - **RSF / RCD / fallback:** HTML da publicação na página do Senado (`/norma/{id}/publicacao/{pubId}`), usando o ID linkado na página quando o JSON de detalhe aponta só para PDF vazio.
+- HTML de erro/login/WAF e fragmentos sem corpo normativo são rejeitados antes da publicação.
+- Anexos Senado (`ANX` com `temTexto=S`) bloqueiam publicação como íntegra (`anexos-pendentes`).
 
 ## Limites deste lote
 
-- O catálogo completo foi reconciliado; a íntegra Markdown deste PR cobre um **lote inicial** (amostra por espécie). Demais identidades permanecem `identificado-nao-coletado`.
-- A lista do Senado para **RCD** observa o intervalo até 1991. Isso **não** encerra a série: o Regimento Interno da Câmara atualizado até a Resolução 16/2025 evidencia atividade posterior; a descoberta complementar no catálogo da Câmara fica pendente.
-- RCN com anexos essenciais (ex.: 1/2025 e 2/2025) cujas peças ANX voltaram como PDF vazio no Senado **não** foram publicadas neste lote.
+- O catálogo Senado foi reconciliado por identidade; a íntegra Markdown avança por coleta retomável (prioridade RCN).
+- A lista do Senado para **RCD** observa o intervalo até 1991. A descoberta complementar no Regimento oficial da Câmara (30ª ed., até Resolução 16/2025) registra citações número/ano pós-1991; citação no consolidado **não** substitui a íntegra do ato.
+- LexML e listagens `/legin/fed/rescad/` ficaram inacessíveis (WAF/403) nesta captura — limites declarados em `descoberta-camara-rcd-pos-1991.json`.
+- RCN com anexos essenciais pendentes permanecem `anexos-pendentes` (não publicados como íntegra).
 - Presença no catálogo ou no repositório não certifica vigência.
 - README agregado / contagens globais ficam com a coordenação.

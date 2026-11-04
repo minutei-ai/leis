@@ -137,8 +137,35 @@ CAMARA_LIMITES_RCD = {
         'titulo': 'Regimento Interno da Câmara dos Deputados atualizado até a Resolução 16/2025',
         'url': 'https://bd.camara.leg.br/bd/items/dc8e99ca-5f5c-4e33-8cab-626f82522a8b',
         'papel': 'evidencia-de-atividade-posterior-a-1991',
+        'item_uuid': 'dc8e99ca-5f5c-4e33-8cab-626f82522a8b',
+        'bitstream_pdf': '9289303a-cb7c-4d6e-aa9b-30476cf79b98',
+        'bitstream_epub': 'a3335edf-7021-4070-b1f8-7e3f4d7b0ad1',
     },
 }
+
+# Marcadores de HTML inutilizável (erro/login/WAF/captcha). Independentes do conversor.
+UNUSABLE_HTML_MARKERS = (
+    b'acesso negado',
+    b'access denied',
+    b'just a moment',
+    b'attention required',
+    b'cf-browser-verification',
+    b'captcha',
+    b'verifica\xc3\xa7\xc3\xa3o de seguran\xc3\xa7a',
+    b'verificacao de seguranca',
+    b'sign in',
+    b'fa\xc3\xa7a login',
+    b'pagina nao encontrada',
+    b'p\xc3\xa1gina n\xc3\xa3o encontrada',
+    b'erro 403',
+    b'erro 404',
+    b'erro 500',
+    b'request blocked',
+    b'cloudflare',
+)
+
+CAMARA_RCD_DISCOVERY_PATH = PROVAS / 'descoberta-camara-rcd-pos-1991.json'
+COLETA_PROGRESS_PATH = PROVAS / 'coleta.json'
 
 
 def now_utc() -> str:
@@ -192,6 +219,55 @@ def http_get(url: str, max_time: int = 180) -> tuple[int, bytes, str]:
     dest.unlink(missing_ok=True)
     header_file.unlink(missing_ok=True)
     return status, data, effective.strip()
+
+
+def html_rejection_reason(html: bytes) -> str | None:
+    """Recusa HTML de erro/login/WAF ou falsa íntegra (sem corpo normativo útil)."""
+    if not html or len(html) < 200:
+        return f'html curto ({len(html) if html else 0} bytes)'
+    head = html[:4096].lower()
+    low = html.lower()
+    if b'<html' not in head and b'<!doctype' not in head:
+        return 'conteudo sem marcacao HTML'
+    for marker in UNUSABLE_HTML_MARKERS:
+        if marker in low:
+            return f'marcador de pagina inutilizavel: {marker.decode("utf-8", "replace")}'
+    # Texto visível mínimo (sem depender do conversor do lote).
+    text = re.sub(rb'<script\b[^>]*>.*?</script>', b' ', low, flags=re.I | re.S)
+    text = re.sub(rb'<style\b[^>]*>.*?</style>', b' ', text, flags=re.I | re.S)
+    text = re.sub(rb'<[^>]+>', b' ', text)
+    text = re.sub(rb'\s+', b' ', text).strip()
+    if len(text) < 120:
+        return f'texto visivel insuficiente ({len(text)} chars)'
+    # Índices/ementas curtas sem dispositivos: rejeitar falsa íntegra genérica.
+    if b'art.' not in text and b'artigo' not in text and b'resolu' not in text and b'decreto' not in text:
+        if len(text) < 400:
+            return 'texto sem dispositivos normativos reconheciveis'
+    return None
+
+
+def inspect_senado_anexos(detail: dict) -> dict:
+    """Inventário de publicações ANX/PUB do detalhe Senado (sem inferir vigência)."""
+    docs = detail['DetalheDocumento']['documentos']['documento']
+    doc = docs[0] if isinstance(docs, list) else docs
+    pubs = doc.get('publicacoes', {}).get('publicacao', [])
+    if isinstance(pubs, dict):
+        pubs = [pubs]
+    anexos = [p for p in pubs if p.get('tipo') == 'ANX']
+    pubs_txt = [p for p in pubs if p.get('tipo') in {'PUB', 'REP', 'RET'} and p.get('temTexto') == 'S']
+    return {
+        'anexos': [
+            {
+                'id': str(p.get('id')),
+                'temTexto': p.get('temTexto'),
+                'formato': p.get('formato'),
+                'descricao': p.get('descricao') or p.get('descricaoTipo'),
+            }
+            for p in anexos
+        ],
+        'publicacoes_texto': len(pubs_txt),
+        'anexos_marcados_tem_texto': sum(1 for p in anexos if p.get('temTexto') == 'S'),
+    }
 
 
 def parse_lista(raw: bytes) -> list[dict]:
@@ -488,7 +564,8 @@ def collect_one(tipo: str, senado_id: str, rec: dict) -> dict:
         content_url = pick_html_content_url(data)
         if content_url:
             status, html, final = http_get(content_url)
-            if status == 200 and len(html) > 200 and b'<html' in html[:200].lower():
+            reject = html_rejection_reason(html) if status == 200 else f'HTTP {status}'
+            if status == 200 and reject is None:
                 frag = html  # binário já é o texto
                 snap = COLETAS_DIR / f'{slug}.html.xz'
                 snap.write_bytes(lzma.compress(frag, preset=9))
@@ -501,10 +578,28 @@ def collect_one(tipo: str, senado_id: str, rec: dict) -> dict:
                     bytes=len(frag),
                     snapshot=str(snap.relative_to(ROOT)),
                     origem='normas-leg-br-binario',
-                    utilizavel=True,
                 )
+                # Conferir anexos no detalhe Senado antes de declarar íntegra utilizável.
+                try:
+                    detail = detail_json(senado_id)
+                    detail_raw = json.dumps(detail, ensure_ascii=False).encode('utf-8')
+                    detail_path = COLETAS_DIR / f'{slug}.detalhe.json.xz'
+                    detail_path.write_bytes(lzma.compress(detail_raw, preset=9))
+                    out['detalhe_snapshot'] = str(detail_path.relative_to(ROOT))
+                    anexos = inspect_senado_anexos(detail)
+                    out['anexos_senado'] = anexos
+                    if anexos['anexos_marcados_tem_texto'] > 0:
+                        out.update(
+                            utilizavel=False,
+                            motivo='corpo-html-ok-mas-anexos-essenciais-pendentes',
+                            estado_sugerido='anexos-pendentes',
+                        )
+                        return out
+                except Exception as e:
+                    out['anexos_inspecao_erro'] = str(e)[:200]
+                out['utilizavel'] = True
                 return out
-            out['normas_html_motivo'] = f'HTTP {status} bytes={len(html)}'
+            out['normas_html_motivo'] = reject or f'HTTP {status} bytes={len(html)}'
         else:
             out['normas_html_motivo'] = 'sem encoding HTML Current/Original'
     except Exception as e:
@@ -517,8 +612,17 @@ def collect_one(tipo: str, senado_id: str, rec: dict) -> dict:
         detail_path = COLETAS_DIR / f'{slug}.detalhe.json.xz'
         detail_path.write_bytes(lzma.compress(detail_raw, preset=9))
         out['detalhe_snapshot'] = str(detail_path.relative_to(ROOT))
+        anexos = inspect_senado_anexos(detail)
+        out['anexos_senado'] = anexos
         candidates = pick_senado_pub_candidates(detail, senado_id)
         if not candidates:
+            if anexos['anexos_marcados_tem_texto'] and anexos['publicacoes_texto'] == 0:
+                out.update(
+                    utilizavel=False,
+                    motivo='anexos-pendentes-sem-publicacao-html',
+                    estado_sugerido='anexos-pendentes',
+                )
+                return out
             out.update(utilizavel=False, motivo='sem publicacao HTML candidata no detalhe/página')
             return out
         tentativas = []
@@ -526,18 +630,46 @@ def collect_one(tipo: str, senado_id: str, rec: dict) -> dict:
             status, html, final = http_get(pub_url)
             ctype_html = b'<html' in html[:200].lower() or b'<!DOCTYPE' in html[:200]
             tentativas.append({'url': pub_url, 'http_status': status, 'bytes': len(html), 'html': bool(ctype_html)})
-            if status != 200 or not ctype_html or len(html) < 500:
+            if status != 200 or not ctype_html:
+                continue
+            reject = html_rejection_reason(html)
+            if reject:
+                tentativas[-1]['rejeicao'] = reject
                 continue
             try:
                 frag = extract_senado_fragment(html)
             except Exception as e:
                 tentativas[-1]['extract_erro'] = str(e)[:200]
                 continue
+            frag_reject = html_rejection_reason(frag)
+            if frag_reject:
+                tentativas[-1]['rejeicao_fragmento'] = frag_reject
+                continue
             snap = COLETAS_DIR / f'{slug}.html.xz'
             snap.write_bytes(lzma.compress(frag, preset=9))
             full = COLETAS_DIR / f'{slug}.pagina.html.xz'
             full.write_bytes(lzma.compress(html, preset=9))
             tipo_pub = (pub or {}).get('tipo') or 'pagina'
+            # Anexos essenciais marcados sem HTML próprio: não tratar como íntegra completa.
+            if anexos['anexos_marcados_tem_texto'] > 0:
+                out.update(
+                    fonte_url=final,
+                    fonte_orgao=f'Senado Federal — publicação {tipo_pub}',
+                    fonte_formato='html',
+                    charset='utf-8',
+                    sha256_fonte=sha256(frag),
+                    sha256_pagina=sha256(html),
+                    bytes=len(frag),
+                    snapshot=str(snap.relative_to(ROOT)),
+                    pagina_snapshot=str(full.relative_to(ROOT)),
+                    origem='senado-publicacao-html',
+                    publicacao=pub,
+                    tentativas_publicacao=tentativas,
+                    utilizavel=False,
+                    motivo='corpo-html-ok-mas-anexos-essenciais-pendentes',
+                    estado_sugerido='anexos-pendentes',
+                )
+                return out
             out.update(
                 fonte_url=final,
                 fonte_orgao=f'Senado Federal — publicação {tipo_pub}',
@@ -565,32 +697,206 @@ def collect_one(tipo: str, senado_id: str, rec: dict) -> dict:
         return out
 
 
-def collect(limit_per_type: dict[str, int] | None = None) -> dict:
+def load_coleta() -> dict:
+    if COLETA_PROGRESS_PATH.is_file():
+        return json.loads(COLETA_PROGRESS_PATH.read_text(encoding='utf-8'))
+    return {'lote': LOTE, 'coletado_em': now_utc(), 'itens': {}}
+
+
+def save_coleta(resultados: dict) -> None:
+    resultados['atualizado_em'] = now_utc()
+    write_json(COLETA_PROGRESS_PATH, resultados)
+
+
+def collect(
+    limit_per_type: dict[str, int] | None = None,
+    tipos: list[str] | None = None,
+    resume: bool = True,
+    all_pending: bool = False,
+) -> dict:
+    """Coleta retomável. Por padrão reusa `coleta.json` e salva a cada item."""
     COLETAS_DIR.mkdir(parents=True, exist_ok=True)
-    resultados = {'lote': LOTE, 'coletado_em': now_utc(), 'itens': {}}
-    for tipo, ids in COLLECT_TARGETS.items():
+    resultados = load_coleta() if resume else {'lote': LOTE, 'coletado_em': now_utc(), 'itens': {}}
+    if not resume:
+        resultados['coletado_em'] = now_utc()
+    resultados.setdefault('itens', {})
+    selected = tipos or list(SPECIES)
+    for tipo in selected:
+        if tipo not in SPECIES:
+            raise SystemExit(f'tipo desconhecido: {tipo}')
         info, docs = load_catalog(tipo)
         by_id = {d['id']: d for d in docs}
-        lim = (limit_per_type or {}).get(tipo, len(ids))
-        chosen = ids[:lim]
-        # completar com primeiros do catálogo se ids faltarem
-        for d in docs:
-            if len(chosen) >= lim:
+        # Ordem: alvos prioritários do issue, depois catálogo inteiro (datas recentes primeiro).
+        priority = COLLECT_TARGETS.get(tipo, [])
+        ordered_ids: list[str] = []
+        for sid in priority:
+            if sid in by_id and sid not in ordered_ids:
+                ordered_ids.append(sid)
+        recent_first = sorted(docs, key=lambda d: date_iso(d['dataassinatura']), reverse=True)
+        for d in recent_first:
+            if d['id'] not in ordered_ids:
+                ordered_ids.append(d['id'])
+        lim = None if all_pending else (limit_per_type or {}).get(tipo)
+        if lim is None and not all_pending:
+            lim = len(COLLECT_TARGETS.get(tipo, [])) or 5
+        attempted = 0
+        for sid in ordered_ids:
+            if lim is not None and attempted >= lim:
                 break
-            if d['id'] not in chosen:
-                chosen.append(d['id'])
-        for sid in chosen:
             rec = by_id.get(sid)
             if rec is None:
-                print(f'  skip {tipo}/{sid}: ausente do catálogo capturado', flush=True)
                 continue
+            date = date_iso(rec['dataassinatura'])
+            slug = slug_for(tipo, date, rec.get('numero') or 'sn', rec.get('complemento'))
+            prev = resultados['itens'].get(slug)
+            if resume and prev and prev.get('utilizavel') and prev.get('snapshot'):
+                snap = ROOT / prev['snapshot']
+                if snap.is_file():
+                    print(f'  resume-skip {tipo} {sid} {slug}', flush=True)
+                    continue
             print(f'collect {tipo} {sid} {rec.get("normaNome")}…', flush=True)
             item = collect_one(tipo, sid, rec)
             resultados['itens'][item['slug']] = item
-            print(f"  -> utilizavel={item.get('utilizavel')} origem={item.get('origem')} motivo={item.get('motivo') or item.get('normas_html_motivo')}", flush=True)
+            save_coleta(resultados)
+            attempted += 1
+            print(
+                f"  -> utilizavel={item.get('utilizavel')} origem={item.get('origem')} "
+                f"motivo={item.get('motivo') or item.get('normas_html_motivo')}",
+                flush=True,
+            )
             time.sleep(0.4)
-    write_json(PROVAS / 'coleta.json', resultados)
+    save_coleta(resultados)
     return resultados
+
+
+def discover_camara_rcd() -> dict:
+    """Descoberta complementar de RCD pós-1991 a partir do Regimento BD Câmara (ed. 30/2026)."""
+    meta = CAMARA_LIMITES_RCD['fonte_complementar_regimento']
+    pdf_xz = FONTES_DIR / 'camara-bd-regimento-30ed-2026.pdf.xz'
+    txt_xz = FONTES_DIR / 'camara-bd-regimento-30ed-2026.txt.xz'
+    epub_xz = FONTES_DIR / 'camara-bd-regimento-30ed-2026.epub.xz'
+    for path in (pdf_xz, txt_xz, epub_xz):
+        if not path.is_file():
+            raise SystemExit(f'evidencia ausente: {path} (baixar bitstreams oficiais do BD Câmara)')
+    pdf = lzma.decompress(pdf_xz.read_bytes())
+    txt = lzma.decompress(txt_xz.read_bytes())
+    epub = lzma.decompress(epub_xz.read_bytes())
+    text = txt.decode('utf-8', 'replace')
+    # Citações "pela/da/na Resolução nº N de YYYY" sem sufixo -CN.
+    pat = re.compile(
+        r'(?:pela|da|na)\s+Resolu[cç][aã]o\s+n[ºo°\.]*\s*(\d+)\s+de\s+(\d{4})(?!\s*-CN)',
+        re.I,
+    )
+    cites: dict[tuple[int, int], dict] = {}
+    for m in pat.finditer(text):
+        numero, ano = int(m.group(1)), int(m.group(2))
+        if ano < 1992:
+            continue
+        key = (numero, ano)
+        item = cites.setdefault(
+            key,
+            {
+                'numero': str(numero),
+                'ano': ano,
+                'especie': 'RCD',
+                'orgao_emissor': 'Câmara dos Deputados',
+                'estado_descoberta': 'citado-no-regimento-oficial',
+                'estado_coleta': 'identificado-nao-coletado',
+                'ocorrencias_no_regimento': 0,
+                'amostras': [],
+                'observacao': (
+                    'Citação no Regimento consolidado não substitui a íntegra do ato original; '
+                    'data completa e ID oficial ainda pendentes de reconciliação individual.'
+                ),
+            },
+        )
+        item['ocorrencias_no_regimento'] += 1
+        if len(item['amostras']) < 3:
+            item['amostras'].append(re.sub(r'\s+', ' ', m.group(0))[:160])
+    # Evidência de capa: série ativa até Resolução 16/2025.
+    cover = cites.setdefault(
+        (16, 2025),
+        {
+            'numero': '16',
+            'ano': 2025,
+            'especie': 'RCD',
+            'orgao_emissor': 'Câmara dos Deputados',
+            'estado_descoberta': 'citado-na-capa-do-regimento',
+            'estado_coleta': 'identificado-nao-coletado',
+            'ocorrencias_no_regimento': 0,
+            'amostras': [],
+            'observacao': (
+                'Capa/edição do Regimento declara atualização até a Resolução nº 16 de 2025; '
+                'íntegra autônoma ainda não recuperada neste lote.'
+            ),
+        },
+    )
+    cover['ocorrencias_no_regimento'] = max(cover['ocorrencias_no_regimento'], 1)
+    if not cover['amostras']:
+        cover['amostras'].append('alterado até a Resolução nº 16 de 2025')
+
+    # Cruzar com o que o Senado já listou (até 1991) para declarar complementaridade.
+    _, senado_docs = load_catalog('RCD')
+    senado_keys = {
+        (int(d['numero']), int(date_iso(d['dataassinatura'])[:4]))
+        for d in senado_docs
+        if d.get('numero') and d.get('numero').isdigit()
+    }
+    for key, item in cites.items():
+        item['presente_no_catalogo_senado'] = key in senado_keys
+
+    itens = [cites[k] for k in sorted(cites)]
+    payload = {
+        'lote': LOTE,
+        'issue': 89,
+        'gerado_em': now_utc(),
+        'papel': 'descoberta-complementar-pos-1991',
+        'fonte_oficial': {
+            **meta,
+            'url_item': meta['url'],
+            'snapshot_pdf': str(pdf_xz.relative_to(ROOT)),
+            'snapshot_txt': str(txt_xz.relative_to(ROOT)),
+            'snapshot_epub': str(epub_xz.relative_to(ROOT)),
+            'sha256_pdf': sha256(pdf),
+            'sha256_txt': sha256(txt),
+            'sha256_epub': sha256(epub),
+            'bytes_pdf': len(pdf),
+            'bytes_txt': len(txt),
+            'bytes_epub': len(epub),
+            'edicao_declarada': '30ª edição, 2026; atualizado até Resolução nº 16 de 2025',
+        },
+        'limites': [
+            'Este catálogo é derivado de citações do Regimento consolidado, não de um índice exaustivo da Câmara.',
+            'Número/ano citados no consolidado não equivalem à publicação da íntegra do ato modificador.',
+            'Não prova inexistência de resoluções fora das citações extraídas.',
+            'LexML e listagens /legin/fed/rescad/ estavam inacessíveis (WAF/403) nesta captura.',
+            'Projetos de Resolução (PRC) na API de proposições não são atos promulgados.',
+        ],
+        'senado_rcd_intervalo': CAMARA_LIMITES_RCD.get('senado_intervalo_observado'),
+        'contagem': {
+            'citacoes_unicas_numero_ano_pos_1991': len(itens),
+            'tambem_no_senado': sum(1 for i in itens if i['presente_no_catalogo_senado']),
+            'somente_descoberta_camara': sum(1 for i in itens if not i['presente_no_catalogo_senado']),
+        },
+        'itens': itens,
+    }
+    write_json(CAMARA_RCD_DISCOVERY_PATH, payload)
+    # Atualiza limites com ponteiro da descoberta.
+    if limites_path().is_file():
+        limites = json.loads(limites_path().read_text(encoding='utf-8'))
+    else:
+        limites = {'lote': LOTE, 'gerado_em': now_utc(), 'RCD': dict(CAMARA_LIMITES_RCD)}
+    limites['RCD'] = dict(limites.get('RCD') or CAMARA_LIMITES_RCD)
+    limites['RCD']['descoberta_camara_pos_1991'] = {
+        'arquivo': str(CAMARA_RCD_DISCOVERY_PATH.relative_to(ROOT)),
+        'citacoes_unicas': payload['contagem']['citacoes_unicas_numero_ano_pos_1991'],
+        'gerado_em': payload['gerado_em'],
+        'estado': 'catalogo-parcial-por-citacoes-do-regimento',
+    }
+    limites['atualizado_em'] = now_utc()
+    write_json(limites_path(), limites)
+    print(json.dumps(payload['contagem'], ensure_ascii=False))
+    return payload
 
 
 def build_markdown(item: dict, html: bytes) -> tuple[str, dict]:
@@ -744,15 +1050,30 @@ def build() -> dict:
         if not path.exists():
             continue
         data = json.loads(path.read_text(encoding='utf-8'))
+        coleta_itens = coleta.get('itens', {})
         for item in data['itens']:
             if item['slug'] in published:
                 item['estado_coleta'] = 'publicado'
                 item['caminho_publicado'] = f"federal/{item['slug']}.md"
-            elif item['estado_coleta'] == 'publicado':
-                item['estado_coleta'] = 'identificado-nao-coletado'
+            else:
+                col = coleta_itens.get(item['slug']) or {}
+                if col.get('estado_sugerido') == 'anexos-pendentes' or (
+                    col.get('motivo') or ''
+                ).startswith('corpo-html-ok-mas-anexos') or (
+                    col.get('motivo') == 'anexos-pendentes-sem-publicacao-html'
+                ):
+                    item['estado_coleta'] = 'anexos-pendentes'
+                elif col and col.get('utilizavel') is False and col.get('motivo') == 'sem publicacao HTML candidata no detalhe/página':
+                    item['estado_coleta'] = 'fonte-sem-html'
+                elif item['estado_coleta'] == 'publicado':
+                    item['estado_coleta'] = 'identificado-nao-coletado'
                 item['caminho_publicado'] = None
         data['publicados'] = sum(1 for i in data['itens'] if i['estado_coleta'] == 'publicado')
-        data['identificados_nao_coletados'] = data['catalogo_registros'] - data['publicados']
+        data['anexos_pendentes'] = sum(1 for i in data['itens'] if i['estado_coleta'] == 'anexos-pendentes')
+        data['fonte_sem_html'] = sum(1 for i in data['itens'] if i['estado_coleta'] == 'fonte-sem-html')
+        data['identificados_nao_coletados'] = sum(
+            1 for i in data['itens'] if i['estado_coleta'] == 'identificado-nao-coletado'
+        )
         write_json(path, data)
         resumo['especies'][tipo] = {
             'registros': data['catalogo_registros'],
@@ -779,6 +1100,9 @@ def verify() -> None:
         # cobertura por identidade: todo item tem estado e slug
         for item in rec['itens']:
             assert item['senado_id'] and item['slug'] and item['estado_coleta']
+            assert item['estado_coleta'] in {
+                'publicado', 'identificado-nao-coletado', 'anexos-pendentes', 'fonte-sem-html',
+            }
             if item['estado_coleta'] == 'publicado':
                 assert (ROOT / item['caminho_publicado']).is_file(), item['slug']
     # markdown publicados do lote
@@ -794,6 +1118,8 @@ def verify() -> None:
         assert meta_fm['especie_codigo_senado'] in SPECIES
         html = lzma.decompress((ROOT / fontes[slug]['snapshot']).read_bytes())
         assert sha256(html) == fontes[slug]['sha256'], slug
+        reject = html_rejection_reason(html)
+        assert reject is None, f'{slug}: fonte rejeitavel ({reject})'
         # reconversão
         item = {
             'slug': slug,
@@ -813,22 +1139,43 @@ def verify() -> None:
         }
         md2, _ = build_markdown(item, html)
         assert md2 == text, f'{slug}: markdown diverge da reconversão'
+        # Identidade semântica mínima independente do conversor.
+        plain = re.sub(r'<[^>]+>', ' ', html.decode(fontes[slug]['charset'], 'replace'))
+        plain = re.sub(r'\s+', ' ', plain)
+        assert str(meta_fm['norma_numero']).split('-')[0] in plain or meta_fm['titulo'][:20].upper() in plain.upper(), slug
     # espécies distintas
     tipos_pub = {doc['tipo'] for doc in manifesto['documentos']}
     assert tipos_pub <= set(SPECIES)
+    # Descoberta Câmara pós-1991 (#89) deve existir e declarar limites.
+    if CAMARA_RCD_DISCOVERY_PATH.is_file():
+        disc = json.loads(CAMARA_RCD_DISCOVERY_PATH.read_text(encoding='utf-8'))
+        assert disc['contagem']['citacoes_unicas_numero_ano_pos_1991'] >= 1
+        assert any(i['numero'] == '16' and i['ano'] == 2025 for i in disc['itens'])
+        pdf = lzma.decompress((ROOT / disc['fonte_oficial']['snapshot_pdf']).read_bytes())
+        assert sha256(pdf) == disc['fonte_oficial']['sha256_pdf']
     print('verify ok:', {
         'catalogos': {t: meta['especies'][t]['registros'] for t in SPECIES},
         'markdown_lote': len(manifesto['documentos']),
+        'descoberta_camara_rcd': CAMARA_RCD_DISCOVERY_PATH.is_file(),
     })
 
 
 def main(argv: list[str] | None = None) -> None:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('cmd', choices=('capture', 'reconcile', 'collect', 'build', 'verify', 'all-offline'))
+    parser.add_argument(
+        'cmd',
+        choices=(
+            'capture', 'reconcile', 'collect', 'build', 'verify',
+            'discover-camara-rcd', 'all-offline',
+        ),
+    )
     parser.add_argument('--dlg-limit', type=int, default=None)
     parser.add_argument('--rsf-limit', type=int, default=None)
     parser.add_argument('--rcd-limit', type=int, default=None)
     parser.add_argument('--rcn-limit', type=int, default=None)
+    parser.add_argument('--tipos', default=None, help='CSV de espécies, ex.: RCN,RCD')
+    parser.add_argument('--all-pending', action='store_true', help='Coletar todo o catálogo pendente das espécies escolhidas')
+    parser.add_argument('--no-resume', action='store_true', help='Ignorar coleta.json existente')
     args = parser.parse_args(argv)
     PROVAS.mkdir(parents=True, exist_ok=True)
     if args.cmd == 'capture':
@@ -845,11 +1192,19 @@ def main(argv: list[str] | None = None) -> None:
             limits['RCD'] = args.rcd_limit
         if args.rcn_limit is not None:
             limits['RCN'] = args.rcn_limit
-        collect(limits or None)
+        tipos = [t.strip().upper() for t in args.tipos.split(',')] if args.tipos else None
+        collect(
+            limits or None,
+            tipos=tipos,
+            resume=not args.no_resume,
+            all_pending=args.all_pending,
+        )
     elif args.cmd == 'build':
         print(build())
     elif args.cmd == 'verify':
         verify()
+    elif args.cmd == 'discover-camara-rcd':
+        discover_camara_rcd()
     elif args.cmd == 'all-offline':
         reconcile()
         build()

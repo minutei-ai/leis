@@ -8,8 +8,8 @@
   "catalogo_registros": 1885,
   "chaves_unicas": 1885,
   "ambiguidade_ids": [],
-  "publicados": 5,
-  "identificados_nao_coletados": 1880,
+  "publicados": 85,
+  "identificados_nao_coletados": 1800,
   "intervalo_datas": {
     "inicio": "1937-09-25",
     "fim": "1991-09-25"
@@ -113,8 +113,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559756",
       "urn": "urn:lex:br:camara.deputados:resolucao:1990-05-17;27",
       "slug": "br-federal-resolucao-camara-deputados-1990-05-17-27",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1990-05-17-27.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -130,8 +130,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559737",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-12-14;26",
       "slug": "br-federal-resolucao-camara-deputados-1989-12-14-26",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-12-14-26.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -147,8 +147,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559717",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-12-07;25",
       "slug": "br-federal-resolucao-camara-deputados-1989-12-07-25",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-12-07-25.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -164,8 +164,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559660",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-12-07;22",
       "slug": "br-federal-resolucao-camara-deputados-1989-12-07-22",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-12-07-22.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -181,8 +181,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559699",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-12-07;24",
       "slug": "br-federal-resolucao-camara-deputados-1989-12-07-24",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-12-07-24.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -198,8 +198,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559679",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-12-07;23",
       "slug": "br-federal-resolucao-camara-deputados-1989-12-07-23",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-12-07-23.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -215,8 +215,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559640",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-10-04;21",
       "slug": "br-federal-resolucao-camara-deputados-1989-10-04-21",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-10-04-21.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -232,8 +232,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559619",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-10-03;20",
       "slug": "br-federal-resolucao-camara-deputados-1989-10-03-20",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-10-03-20.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -249,8 +249,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559600",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-10-03;19",
       "slug": "br-federal-resolucao-camara-deputados-1989-10-03-19",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-10-03-19.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -266,8 +266,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559580",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-09-27;18",
       "slug": "br-federal-resolucao-camara-deputados-1989-09-27-18",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-09-27-18.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -283,8 +283,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559539",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-09-21;16",
       "slug": "br-federal-resolucao-camara-deputados-1989-09-21-16",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-09-21-16.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -300,8 +300,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559559",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-09-21;17",
       "slug": "br-federal-resolucao-camara-deputados-1989-09-21-17",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-09-21-17.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -317,8 +317,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559519",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-09-21;15",
       "slug": "br-federal-resolucao-camara-deputados-1989-09-21-15",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-09-21-15.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -334,8 +334,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559373",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-09-20;8",
       "slug": "br-federal-resolucao-camara-deputados-1989-09-20-8",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-09-20-8.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -351,8 +351,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559437",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-09-20;11",
       "slug": "br-federal-resolucao-camara-deputados-1989-09-20-11",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-09-20-11.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -368,8 +368,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559458",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-09-20;12",
       "slug": "br-federal-resolucao-camara-deputados-1989-09-20-12",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-09-20-12.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -385,8 +385,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559416",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-09-20;10",
       "slug": "br-federal-resolucao-camara-deputados-1989-09-20-10",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-09-20-10.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -402,8 +402,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559499",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-09-20;14",
       "slug": "br-federal-resolucao-camara-deputados-1989-09-20-14",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-09-20-14.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -419,8 +419,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559479",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-09-20;13",
       "slug": "br-federal-resolucao-camara-deputados-1989-09-20-13",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-09-20-13.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -436,8 +436,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559393",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-09-20;9",
       "slug": "br-federal-resolucao-camara-deputados-1989-09-20-9",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-09-20-9.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -453,8 +453,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559352",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-08-29;7",
       "slug": "br-federal-resolucao-camara-deputados-1989-08-29-7",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-08-29-7.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -470,8 +470,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559331",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-04-04;6",
       "slug": "br-federal-resolucao-camara-deputados-1989-04-04-6",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-04-04-6.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -487,8 +487,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559310",
       "urn": "urn:lex:br:camara.deputados:resolucao:1989-02-23;5",
       "slug": "br-federal-resolucao-camara-deputados-1989-02-23-5",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1989-02-23-5.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -504,8 +504,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559289",
       "urn": "urn:lex:br:camara.deputados:resolucao:1988-02-24;4",
       "slug": "br-federal-resolucao-camara-deputados-1988-02-24-4",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1988-02-24-4.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -521,8 +521,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559270",
       "urn": "urn:lex:br:camara.deputados:resolucao:1988-02-24;3",
       "slug": "br-federal-resolucao-camara-deputados-1988-02-24-3",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1988-02-24-3.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -538,8 +538,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559248",
       "urn": "urn:lex:br:camara.deputados:resolucao:1988-02-24;2",
       "slug": "br-federal-resolucao-camara-deputados-1988-02-24-2",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1988-02-24-2.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -555,8 +555,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559229",
       "urn": "urn:lex:br:camara.deputados:resolucao:1987-06-18;1",
       "slug": "br-federal-resolucao-camara-deputados-1987-06-18-1",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1987-06-18-1.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -572,8 +572,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559886",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-11-25;35",
       "slug": "br-federal-resolucao-camara-deputados-1986-11-25-35",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-11-25-35.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -589,8 +589,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559919",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-11-25;37",
       "slug": "br-federal-resolucao-camara-deputados-1986-11-25-37",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-11-25-37.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -606,8 +606,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559902",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-11-25;36",
       "slug": "br-federal-resolucao-camara-deputados-1986-11-25-36",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-11-25-36.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -623,8 +623,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559856",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-06-25;33",
       "slug": "br-federal-resolucao-camara-deputados-1986-06-25-33",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-06-25-33.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -640,8 +640,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559840",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-06-24;32",
       "slug": "br-federal-resolucao-camara-deputados-1986-06-24-32",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-06-24-32.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -657,8 +657,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559871",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-06-20;34",
       "slug": "br-federal-resolucao-camara-deputados-1986-06-20-34",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-06-20-34.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -674,8 +674,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559789",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-06-19;29",
       "slug": "br-federal-resolucao-camara-deputados-1986-06-19-29",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-06-19-29.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -691,8 +691,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559822",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-06-19;31",
       "slug": "br-federal-resolucao-camara-deputados-1986-06-19-31",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-06-19-31.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -708,8 +708,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559716",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-06-18;25",
       "slug": "br-federal-resolucao-camara-deputados-1986-06-18-25",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-06-18-25.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -725,8 +725,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559806",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-06-18;30",
       "slug": "br-federal-resolucao-camara-deputados-1986-06-18-30",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-06-18-30.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -742,8 +742,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559736",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-06-18;26",
       "slug": "br-federal-resolucao-camara-deputados-1986-06-18-26",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-06-18-26.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -759,8 +759,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559755",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-06-18;27",
       "slug": "br-federal-resolucao-camara-deputados-1986-06-18-27",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-06-18-27.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -776,8 +776,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559772",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-06-18;28",
       "slug": "br-federal-resolucao-camara-deputados-1986-06-18-28",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-06-18-28.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -793,8 +793,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559698",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-22;24",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-22-24",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-22-24.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -810,8 +810,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559659",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-21;22",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-21-22",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-21-22.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -827,8 +827,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559678",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-21;23",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-21-23",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-21-23.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -844,8 +844,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559457",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;12",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-12",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-12.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -861,8 +861,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559436",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;11",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-11",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-11.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -878,8 +878,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559618",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;20",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-20",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-20.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -895,8 +895,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559579",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;18",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-18",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-18.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -912,8 +912,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559518",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;15",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-15",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-15.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -929,8 +929,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559351",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;7",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-7",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-7.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -946,8 +946,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559639",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;21",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-21",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-21.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -963,8 +963,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559478",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;13",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-13",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-13.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -980,8 +980,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559392",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;9",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-9",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-9.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -997,8 +997,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559330",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;6",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-6",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-6.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1014,8 +1014,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559538",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;16",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-16",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-16.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1031,8 +1031,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559599",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;19",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-19",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-19.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1048,8 +1048,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559415",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;10",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-10",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-10.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1065,8 +1065,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559372",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;8",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-8",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-8.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1082,8 +1082,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559309",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;5",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-5",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-5.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1099,8 +1099,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559558",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;17",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-17",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-17.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1116,8 +1116,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559498",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-05-20;14",
       "slug": "br-federal-resolucao-camara-deputados-1986-05-20-14",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-05-20-14.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1133,8 +1133,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559269",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-04-16;3",
       "slug": "br-federal-resolucao-camara-deputados-1986-04-16-3",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-04-16-3.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1150,8 +1150,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559288",
       "urn": "urn:lex:br:camara.deputados:resolucao:1986-04-16;4",
       "slug": "br-federal-resolucao-camara-deputados-1986-04-16-4",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1986-04-16-4.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1167,8 +1167,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560168",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-11-28;56",
       "slug": "br-federal-resolucao-camara-deputados-1985-11-28-56",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-11-28-56.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1184,8 +1184,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560148",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-11-19;54",
       "slug": "br-federal-resolucao-camara-deputados-1985-11-19-54",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-11-19-54.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1201,8 +1201,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560159",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-11-19;55",
       "slug": "br-federal-resolucao-camara-deputados-1985-11-19-55",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-11-19-55.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1218,8 +1218,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560137",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-11-06;53",
       "slug": "br-federal-resolucao-camara-deputados-1985-11-06-53",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-11-06-53.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1235,8 +1235,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560089",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-11-05;49",
       "slug": "br-federal-resolucao-camara-deputados-1985-11-05-49",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-11-05-49.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1252,8 +1252,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560076",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-11-05;48",
       "slug": "br-federal-resolucao-camara-deputados-1985-11-05-48",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-11-05-48.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1269,8 +1269,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560126",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-11-05;52",
       "slug": "br-federal-resolucao-camara-deputados-1985-11-05-52",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-11-05-52.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1286,8 +1286,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560102",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-11-05;50",
       "slug": "br-federal-resolucao-camara-deputados-1985-11-05-50",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-11-05-50.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1303,8 +1303,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560114",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-11-05;51",
       "slug": "br-federal-resolucao-camara-deputados-1985-11-05-51",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-11-05-51.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1320,8 +1320,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560062",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-11-05;47",
       "slug": "br-federal-resolucao-camara-deputados-1985-11-05-47",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-11-05-47.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1337,8 +1337,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560048",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-11-05;46",
       "slug": "br-federal-resolucao-camara-deputados-1985-11-05-46",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-11-05-46.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1354,8 +1354,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560419",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-10-01;97",
       "slug": "br-federal-resolucao-camara-deputados-1985-10-01-97",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-10-01-97.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1371,8 +1371,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560006",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-10-01;43",
       "slug": "br-federal-resolucao-camara-deputados-1985-10-01-43",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-10-01-43.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1388,8 +1388,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560034",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-10-01;45",
       "slug": "br-federal-resolucao-camara-deputados-1985-10-01-45",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-10-01-45.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1405,8 +1405,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559992",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-10-01;42",
       "slug": "br-federal-resolucao-camara-deputados-1985-10-01-42",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-10-01-42.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1422,8 +1422,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559977",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-10-01;41",
       "slug": "br-federal-resolucao-camara-deputados-1985-10-01-41",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-10-01-41.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1439,8 +1439,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/560020",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-10-01;44",
       "slug": "br-federal-resolucao-camara-deputados-1985-10-01-44",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-10-01-44.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -1456,8 +1456,8 @@
       "url_registro": "https://legis.senado.leg.br/norma/559949",
       "urn": "urn:lex:br:camara.deputados:resolucao:1985-09-26;39",
       "slug": "br-federal-resolucao-camara-deputados-1985-09-26-39",
-      "estado_coleta": "identificado-nao-coletado",
-      "caminho_publicado": null,
+      "estado_coleta": "publicado",
+      "caminho_publicado": "federal/br-federal-resolucao-camara-deputados-1985-09-26-39.md",
       "orgao_emissor": "Câmara dos Deputados"
     },
     {
@@ -32060,5 +32060,7 @@
       "caminho_publicado": null,
       "orgao_emissor": "Câmara dos Deputados"
     }
-  ]
+  ],
+  "anexos_pendentes": 0,
+  "fonte_sem_html": 0
 }
