@@ -15,17 +15,8 @@
   "html_converted": 9,
   "errors": 0,
   "apply": true,
-  "allowlist_data_image": [
-    "federal/br-federal-lei-2016-06-30-13303.md",
-    "federal/br-federal-lei-2018-08-14-13709.md"
-  ],
-  "allowlist_portal_camara": [
-    "federal/br-federal-lei-2006-08-07-11340.md",
-    "federal/br-federal-lei-2016-06-30-13303.md",
-    "federal/br-federal-lei-2018-08-14-13709.md",
-    "federal/br-federal-lei-complementar-2006-12-14-123.md",
-    "federal/edicoes/br-federal-lei-2018-08-14-13709-consolidada.md"
-  ],
+  "allowlist_data_image": [],
+  "allowlist_portal_camara": [],
   "portals_acumulado": {
     "diario_oficial": 1149,
     "mg_atualizacao": 9454,
@@ -39,5 +30,5 @@
     "camara": 189
   },
   "passes": 3,
-  "nota": "Pass1 corpus completo; pass2 resíduos de marcador/base64/br/DO; pass3 cabeçalhos # CÂMARA e datas MG com separador ----- ou OCR irregular. imagens.jsonl: hashes/assets finais; contagens de eventos em images_pass*."
+  "nota": "Pass1 corpus completo; pass2 resíduos de marcador/base64/br/DO; pass3 cabeçalhos # CÂMARA e datas MG com separador ----- ou OCR irregular. imagens.jsonl: hashes/assets finais; contagens de eventos em images_pass*. Allowlists esvaziadas: geradores omitem brasão/chrome CEDI; corpos sha256_corpo_preservado limpos com hashes regenerados (texto jurídico intacto)."
 }

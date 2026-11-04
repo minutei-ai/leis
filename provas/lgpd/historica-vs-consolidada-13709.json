@@ -1,7 +1,7 @@
 {
   "descricao": "Artigos da edição consolidada (Câmara, texto em vigor segundo a fonte, sem riscados e sem notas) contra a edição histórica preservada.",
   "historica": "federal/br-federal-lei-2018-08-14-13709.md",
-  "historica_sha256_corpo": "d6f046095c0c80db5fd0069b8103b489f98a4b83648ac2d114e23c05ffe68422",
+  "historica_sha256_corpo": "d313d0ddfd5fc8e9c0d7b89b11277e0f302badfacf24be104240f834811afbc6",
   "consolidada": "federal/edicoes/br-federal-lei-2018-08-14-13709-consolidada.md",
   "sha256_fonte_consolidada": "5ade20f12d206504f3beb13a0595d144efc891229ad0e6badcebfa97a8a83596",
   "artigos_fonte_historica": 81,

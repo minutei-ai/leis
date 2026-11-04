@@ -49,7 +49,8 @@ CONSOLIDADA = ROOT / 'federal' / 'edicoes' / 'br-federal-lei-2018-08-14-13709-co
 MODIFICADORA = ROOT / 'federal' / 'br-federal-lei-2026-02-25-15352.md'
 MP1317 = ROOT / 'federal' / 'br-federal-medida-provisoria-2025-09-17-1317.md'
 
-HISTORICA_SHA256_AUDITADO = 'd6f046095c0c80db5fd0069b8103b489f98a4b83648ac2d114e23c05ffe68422'
+# Corpo jurídico após limpeza #98/#100 (brasão/chrome CEDI omitidos; texto normativo intacto).
+HISTORICA_SHA256_AUDITADO = 'd313d0ddfd5fc8e9c0d7b89b11277e0f302badfacf24be104240f834811afbc6'
 
 CAPTURA_PADRAO = '2026-11-04T12:01:14Z'
 UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'
@@ -164,14 +165,10 @@ def import_captures(src_dir: Path, capturado_em: str) -> dict:
 
 
 def trim_lgpd_blocks(blocks: list[str]) -> list[str]:
-    """Mantém o cabeçalho da Câmara + corpo da Lei 13.709 até as assinaturas."""
+    """Mantém o corpo da Lei 13.709 até as assinaturas; omite chrome CEDI do portal."""
+    from nucleo_licitacoes import drop_camara_portal_prefix
+    blocks = drop_camara_portal_prefix(blocks)
     start = next(i for i, b in enumerate(blocks) if re.match(r'^LEI\s+N', md_plain(b, True)))
-    # inclui "CÂMARA..." se existir antes do título
-    head = 0
-    for i in range(start):
-        if 'CÂMARA' in blocks[i].upper() or 'Centro de Documentação' in blocks[i]:
-            head = i
-            break
     bras = next(i for i, b in enumerate(blocks) if i >= start and b.startswith('Brasília'))
     end = bras + 1
     while end < len(blocks) and not re.match(r'^LEI\s+N', md_plain(blocks[end], True)):
@@ -179,7 +176,7 @@ def trim_lgpd_blocks(blocks: list[str]) -> list[str]:
         end += 1
         if end - bras > 20:
             break
-    return blocks[head:end]
+    return blocks[start:end]
 
 
 def convert_camara_lgpd(data: bytes) -> tuple[list[str], str]:
@@ -268,10 +265,12 @@ def extract_device_snippets(markdown: str) -> dict:
 def historical_alerts() -> str:
     return (
         '<!-- nota-edicao:inicio -->\n\n'
-        '> **Edição histórica — não é a edição consolidada.** Este arquivo preserva, sem '
-        'alterações de corpo, a redação da Lei nº 13.709/2018 (LGPD) que já estava no acervo '
-        f'(SHA-256 do corpo preservado abaixo). A fonte oficial e a data de captura desse texto '
-        'não foram registradas (`desconhecido` no cabeçalho). Ele **não** incorpora as alterações '
+        '> **Edição histórica — não é a edição consolidada.** Este arquivo preserva a redação '
+        'jurídica da Lei nº 13.709/2018 (LGPD) que já estava no acervo (SHA-256 do corpo '
+        'preservado abaixo). A limpeza #87/#98/#100 removeu do `_source` apenas chrome CEDI e '
+        'brasão/logo sem texto jurídico (proveniência em `metadados/limpeza-markdown/`); o texto '
+        'normativo não foi reescrito. A fonte oficial e a data de captura desse texto não foram '
+        'registradas (`desconhecido` no cabeçalho). Ele **não** incorpora as alterações '
         'da Medida Provisória nº 1.317/2025 convertida na Lei nº 15.352/2026.\n'
         '>\n'
         '> **Alerta por dispositivo (recuperação desta edição):** art. 5º, VIII; art. 5º, XIX; '
@@ -352,7 +351,7 @@ def build_historica(corpo_original: str) -> tuple[str, dict]:
         texto_riscado=False,
         anexos_no_corpo=0,
         tabelas=0,
-        imagens_omitidas=0,
+        imagens_omitidas=1,
         efeitos_diferidos='nao-aplicavel-sem-notas-na-edicao',
         sha256_corpo_preservado=corpo_hash,
         sha256_markdown=sha256(body.encode('utf-8')),

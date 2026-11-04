@@ -5,7 +5,7 @@
     "fonte_url_alegada": "https://www2.camara.leg.br/legin/fed/lei/2016/lei-13303-30-junho-2016-783296-normaatualizada-pl.html",
     "capturado_em": "desconhecido",
     "sha256_fonte": "desconhecido",
-    "sha256_corpo_preservado": "8dfe72c14107eed49d27ed6ace922ec19b63879bb2e133147c1155eeac845875"
+    "sha256_corpo_preservado": "2b2b22fb17269e961c733057bf27212ffe1356720d82f368174bbf2f71faed7b"
   },
   "captura_atual_para_conferir": {
     "descricao": "Captura contemporânea da Câmara usada para conferir o corpo preservado. Não é a captura original; hash e data abaixo referem-se só a esta captura.",
@@ -16,9 +16,10 @@
     "snapshot": "provas/nucleo-licitacoes/fontes/camara-lei-13303-normaatualizada.html.xz"
   },
   "cobertura_texto": {
-    "descricao": "texto integral do corpo preservado == texto convertido da captura atual usada para conferir (inclui títulos, notas e blocos fora de artigos), após normalização",
+    "descricao": "texto integral do corpo preservado == texto convertido da captura atual usada para conferir (inclui títulos, notas e blocos fora de artigos; sem chrome CEDI), após normalização",
     "equivalente": true,
-    "caracteres_normalizados": 93623
+    "caracteres_normalizados": 93574,
+    "chrome_portal_omitido": "CÂMARA DOS DEPUTADOS / Centro de Documentação e Informação"
   },
   "titulos_e_capitulos": {
     "iguais": true,
@@ -34,9 +35,9 @@
     "texto_riscado": false,
     "anexos_no_corpo": 0,
     "tabelas": 0,
-    "imagens_embutidas": 1,
+    "imagens_embutidas": 0,
     "titulos_e_capitulos": 27,
-    "blocos": 681
+    "blocos": 679
   },
   "artigos_vs_captura_atual": {
     "artigos_fonte_principal": 98,

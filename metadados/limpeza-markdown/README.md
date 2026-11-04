@@ -14,21 +14,20 @@ O script `scripts/limpeza_markdown.py` remove do corpo pesquisável:
 | Imagens `data:image` | Extraídas para `assets/md-inline/{sha256}.{ext}` ou omitidas se brasão/logo de cabeçalho | `imagens.jsonl` |
 | Chrome de portal (Câmara, ALESP, MG, SP capital, D.O./DOU) | Removido do corpo; contagens agregadas | `portais-removidos.json` |
 
-## Allowlists (corpos históricos travados)
+## Allowlists
 
-Arquivos do núcleo/LGPD com `sha256_corpo_preservado` ou regeneração que ainda
-preserva brasão/cabeçalho da Câmara ficam listados em
-`scripts/limpeza_markdown.py` (`ALLOWLIST_DATA_IMAGE`, `ALLOWLIST_PORTAL_CAMARA`).
-Alterá-los quebraria o `verify` até o gerador correspondente omitir a imagem e
-mover a proveniência para o manifesto (#70).
+`ALLOWLIST_DATA_IMAGE` e `ALLOWLIST_PORTAL_CAMARA` estão **vazias**. Os geradores
+do núcleo de licitações, LGPD e benefícios/MDP omitem brasão e chrome CEDI na
+conversão; corpos com `sha256_corpo_preservado` foram limpos com o texto jurídico
+intactó e hashes regenerados (proveniência do brasão em `imagens.jsonl`).
 
-Follow-ups de gerador (fora deste lote):
+Follow-ups (fora do Markdown publicado / coletores privados):
 
-- Núcleo licitações / LGPD / benefícios-MDP: omitir `data:image` e chrome de
-  cabeçalho Câmara na conversão; registrar asset/proveniência no manifesto.
-- Coletores ALESP / MG / SP capital / DO: não reintroduzir links de portal,
-  “Data da última atualização” nem avisos “não substitui o publicado…” no
-  `_source` Markdown (proveniência vai para metadados da #70).
+- Coletores ALESP / MG / SP capital / DO fora do repo público: não reintroduzir
+  links de portal, “Data da última atualização” nem avisos “não substitui o
+  publicado…” no `_source` (proveniência agregada aqui; contrato por norma na #70).
+- Mudanças em coletores privados devem permanecer explícitas e reversíveis; este
+  PR não publica credenciais nem scripts privados.
 
 ## Convenção SP capital / Rio Verde (nota para #70)
 

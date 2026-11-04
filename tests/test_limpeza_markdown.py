@@ -39,7 +39,7 @@ PORTAL_FAMILIES = {
         r'Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo',
     ),
     'diario_oficial': re.compile(
-        r'Este texto não substitui o publicado no\s+D\.?\s*O\.?\s*U?\.?',
+        r'Este texto não substitui o publicado\s+(?:n[oa]|d[oe])\s+D\.?\s*O\.?\s*U?\.?',
         re.I,
     ),
 }
@@ -153,6 +153,108 @@ class LimpezaUnit(unittest.TestCase):
         self.assertIn('sp_capital', res.portals_removed)
         self.assertIn('Art. 1º X.', out)
 
+    def test_dou_disclaimer_removed_keeps_articles(self):
+        src = (
+            'Art. 1º Norma.\n\n'
+            '*Este texto não substitui o publicado no D.O.U. de 1º/1/2020.*\n'
+        )
+        out, res = lm.process_text(src, 'federal/x.md', write_assets=False)
+        self.assertIn('diario_oficial', res.portals_removed)
+        self.assertIn('Art. 1º Norma.', out)
+        self.assertNotIn('não substitui', out)
+
+    def test_dou_aviso_kept_inside_edition_note(self):
+        src = (
+            '<!-- nota-edicao:inicio -->\n\n'
+            '> Este texto não substitui o publicado no DOU de 25.7.1991.\n\n'
+            '<!-- nota-edicao:fim -->\n\n'
+            'Art. 1º Norma.\n\n'
+            'Este texto não substitui o publicado no DOU de 25.7.1991.\n'
+        )
+        out, res = lm.process_text(src, 'federal/x.md', write_assets=False)
+        self.assertIn('diario_oficial', res.portals_removed)
+        self.assertIn('Art. 1º Norma.', out)
+        self.assertIn('nota-edicao:inicio', out)
+        self.assertIn('> Este texto não substitui o publicado no DOU de 25.7.1991.', out)
+        body_wo_note = re.sub(
+            r'<!--\s*nota-edicao:inicio\s*-->.*?<!--\s*nota-edicao:fim\s*-->',
+            '',
+            out,
+            flags=re.I | re.S,
+        )
+        self.assertNotIn('não substitui', body_wo_note)
+
+    def test_link_and_relation_text_preserved(self):
+        src = (
+            '<p>Vide <a href="https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm">'
+            'Lei nº 8.666/1993</a> e a <strong>relação</strong> com o art. 193.</p>\n'
+        )
+        out, res = lm.process_text(src, 'federal/x.md', write_assets=False)
+        self.assertIn('[Lei nº 8.666/1993](https://www.planalto.gov.br/ccivil_03/leis/l8666cons.htm)', out)
+        self.assertIn('**relação**', out)
+        self.assertIn('art. 193', out)
+        self.assertTrue(res.html_converted)
+
+    def test_note_before_brasao_is_omitted(self):
+        b64 = (
+            'iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8z8BQDwAEhQGAhKmMIQ'
+            'AAAABJRU5ErkJggg=='
+        )
+        src = (
+            '<!-- nota-edicao:inicio -->\n\n> nota\n\n<!-- nota-edicao:fim -->\n\n'
+            f'![](data:image/png;base64,{b64})\n\n'
+            'CÂMARA DOS DEPUTADOS\n\nCentro de Documentação e Informação\n\n'
+            'LEI Nº 1\n\nArt. 1º Ok.\n'
+        )
+        out, res = lm.process_text(src, 'federal/hist.md', write_assets=False)
+        self.assertTrue(res.images_omitted)
+        self.assertFalse(res.images_extracted)
+        self.assertNotIn('data:image', out)
+        self.assertIn('camara', res.portals_removed)
+        self.assertIn('Art. 1º Ok.', out)
+        self.assertIn('nota-edicao:inicio', out)
+
+    def test_frontmatter_keeps_blank_line(self):
+        src = '---\nid: "x"\n---\n\n###LEI-001961-0-000-26-08-1953@@@\n\nArt. 1º.\n'
+        out, res = lm.process_text(src, 'federal/x.md', write_assets=False)
+        self.assertTrue(out.startswith('---\n'))
+        self.assertIn('\n---\n\n', out)
+        self.assertIn('Art. 1º.', out)
+
+    def test_generator_drops_camara_portal_prefix(self):
+        sys.path.insert(0, str(ROOT / 'scripts'))
+        import nucleo_licitacoes as nl  # noqa: WPS433
+        blocks = [
+            'CÂMARA DOS DEPUTADOS',
+            'Centro de Documentação e Informação',
+            'LEI Nº 1, DE 1º DE JANEIRO DE 2000',
+            'Art. 1º Texto.',
+        ]
+        pub = nl.drop_camara_portal_prefix(blocks)
+        self.assertEqual(pub[0], 'LEI Nº 1, DE 1º DE JANEIRO DE 2000')
+        md = nl.blocks_to_markdown(pub, r'^LEI\s+N')
+        self.assertTrue(md.startswith('# LEI'))
+        self.assertNotIn('Centro de Documentação', md)
+
+    def test_allowlists_empty_after_generator_fix(self):
+        self.assertEqual(lm.ALLOWLIST_DATA_IMAGE, set())
+        self.assertEqual(lm.ALLOWLIST_PORTAL_CAMARA, set())
+
+    def test_amostra_families_preserve_articles(self):
+        """Pares antes/depois: artigos do antes continuam no depois (famílias #87/#100)."""
+        amostra = ROOT / 'provas' / 'limpeza-markdown' / 'amostras'
+        pairs = sorted(amostra.glob('*.antes.md'))
+        self.assertGreaterEqual(len(pairs), 4)
+        for antes_path in pairs:
+            depois_path = Path(str(antes_path).replace('.antes.md', '.depois.md'))
+            self.assertTrue(depois_path.is_file(), depois_path)
+            antes = antes_path.read_text(encoding='utf-8', errors='replace')
+            # Reaplica o cleaner no antes e confere artigos (não depende do snapshot truncado).
+            out, _ = lm.process_text(antes, 'federal/amostra.md', write_assets=False)
+            arts = re.findall(r'(?i)Art\.?\s*\d+', antes)
+            for art in arts[:30]:
+                self.assertIn(art, out, f'{antes_path.name}: artigo {art!r} ausente após limpeza')
+
 
 def _rg_count(
     pattern: str,
@@ -248,6 +350,27 @@ class LimpezaCorpusGates(unittest.TestCase):
             ),
             0,
         )
+
+        # Aviso DOU/D.O. fora de <!-- nota-edicao --> (proveniência editorial pode ficar na nota).
+        offenders = []
+        for rel in sorted(_rg_files(
+            r'Este texto não substitui o publicado\s+(?:n[oa]|d[oe])\s+D\.?\s*O',
+            self.roots,
+        )):
+            text = (ROOT / rel).read_text(encoding='utf-8', errors='replace')
+            body = re.sub(
+                r'<!--\s*nota-edicao:inicio\s*-->.*?<!--\s*nota-edicao:fim\s*-->',
+                '',
+                text,
+                flags=re.I | re.S,
+            )
+            if re.search(
+                r'Este texto não substitui o publicado\s+(?:n[oa]|d[oe])\s+D\.?\s*O',
+                body,
+                re.I,
+            ):
+                offenders.append(rel)
+        self.assertEqual(offenders, [], offenders[:20])
 
     def test_presentation_html_outside_merged_tables(self):
         """Tags de apresentação fora de <table> com rowspan/colspan devem ser zero.

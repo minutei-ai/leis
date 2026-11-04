@@ -24,10 +24,11 @@ anexos_no_corpo: 0
 tabelas: 0
 imagens_omitidas: 2
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "dcc753cd94538ec1ba59e3881f000fcad18743f7ff2f0584ef709b7c22d1b210"
+sha256_markdown: "b3a561c3dcfa9814b836fd23d90b785ce001b966bf460007ce94bb41fa69f95b"
 manifesto: "metadados/nucleo-licitacoes.json"
 contrato_versao: 1
 ---
+
 Presidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos
 
 # LEI Nº 14.133, DE 1º DE ABRIL DE 2021
@@ -3336,7 +3337,9 @@ Marcelo Antônio Cartaxo Queiroga Lopes
 
 Wagner de Campos Rosário
 
-André Luiz de Almeida MendonçaPresidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos
+André Luiz de Almeida Mendonça
+
+Presidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos
 
 [LEI Nº 14.133, DE 1º DE ABRIL DE 2021](http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw_Identificacao/lei%2014.133-2021?OpenDocument)
 

@@ -70,10 +70,10 @@ PORTAL_SP_CITY_RE = re.compile(
     r'\n*Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\s*$',
 )
 PORTAL_DO_RE = re.compile(
-    r'(?:<[^>]+>\s*)*(?:\*|_|<em>|<i>){0,2}\s*'
-    r'Este texto não substitui o publicado d[oe]\s+D\.?\s*O\.?\s*U?\.?'
-    r'(?:[^<\n*]{0,80})?'
-    r'(?:\*|_|</em>|</i>){0,2}\s*(?:</[^>]+>\s*)*',
+    r'(?:<[^>]+>\s*)*(?:\*|_|~~|<em>|<i>){0,4}\s*'
+    r'Este texto não substitui o publicado\s+(?:n[oa]|d[oe])\s+D\.?\s*O\.?\s*U?\.?'
+    r'(?:[^<\n*]{0,120})?'
+    r'(?:\*|_|~~|</em>|</i>){0,4}\s*(?:</[^>]+>\s*)*',
     re.I,
 )
 
@@ -93,19 +93,11 @@ SUP_ORDINAL_RE = re.compile(
 # Frontmatter split
 FRONTMATTER_RE = re.compile(r'\A---\n(.*?)\n---\n?', re.S)
 
-# SHA-locked historic bodies that intentionally keep embedded images / portal chrome.
-# Cleaning them would break verify (sha256_corpo_preservado / regenerators).
-ALLOWLIST_DATA_IMAGE = {
-    'federal/br-federal-lei-2016-06-30-13303.md',  # corpo preservado do núcleo
-    'federal/br-federal-lei-2018-08-14-13709.md',  # LGPD histórica
-}
-ALLOWLIST_PORTAL_CAMARA = {
-    'federal/br-federal-lei-2016-06-30-13303.md',
-    'federal/br-federal-lei-2018-08-14-13709.md',
-    'federal/edicoes/br-federal-lei-2018-08-14-13709-consolidada.md',
-    'federal/br-federal-lei-complementar-2006-12-14-123.md',
-    'federal/br-federal-lei-2006-08-07-11340.md',
-}
+# Allowlists vazias: geradores (núcleo/LGPD/benefícios-MDP) omitem brasão e chrome CEDI
+# na conversão; corpos com sha256_corpo_preservado foram limpos com proveniência em
+# metadados/limpeza-markdown/ e hashes regenerados (texto jurídico intacto).
+ALLOWLIST_DATA_IMAGE: set[str] = set()
+ALLOWLIST_PORTAL_CAMARA: set[str] = set()
 
 MIME_EXT = {
     'png': 'png',
@@ -155,17 +147,48 @@ def os_relpath(target: Path, start: Path) -> Path:
 
 
 def is_decorative_header_image(body: str, match_start: int, raw_len: int, alt: str) -> bool:
-    """Brasão/logo no topo, antes da epígrafe normativa."""
+    """Brasão/logo de cabeçalho, antes da epígrafe normativa.
+
+    Notas editoriais (`<!-- nota-edicao -->`) e chrome de portal antes da imagem
+    não contam como conteúdo jurídico precedente.
+    """
     alt_l = (alt or '').lower()
     if any(k in alt_l for k in ('brasão', 'brasao', 'logo', 'armas', 'selo')):
         return True
     prefix = body[:match_start]
-    # only whitespace / empty markdown images / br before this image
-    prefix_stripped = re.sub(r'!\[[^\]]*\]\([^)]*\)', '', prefix)
+    prefix_stripped = re.sub(
+        r'<!--\s*nota-edicao:inicio\s*-->.*?<!--\s*nota-edicao:fim\s*-->',
+        '',
+        prefix,
+        flags=re.I | re.S,
+    )
+    prefix_stripped = re.sub(r'!\[[^\]]*\]\([^)]*\)', '', prefix_stripped)
     prefix_stripped = re.sub(r'<br\s*/?>', '', prefix_stripped, flags=re.I)
+    prefix_stripped = re.sub(
+        r'(?:(?:#{1,6}\s*)?(?:\*\*|__)?CÂMARA DOS DEPUTADOS(?:\*\*|__)?)\s*',
+        '',
+        prefix_stripped,
+        flags=re.I,
+    )
+    prefix_stripped = re.sub(
+        r'(?:(?:#{1,6}\s*)?(?:\*\*|__)?Centro de Documentação e Informação(?:\*\*|__)?)',
+        '',
+        prefix_stripped,
+        flags=re.I,
+    )
     if prefix_stripped.strip():
+        # Ainda é cabeçalho se a imagem vem antes da epígrafe (LEI/DECRETO/…)
+        after = body[match_start:match_start + 4000]
+        after_plain = re.sub(r'!\[[^\]]*\]\([^)]*\)', '', after)
+        after_plain = re.sub(r'<[^>]+>', ' ', after_plain)
+        if re.search(
+            r'(?m)^\s*(?:#\s*)?(?:LEI|DECRETO|MEDIDA\s+PROVIS[ÓO]RIA|RESOLU[ÇC][ÃA]O|PORTARIA)\b',
+            after_plain,
+            re.I,
+        ):
+            if raw_len <= 250_000:
+                return True
         return False
-    # small/medium institutional header art
     if raw_len <= 250_000:
         return True
     return False
@@ -468,6 +491,13 @@ def convert_mixed_markdown_html(text: str) -> str:
     out = re.sub(r'</i>', '*', out, flags=re.I)
     out = re.sub(r'<strike\b[^>]*>|<del\b[^>]*>|<s\b[^>]*>', '~~', out, flags=re.I)
     out = re.sub(r'</strike>|</del>|</s>', '~~', out, flags=re.I)
+    out = re.sub(
+        r'<a\b[^>]*href=["\']([^"\']+)["\'][^>]*>(.*?)</a>',
+        lambda m: f'[{re.sub(r"<[^>]+>", "", m.group(2)).strip()}]({m.group(1)})'
+        if m.group(1) and m.group(2).strip() else re.sub(r'<[^>]+>', '', m.group(2)),
+        out,
+        flags=re.I | re.S,
+    )
     out = re.sub(r'</?(?:font|span|u)\b[^>]*>', '', out, flags=re.I)
     out = re.sub(r'<h([1-6])\b[^>]*>', lambda m: '\n\n' + '#' * int(m.group(1)) + ' ', out, flags=re.I)
     out = re.sub(r'</h[1-6]\s*>', '\n\n', out, flags=re.I)
@@ -542,9 +572,27 @@ def unwrap_layout_tables(html: str) -> str:
     return out
 
 
+_NOTE_BLOCK_RE = re.compile(
+    r'<!--\s*nota-edicao:inicio\s*-->.*?<!--\s*nota-edicao:fim\s*-->',
+    re.I | re.S,
+)
+
+
 def strip_portals(body: str, md_rel: str) -> tuple[str, list[str]]:
+    """Remove chrome de portal do corpo pesquisável.
+
+    Blocos `<!-- nota-edicao -->` são preservados: avisos DOU ali são proveniência
+    editorial (#100 / #70), não chrome de `_source`.
+    """
     removed = []
     allow_camara = md_rel in ALLOWLIST_PORTAL_CAMARA
+    notes: list[str] = []
+
+    def stash_note(m: re.Match) -> str:
+        notes.append(m.group(0))
+        return f'\n\n@@LIMPEZA_NOTE_{len(notes) - 1}@@\n\n'
+
+    body = _NOTE_BLOCK_RE.sub(stash_note, body)
 
     def apply(name: str, pattern: re.Pattern, text: str) -> str:
         nonlocal removed
@@ -560,6 +608,8 @@ def strip_portals(body: str, md_rel: str) -> tuple[str, list[str]]:
     body = apply('mg_atualizacao', PORTAL_MG_RE, body)
     body = apply('sp_capital', PORTAL_SP_CITY_RE, body)
     body = apply('diario_oficial', PORTAL_DO_RE, body)
+    for i, note in enumerate(notes):
+        body = body.replace(f'@@LIMPEZA_NOTE_{i}@@', note)
     body = re.sub(r'\n{3,}', '\n\n', body)
     return body.strip() + ('\n' if body.strip() else ''), removed
 
@@ -600,7 +650,13 @@ def process_text(text: str, md_rel: str, write_assets: bool) -> tuple[str, FileR
     if body != original_body or result.marker:
         result.changed = True
 
-    out = (fm or '') + body
+    # Núcleo/LGPD exigem linha em branco após o fechamento do frontmatter (`\n---\n\n`).
+    if body:
+        body = body.strip() + '\n'
+    if fm:
+        out = fm.rstrip() + '\n\n' + body
+    else:
+        out = body
     if not out.endswith('\n') and out:
         out += '\n'
     return out, result

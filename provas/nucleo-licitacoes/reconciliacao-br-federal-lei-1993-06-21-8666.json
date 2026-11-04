@@ -4,9 +4,11 @@
   "sha256_fonte_principal": "9a15afdaaa6c4f0d986c43baf75b46736e76e427c1f997bd03af68446f3687b2",
   "fontes_conferencia": [],
   "cobertura_texto": {
-    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado, após normalização",
+    "descricao": "texto integral da página da fonte (sem imagens nem chrome CEDI) == texto convertido (inclui rodapé DOU da página), após normalização; o Markdown publicado omite o aviso DOU (#100)",
     "equivalente": true,
-    "caracteres_normalizados": 159768
+    "caracteres_normalizados": 159768,
+    "chrome_portal_omitido": "CÂMARA DOS DEPUTADOS / Centro de Documentação e Informação",
+    "dou_omitido_no_publicado": true
   },
   "conversao": {
     "trechos_riscados": 1091,

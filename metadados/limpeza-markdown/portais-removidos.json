@@ -1,10 +1,10 @@
 {
   "contagens": {
-    "diario_oficial": 1149,
+    "diario_oficial": 1179,
     "mg_atualizacao": 9454,
     "alesp": 19896,
     "camara": 844,
     "sp_capital": 5735
   },
-  "nota": "Famílias removidas do corpo Markdown. Datas de atualização MG e avisos de não-substituição foram preservados aqui como proveniência agregada; o contrato geral de metadados por norma permanece na #70."
+  "nota": "Famílias removidas do corpo Markdown. Datas MG e avisos de não-substituição no corpo foram agregados aqui; avisos DOU preservados dentro de <!-- nota-edicao --> são proveniência editorial (#70), não chrome. Contrato por norma permanece na #70."
 }

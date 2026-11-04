@@ -31,10 +31,10 @@
         "texto_riscado": false,
         "anexos_no_corpo": 0,
         "tabelas": 0,
-        "imagens_omitidas": 0,
+        "imagens_omitidas": 1,
         "efeitos_diferidos": "nao-aplicavel-sem-notas-na-edicao",
-        "sha256_corpo_preservado": "d6f046095c0c80db5fd0069b8103b489f98a4b83648ac2d114e23c05ffe68422",
-        "sha256_markdown": "22b19c86595db7b3154de04949192c5a6cd2ce6cefc8848de898f9685770a7a8",
+        "sha256_corpo_preservado": "d313d0ddfd5fc8e9c0d7b89b11277e0f302badfacf24be104240f834811afbc6",
+        "sha256_markdown": "1322d38a169a2f9f6eb7f397a0ee01fe167234631b1e66ea2a1452a8d8d880b0",
         "manifesto": "metadados/lgpd.json",
         "contrato_versao": 1
       },
@@ -78,7 +78,7 @@
         "tabelas": 0,
         "imagens_omitidas": 0,
         "efeitos_diferidos": "preservados-nas-notas-do-texto",
-        "sha256_markdown": "89970f6a38747b06ac7496da2b6ff30425ef8a5139e927484f9c2f15f813eb7b",
+        "sha256_markdown": "bd9c03bb1e61cb2717b2b008c949cf52e7ca0cfc35cbc2703155d0112b6fc28a",
         "manifesto": "metadados/lgpd.json",
         "contrato_versao": 1
       },
