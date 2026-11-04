@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-10-03-8866",
+  "fonte_principal": "camara-D8866",
+  "sha256_fonte_principal": "2247a8505322dae7c22d94730812e10ac2a88b95eb2ccc4b5475153e7bf21694",
+  "sha256_conteudo": "2247a8505322dae7c22d94730812e10ac2a88b95eb2ccc4b5475153e7bf21694",
+  "capturado_em": "2026-11-04T20:32:36Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8866-3-outubro-2016-783690-publicacaooriginal-151168-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8866.htm.xz",
+  "sha256_snapshot_armazenado": "d99ae2b7ff7b43d411842262b666e63de7a89cecf66b3e81b434030ca2f50ee4",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-10-03-8866",
+    "numero": "8866",
+    "data": "2016-10-03",
+    "titulo_fonte": "DECRETO Nº 8866, DE 3 DE OUTUBRO DE 2016",
+    "ementa": "APROVA O ESTATUTO E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO CONSELHO NACIONAL DE DESENVOLVIMENTO CIENTÍFICO E TECNOLÓGICO - CNPQ, REMANEJA CARGOS EM COMISSÃO, SUBSTITUI CARGOS EM COMISSÃO DO GRUPO DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE E REVOGA O DECRETO Nº 7.899, DE 4 DE FEVEREIRO DE 2013.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "603973"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

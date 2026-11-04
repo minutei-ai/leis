@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2015-12-04-13200",
+  "fonte_principal": "planalto-L13200-2015-12-04",
+  "sha256_fonte_principal": "0e5cf5a4b9d1bfcf1b0413d23064d7b1fe03d4c2f050d0eea0966f9c06becee2",
+  "sha256_conteudo": "8f064a5d1d557883de99275357dcc97bdb19796d11f7469f2a1b5341f23324f1",
+  "capturado_em": "2026-11-04T20:52:54Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13200.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13200-2015-12-04.htm.xz",
+  "sha256_snapshot_armazenado": "a809af07ab9f6bb581d3f9f1956a2a62a632609dd5fc8914b4629dde8efd097b",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 13,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 12,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2015-12-04-13200",
+    "numero": "13200",
+    "data": "2015-12-04",
+    "titulo_fonte": "LEI Nº 13200, DE 4 DE DEZEMBRO DE 2015",
+    "ementa": "Abre ao Orçamento da Seguridade Social da União, em favor do Ministério da Previdência Social, crédito especial no valor de R$ 368.258.333,00, para o fim que especifica.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "585012"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

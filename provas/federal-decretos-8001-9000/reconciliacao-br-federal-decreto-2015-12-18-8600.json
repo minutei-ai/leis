@@ -9,11 +9,9 @@
   "sha256_snapshot_armazenado": "9169319bca3472169d7cebc0a18c460f0e026e980cc714efcaa2fb705bcf0848",
   "fontes_conferencia": [],
   "cobertura_texto": {
-    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
     "equivalente": true,
-    "caracteres_normalizados_fonte": 7382,
-    "caracteres_normalizados_markdown": 7382,
-    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+    "metodo": "planalto-fullpage"
   },
   "conversao": {
     "trechos_riscados": 0,
@@ -54,12 +52,13 @@
       "tipo": "historica",
       "identidade": "planalto",
       "integral": "desconhecido"
-    }
+    },
+    "senado_id": null
   },
   "limites": [
-    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
     "O acervo não certifica vigência.",
     "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
-    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
   ]
 }

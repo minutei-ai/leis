@@ -1,0 +1,839 @@
+{
+  "done": {
+    "12233@2010-05-05": {
+      "slug": "br-federal-lei-2010-05-05-12233",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/L12233.htm",
+      "capturado_em": "2026-11-04T20:48:58Z"
+    },
+    "12248@2010-06-04": {
+      "slug": "br-federal-lei-2010-06-04-12248",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/L12248.htm",
+      "capturado_em": "2026-11-04T20:49:13Z"
+    },
+    "12289@2010-07-20": {
+      "slug": "br-federal-lei-2010-07-20-12289",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/L12289.htm",
+      "capturado_em": "2026-11-04T20:49:13Z"
+    },
+    "12307@2010-08-06": {
+      "slug": "br-federal-lei-2010-08-06-12307",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/L12307.htm",
+      "capturado_em": "2026-11-04T20:49:14Z"
+    },
+    "12308@2010-08-06": {
+      "slug": "br-federal-lei-2010-08-06-12308",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/L12308.htm",
+      "capturado_em": "2026-11-04T20:49:15Z"
+    },
+    "12321@2010-09-08": {
+      "slug": "br-federal-lei-2010-09-08-12321",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/L12321.htm",
+      "capturado_em": "2026-11-04T20:49:16Z"
+    },
+    "12323@2010-09-15": {
+      "slug": "br-federal-lei-2010-09-15-12323",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/L12323.htm",
+      "capturado_em": "2026-11-04T20:49:17Z"
+    },
+    "12421@2011-06-16": {
+      "slug": "br-federal-lei-2011-06-16-12421",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/L12421.htm",
+      "capturado_em": "2026-11-04T20:50:29Z"
+    },
+    "12422@2011-06-16": {
+      "slug": "br-federal-lei-2011-06-16-12422",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/L12422.htm",
+      "capturado_em": "2026-11-04T20:50:30Z"
+    },
+    "12423@2011-06-16": {
+      "slug": "br-federal-lei-2011-06-16-12423",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/L12423.htm",
+      "capturado_em": "2026-11-04T20:50:30Z"
+    },
+    "12434@2011-06-30": {
+      "slug": "br-federal-lei-2011-06-30-12434",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/L12434.htm",
+      "capturado_em": "2026-11-04T20:50:31Z"
+    },
+    "12439@2011-07-07": {
+      "slug": "br-federal-lei-2011-07-07-12439",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/L12439.htm",
+      "capturado_em": "2026-11-04T20:50:32Z"
+    },
+    "12465@2011-08-12": {
+      "slug": "br-federal-lei-2011-08-12-12465",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/L12465.htm",
+      "capturado_em": "2026-11-04T20:50:32Z"
+    },
+    "12656@2012-06-05": {
+      "slug": "br-federal-lei-2012-06-05-12656",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12656.htm",
+      "capturado_em": "2026-11-04T20:50:34Z"
+    },
+    "12657@2012-06-05": {
+      "slug": "br-federal-lei-2012-06-05-12657",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12657.htm",
+      "capturado_em": "2026-11-04T20:50:35Z"
+    },
+    "12658@2012-06-05": {
+      "slug": "br-federal-lei-2012-06-05-12658",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12658.htm",
+      "capturado_em": "2026-11-04T20:50:36Z"
+    },
+    "12659@2012-06-05": {
+      "slug": "br-federal-lei-2012-06-05-12659",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12659.htm",
+      "capturado_em": "2026-11-04T20:50:36Z"
+    },
+    "12660@2012-06-05": {
+      "slug": "br-federal-lei-2012-06-05-12660",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12660.htm",
+      "capturado_em": "2026-11-04T20:50:37Z"
+    },
+    "12661@2012-06-05": {
+      "slug": "br-federal-lei-2012-06-05-12661",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12661.htm",
+      "capturado_em": "2026-11-04T20:50:38Z"
+    },
+    "12681@2012-07-04": {
+      "slug": "br-federal-lei-2012-07-04-12681",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12681.htm",
+      "capturado_em": "2026-11-04T20:50:38Z"
+    },
+    "12697@2012-07-30": {
+      "slug": "br-federal-lei-2012-07-30-12697",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12697.htm",
+      "capturado_em": "2026-11-04T20:50:39Z"
+    },
+    "12698@2012-07-30": {
+      "slug": "br-federal-lei-2012-07-30-12698",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12698.htm",
+      "capturado_em": "2026-11-04T20:50:41Z"
+    },
+    "12699@2012-07-30": {
+      "slug": "br-federal-lei-2012-07-30-12699",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12699.htm",
+      "capturado_em": "2026-11-04T20:50:42Z"
+    },
+    "12700@2012-07-30": {
+      "slug": "br-federal-lei-2012-07-30-12700",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12700.htm",
+      "capturado_em": "2026-11-04T20:50:44Z"
+    },
+    "12701@2012-08-06": {
+      "slug": "br-federal-lei-2012-08-06-12701",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12701.htm",
+      "capturado_em": "2026-11-04T20:50:46Z"
+    },
+    "12708@2012-08-17": {
+      "slug": "br-federal-lei-2012-08-17-12708",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12708.htm",
+      "capturado_em": "2026-11-04T20:50:46Z"
+    },
+    "12798@2013-04-04": {
+      "slug": "br-federal-lei-2013-04-04-12798",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12798.htm",
+      "capturado_em": "2026-11-04T20:50:48Z"
+    },
+    "12823@2013-06-05": {
+      "slug": "br-federal-lei-2013-06-05-12823",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12823.htm",
+      "capturado_em": "2026-11-04T20:50:49Z"
+    },
+    "12824@2013-06-05": {
+      "slug": "br-federal-lei-2013-06-05-12824",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12824.htm",
+      "capturado_em": "2026-11-04T20:50:50Z"
+    },
+    "12825@2013-06-05": {
+      "slug": "br-federal-lei-2013-06-05-12825",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12825.htm",
+      "capturado_em": "2026-11-04T20:50:51Z"
+    },
+    "12826@2013-06-05": {
+      "slug": "br-federal-lei-2013-06-05-12826",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12826.htm",
+      "capturado_em": "2026-11-04T20:50:51Z"
+    },
+    "12828@2013-06-20": {
+      "slug": "br-federal-lei-2013-06-20-12828",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12828.htm",
+      "capturado_em": "2026-11-04T20:50:52Z"
+    },
+    "12832@2013-06-20": {
+      "slug": "br-federal-lei-2013-06-20-12832",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12832.htm",
+      "capturado_em": "2026-11-04T20:50:53Z"
+    },
+    "12851@2013-08-02": {
+      "slug": "br-federal-lei-2013-08-02-12851",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12851.htm",
+      "capturado_em": "2026-11-04T20:50:54Z"
+    },
+    "12872@2013-10-24": {
+      "slug": "br-federal-lei-2013-10-24-12872",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12872.htm",
+      "capturado_em": "2026-11-04T20:50:55Z"
+    },
+    "12877@2013-10-31": {
+      "slug": "br-federal-lei-2013-10-31-12877",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12877.htm",
+      "capturado_em": "2026-11-04T20:50:56Z"
+    },
+    "12883@2013-11-21": {
+      "slug": "br-federal-lei-2013-11-21-12883",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12883.htm",
+      "capturado_em": "2026-11-04T20:50:56Z"
+    },
+    "12888@2013-11-29": {
+      "slug": "br-federal-lei-2013-11-29-12888",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12888.htm",
+      "capturado_em": "2026-11-04T20:50:57Z"
+    },
+    "12889@2013-12-06": {
+      "slug": "br-federal-lei-2013-12-06-12889",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12889.htm",
+      "capturado_em": "2026-11-04T20:50:59Z"
+    },
+    "12893@2013-12-17": {
+      "slug": "br-federal-lei-2013-12-17-12893",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12893.htm",
+      "capturado_em": "2026-11-04T20:51:01Z"
+    },
+    "12900@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12900",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12900.htm",
+      "capturado_em": "2026-11-04T20:51:02Z"
+    },
+    "12901@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12901",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12901.htm",
+      "capturado_em": "2026-11-04T20:51:03Z"
+    },
+    "12902@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12902",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12902.htm",
+      "capturado_em": "2026-11-04T20:51:04Z"
+    },
+    "12903@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12903",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12903.htm",
+      "capturado_em": "2026-11-04T20:51:05Z"
+    },
+    "12904@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12904",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12904.htm",
+      "capturado_em": "2026-11-04T20:51:06Z"
+    },
+    "12905@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12905",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12905.htm",
+      "capturado_em": "2026-11-04T20:51:10Z"
+    },
+    "12906@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12906",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12906.htm",
+      "capturado_em": "2026-11-04T20:51:11Z"
+    },
+    "12907@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12907",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12907.htm",
+      "capturado_em": "2026-11-04T20:51:13Z"
+    },
+    "12908@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12908",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12908.htm",
+      "capturado_em": "2026-11-04T20:51:14Z"
+    },
+    "12909@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12909",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12909.htm",
+      "capturado_em": "2026-11-04T20:51:15Z"
+    },
+    "12910@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12910",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12910.htm",
+      "capturado_em": "2026-11-04T20:51:15Z"
+    },
+    "12911@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12911",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12911.htm",
+      "capturado_em": "2026-11-04T20:51:16Z"
+    },
+    "12912@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12912",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12912.htm",
+      "capturado_em": "2026-11-04T20:51:19Z"
+    },
+    "12914@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12914",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12914.htm",
+      "capturado_em": "2026-11-04T20:51:23Z"
+    },
+    "12916@2013-12-18": {
+      "slug": "br-federal-lei-2013-12-18-12916",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12916.htm",
+      "capturado_em": "2026-11-04T20:51:30Z"
+    },
+    "12919@2013-12-24": {
+      "slug": "br-federal-lei-2013-12-24-12919",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12919.htm",
+      "capturado_em": "2026-11-04T20:51:31Z"
+    },
+    "12923@2013-12-26": {
+      "slug": "br-federal-lei-2013-12-26-12923",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12923.htm",
+      "capturado_em": "2026-11-04T20:51:32Z"
+    },
+    "12924@2013-12-26": {
+      "slug": "br-federal-lei-2013-12-26-12924",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12924.htm",
+      "capturado_em": "2026-11-04T20:51:33Z"
+    },
+    "12925@2013-12-26": {
+      "slug": "br-federal-lei-2013-12-26-12925",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12925.htm",
+      "capturado_em": "2026-11-04T20:51:33Z"
+    },
+    "12926@2013-12-26": {
+      "slug": "br-federal-lei-2013-12-26-12926",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12926.htm",
+      "capturado_em": "2026-11-04T20:51:34Z"
+    },
+    "12927@2013-12-26": {
+      "slug": "br-federal-lei-2013-12-26-12927",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12927.htm",
+      "capturado_em": "2026-11-04T20:51:34Z"
+    },
+    "12928@2013-12-26": {
+      "slug": "br-federal-lei-2013-12-26-12928",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12928.htm",
+      "capturado_em": "2026-11-04T20:51:35Z"
+    },
+    "12929@2013-12-26": {
+      "slug": "br-federal-lei-2013-12-26-12929",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12929.htm",
+      "capturado_em": "2026-11-04T20:51:36Z"
+    },
+    "12930@2013-12-26": {
+      "slug": "br-federal-lei-2013-12-26-12930",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12930.htm",
+      "capturado_em": "2026-11-04T20:51:36Z"
+    },
+    "12931@2013-12-26": {
+      "slug": "br-federal-lei-2013-12-26-12931",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12931.htm",
+      "capturado_em": "2026-11-04T20:51:37Z"
+    },
+    "12934@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12934",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12934.htm",
+      "capturado_em": "2026-11-04T20:51:38Z"
+    },
+    "12935@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12935",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12935.htm",
+      "capturado_em": "2026-11-04T20:51:39Z"
+    },
+    "12936@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12936",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12936.htm",
+      "capturado_em": "2026-11-04T20:51:41Z"
+    },
+    "12937@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12937",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12937.htm",
+      "capturado_em": "2026-11-04T20:51:43Z"
+    },
+    "12939@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12939",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12939.htm",
+      "capturado_em": "2026-11-04T20:51:44Z"
+    },
+    "12940@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12940",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12940.htm",
+      "capturado_em": "2026-11-04T20:51:45Z"
+    },
+    "12941@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12941",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12941.htm",
+      "capturado_em": "2026-11-04T20:51:46Z"
+    },
+    "12942@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12942",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12942.htm",
+      "capturado_em": "2026-11-04T20:51:49Z"
+    },
+    "12943@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12943",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12943.htm",
+      "capturado_em": "2026-11-04T20:51:51Z"
+    },
+    "12946@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12946",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12946.htm",
+      "capturado_em": "2026-11-04T20:51:52Z"
+    },
+    "12947@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12947",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12947.htm",
+      "capturado_em": "2026-11-04T20:51:53Z"
+    },
+    "12948@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12948",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12948.htm",
+      "capturado_em": "2026-11-04T20:51:57Z"
+    },
+    "12949@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12949",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12949.htm",
+      "capturado_em": "2026-11-04T20:51:57Z"
+    },
+    "12950@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12950",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12950.htm",
+      "capturado_em": "2026-11-04T20:51:59Z"
+    },
+    "12951@2013-12-27": {
+      "slug": "br-federal-lei-2013-12-27-12951",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12951.htm",
+      "capturado_em": "2026-11-04T20:52:00Z"
+    },
+    "12952@2014-01-20": {
+      "slug": "br-federal-lei-2014-01-20-12952",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L12952.htm",
+      "capturado_em": "2026-11-04T20:52:00Z"
+    },
+    "12953@2014-02-05": {
+      "slug": "br-federal-lei-2014-02-05-12953",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L12953.htm",
+      "capturado_em": "2026-11-04T20:52:01Z"
+    },
+    "12956@2014-02-27": {
+      "slug": "br-federal-lei-2014-02-27-12956",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L12956.htm",
+      "capturado_em": "2026-11-04T20:52:02Z"
+    },
+    "12957@2014-03-19": {
+      "slug": "br-federal-lei-2014-03-19-12957",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L12957.htm",
+      "capturado_em": "2026-11-04T20:52:03Z"
+    },
+    "12958@2014-03-19": {
+      "slug": "br-federal-lei-2014-03-19-12958",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L12958.htm",
+      "capturado_em": "2026-11-04T20:52:03Z"
+    },
+    "12991@2014-06-17": {
+      "slug": "br-federal-lei-2014-06-17-12991",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L12991.htm",
+      "capturado_em": "2026-11-04T20:52:04Z"
+    },
+    "12998@2014-06-18": {
+      "slug": "br-federal-lei-2014-06-18-12998",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L12998.htm",
+      "capturado_em": "2026-11-04T20:52:05Z"
+    },
+    "13012@2014-07-16": {
+      "slug": "br-federal-lei-2014-07-16-13012",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13012.htm",
+      "capturado_em": "2026-11-04T20:52:13Z"
+    },
+    "13020@2014-08-06": {
+      "slug": "br-federal-lei-2014-08-06-13020",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13020.htm",
+      "capturado_em": "2026-11-04T20:52:13Z"
+    },
+    "13031@2014-09-24": {
+      "slug": "br-federal-lei-2014-09-24-13031",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13031.htm",
+      "capturado_em": "2026-11-04T20:52:14Z"
+    },
+    "13032@2014-09-24": {
+      "slug": "br-federal-lei-2014-09-24-13032",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13032.htm",
+      "capturado_em": "2026-11-04T20:52:15Z"
+    },
+    "13034@2014-10-28": {
+      "slug": "br-federal-lei-2014-10-28-13034",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13034.htm",
+      "capturado_em": "2026-11-04T20:52:16Z"
+    },
+    "13057@2014-12-22": {
+      "slug": "br-federal-lei-2014-12-22-13057",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13057.htm",
+      "capturado_em": "2026-11-04T20:52:17Z"
+    },
+    "13062@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13062",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13062.htm",
+      "capturado_em": "2026-11-04T20:52:18Z"
+    },
+    "13066@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13066",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13066.htm",
+      "capturado_em": "2026-11-04T20:52:18Z"
+    },
+    "13068@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13068",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13068.htm",
+      "capturado_em": "2026-11-04T20:52:19Z"
+    },
+    "13069@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13069",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13069.htm",
+      "capturado_em": "2026-11-04T20:52:20Z"
+    },
+    "13070@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13070",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13070.htm",
+      "capturado_em": "2026-11-04T20:52:21Z"
+    },
+    "13071@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13071",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13071.htm",
+      "capturado_em": "2026-11-04T20:52:22Z"
+    },
+    "13072@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13072",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13072.htm",
+      "capturado_em": "2026-11-04T20:52:24Z"
+    },
+    "13073@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13073",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13073.htm",
+      "capturado_em": "2026-11-04T20:52:25Z"
+    },
+    "13074@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13074",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13074.htm",
+      "capturado_em": "2026-11-04T20:52:27Z"
+    },
+    "13075@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13075",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13075.htm",
+      "capturado_em": "2026-11-04T20:52:28Z"
+    },
+    "13076@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13076",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13076.htm",
+      "capturado_em": "2026-11-04T20:52:32Z"
+    },
+    "13077@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13077",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13077.htm",
+      "capturado_em": "2026-11-04T20:52:35Z"
+    },
+    "13078@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13078",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13078.htm",
+      "capturado_em": "2026-11-04T20:52:35Z"
+    },
+    "13079@2014-12-30": {
+      "slug": "br-federal-lei-2014-12-30-13079",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/L13079.htm",
+      "capturado_em": "2026-11-04T20:52:37Z"
+    },
+    "13080@2015-01-02": {
+      "slug": "br-federal-lei-2015-01-02-13080",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13080.htm",
+      "capturado_em": "2026-11-04T20:52:39Z"
+    },
+    "13088@2015-01-12": {
+      "slug": "br-federal-lei-2015-01-12-13088",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13088.htm",
+      "capturado_em": "2026-11-04T20:52:41Z"
+    },
+    "13115@2015-04-20": {
+      "slug": "br-federal-lei-2015-04-20-13115",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13115.htm",
+      "capturado_em": "2026-11-04T20:52:41Z"
+    },
+    "13121@2015-05-08": {
+      "slug": "br-federal-lei-2015-05-08-13121",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13121.htm",
+      "capturado_em": "2026-11-04T20:52:42Z"
+    },
+    "13143@2015-07-06": {
+      "slug": "br-federal-lei-2015-07-06-13143",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13143.htm",
+      "capturado_em": "2026-11-04T20:52:43Z"
+    },
+    "13150@2015-07-27": {
+      "slug": "br-federal-lei-2015-07-27-13150",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13150.htm",
+      "capturado_em": "2026-11-04T20:52:43Z"
+    },
+    "13161@2015-08-31": {
+      "slug": "br-federal-lei-2015-08-31-13161",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13161.htm",
+      "capturado_em": "2026-11-04T20:52:45Z"
+    },
+    "13164@2015-09-16": {
+      "slug": "br-federal-lei-2015-09-16-13164",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13164.htm",
+      "capturado_em": "2026-11-04T20:52:46Z"
+    },
+    "13166@2015-10-01": {
+      "slug": "br-federal-lei-2015-10-01-13166",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13166.htm",
+      "capturado_em": "2026-11-04T20:52:49Z"
+    },
+    "13181@2015-11-03": {
+      "slug": "br-federal-lei-2015-11-03-13181",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13181.htm",
+      "capturado_em": "2026-11-04T20:52:50Z"
+    },
+    "13191@2015-11-23": {
+      "slug": "br-federal-lei-2015-11-23-13191",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13191.htm",
+      "capturado_em": "2026-11-04T20:52:51Z"
+    },
+    "13198@2015-12-02": {
+      "slug": "br-federal-lei-2015-12-02-13198",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13198.htm",
+      "capturado_em": "2026-11-04T20:52:52Z"
+    },
+    "13199@2015-12-03": {
+      "slug": "br-federal-lei-2015-12-03-13199",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13199.htm",
+      "capturado_em": "2026-11-04T20:52:53Z"
+    },
+    "13200@2015-12-04": {
+      "slug": "br-federal-lei-2015-12-04-13200",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13200.htm",
+      "capturado_em": "2026-11-04T20:52:54Z"
+    },
+    "13201@2015-12-04": {
+      "slug": "br-federal-lei-2015-12-04-13201",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13201.htm",
+      "capturado_em": "2026-11-04T20:52:55Z"
+    },
+    "13205@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13205",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13205.htm",
+      "capturado_em": "2026-11-04T20:52:56Z"
+    },
+    "13206@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13206",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13206.htm",
+      "capturado_em": "2026-11-04T20:52:57Z"
+    },
+    "13207@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13207",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13207.htm",
+      "capturado_em": "2026-11-04T20:52:59Z"
+    },
+    "13208@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13208",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13208.htm",
+      "capturado_em": "2026-11-04T20:53:00Z"
+    },
+    "13209@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13209",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13209.htm",
+      "capturado_em": "2026-11-04T20:53:03Z"
+    },
+    "13210@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13210",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13210.htm",
+      "capturado_em": "2026-11-04T20:53:06Z"
+    },
+    "13211@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13211",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13211.htm",
+      "capturado_em": "2026-11-04T20:53:07Z"
+    },
+    "13212@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13212",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13212.htm",
+      "capturado_em": "2026-11-04T20:53:08Z"
+    },
+    "13213@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13213",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13213.htm",
+      "capturado_em": "2026-11-04T20:53:09Z"
+    },
+    "13214@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13214",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13214.htm",
+      "capturado_em": "2026-11-04T20:53:10Z"
+    },
+    "13215@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13215",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13215.htm",
+      "capturado_em": "2026-11-04T20:53:12Z"
+    },
+    "13216@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13216",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13216.htm",
+      "capturado_em": "2026-11-04T20:53:13Z"
+    },
+    "13217@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13217",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13217.htm",
+      "capturado_em": "2026-11-04T20:53:15Z"
+    },
+    "13218@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13218",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13218.htm",
+      "capturado_em": "2026-11-04T20:53:16Z"
+    },
+    "13219@2015-12-22": {
+      "slug": "br-federal-lei-2015-12-22-13219",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13219.htm",
+      "capturado_em": "2026-11-04T20:53:17Z"
+    },
+    "13220@2015-12-23": {
+      "slug": "br-federal-lei-2015-12-23-13220",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13220.htm",
+      "capturado_em": "2026-11-04T20:53:19Z"
+    },
+    "13221@2015-12-23": {
+      "slug": "br-federal-lei-2015-12-23-13221",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13221.htm",
+      "capturado_em": "2026-11-04T20:53:22Z"
+    },
+    "13222@2015-12-23": {
+      "slug": "br-federal-lei-2015-12-23-13222",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13222.htm",
+      "capturado_em": "2026-11-04T20:53:24Z"
+    },
+    "13223@2015-12-23": {
+      "slug": "br-federal-lei-2015-12-23-13223",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13223.htm",
+      "capturado_em": "2026-11-04T20:53:26Z"
+    },
+    "13225@2015-12-23": {
+      "slug": "br-federal-lei-2015-12-23-13225",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13225.htm",
+      "capturado_em": "2026-11-04T20:53:27Z"
+    },
+    "13226@2015-12-23": {
+      "slug": "br-federal-lei-2015-12-23-13226",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13226.htm",
+      "capturado_em": "2026-11-04T20:53:28Z"
+    },
+    "13242@2015-12-30": {
+      "slug": "br-federal-lei-2015-12-30-13242",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13242.htm",
+      "capturado_em": "2026-11-04T20:53:32Z"
+    },
+    "13249@2016-01-13": {
+      "slug": "br-federal-lei-2016-01-13-13249",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/L13249.htm",
+      "capturado_em": "2026-11-04T20:53:34Z"
+    },
+    "13255@2016-01-14": {
+      "slug": "br-federal-lei-2016-01-14-13255",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/lei/L13255.htm",
+      "capturado_em": "2026-11-04T20:53:35Z"
+    },
+    "13414@2017-01-10": {
+      "slug": "br-federal-lei-2017-01-10-13414",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/L13414.htm",
+      "capturado_em": "2026-11-04T20:53:50Z"
+    },
+    "13587@2018-01-02": {
+      "slug": "br-federal-lei-2018-01-02-13587",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13587.htm",
+      "capturado_em": "2026-11-04T20:53:57Z"
+    },
+    "13723@2018-10-04": {
+      "slug": "br-federal-lei-2018-10-04-13723",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13723.htm",
+      "capturado_em": "2026-11-04T20:53:58Z"
+    },
+    "13726@2018-10-08": {
+      "slug": "br-federal-lei-2018-10-08-13726",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13726.htm",
+      "capturado_em": "2026-11-04T20:53:58Z"
+    },
+    "13808@2019-01-15": {
+      "slug": "br-federal-lei-2019-01-15-13808",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13808.htm",
+      "capturado_em": "2026-11-04T20:53:59Z"
+    },
+    "13871@2019-09-17": {
+      "slug": "br-federal-lei-2019-09-17-13871",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13871.htm",
+      "capturado_em": "2026-11-04T20:54:00Z"
+    }
+  },
+  "failed": {
+    "12237@2010-05-19": {
+      "erro": "falha de fonte/transporte Planalto para a identidade; não interpreta ausência normativa",
+      "em": "2026-11-04T20:49:01Z",
+      "senado_id": "575879",
+      "classe": "RuntimeError"
+    },
+    "12239@2010-05-19": {
+      "erro": "falha de fonte/transporte Planalto para a identidade; não interpreta ausência normativa",
+      "em": "2026-11-04T20:49:04Z",
+      "senado_id": "575881",
+      "classe": "RuntimeError"
+    },
+    "12240@2010-05-20": {
+      "erro": "falha de fonte/transporte Planalto para a identidade; não interpreta ausência normativa",
+      "em": "2026-11-04T20:49:06Z",
+      "senado_id": "575882",
+      "classe": "RuntimeError"
+    },
+    "12241@2010-05-24": {
+      "erro": "falha de fonte/transporte Planalto para a identidade; não interpreta ausência normativa",
+      "em": "2026-11-04T20:49:09Z",
+      "senado_id": "575883",
+      "classe": "RuntimeError"
+    },
+    "12242@2010-05-24": {
+      "erro": "falha de fonte/transporte Planalto para a identidade; não interpreta ausência normativa",
+      "em": "2026-11-04T20:49:12Z",
+      "senado_id": "575884",
+      "classe": "RuntimeError"
+    },
+    "12342@2010-12-01": {
+      "erro": "falha de fonte/transporte Planalto para a identidade; não interpreta ausência normativa",
+      "em": "2026-11-04T20:49:21Z",
+      "senado_id": "585339",
+      "classe": "RuntimeError"
+    },
+    "12372@2010-12-30": {
+      "erro": "falha de fonte/transporte Planalto para a identidade; não interpreta ausência normativa",
+      "em": "2026-11-04T20:49:41Z",
+      "senado_id": "585369",
+      "classe": "RuntimeError"
+    },
+    "12373@2010-12-30": {
+      "erro": "falha de fonte/transporte Planalto para a identidade; não interpreta ausência normativa",
+      "em": "2026-11-04T20:50:29Z",
+      "senado_id": "585370",
+      "classe": "RuntimeError"
+    },
+    "13408@2016-12-26": {
+      "erro": "falha de fonte/transporte Planalto para a identidade; não interpreta ausência normativa",
+      "em": "2026-11-04T20:53:49Z",
+      "senado_id": "602632",
+      "classe": "RuntimeError"
+    },
+    "12913@2013-12-18": {
+      "erro": "br-federal-lei-2013-12-18-12913: cobertura fonte→Markdown falhou",
+      "em": "2026-11-04T20:55:00Z",
+      "senado_id": "591361",
+      "classe": "BuildCoverageError"
+    },
+    "12915@2013-12-18": {
+      "erro": "br-federal-lei-2013-12-18-12915: cobertura fonte→Markdown falhou",
+      "em": "2026-11-04T20:55:02Z",
+      "senado_id": "591363",
+      "classe": "BuildCoverageError"
+    },
+    "13473@2017-08-08": {
+      "erro": "br-federal-lei-2017-08-08-13473: cobertura fonte→Markdown falhou",
+      "em": "2026-11-04T20:55:30Z",
+      "senado_id": "17745360",
+      "classe": "BuildCoverageError"
+    }
+  },
+  "updated_em": "2026-11-04T20:55:31Z"
+}

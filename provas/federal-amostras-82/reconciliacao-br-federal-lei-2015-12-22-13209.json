@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2015-12-22-13209",
+  "fonte_principal": "planalto-L13209-2015-12-22",
+  "sha256_fonte_principal": "f89c916f5c1659b8c33f6ea7fa62a49e3c38aac925e9938ed7017c0a51858fd6",
+  "sha256_conteudo": "3652b155d40ea89bb97730b9a970aa7eb49329b48cda2a69b441324c2c6cd7cc",
+  "capturado_em": "2026-11-04T20:53:03Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13209.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13209-2015-12-22.htm.xz",
+  "sha256_snapshot_armazenado": "f73d5ab07f8edbfabaf98ef2101c3977b9a6fe9647068f8157cb71f5033c0ade",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 338,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 15,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2015-12-22-13209",
+    "numero": "13209",
+    "data": "2015-12-22",
+    "titulo_fonte": "LEI Nº 13209, DE 22 DE DEZEMBRO DE 2015",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor das Justiças Federal, Eleitoral e do Trabalho e do Ministério Público da União, crédito especial no valor de R$ 50.273.243,00 para os fins que especifica.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "585021"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

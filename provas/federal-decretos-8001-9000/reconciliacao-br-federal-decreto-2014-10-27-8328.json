@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-10-27-8328",
+  "fonte_principal": "camara-D8328",
+  "sha256_fonte_principal": "a192eddca2cdd06cb2da665a62a08a89a184c853f848cc74c6b6baaea1b2d0ba",
+  "sha256_conteudo": "a192eddca2cdd06cb2da665a62a08a89a184c853f848cc74c6b6baaea1b2d0ba",
+  "capturado_em": "2026-11-04T20:17:52Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8328-27-outubro-2014-779463-publicacaooriginal-145225-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8328.htm.xz",
+  "sha256_snapshot_armazenado": "ddb0f145615c1e2edab0ee7dad50c9c2b0c2356e7f5f4f8ecb8566ce53263e41",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-10-27-8328",
+    "numero": "8328",
+    "data": "2014-10-27",
+    "titulo_fonte": "DECRETO Nº 8328, DE 27 DE OUTUBRO DE 2014",
+    "ementa": "ALTERA OS QUADROS I, V E VI DO ANEXO AO DECRETO  8.210, DE 21 DE MARÇO DE 2014, QUE DISTRIBUI O EFETIVO DE PESSOAL MILITAR DO EXERCITO PARA 2014.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589121"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

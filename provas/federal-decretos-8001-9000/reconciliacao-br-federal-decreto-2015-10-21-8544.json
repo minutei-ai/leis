@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2015-10-21-8544",
+  "fonte_principal": "camara-D8544",
+  "sha256_fonte_principal": "b8ccea24b29145d91ec510bc0755bf5cf076cebc5979c3c06d124f088c1cfcb5",
+  "sha256_conteudo": "b8ccea24b29145d91ec510bc0755bf5cf076cebc5979c3c06d124f088c1cfcb5",
+  "capturado_em": "2026-11-04T20:23:19Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8544-21-outubro-2015-781825-publicacaooriginal-148509-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8544.htm.xz",
+  "sha256_snapshot_armazenado": "4442117950296194602b75d4c8d2575370bc1e4137280ae829c3e1645cffba26",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 8,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "3"
+    ],
+    "ultimos_artigos": [
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-10-21-8544",
+    "numero": "8544",
+    "data": "2015-10-21",
+    "titulo_fonte": "DECRETO Nº 8544, DE 21 DE OUTUBRO DE 2015",
+    "ementa": "ALTERA O DECRETO Nº 7.819, DE 3 DE OUTUBRO DE 2012, QUE REGULAMENTA OS ARTS. 40 A 44 DA LEI Nº 12.715, DE 17 DE SETEMBRO DE 2012, QUE DISPÕE SOBRE O PROGRAMA DE INCENTIVO À INOVAÇÃO TECNOLÓGICA E ADENSAMENTO DA CADEIA PRODUTIVA DE VEÍCULOS AUTOMOTORES - INOVAR-AUTO E O DECRETO Nº 7.660, DE 23 DE DEZEMBRO DE 2011, QUE APROVA A TABELA DE INCIDÊNCIA DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - TIPI.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414257"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

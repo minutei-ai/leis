@@ -1,0 +1,83 @@
+{
+  "documento": "br-federal-lei-2015-07-27-13150",
+  "fonte_principal": "planalto-L13150-2015-07-27",
+  "sha256_fonte_principal": "6a18a579b12b2b730c86ff64e0bd11e6ce9bbd46b9c96691f0a546ba0db82a74",
+  "sha256_conteudo": "45e32628f00ab7e44b04b2a099c34c665596941011d80d159293b2f04751fb9b",
+  "capturado_em": "2026-11-04T20:52:43Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/L13150.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L13150-2015-07-27.htm.xz",
+  "sha256_snapshot_armazenado": "cb0d55ae4b647ec66b8f823babb5bb64a09d40fef2484776d5d4d354e959b0b7",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 3,
+    "tabelas_markdown": 2,
+    "tabelas_html": 1,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 24,
+        "colunas_max": 5,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 30,
+        "colunas_max": 4,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 29,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 30,
+    "artigos": 7,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2015-07-27-13150",
+    "numero": "13150",
+    "data": "2015-07-27",
+    "titulo_fonte": "LEI Nº 13150, DE 27 DE JULHO DE 2015",
+    "ementa": "Cria cargos efetivos e funções comissionadas nos quadros de pessoal dos Tribunais Regionais Eleitorais, destinados às Zonas Eleitorais, e transforma funções de Chefe de Cartório.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584962"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

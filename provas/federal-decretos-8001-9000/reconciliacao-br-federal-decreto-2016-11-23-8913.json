@@ -1,0 +1,52 @@
+{
+  "documento": "br-federal-decreto-2016-11-23-8913",
+  "fonte_principal": "camara-D8913",
+  "sha256_fonte_principal": "8ea7d03c1d209d169c5c8e872c49715a2da25e5c2eb0f14018b22e0356de6bb7",
+  "sha256_conteudo": "8ea7d03c1d209d169c5c8e872c49715a2da25e5c2eb0f14018b22e0356de6bb7",
+  "capturado_em": "2026-11-04T20:34:12Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8913-23-novembro-2016-783935-publicacaooriginal-151428-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8913.htm.xz",
+  "sha256_snapshot_armazenado": "4f74230eec265692799c9484ee962388b04f6ebf467e31e4f468a46ef9290e81",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 26,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "2",
+      "9"
+    ],
+    "ultimos_artigos": [
+      "2",
+      "9"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-11-23-8913",
+    "numero": "8913",
+    "data": "2016-11-23",
+    "titulo_fonte": "DECRETO Nº 8913, DE 23 DE NOVEMBRO DE 2016",
+    "ementa": "ALTERA O DECRETO Nº 5.751, DE 12 DE ABRIL DE 2006, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO COMANDO DO EXÉRCITO, DO MINISTÉRIO DA DEFESA, REMANEJA CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS E SUBSTITUI CARGOS EM COMISSÃO DO GRUPO-DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414878"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

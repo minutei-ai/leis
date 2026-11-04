@@ -1,0 +1,74 @@
+{
+  "documento": "br-federal-lei-2011-06-16-12423",
+  "fonte_principal": "planalto-L12423-2011-06-16",
+  "sha256_fonte_principal": "1511d5e99f1ba62e52f644229d29310d33512c7f23b3e13a6979d47d09dd16e3",
+  "sha256_conteudo": "0c0ed2d2116eafe6acfdee8137e8d0949113bd7d053f03d86f5e658f5bc2cd42",
+  "capturado_em": "2026-11-04T20:50:30Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/L12423.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12423-2011-06-16.htm.xz",
+  "sha256_snapshot_armazenado": "d7e173a46602f18864b01334b02cd0904e4b6b9518ecc3050f1abfda76da1a78",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 3,
+    "tabelas_markdown": 3,
+    "tabelas_html": 0,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 3,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 3,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 6,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 29,
+    "artigos": 7,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2011-06-16-12423",
+    "numero": "12423",
+    "data": "2011-06-16",
+    "titulo_fonte": "LEI Nº 12423, DE 16 DE JUNHO DE 2011",
+    "ementa": "Dispõe sobre a criação de Varas do Trabalho na jurisdição do Tribunal Regional do Trabalho da 22ª Região e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "585420"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

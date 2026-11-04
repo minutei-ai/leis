@@ -1,0 +1,60 @@
+{
+  "documento": "br-federal-lei-2013-12-27-12950",
+  "fonte_principal": "planalto-L12950-2013-12-27",
+  "sha256_fonte_principal": "66ac37735085f5ad313f91e0a0b90690fa0d5354b7c310d9674f7b08cde9a83a",
+  "sha256_conteudo": "21c50d3cea9b0cbf421db02c59d89f25c108fc252149c20701df00c9f14eeb9f",
+  "capturado_em": "2026-11-04T20:51:59Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12950.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12950-2013-12-27.htm.xz",
+  "sha256_snapshot_armazenado": "caf408ed15be62beb24d3c9dd511fab4a18ed51f0972f984f51885413d113400",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 27,
+        "colunas_max": 10,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 15,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-12-27-12950",
+    "numero": "12950",
+    "data": "2013-12-27",
+    "titulo_fonte": "LEI Nº 12950, DE 27 DE DEZEMBRO DE 2013",
+    "ementa": "Abre ao Orçamento Fiscal da União, em favor do Ministério do Desenvolvimento Agrário, crédito suplementar no valor de R$ 17.600.000,00, para reforço de dotação constante da Lei Orçamentária vigente.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "591398"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

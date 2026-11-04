@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-11-25-8366",
+  "fonte_principal": "camara-D8366",
+  "sha256_fonte_principal": "3c70ebbec9d98b949d580f383b882a0bc47c2c1ff53fc9315131390cffee8406",
+  "sha256_conteudo": "3c70ebbec9d98b949d580f383b882a0bc47c2c1ff53fc9315131390cffee8406",
+  "capturado_em": "2026-11-04T20:20:35Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8366-25-novembro-2014-779615-publicacaooriginal-145467-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8366.htm.xz",
+  "sha256_snapshot_armazenado": "ea8395b994a2e8b06909a3a0b0f007d8aa289665ee121ea4f2b3391be516c0f5",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 26,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-11-25-8366",
+    "numero": "8366",
+    "data": "2014-11-25",
+    "titulo_fonte": "DECRETO Nº 8366, DE 25 DE NOVEMBRO DE 2014",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO DO SEPTUAGESIMO SEGUNDO PROTOCOLO ADICIONAL AO ACORDO DE COMPLEMENTAÇÃO ECONOMICA  2 (72PAACE2), FIRMADO ENTRE A REPUBLICA FEDERATIVA DO BRASIL E A REPUBLICA ORIENTAL DO URUGUAI, EM 27 DE DEZEMBRO DE 2013.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413926"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

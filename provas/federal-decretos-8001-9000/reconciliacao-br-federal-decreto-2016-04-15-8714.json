@@ -1,0 +1,52 @@
+{
+  "documento": "br-federal-decreto-2016-04-15-8714",
+  "fonte_principal": "camara-D8714",
+  "sha256_fonte_principal": "01817bb6e34e73ab08d79ccbb9e0bd678b08836ea16d7785dc911f7d9e51ae52",
+  "sha256_conteudo": "01817bb6e34e73ab08d79ccbb9e0bd678b08836ea16d7785dc911f7d9e51ae52",
+  "capturado_em": "2026-11-04T20:27:25Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8714-15-abril-2016-782903-publicacaooriginal-150115-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8714.htm.xz",
+  "sha256_snapshot_armazenado": "1fac78c4a662dcf248af365fdd3ed892cbe96ddff6fdff37644cee7fba8dce22",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 110,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "20",
+      "55"
+    ],
+    "ultimos_artigos": [
+      "20",
+      "55"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-04-15-8714",
+    "numero": "8714",
+    "data": "2016-04-15",
+    "titulo_fonte": "DECRETO Nº 8714, DE 15 DE ABRIL DE 2016",
+    "ementa": "APROVA O ESTATUTO DA CRUZ VERMELHA BRASILEIRA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590282"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

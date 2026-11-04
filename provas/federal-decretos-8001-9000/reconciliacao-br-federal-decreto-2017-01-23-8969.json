@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2017-01-23-8969",
+  "fonte_principal": "camara-D8969",
+  "sha256_fonte_principal": "e8d6093da25cf038cbc788d8a39069f8bd2e5b20e579f37fb5132a4201bb1694",
+  "sha256_conteudo": "e8d6093da25cf038cbc788d8a39069f8bd2e5b20e579f37fb5132a4201bb1694",
+  "capturado_em": "2026-11-04T20:36:39Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8969-23-janeiro-2017-784201-publicacaooriginal-151854-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8969.htm.xz",
+  "sha256_snapshot_armazenado": "faa154fa8016d87bb2b0f15440881034a533d91cc37ed1ecbb3726b58cb21505",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 80,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2017-01-23-8969",
+    "numero": "8969",
+    "data": "2017-01-23",
+    "titulo_fonte": "DECRETO Nº 8969, DE 23 DE JANEIRO DE 2017",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2316 (2016), DE 9 DE NOVEMBRO DE 2016, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE MANTÉM O EMBARGO DE ARMAS APLICÁVEL À SOMÁLIA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "603302"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

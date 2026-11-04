@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2013-12-23-8169",
+  "fonte_principal": "camara-D8169",
+  "sha256_fonte_principal": "6863e60dce0f6df072f648fdb3680a871f552dfcb45526eba2a84cae64f07f04",
+  "sha256_conteudo": "6863e60dce0f6df072f648fdb3680a871f552dfcb45526eba2a84cae64f07f04",
+  "capturado_em": "2026-11-04T20:14:43Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8169-23-dezembro-2013-777754-publicacaooriginal-142493-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8169.htm.xz",
+  "sha256_snapshot_armazenado": "4ead4e96aa436f1f57e0cc7f2ae29661974a692336373a340b5bd8756c3bb5c7",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-12-23-8169",
+    "numero": "8169",
+    "data": "2013-12-23",
+    "titulo_fonte": "DECRETO Nº 8169, DE 23 DE DEZEMBRO DE 2013",
+    "ementa": "ALTERA A TABELA DE INCIDENCIA DO IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS - TIPI, APROVADA PELO DECRETO  7.660, DE 23 DE DEZEMBRO DE 2011.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "584203"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

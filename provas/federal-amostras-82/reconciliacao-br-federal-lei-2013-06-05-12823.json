@@ -1,0 +1,69 @@
+{
+  "documento": "br-federal-lei-2013-06-05-12823",
+  "fonte_principal": "planalto-L12823-2013-06-05",
+  "sha256_fonte_principal": "b49768ed2209b5f7c894067c110c277d1f427945efface4ca8a193cb1cd31c72",
+  "sha256_conteudo": "aaabfa4575d803610eec2999c5a38473106c73e7b5b3a0411b9c263c388eb84c",
+  "capturado_em": "2026-11-04T20:50:49Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2013/lei/L12823.htm",
+  "snapshot": "provas/federal-amostras-82/fontes/planalto-L12823-2013-06-05.htm.xz",
+  "sha256_snapshot_armazenado": "afb49a385a76580f4389b36398dedc8abb35da1966874cc2e67dd4fd03469376",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "cobertura integral fonte→Markdown após normalização",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 20,
+    "tabelas_markdown": 0,
+    "tabelas_html": 2,
+    "imagens": [],
+    "tabelas": [
+      {
+        "linhas": 17,
+        "colunas_max": 3,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 21,
+        "colunas_max": 3,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 73,
+    "artigos": 11,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "7",
+      "8",
+      "9",
+      "10",
+      "11"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2013-06-05-12823",
+    "numero": "12823",
+    "data": "2013-06-05",
+    "titulo_fonte": "LEI Nº 12823, DE 5 DE JUNHO DE 2013",
+    "ementa": "Altera as Leis nºs 8.691, de 28 de julho de 1993, 11.539, de 8 de novembro de 2007; cria cargos do Plano Geral de Cargos do Poder Executivo, de que trata a Lei nº 11.357, de 19 de outubro de 2006, da Carreira de Analista de Infraestrutura, de que trata a Lei nº 11.539, de 8 de novembro de 2007, do Plano de Carreiras para a área de Ciência e Tecnologia, de que trata a Lei nº 8.691, de 28 de julho de 1993, da Carreira da Previdência, da Saúde e do Trabalho, dos Planos de Carreiras e Cargos do Instituto Nacional de Metrologia, Qualidade e Tecnologia e do Instituto Nacional da Propriedade Industrial, de que trata a Lei nº 11.355, de 19 de outubro de 2006, dos cargos da Agência Nacional de Saúde Suplementar, de que trata a Lei nº 10.871, de 20 de maio de 2004; e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "588199"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Lote parcial da #82; denominadores amplos em provas/federal-lacunas-catalogo/."
+  ]
+}

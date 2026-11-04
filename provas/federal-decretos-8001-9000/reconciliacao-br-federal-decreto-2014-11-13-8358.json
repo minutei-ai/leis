@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-11-13-8358",
+  "fonte_principal": "camara-D8358",
+  "sha256_fonte_principal": "8cf6e73c5fd52fe571cfce064a6fa770574f788d6cf1096d95feb1dd13da9108",
+  "sha256_conteudo": "8cf6e73c5fd52fe571cfce064a6fa770574f788d6cf1096d95feb1dd13da9108",
+  "capturado_em": "2026-11-04T20:20:09Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8358-13-novembro-2014-779593-publicacaooriginal-145406-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8358.htm.xz",
+  "sha256_snapshot_armazenado": "7a4230f2a6ed38391c37532a0aac764ceeebcb5a3a70dab5c594e4727b0840c8",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 168,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-11-13-8358",
+    "numero": "8358",
+    "data": "2014-11-13",
+    "titulo_fonte": "DECRETO Nº 8358, DE 13 DE NOVEMBRO DE 2014",
+    "ementa": "PROMULGA O TEXTO DA CONVENÇÃO MULTILATERAL IBERO-AMERICANA DE SEGURIDADE SOCIAL, FIRMADA PELA REPUBLICA FEDERATIVA DO BRASIL, EM SANTIAGO, EM 10 DE NOVEMBRO DE 2007.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413894"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

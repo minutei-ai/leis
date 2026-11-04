@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-11-13-8344",
+  "fonte_principal": "camara-D8344",
+  "sha256_fonte_principal": "9814274ba8fd88e001cd3ac2309780d9d735e5f36f453de7738815e88d805657",
+  "sha256_conteudo": "9814274ba8fd88e001cd3ac2309780d9d735e5f36f453de7738815e88d805657",
+  "capturado_em": "2026-11-04T20:43:33Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8344-13-novembro-2014-779579-publicacaooriginal-145385-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8344.htm.xz",
+  "sha256_snapshot_armazenado": "86a6a8aa8a558d1f425c2a0c7f2fbe73caf6519d115cf52a2f85311600022cc7",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 67,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-11-13-8344",
+    "numero": "8344",
+    "data": "2014-11-13",
+    "titulo_fonte": "DECRETO Nº 8344, DE 13 DE NOVEMBRO DE 2014",
+    "ementa": "PROMULGA O PROTOCOLO ADICIONAL AO ACORDO DE PARCERIA E COOPERAÇÃO ENTRE O GOVERNO  DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO  DA REPUBLICA FRANCESA COM VISTAS A  CRIAÇÃO DE UM CENTRO DE COOPERAÇÃO POLICIAL, FIRMADO EM BRASILIA, EM 7 DE SETEMBRO DE 2009.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589182"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

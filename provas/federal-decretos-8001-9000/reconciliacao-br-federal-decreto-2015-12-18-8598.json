@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-12-18-8598",
+  "fonte_principal": "camara-D8598",
+  "sha256_fonte_principal": "542fc1dca826e99602d96aa06fc2b9d2859cae436433689b05174ceb8aa1f354",
+  "sha256_conteudo": "542fc1dca826e99602d96aa06fc2b9d2859cae436433689b05174ceb8aa1f354",
+  "capturado_em": "2026-11-04T20:24:35Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8598-18-dezembro-2015-782130-publicacaooriginal-148999-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8598.htm.xz",
+  "sha256_snapshot_armazenado": "82cd1207b06696e49f144e08dfe0e5c96173b0b7ff47ab6dd9019be6b07690c0",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 72,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-12-18-8598",
+    "numero": "8598",
+    "data": "2015-12-18",
+    "titulo_fonte": "DECRETO Nº 8598, DE 18 DE DEZEMBRO DE 2015",
+    "ementa": "PROMULGA O ACORDO DE COOPERAÇÃO TÉCNICA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DO REINO DO LESOTO, FIRMADO EM BRASÍLIA, EM 8 DE SETEMBRO DE 2010.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414307"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

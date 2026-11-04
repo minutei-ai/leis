@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2016-07-21-8817",
+  "fonte_principal": "camara-D8817",
+  "sha256_fonte_principal": "27ef02a81b819b4a57e4bf4474e40f65e267303526a1c33ffc58081a50292f1f",
+  "sha256_conteudo": "27ef02a81b819b4a57e4bf4474e40f65e267303526a1c33ffc58081a50292f1f",
+  "capturado_em": "2026-11-04T20:30:49Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8817-21-julho-2016-783393-publicacaooriginal-150820-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8817.htm.xz",
+  "sha256_snapshot_armazenado": "d70177826f7a79f71dd86544653c10d0f36e86b74ce2f0fd544ed33316b05f9a",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 32,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "3"
+    ],
+    "ultimos_artigos": [
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-07-21-8817",
+    "numero": "8817",
+    "data": "2016-07-21",
+    "titulo_fonte": "DECRETO Nº 8817, DE 21 DE JULHO DE 2016",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO MINISTÉRIO DAS RELAÇÕES EXTERIORES, REMANEJA CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS E SUBSTITUI CARGOS EM COMISSÃO DO GRUPO DIREÇÃO E ASSESSORAMENTO SUPERIOR-DAS POR FUNÇÕES COMISSIONADAS TÉCNICAS DO PODER EXECUTIVO FEDERAL - FCPE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "592287"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

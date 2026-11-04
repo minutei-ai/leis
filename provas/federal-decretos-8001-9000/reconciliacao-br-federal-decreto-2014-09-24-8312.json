@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-09-24-8312",
+  "fonte_principal": "camara-D8312",
+  "sha256_fonte_principal": "7125b258a678943f8a3538c9d875d79be02e4629fceb411614e4c94fcc92c44e",
+  "sha256_conteudo": "7125b258a678943f8a3538c9d875d79be02e4629fceb411614e4c94fcc92c44e",
+  "capturado_em": "2026-11-04T20:17:23Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8312-24-setembro-2014-779366-publicacaooriginal-145030-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8312.htm.xz",
+  "sha256_snapshot_armazenado": "f10f02c3861618e09c877b9f80f4ae83604188314ce4120ff2b80d6946ce4ead",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 80,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-09-24-8312",
+    "numero": "8312",
+    "data": "2014-09-24",
+    "titulo_fonte": "DECRETO Nº 8312, DE 24 DE SETEMBRO DE 2014",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITORIO NACIONAL, DA RESOLUÇÃO  2111 (2013), DE 24 DE JULHO DE 2013, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE ALTERA O EMBARGO A VENDA DE ARMAS A SOMALIA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "589057"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

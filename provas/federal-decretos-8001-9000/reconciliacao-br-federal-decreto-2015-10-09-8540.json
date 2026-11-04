@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-10-09-8540",
+  "fonte_principal": "camara-D8540",
+  "sha256_fonte_principal": "c641b4d202624309fe96ac2cedf6562b029fe446f7a5014482a902dc8180c82e",
+  "sha256_conteudo": "c641b4d202624309fe96ac2cedf6562b029fe446f7a5014482a902dc8180c82e",
+  "capturado_em": "2026-11-04T20:23:15Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8540-9-outubro-2015-781736-publicacaooriginal-148394-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8540.htm.xz",
+  "sha256_snapshot_armazenado": "98fdc0ecafd7f79649fd41585bc998ea7ed0bf70643b171fa5f5282c635d3d88",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-10-09-8540",
+    "numero": "8540",
+    "data": "2015-10-09",
+    "titulo_fonte": "DECRETO Nº 8540, DE 9 DE OUTUBRO DE 2015",
+    "ementa": "ESTABELECE, NO ÂMBITO DA ADMINISTRAÇÃO PÚBLICA FEDERAL DIRETA, AUTÁRQUICA E FUNDACIONAL, MEDIDAS DE RACIONALIZAÇÃO DO GASTO PÚBLICO NAS CONTRATAÇÕES PARA AQUISIÇÃO DE BENS E PRESTAÇÃO DE SERVIÇOS E NA UTILIZAÇÃO DE TELEFONES CELULARES CORPORATIVOS E OUTROS DISPOSITIVOS.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414242"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

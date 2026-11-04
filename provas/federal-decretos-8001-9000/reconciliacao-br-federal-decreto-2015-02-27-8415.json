@@ -1,0 +1,52 @@
+{
+  "documento": "br-federal-decreto-2015-02-27-8415",
+  "fonte_principal": "camara-D8415",
+  "sha256_fonte_principal": "9420f924dbbb378801baa1e1866a187bc8476dd269510ebf9bd9d6dc4ded1d32",
+  "sha256_conteudo": "9420f924dbbb378801baa1e1866a187bc8476dd269510ebf9bd9d6dc4ded1d32",
+  "capturado_em": "2026-11-04T20:21:41Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8415-27-fevereiro-2015-780190-publicacaooriginal-146202-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8415.htm.xz",
+  "sha256_snapshot_armazenado": "c17548be3bfb0296b184d171209e1696f561be4a0cf9cc2dcfd8e4525acca31a",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 13,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "8",
+      "9"
+    ],
+    "ultimos_artigos": [
+      "8",
+      "9"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-02-27-8415",
+    "numero": "8415",
+    "data": "2015-02-27",
+    "titulo_fonte": "DECRETO Nº 8415, DE 27 DE FEVEREIRO DE 2015",
+    "ementa": "REGULAMENTA A APLICAÇÃO DO REGIME ESPECIAL DE REINTEGRAÇÃO DE VALORES TRIBUTÁRIOS PARA AS EMPRESAS EXPORTADORAS - REINTEGRA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593864"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

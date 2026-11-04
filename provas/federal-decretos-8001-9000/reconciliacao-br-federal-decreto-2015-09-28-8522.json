@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-09-28-8522",
+  "fonte_principal": "camara-D8522",
+  "sha256_fonte_principal": "3d5eab74ca65b0f32fde9da116e4ff3287b69ab44635f9ffd8ace064b54dcdb1",
+  "sha256_conteudo": "3d5eab74ca65b0f32fde9da116e4ff3287b69ab44635f9ffd8ace064b54dcdb1",
+  "capturado_em": "2026-11-04T20:22:55Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8522-28-setembro-2015-781632-publicacaooriginal-148265-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8522.htm.xz",
+  "sha256_snapshot_armazenado": "32d3df2f9235bbe0684cf48b28e094b3ca86942f40d68b6d2178076d33f565d5",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 95,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-09-28-8522",
+    "numero": "8522",
+    "data": "2015-09-28",
+    "titulo_fonte": "DECRETO Nº 8522, DE 28 DE SETEMBRO DE 2015",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITÓRIO NACIONAL, DA RESOLUÇÃO 2160 (2014), DE 17 DE JUNHO DE 2014, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS, QUE RENOVA O REGIME DE SANÇÕES APLICÁVEL AO TALIBÃ E DÁ OUTRAS DISPOSIÇÕES.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414171"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

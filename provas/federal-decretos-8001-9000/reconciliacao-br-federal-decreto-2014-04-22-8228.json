@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-04-22-8228",
+  "fonte_principal": "camara-D8228",
+  "sha256_fonte_principal": "a623c7b0bc484505209977f0733b98f6b25dd95c75951523d7f2197187fa4eb8",
+  "sha256_conteudo": "a623c7b0bc484505209977f0733b98f6b25dd95c75951523d7f2197187fa4eb8",
+  "capturado_em": "2026-11-04T20:15:52Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8228-22-abril-2014-778537-publicacaooriginal-143927-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8228.htm.xz",
+  "sha256_snapshot_armazenado": "d4c37963dca65fd9f1ed5029ac866f21538cd0863497fb25de7227acc4e49736",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 16,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-04-22-8228",
+    "numero": "8228",
+    "data": "2014-04-22",
+    "titulo_fonte": "DECRETO Nº 8228, DE 22 DE ABRIL DE 2014",
+    "ementa": "ESTABELECE REGRAS ESPECIAIS PARA CONCESSSÃO DE DIARIAS E PASSAGENS PARA SERVIDORES E  MILITARES EM DECORRENCIA DA COPA DO MUNDO  FIFA 2014.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413716"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

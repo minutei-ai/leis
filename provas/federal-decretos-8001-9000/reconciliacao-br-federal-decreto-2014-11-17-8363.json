@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-11-17-8363",
+  "fonte_principal": "camara-D8363",
+  "sha256_fonte_principal": "ffc99146d431df2bde51b04b6c905b931c09e047fc36d53ff71259fa6ae55346",
+  "sha256_conteudo": "ffc99146d431df2bde51b04b6c905b931c09e047fc36d53ff71259fa6ae55346",
+  "capturado_em": "2026-11-04T20:20:26Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8363-17-novembro-2014-779598-publicacaooriginal-145427-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8363.htm.xz",
+  "sha256_snapshot_armazenado": "065338d36a9524a2f346dd2b52bd671f03cefce85e6a4cd0698bbacb661396b5",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 182,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-11-17-8363",
+    "numero": "8363",
+    "data": "2014-11-17",
+    "titulo_fonte": "DECRETO Nº 8363, DE 17 DE NOVEMBRO DE 2014",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPUBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPUBLICA DA INDIA SOBRE ASSISTENCIA MUTUA EM MATERIA ADUANEIRA, FIRMADO EM NOVA DELHI, EM 4 DE MAIO DE 2007.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413914"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

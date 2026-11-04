@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-02-19-8196",
+  "fonte_principal": "camara-D8196",
+  "sha256_fonte_principal": "318cf2af2be217a64576d781bf339eabb0495736a0916619327fe094af7c3c02",
+  "sha256_conteudo": "318cf2af2be217a64576d781bf339eabb0495736a0916619327fe094af7c3c02",
+  "capturado_em": "2026-11-04T20:15:08Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8196-19-fevereiro-2014-778210-publicacaooriginal-143430-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8196.htm.xz",
+  "sha256_snapshot_armazenado": "9e36884e67e3c6b791e419d81532e279b2c96ed5f8c1d3c72145573c9e5b18b6",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-02-19-8196",
+    "numero": "8196",
+    "data": "2014-02-19",
+    "titulo_fonte": "DECRETO Nº 8196, DE 19 DE FEVEREIRO DE 2014",
+    "ementa": "DISPÕE SOBRE O SALDO REMANESCENTE DAS AUTORIZAÇÕES PARA PROVIMENTO DE CARGOS, EMPREGOS E FUNÇÕES CONSTANTES DO ANEXO V A  LEI  12.798, DE 4 DE ABRIL DE 2013 - LEI ORÇAMENTARIA ANUAL DE 2013.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413590"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2013-05-16-8013",
+  "fonte_principal": "camara-D8013",
+  "sha256_fonte_principal": "d1da5e6ee5de3225b5b8f2305634678ed800b5fc573909f789adc9042bbe38b0",
+  "sha256_conteudo": "d1da5e6ee5de3225b5b8f2305634678ed800b5fc573909f789adc9042bbe38b0",
+  "capturado_em": "2026-11-04T20:13:39Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2013/decreto-8013-16-maio-2013-776016-publicacaooriginal-139849-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8013.htm.xz",
+  "sha256_snapshot_armazenado": "bcf7a9b34378406af7ee5f72656eb8288c84efa8e8593f14563bf774672fad8d",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 46,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2013-05-16-8013",
+    "numero": "8013",
+    "data": "2013-05-16",
+    "titulo_fonte": "DECRETO Nº 8013, DE 16 DE MAIO DE 2013",
+    "ementa": "DISPÕE SOBRE A EXECUÇÃO, NO TERRITORIO NACIONAL, DA RESOLUÇÃO 2079 (2012), DE 12 DE DEZEMBRO DE 2012, DO CONSELHO DE SEGURANÇA DAS NAÇÕES UNIDAS QUE, ENTRE OUTRAS DISPOSIÇÕES, RENOVA POR DOZE MESES O REGIME DE SANÇÕES APLICAVEIS A LIBERIA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "590615"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

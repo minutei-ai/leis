@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2014-07-04-8286",
+  "fonte_principal": "camara-D8286",
+  "sha256_fonte_principal": "bfeca4c0c957c5aae1e376ab59f219b9ee862985f99045786a80458b8806aba8",
+  "sha256_conteudo": "bfeca4c0c957c5aae1e376ab59f219b9ee862985f99045786a80458b8806aba8",
+  "capturado_em": "2026-11-04T20:16:31Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2014/decreto-8286-4-julho-2014-779037-publicacaooriginal-144558-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8286.htm.xz",
+  "sha256_snapshot_armazenado": "5fc57fc4ab1697aade736cbaa0bf4ac7a5e888200a4ed3d342f025a33d4d2ea1",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2014-07-04-8286",
+    "numero": "8286",
+    "data": "2014-07-04",
+    "titulo_fonte": "DECRETO Nº 8286, DE 4 DE JULHO DE 2014",
+    "ementa": "DISCRIMINA AÇÕES DO PROGRAMA DE ACELERAÇÃO DO CRESCIMENTO - PAC A SEREM EXECUTADAS POR MEIO DE TRANSFERENCIA OBRIGATORIA.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "413780"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

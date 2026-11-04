@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2015-01-28-8394",
+  "fonte_principal": "camara-D8394",
+  "sha256_fonte_principal": "f2af0460ae61ed7731ca8af203592cc6ed40dc8bdc8500383872fb57f98a4840",
+  "sha256_conteudo": "f2af0460ae61ed7731ca8af203592cc6ed40dc8bdc8500383872fb57f98a4840",
+  "capturado_em": "2026-11-04T20:21:06Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2015/decreto-8394-28-janeiro-2015-780092-publicacaooriginal-146006-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8394.htm.xz",
+  "sha256_snapshot_armazenado": "f3d15c90146d44c89a217bb1bc21b869406bd816373957ba129131e56b769976",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2015-01-28-8394",
+    "numero": "8394",
+    "data": "2015-01-28",
+    "titulo_fonte": "DECRETO Nº 8394, DE 28 DE JANEIRO DE 2015",
+    "ementa": "DEFINE A ÁREA DO PORTO ORGANIZADO DE VILA DO CONDE, ESTADO DO PARÁ.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "593796"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "documento": "br-federal-decreto-2017-01-24-8974",
+  "fonte_principal": "camara-D8974",
+  "sha256_fonte_principal": "b338741bc537b9cfa6a460d9decfc339b15a2ae68bc51df8be145fd8d7639208",
+  "sha256_conteudo": "b338741bc537b9cfa6a460d9decfc339b15a2ae68bc51df8be145fd8d7639208",
+  "capturado_em": "2026-11-04T20:36:49Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2017/decreto-8974-24-janeiro-2017-784205-publicacaooriginal-151858-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8974.htm.xz",
+  "sha256_snapshot_armazenado": "941e46aa685a0483c6c3dcbedc3d6340e605468e6ee3084194993fc7b7d60e93",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 20,
+    "artigos": 1,
+    "primeiros_artigos": [
+      "3"
+    ],
+    "ultimos_artigos": [
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2017-01-24-8974",
+    "numero": "8974",
+    "data": "2017-01-24",
+    "titulo_fonte": "DECRETO Nº 8974, DE 24 DE JANEIRO DE 2017",
+    "ementa": "APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES DE CONFIANÇA DO INSTITUTO CHICO MENDES DE CONSERVAÇÃO DA BIODIVERSIDADE - INSTITUTO CHICO MENDES, REMANEJA CARGOS EM COMISSÃO E FUNÇÃO DE CONFIANÇA E SUBSTITUI CARGOS EM COMISSÃO DO GRUPO- DIREÇÃO E ASSESSORAMENTO SUPERIORES - DAS POR FUNÇÕES COMISSIONADAS DO PODER EXECUTIVO - FCPE.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "603322"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

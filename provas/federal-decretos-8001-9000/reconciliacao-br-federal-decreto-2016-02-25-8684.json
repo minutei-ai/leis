@@ -1,0 +1,46 @@
+{
+  "documento": "br-federal-decreto-2016-02-25-8684",
+  "fonte_principal": "camara-D8684",
+  "sha256_fonte_principal": "2ebf28a2ae2c7c0778f23a2b30f33db6ef1e53c314cc76f9e3ca237114fe7daf",
+  "sha256_conteudo": "2ebf28a2ae2c7c0778f23a2b30f33db6ef1e53c314cc76f9e3ca237114fe7daf",
+  "capturado_em": "2026-11-04T20:26:06Z",
+  "url": "https://www2.camara.gov.br/legin/fed/decret/2016/decreto-8684-25-fevereiro-2016-782456-publicacaooriginal-149571-pe.html",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/camara-D8684.htm.xz",
+  "sha256_snapshot_armazenado": "ebb03137b2f6457d96b88e1eee4a6db1d174eb4014608569a29b345373d35c3f",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "camara-textoNorma"
+  },
+  "conversao": {
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "trechos_riscados": 0,
+    "imagens": [],
+    "tabelas": [],
+    "blocos": 6,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": []
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2016-02-25-8684",
+    "numero": "8684",
+    "data": "2016-02-25",
+    "titulo_fonte": "DECRETO Nº 8684, DE 25 DE FEVEREIRO DE 2016",
+    "ementa": "ALTERA O DECRETO Nº 4.650, DE 27 DE MARÇO DE 2003, QUE APROVA A ESTRUTURA REGIMENTAL E O QUADRO DEMONSTRATIVO DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DO DEPARTAMENTO NACIONAL DE OBRAS CONTRA AS SECAS - DNOCS, E REMANEJA CARGOS EM COMISSÃO.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "camara",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414483"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}

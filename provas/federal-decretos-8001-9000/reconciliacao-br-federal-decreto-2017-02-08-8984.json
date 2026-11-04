@@ -1,0 +1,64 @@
+{
+  "documento": "br-federal-decreto-2017-02-08-8984",
+  "fonte_principal": "planalto-D8984",
+  "sha256_fonte_principal": "2e9ba008e42b288034d7b2cc0701d09cdca39c7a90125c731ccc8f1d763dc4ef",
+  "sha256_conteudo": "107ebae2297c4b62800e3c3ed928c2b9f55277b0759f9e4145d086bb3a8050ca",
+  "capturado_em": "2026-11-04T20:44:27Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/decreto/D8984.htm",
+  "snapshot": "provas/federal-decretos-8001-9000/fontes/planalto-D8984.htm.xz",
+  "sha256_snapshot_armazenado": "790e029e0c19d243b173455710af999404dccf72756fcedcd15047b401a3c5f4",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "planalto: texto integral da página == Markdown convertido; camara: h1+#textoNorma == Markdown após trim",
+    "equivalente": true,
+    "metodo": "planalto-fullpage"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 75,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-decreto-2017-02-08-8984",
+    "numero": "8984",
+    "data": "2017-02-08",
+    "titulo_fonte": "DECRETO Nº 8984, DE 8 DE FEVEREIRO DE 2017",
+    "ementa": "PROMULGA O ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DO REINO UNIDO DA GRÃ-BRETANHA E IRLANDA DO NORTE PARA EVITAR A DUPLA TRIBUTAÇÃO DE SALÁRIOS, ORDENADOS E OUTRAS REMUNERAÇÕES AUFERIDAS POR MEMBRO DE TRIPULAÇÃO DE AERONAVE OPERADA EM TRÁFEGO INTERNACIONAL, FIRMADO EM BRASÍLIA, EM 2 DE SETEMBRO DE 2010.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "414994"
+  },
+  "limites": [
+    "Fonte única nesta entrega; fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Lote parcial da #81; demais milhares pós-1991 e falhas de coleta em PENDENCIAS/resume."
+  ]
+}
