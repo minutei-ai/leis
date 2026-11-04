@@ -3,7 +3,7 @@
   "cobertura": "parcial",
   "contrato_versao": 1,
   "issue": 57,
-  "nota": "Índice comum do núcleo temático de regulamentação local de licitações (issue #57). Integra os catálogos UF já publicados (PR, SP, MG, GO) sem duplicar Markdown. Seleção futura por ente/órgão contratante e âmbito do edital — nunca pelo endereço do fornecedor. Não certifica vigência nem inventário nacional.",
+  "nota": "Índice comum do núcleo temático de regulamentação local de licitações (issue #57). Integra os catálogos UF já publicados (PR, SP, MG, GO) sem duplicar Markdown. Seleção futura por ente/órgão contratante e âmbito do edital — nunca pelo endereço do fornecedor. Não certifica vigência nem inventário nacional. Auditoria 2026-11-04: inclui ato alterador BH 18.621 no índice MG.",
   "prioritarios_issue": [
     {
       "ente": "Estado do Paraná",
@@ -126,6 +126,12 @@
           "norma_id": "br-municipal-3106200-decreto-2023-01-25-18242",
           "arquivo": "municipais/3106200/br-municipal-3106200-decreto-2023-01-25-18242.md",
           "uf": "MG"
+        },
+        {
+          "norma_id": "br-municipal-3106200-decreto-2024-02-05-18621",
+          "arquivo": "municipais/3106200/br-municipal-3106200-decreto-2024-02-05-18621.md",
+          "uf": "MG",
+          "nota": "Ato alterador do 18.289; não é consolidação nem regulamento geral."
         }
       ],
       "reutilizados": [
@@ -150,7 +156,7 @@
         {
           "id": "bh-18289-consolidacao-18621",
           "tipo": "edicao-alternativa-nao-recuperada",
-          "descricao": "Decreto 18.621/2024 altera 18.289; consolidação/atualização não recuperada. A publicação DOM de 18.289 permanece como edição histórica.",
+          "descricao": "Ato alterador 18.621/2024 publicado. Consolidação textual do 18.289 com alterações incorporadas permanece não recuperada; mapas dispositivo a dispositivo pendentes.",
           "url_catalogo_alterador": "https://dom-web.pbh.gov.br/visualizacao/ato/434009"
         }
       ],
@@ -218,10 +224,10 @@
     ]
   },
   "pendencias": [
-    "Candidatos BH 17.813/18.096/18.240/18.242: íntegras publicadas; consolidação 18.621/2024 e mapas dispositivo a dispositivo ainda pendentes.",
-    "Consolidação textual BH 18.289 com alterações do 18.621/2024 ainda não recuperada (ato alterador publicado separadamente).",
+    "Candidatos BH 17.813/18.096/18.240/18.242 e alterador 18.621: íntegras publicadas; consolidação 18.289+18.621 e mapas dispositivo a dispositivo ainda pendentes.",
     "Fac-símile DOM SP do Decreto 62.100/2022 pendente.",
+    "Goiânia 2.469 é parcial-art60 — não contar como regulamento geral municipal.",
     "Demais entes/municípios fora do recorte PR/SP/Goiânia/BH: ver issues #73 e #101.",
-    "Não fechar #57 enquanto pendências materiais dos catálogos UF e candidatos BH permanecerem abertas."
+    "Não fechar #57 enquanto pendências materiais dos catálogos UF e consolidação BH permanecerem abertas."
   ]
 }

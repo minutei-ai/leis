@@ -3,16 +3,16 @@
   "cobertura": "parcial",
   "contrato_versao": 1,
   "issue": 73,
-  "nota": "Inventário dirigido da regulamentação estadual da Lei 14.133 nas 27 UFs. Amostra a partir do acervo em 2026-11-04 (commit base desta branch). Não inventaria capitais (issue #101). Ausência neste catálogo não prova inexistência no ordenamento. Não certifica vigência.",
+  "nota": "Inventário dirigido da regulamentação estadual da Lei 14.133 nas 27 UFs. Atualizado após auditoria de IDs opacos já publicados e coleta do Decreto AM 47.133/2023 e PE 55.916/2023 (específico). Não inventaria capitais (issue #101). Menção textual a 14.133 não conta como norma regulamentadora. Decretos só de art. 60 / parcial / transitório não contam como regulamento geral. Ausência neste catálogo não prova inexistência no ordenamento. Erro HTTP não é ausência. Não certifica vigência.",
   "ufs": [
     {
       "uf": "AC",
       "status_acervo": "nao-encontrado-no-acervo",
       "decretos_14133": [],
       "srp_pesquisa_precos": "desconhecido",
-      "fonte_oficial_indicada": "https://www.al.ac.leg.br/",
+      "fonte_oficial_indicada": "https://legis.ac.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar na fonte oficial o decreto estadual de regulamentação da 14.133 (notícia de 2023 sobre regulamentação acreana); publicar íntegra ou pendência explícita de acesso. Menções em leis AC do acervo não contam como regulamento."
       ]
     },
     {
@@ -22,17 +22,25 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.al.al.leg.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133, alterações, SRP e pesquisa de preços."
       ]
     },
     {
       "uf": "AM",
-      "status_acervo": "nao-encontrado-no-acervo",
-      "decretos_14133": [],
-      "srp_pesquisa_precos": "desconhecido",
-      "fonte_oficial_indicada": "https://www.aleam.gov.br/",
+      "status_acervo": "decreto-geral-publicado",
+      "decretos_14133": [
+        {
+          "norma_id": "br-am-decreto-2023-03-10-47133",
+          "titulo": "Decreto 47.133/2023",
+          "arquivo": "estaduais/AM/br-am-decreto-2023-03-10-47133.md",
+          "carater": "regulamento-geral-estadual",
+          "fonte_url": "https://legisla.imprensaoficial.am.gov.br/diario_am/41536/2023/3/9759"
+        }
+      ],
+      "srp_pesquisa_precos": "parcial-no-proprio-decreto-geral",
+      "fonte_oficial_indicada": "https://legisla.imprensaoficial.am.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Inventariar alterações posteriores (ex.: Decreto 47.192/2023) e anexos do DOE se existirem; normas específicas de SRP/pesquisa de preços se autonomizadas."
       ]
     },
     {
@@ -42,7 +50,7 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.al.ap.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133, alterações, SRP e pesquisa de preços."
       ]
     },
     {
@@ -52,7 +60,10 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.legislabahia.ba.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto estadual de regulamentação da Lei Federal 14.133. Atenção: br-ba-norma-137432 é Lei estadual BA 14.133/2019 (número coincidente), não a federal."
+      ],
+      "leis_relacionadas_no_acervo": [
+        "br-ba-norma-137432 (Lei estadual BA 14.133/2019 — NÃO é a federal 14.133/2021)"
       ]
     },
     {
@@ -62,7 +73,7 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.al.ce.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto geral estadual da 14.133. Há indícios de decretos temáticos (ex.: ETP/TR Decreto 35.283/2023 em fontes externas) ainda não publicados neste acervo."
       ]
     },
     {
@@ -80,7 +91,7 @@
       "srp_pesquisa_precos": "parcial-no-proprio-decreto-geral",
       "fonte_oficial_indicada": "https://www.sinj.df.gov.br/",
       "pendencias": [
-        "Inventariar alterações posteriores ao Decreto 44.330/2023 (ex.: 44.365/2023 e outras referidas no SINJ) e normas específicas de SRP/pesquisa de preços se autonomizadas."
+        "Inventariar alterações posteriores ao Decreto 44.330/2023 e normas específicas de SRP/pesquisa de preços se autonomizadas."
       ]
     },
     {
@@ -90,12 +101,12 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.al.es.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar regulamento geral. Fonte externa aponta Decreto 5.353-R/2023 como regras de transição (não geral); classificar corretamente se/quando publicado."
       ]
     },
     {
       "uf": "GO",
-      "status_acervo": "decreto-parcial-publicado",
+      "status_acervo": "suite-tematica-sem-decreto-geral",
       "decretos_14133": [
         {
           "norma_id": "br-go-norma-106877",
@@ -103,13 +114,35 @@
           "arquivo": "estaduais/GO/br-go-norma-106877.md",
           "carater": "pregao-eletronico",
           "fonte_url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106877/decreto-numerado-10247"
+        },
+        {
+          "norma_id": "br-go-norma-108215",
+          "titulo": "Decreto 10.359/2023",
+          "arquivo": "estaduais/GO/br-go-norma-108215.md",
+          "carater": "concorrencia",
+          "fonte_url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108215"
+        },
+        {
+          "norma_id": "br-go-norma-109161",
+          "titulo": "Decreto 10.492/2024",
+          "arquivo": "estaduais/GO/br-go-norma-109161.md",
+          "carater": "art20-bens-consumo",
+          "fonte_url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109161"
+        },
+        {
+          "norma_id": "br-go-norma-104696",
+          "titulo": "Decreto 10.004/2021",
+          "arquivo": "estaduais/GO/br-go-norma-104696.md",
+          "carater": "grupo-trabalho-minuta",
+          "fonte_url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104696"
         }
       ],
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://legisla.casacivil.go.gov.br/",
       "pendencias": [
-        "Localizar decreto geral estadual de regulamentação da 14.133 além do pregão 10.247; SRP e pesquisa de preços."
-      ]
+        "Localizar decreto geral estadual além da suite temática (pregão/concorrência/art.20); SRP e pesquisa de preços."
+      ],
+      "nota": "Reutiliza IDs opacos já publicados. Suite temática ≠ regulamento geral."
     },
     {
       "uf": "MA",
@@ -118,12 +151,12 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.al.ma.leg.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133, alterações, SRP e pesquisa de preços."
       ]
     },
     {
       "uf": "MG",
-      "status_acervo": "decreto-parcial-publicado",
+      "status_acervo": "suite-tematica-sem-decreto-geral",
       "decretos_14133": [
         {
           "norma_id": "br-mg-decreto-2023-11-24-48723",
@@ -131,22 +164,61 @@
           "arquivo": "estaduais/MG/br-mg-decreto-2023-11-24-48723.md",
           "carater": "menor-preco-maior-desconto-eletronico",
           "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/DEC/48723/2023/atualizado"
+        },
+        {
+          "norma_id": "br-mg-decreto-2023-03-17-48587",
+          "titulo": "Decreto 48.587/2023",
+          "arquivo": "estaduais/MG/br-mg-decreto-2023-03-17-48587.md",
+          "carater": "agente-contratacao-equipe-comissao",
+          "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/DEC/48587/2023/"
+        },
+        {
+          "norma_id": "br-mg-decreto-2023-03-17-48586",
+          "titulo": "Decreto 48.586/2023",
+          "arquivo": "estaduais/MG/br-mg-decreto-2023-03-17-48586.md",
+          "carater": "enquadramento-bens-comum-luxo",
+          "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/DEC/48586/2023/"
+        },
+        {
+          "norma_id": "br-mg-decreto-2024-02-23-48779",
+          "titulo": "Decreto 48.779/2024",
+          "arquivo": "estaduais/MG/br-mg-decreto-2024-02-23-48779.md",
+          "carater": "srp-arts-82-a-86",
+          "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/DEC/48779/2024/"
+        },
+        {
+          "norma_id": "br-mg-decreto-2024-11-07-48938",
+          "titulo": "Decreto 48.938/2024",
+          "arquivo": "estaduais/MG/br-mg-decreto-2024-11-07-48938.md",
+          "carater": "desenvolvimento-sustentavel-licitacoes",
+          "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/DEC/48938/2024/"
+        },
+        {
+          "norma_id": "br-mg-decreto-2025-08-07-49083",
+          "titulo": "Decreto 49.083/2025",
+          "arquivo": "estaduais/MG/br-mg-decreto-2025-08-07-49083.md",
+          "carater": "parametros-art25-e-art60-IV",
+          "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/DEC/49083/2025/"
         }
       ],
-      "srp_pesquisa_precos": "desconhecido",
+      "srp_pesquisa_precos": "srp-publicado-48779",
       "fonte_oficial_indicada": "https://www.almg.gov.br/",
       "pendencias": [
-        "Mapear decretos estaduais de SRP e pesquisa de preços; conferir se há regulamento geral além do 48.723."
-      ]
+        "Não há decreto geral único no acervo; suite temática reutilizada sob IDs opacos. Mapear pesquisa de preços autônoma e eventuais decretos gerais posteriores."
+      ],
+      "nota": "Reutiliza decretos já publicados. Nenhum é regulamento geral completo da 14.133."
     },
     {
       "uf": "MS",
-      "status_acervo": "nao-encontrado-no-acervo",
+      "status_acervo": "lei-pontual-sem-decreto-geral-no-acervo",
       "decretos_14133": [],
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.spdo.ms.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto geral estadual da 14.133; SRP e pesquisa de preços."
+      ],
+      "leis_relacionadas_no_acervo": [
+        "br-ms-conleg-govato-81c493c2f953459604258bab004aaaa0 (Lei 6.316/2024 — fases do procedimento de licitação; não é decreto geral)"
       ]
     },
     {
@@ -156,7 +228,7 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.al.mt.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133, alterações, SRP e pesquisa de preços."
       ]
     },
     {
@@ -166,7 +238,7 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.alepa.pa.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133, alterações, SRP e pesquisa de preços."
       ]
     },
     {
@@ -176,21 +248,29 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.al.pb.leg.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133, alterações, SRP e pesquisa de preços."
       ]
     },
     {
       "uf": "PE",
-      "status_acervo": "leis-pontuais-sem-decreto-geral-no-acervo",
-      "decretos_14133": [],
-      "leis_relacionadas_no_acervo": [
-        "br-pe-norma-75054 (Lei 18.384/2023 gratificações agentes 14.133; cita Decreto 55.916/2023)",
-        "br-pe-norma-61182 (regras transitórias art. 191)"
+      "status_acervo": "leis-e-decreto-especifico-sem-geral",
+      "decretos_14133": [
+        {
+          "norma_id": "br-pe-decreto-2023-12-12-55916",
+          "titulo": "Decreto 55.916/2023",
+          "arquivo": "estaduais/PE/br-pe-decreto-2023-12-12-55916.md",
+          "carater": "especifico-gratificacoes-lei-18384",
+          "fonte_url": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=6&numero=55916&complemento=0&ano=2023&tipo=&url="
+        }
       ],
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://legis.alepe.pe.gov.br/",
       "pendencias": [
-        "Recuperar Decreto estadual geral de regulamentação da 14.133; recuperar Decreto 55.916/2023 se for SRP/procedimento."
+        "Recuperar decreto estadual geral de regulamentação da 14.133 se existir; 55.916 é específico (gratificações)."
+      ],
+      "leis_relacionadas_no_acervo": [
+        "br-pe-norma-75054 (Lei 18.384/2023 gratificações agentes 14.133)",
+        "br-pe-norma-61182 (regras transitórias art. 191)"
       ]
     },
     {
@@ -200,7 +280,7 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.alepi.pi.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133, alterações, SRP e pesquisa de preços."
       ]
     },
     {
@@ -226,18 +306,23 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.alerj.rj.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133. Menções em LDOs/leis do acervo não contam como regulamento."
       ]
     },
     {
       "uf": "RN",
-      "status_acervo": "nao-encontrado-no-acervo",
+      "status_acervo": "identificado-fora-do-acervo",
       "decretos_14133": [],
       "srp_pesquisa_precos": "desconhecido",
-      "fonte_oficial_indicada": "https://www.al.rn.gov.br/",
+      "fonte_oficial_indicada": "https://www.diariooficial.rn.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
-      ]
+        "Fontes secundárias identificam Decreto 32.449/2023 como regulamento geral estadual da 14.133; íntegra oficial ainda não recuperada neste ambiente (acesso DOE/SEAD a aprofundar). Não tratar identificação como publicação."
+      ],
+      "identificacao_externa": {
+        "titulo": "Decreto 32.449/2023",
+        "carater_alegado": "regulamento-geral-estadual",
+        "status": "identificado-nao-coletado"
+      }
     },
     {
       "uf": "RO",
@@ -246,7 +331,7 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.al.ro.leg.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133, alterações, SRP e pesquisa de preços."
       ]
     },
     {
@@ -256,7 +341,7 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.al.rr.leg.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133, alterações, SRP e pesquisa de preços."
       ]
     },
     {
@@ -266,7 +351,7 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://ww3.al.rs.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133. Menção em norma ALRS do acervo não é regulamento geral."
       ]
     },
     {
@@ -276,7 +361,7 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.alesc.sc.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133. Menções em leis SC do acervo não contam como regulamento."
       ]
     },
     {
@@ -286,12 +371,12 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://al.se.leg.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133, alterações, SRP e pesquisa de preços."
       ]
     },
     {
       "uf": "SP",
-      "status_acervo": "decreto-transitorio-publicado",
+      "status_acervo": "suite-tematica-e-transitorio",
       "decretos_14133": [
         {
           "norma_id": "br-sp-norma-207462",
@@ -299,13 +384,91 @@
           "arquivo": "estaduais/SP/br-sp-norma-207462.md",
           "carater": "aplicacao-transitoria-regulamentos-federais",
           "fonte_url": "https://www.al.sp.gov.br/norma/207462"
+        },
+        {
+          "norma_id": "br-sp-norma-201200",
+          "titulo": "Decreto 66.294/2021",
+          "arquivo": "estaduais/SP/br-sp-norma-201200.md",
+          "carater": "aplicacao-inicial-14133",
+          "fonte_url": "https://www.al.sp.gov.br/norma/201200"
+        },
+        {
+          "norma_id": "br-sp-norma-207328",
+          "titulo": "Decreto 67.570/2023",
+          "arquivo": "estaduais/SP/br-sp-norma-207328.md",
+          "carater": "marco-temporal-transicao",
+          "fonte_url": "https://www.al.sp.gov.br/norma/207328"
+        },
+        {
+          "norma_id": "br-sp-norma-208053",
+          "titulo": "Decreto 67.689/2023",
+          "arquivo": "estaduais/SP/br-sp-norma-208053.md",
+          "carater": "plano-contratacoes-anual",
+          "fonte_url": "https://www.al.sp.gov.br/norma/208053"
+        },
+        {
+          "norma_id": "br-sp-norma-208415",
+          "titulo": "Decreto 67.888/2023",
+          "arquivo": "estaduais/SP/br-sp-norma-208415.md",
+          "carater": "pesquisa-precos-art23",
+          "fonte_url": "https://www.al.sp.gov.br/norma/208415"
+        },
+        {
+          "norma_id": "br-sp-norma-208570",
+          "titulo": "Decreto 67.985/2023",
+          "arquivo": "estaduais/SP/br-sp-norma-208570.md",
+          "carater": "art20-bens-consumo",
+          "fonte_url": "https://www.al.sp.gov.br/norma/208570"
+        },
+        {
+          "norma_id": "br-sp-norma-208663",
+          "titulo": "Decreto 68.017/2023",
+          "arquivo": "estaduais/SP/br-sp-norma-208663.md",
+          "carater": "estudo-tecnico-preliminar",
+          "fonte_url": "https://www.al.sp.gov.br/norma/208663"
+        },
+        {
+          "norma_id": "br-sp-norma-208670",
+          "titulo": "Decreto 68.021/2023",
+          "arquivo": "estaduais/SP/br-sp-norma-208670.md",
+          "carater": "catalogo-eletronico-padronizacao",
+          "fonte_url": "https://www.al.sp.gov.br/norma/208670"
+        },
+        {
+          "norma_id": "br-sp-norma-208917",
+          "titulo": "Decreto 68.185/2023",
+          "arquivo": "estaduais/SP/br-sp-norma-208917.md",
+          "carater": "termo-referencia",
+          "fonte_url": "https://www.al.sp.gov.br/norma/208917"
+        },
+        {
+          "norma_id": "br-sp-norma-208969",
+          "titulo": "Decreto 68.220/2023",
+          "arquivo": "estaduais/SP/br-sp-norma-208969.md",
+          "carater": "agente-contratacao",
+          "fonte_url": "https://www.al.sp.gov.br/norma/208969"
+        },
+        {
+          "norma_id": "br-sp-norma-209075",
+          "titulo": "Decreto 68.304/2024",
+          "arquivo": "estaduais/SP/br-sp-norma-209075.md",
+          "carater": "contratacao-direta-eletronica",
+          "fonte_url": "https://www.al.sp.gov.br/norma/209075"
+        },
+        {
+          "norma_id": "br-sp-norma-209266",
+          "titulo": "Decreto 68.422/2024",
+          "arquivo": "estaduais/SP/br-sp-norma-209266.md",
+          "carater": "leilao-eletronico-art31",
+          "fonte_url": "https://www.al.sp.gov.br/norma/209266"
         }
       ],
-      "srp_pesquisa_precos": "desconhecido",
+      "srp_pesquisa_precos": "pesquisa-precos-208415",
       "fonte_oficial_indicada": "https://www.al.sp.gov.br/",
       "pendencias": [
-        "Verificar se há regulamentação estadual específica posterior ao 67.608; preservar caráter transitório."
-      ]
+        "Não há decreto geral único; suite temática + aplicação transitória de regulamentos federais. Preservar caráter transitório do 67.608. Verificar SRP autônomo."
+      ],
+      "nota": "Reutiliza IDs opacos ALESP. Suite temática ≠ regulamento geral único."
     },
     {
       "uf": "TO",
@@ -314,13 +477,53 @@
       "srp_pesquisa_precos": "desconhecido",
       "fonte_oficial_indicada": "https://www.al.to.leg.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Localizar decreto(s) estadual(is) que regulamenta(m) a 14.133, alterações, SRP e pesquisa de preços."
       ]
     }
   ],
+  "resumo": {
+    "decreto_geral_publicado": [
+      "PR",
+      "DF",
+      "AM"
+    ],
+    "suite_tematica_ou_transitorio": [
+      "MG",
+      "GO",
+      "SP"
+    ],
+    "especifico_ou_pontual": [
+      "PE",
+      "MS"
+    ],
+    "identificado_nao_coletado": [
+      "RN"
+    ],
+    "nao_encontrado_no_acervo": [
+      "AC",
+      "AL",
+      "AP",
+      "BA",
+      "CE",
+      "ES",
+      "MA",
+      "MT",
+      "PA",
+      "PB",
+      "PI",
+      "RJ",
+      "RO",
+      "RR",
+      "RS",
+      "SC",
+      "SE",
+      "TO"
+    ]
+  },
   "pendencias_gerais": [
-    "Completar coleta das 23 UFs sem decreto geral no acervo (além de aprofundar GO/MG/SP/PE).",
-    "Depois do lote estadual, repetir o inventário para as capitais (issue #101).",
+    "Completar coleta dos decretos gerais das UFs ainda sem regulamento geral no acervo (além de aprofundar suites MG/GO/SP e PE).",
+    "RN 32.449/2023: identificado fora do acervo — recuperar íntegra oficial.",
+    "Depois do lote estadual, avançar capitais (issue #101) com LO + decreto geral (parcial-art60 não conta).",
     "Não inferir vigência pela presença de arquivo."
   ]
 }

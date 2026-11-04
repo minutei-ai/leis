@@ -1,0 +1,18 @@
+{
+  "capturado_em": "2026-11-04T20:20:00Z",
+  "nota": "Captura HTTP oficial Alepe do Decreto PE 55.916/2023 (específico: gratificações). Não é regulamento geral da 14.133. Não certifica vigência.",
+  "fontes": [
+    {
+      "chave": "alepe-decreto-55916-2023",
+      "url": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=6&numero=55916&complemento=0&ano=2023&tipo=&url=",
+      "arquivo": "provas/regulamentacao-14133-ufs/PE/fontes/alepe-decreto-55916-2023.html.xz",
+      "sha256_conteudo": "c69a6c4ceee20eaf99f2d7ee58da1e1e31949a283afabe7238ee985425a5b7e1",
+      "sha256_arquivo_xz": "122742e6e1f8abf652172083adfe5b95e2e5a4bbc079e60af5bed3e911f02e28",
+      "bytes_fonte": 98189,
+      "capturado_em": "2026-11-04T20:20:00Z",
+      "sha256_corpo_markdown": "4316315976e3282b4f159a3bb04693f38991cbce057270bc95ab3f317ee0b356",
+      "sha256_markdown": "39ceb656c02fe090202fbb528b95cd9039b5aff071b6e874431c6f8fc1774ef2",
+      "carater": "especifico-gratificacoes-lei-18384"
+    }
+  ]
+}
