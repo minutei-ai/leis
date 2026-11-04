@@ -4,19 +4,21 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**229.962 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**230.022 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
 - [Constituição Federal](federal/br-federal-constituicao-1988-10-05.md)
 - [Código Civil](federal/br-federal-lei-2002-01-10-10406.md)
 - [Código de Processo Civil](federal/br-federal-lei-2015-03-16-13105.md)
+- [Código de Defesa do Consumidor](federal/br-federal-lei-1990-09-11-8078.md)
+- [Estatuto da Criança e do Adolescente](federal/br-federal-lei-1990-07-13-8069.md)
 
 ## Explore o acervo
 
 | Esfera | Legislação | Normas |
 | --- | --- | ---: |
-| Federal | [Brasil](federal/) | 97.219 |
+| Federal | [Brasil](federal/) | 97.277 |
 | Estadual | [Acre](estaduais/AC/) | 1.680 |
 | Estadual | [Alagoas](estaduais/AL/) | 5 |
 | Estadual | [Amapá](estaduais/AP/) | 24 |
@@ -53,9 +55,10 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Municipal | [Marechal Deodoro · AL](municipais/2704708/) | 7 |
 | Municipal | [Parauapebas · PA](municipais/1505536/) | 4 |
 | Municipal | [Rio Largo · AL](municipais/2707701/) | 2 |
-| Municipal | [São Paulo · SP](municipais/3550308/) | 7.473 |
+| Municipal | [São Paulo · SP](municipais/3550308/) | 7.474 |
 | Municipal | [Tomé-Açu · PA](municipais/1508001/) | 1 |
 | Municipal | [Aparecida de Goiânia · GO](municipais/5201405/) | 4.229 |
+| Municipal | [Goiânia · GO](municipais/5208707/) | 1 |
 | Municipal | [Rio Verde · GO](municipais/5218805/) | 1.089 |
 
 As pastas municipais usam o código IBGE do município. As contagens da tabela representam normas e incluem constituições, emendas, decretos e outros atos normativos. Anexos em arquivos próprios são contados separadamente.
@@ -81,9 +84,13 @@ Para consulta automatizada, nove arquivos de `federal/` (dois deles em `federal/
 
 Os Decretos [10.922/2021](federal/br-federal-decreto-2021-12-30-10922.md), [11.317/2022](federal/br-federal-decreto-2022-12-29-11317.md), [11.871/2023](federal/br-federal-decreto-2023-12-29-11871.md), [12.343/2024](federal/br-federal-decreto-2024-12-30-12343.md) e [12.807/2025](federal/br-federal-decreto-2025-12-29-12807.md), que atualizam valores da Lei 14.133, têm o anexo/tabela de valores recuperado do Planalto, com captura, hashes e prova de cobertura em [provas/decretos-atualizacao-14133/](provas/decretos-atualizacao-14133/). Não se deve deduzir o valor aplicável a uma data apenas pelo ano do decreto.
 
+## LGPD (catálogo temático)
+
+A [Lei 13.709/2018 (LGPD)](federal/br-federal-lei-2018-08-14-13709.md) tem edição **histórica** preservada (com alerta por dispositivo quando recuperada) e [edição consolidada](federal/edicoes/br-federal-lei-2018-08-14-13709-consolidada.md) conferida contra a Câmara (norma atualizada) e reconciliada com o Planalto. A consolidada incorpora as alterações da MP 1.317/2025 convertida na [Lei 15.352/2026](federal/br-federal-lei-2026-02-25-15352.md) (já publicada no acervo e reutilizada sem republicação; anexos tabulares da modificadora ficam no snapshot em [provas/lgpd/](provas/lgpd/)). O [contrato](metadados/CONTRATO-lgpd.md) e o [manifesto](metadados/lgpd.json) são temáticos e separados do núcleo de licitações. A edição em `federal/edicoes/` não incrementa a contagem de normas. Nenhum desses arquivos certifica vigência.
+
 ## Fontes e cobertura
 
-Os textos vêm do Senado Federal, da Câmara dos Deputados, da Presidência da República (Planalto), das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, do Pará, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, do Rio Grande do Sul, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás, do Maranhão e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo, das Câmaras Municipais de Adamantina, de Alfenas, de Águas Formosas, de Belo Horizonte, de Craíbas, de Japaratinga, de Marechal Deodoro, de Parauapebas e de Rio Largo, da SEMAS do Pará (cópia do decreto municipal de Tomé-Açu), dos Diários Oficiais do Amapá, do Maranhão, do Pará e de Roraima, do portal DFLEGIS do Distrito Federal e de um exemplar hospedado no portal Consulta Popular do Governo do Rio Grande do Sul.
+Os textos vêm do Senado Federal, da Câmara dos Deputados, da Presidência da República (Planalto), das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, do Pará, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, do Rio Grande do Sul, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás, do Maranhão e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo, das Câmaras Municipais de Adamantina, de Alfenas, de Águas Formosas, de Belo Horizonte, de Craíbas, de Japaratinga, de Marechal Deodoro, de Parauapebas e de Rio Largo, da Prefeitura de Goiânia (SILEG e Diário Oficial do Município), da SEMAS do Pará (cópia do decreto municipal de Tomé-Açu), dos Diários Oficiais do Amapá, do Maranhão, do Pará e de Roraima, do portal DFLEGIS do Distrito Federal e de um exemplar hospedado no portal Consulta Popular do Governo do Rio Grande do Sul.
 
 A presença de uma norma neste acervo não indica que ela esteja vigente. Há textos originais, atualizados e republicações integrais, conforme a versão disponível na fonte. Para uma aplicação concreta, confira a versão oficial, suas alterações e eventuais revogações.
 
@@ -94,3 +101,5 @@ A cobertura nacional ainda é parcial: faltam a maioria dos municípios e parte 
 Ao pessoal da **Supersonic Labs**, pela inspiração de tornar a legislação brasileira acessível em Markdown.
 
 Este é um acervo independente, mantido pelo [Minutei](https://minutei.legal), a partir de fontes oficiais.
+
+CTN e SUS: as edições do Planalto da [Lei 5.172/1966](federal/br-federal-lei-1966-10-25-5172.md) e da [Lei 8.080/1990](federal/br-federal-lei-1990-09-19-8080.md) têm [fontes e provas de cobertura integral](provas/nucleo-federal-ctn-sus/README.md), sem certificação de vigência.

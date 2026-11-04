@@ -1,0 +1,461 @@
+{
+  "lote": "faixa-001-050",
+  "issue": 63,
+  "capturado_em": "2026-11-04T12:33:02Z",
+  "serie": "Emendas Constitucionais à CF/1988",
+  "exclusoes": [
+    "emendas constitucionais de revisão (emecrv)",
+    "emendas a constituições históricas pré-1988"
+  ],
+  "numeros_alvo": [
+    5,
+    6,
+    7,
+    8,
+    11,
+    13,
+    15,
+    16,
+    19,
+    20,
+    27,
+    29,
+    32,
+    33,
+    34,
+    35,
+    37,
+    41,
+    42,
+    43,
+    45
+  ],
+  "itens": [
+    {
+      "numero": 5,
+      "data": "1995-08-15",
+      "serie": "CF/1988",
+      "ementa": "Altera o § 2º do art. 25 da Constituição Federal.",
+      "arquivo": "federal/br-federal-emenda-constitucional-1995-08-15-5.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/1995/emendaconstitucional-5-15-agosto-1995-449370-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc05.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "ef6456dd59bd0901a3249ea2cba8ea6f6bd11afd345e351684441fefc6a4d7e3",
+      "bytes_camara": 44876,
+      "sha256_markdown": "1b67387e256881a22870a3fcc0d6c212087510a7e19316779a4116eacc965459",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 6,
+      "data": "1995-08-15",
+      "serie": "CF/1988",
+      "ementa": "Altera o inciso IX do art. 170, o art. 171 e o § 1º do art. 176 da Constituição Federal.",
+      "arquivo": "federal/br-federal-emenda-constitucional-1995-08-15-6.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/1995/emendaconstitucional-6-15-agosto-1995-366937-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc06.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "ce92dc93be239ca5db31198fa28f8f010fde39b2c25a6db4bb168bdff23f0535",
+      "bytes_camara": 47731,
+      "sha256_markdown": "6b199f32396cf37cbc7dbe0f49812e336d42083d10c78eb59576a44974ebcc0e",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 7,
+      "data": "1995-08-15",
+      "serie": "CF/1988",
+      "ementa": "Altera o art. 178 da Constituição Federal e dispõe sobre a adoção de Medidas Provisórias.",
+      "arquivo": "federal/br-federal-emenda-constitucional-1995-08-15-7.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/1995/emendaconstitucional-7-15-agosto-1995-358348-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc07.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "33e6bef3a0735f9c97773fd1c83e6b6052afa8abb2e236bcc47109b687e9d499",
+      "bytes_camara": 47419,
+      "sha256_markdown": "fd6032727c70dd581b6b4ae9e88021be8ee141d61461a7bb1cca27aabd0592f4",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 8,
+      "data": "1995-08-15",
+      "serie": "CF/1988",
+      "ementa": "Altera o inciso XI e a alínea \"a\" do inciso XII do art. 21 da Constituição Federal.",
+      "arquivo": "federal/br-federal-emenda-constitucional-1995-08-15-8.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/1995/emendaconstitucional-8-15-agosto-1995-354956-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc08.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "c497733cae6d994121131ae424e22ca931c90faf08daa415bbf1270660af4835",
+      "bytes_camara": 47524,
+      "sha256_markdown": "196f8dda0535472e88de8f29176e0e2b3919c0dbfa1d3680324c3fdf4dec32ad",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 11,
+      "data": "1996-04-30",
+      "serie": "CF/1988",
+      "ementa": "Permite a admissão de professores, técnicos e cientistas estrangeiros pelas universidades brasileiras e concede autonomia às instituições de pesquisa científica e tecnológica.",
+      "arquivo": "federal/br-federal-emenda-constitucional-1996-04-30-11.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/1996/emendaconstitucional-11-30-abril-1996-354959-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc11.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "b483d9845c2376243abe284470b2d10ea3ff838925912b4e9e19e6929e7d8baa",
+      "bytes_camara": 50981,
+      "sha256_markdown": "f57b7eea10b33264801eba1005d6bb5d8a51d454f2adcb8488b4761615bb2243",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 13,
+      "data": "1996-08-21",
+      "serie": "CF/1988",
+      "ementa": "Dá nova redação ao inciso II do art. 192 da Constituição Federal.",
+      "arquivo": "federal/br-federal-emenda-constitucional-1996-08-21-13.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/1996/emendaconstitucional-13-21-agosto-1996-358365-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc13.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "9e70aa8e81ba6a7ffa87746b1fa700357e354e31be0257cb7ad4e1b7281191ea",
+      "bytes_camara": 45107,
+      "sha256_markdown": "d7130713768c12d04163bdc5cb285729de8fc73ff1956b8e032ed9f881c1ec2f",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 15,
+      "data": "1996-09-12",
+      "serie": "CF/1988",
+      "ementa": "Dá nova redação ao § 4° do art. 18 da Constituição Federal.",
+      "arquivo": "federal/br-federal-emenda-constitucional-1996-09-12-15.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/1996/emendaconstitucional-15-12-setembro-1996-369745-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc15.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "22e14a15c9d85d7d900928e204dde1969c1550e7dc2428ca7e7add26349e7671",
+      "bytes_camara": 51381,
+      "sha256_markdown": "5f4a4a54ca57140528b3cec52139c4e36f6dc28d84152cb6cc1f25d75e94b950",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 16,
+      "data": "1997-06-04",
+      "serie": "CF/1988",
+      "ementa": "Dá nova redação ao § 5º do art. 14, ao \"caput\" do art. 28, ao inciso II do art. 29, ao \"caput\" do art. 77 e ao art. 82 da Constituição Federal.",
+      "arquivo": "federal/br-federal-emenda-constitucional-1997-06-04-16.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/1997/emendaconstitucional-16-4-junho-1997-355726-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc16.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "e8cd61bc621c7e16c4f951318e8721d826569e368571d320b6349f49ca6922bc",
+      "bytes_camara": 53290,
+      "sha256_markdown": "1f6a6831b795f166d607f54437acdb2b3ceae292aad460fab5995796bed6c9ae",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 19,
+      "data": "1998-06-04",
+      "serie": "CF/1988",
+      "ementa": "Modifica o regime e dispõe sobre princípios e normas da Administração Pública, servidores e agentes políticos, controle de despesas e finanças públicas e custeio de atividades a cargo do Distrito Federal, e dá outras providências.",
+      "arquivo": "federal/br-federal-emenda-constitucional-1998-06-04-19.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/1998/emendaconstitucional-19-4-junho-1998-372816-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc19.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "e562554ccaae9c1739623ff37f33e891c760ce11630d8d7c66370bc3fd82135b",
+      "bytes_camara": 80032,
+      "sha256_markdown": "e8772b68cf75b8411423593e9ef39119649ed4205808b37f933133f8bb01308d",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 20,
+      "data": "1998-12-15",
+      "serie": "CF/1988",
+      "ementa": "Modifica o sistema de previdência social, estabelece normas de transição e dá outras providências.",
+      "arquivo": "federal/br-federal-emenda-constitucional-1998-12-15-20.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/1998/emendaconstitucional-20-15-dezembro-1998-356870-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc20.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "8285869fc1f04c46a66953080a7b037c77966c73d7f2cdc6f2a12650f989166d",
+      "bytes_camara": 76318,
+      "sha256_markdown": "14e31241bc6f604ec317c1a02209e66b7daaaec569a375f778ed43710cd3042a",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 27,
+      "data": "2000-03-21",
+      "serie": "CF/1988",
+      "ementa": "Acrescenta o art. 76 ao Ato das Disposições Constitucionais Transitórias.",
+      "arquivo": "federal/br-federal-emenda-constitucional-2000-03-21-27.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/2000/emendaconstitucional-27-21-marco-2000-373981-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc27.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "3949bb98af8443a0cab48bb71ec2cb90c5fb6533b450e87f6ff0a5b8b46ac3c6",
+      "bytes_camara": 44370,
+      "sha256_markdown": "724ca5c42a864929f85a118c3e299ba9ad9a18326bbce6678b758e0ebae18461",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 29,
+      "data": "2000-09-13",
+      "serie": "CF/1988",
+      "ementa": "Altera os arts. 34, 35, 156, 160, 167 e 198 da Constituição Federal e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias, assegurando os recursos mínimos para o financiamento das ações e serviços públicos de saúde.",
+      "arquivo": "federal/br-federal-emenda-constitucional-2000-09-13-29.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/2000/emendaconstitucional-29-13-setembro-2000-354961-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc29.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "e1f9e46916598a6dfe5c0533c7f2729720ed3f73c71819cc5798a5431cf262f1",
+      "bytes_camara": 52209,
+      "sha256_markdown": "ba8f94699280c7d049afe24c0b99a832a5b3980c51e9eb1a8ece9693ef7fd445",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 32,
+      "data": "2001-09-11",
+      "serie": "CF/1988",
+      "ementa": "Altera dispositivos dos arts. 48, 57, 61, 62, 64, 66, 84, 88 e 246 da Constituição Federal, e dá outras providências.",
+      "arquivo": "federal/br-federal-emenda-constitucional-2001-09-11-32.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/2001/emendaconstitucional-32-11-setembro-2001-395730-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc32.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "9f016c22de7acfd39ac433eafe92cf32d85658bae8130de75b10a180de6d2cee",
+      "bytes_camara": 52421,
+      "sha256_markdown": "b7362de5367e6e9b0e8792dee6e685b33ddc149f2cc8046699e62f3a5b9177c3",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 33,
+      "data": "2001-12-11",
+      "serie": "CF/1988",
+      "ementa": "Altera os arts. 149, 155 e 177 da Constituição Federal.",
+      "arquivo": "federal/br-federal-emenda-constitucional-2001-12-11-33.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/2001/emendaconstitucional-33-11-dezembro-2001-426596-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc33.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "17022c00e54161a3e1beee5f09d70d18393053238c18fb11bbf6217df9dfb864",
+      "bytes_camara": 49738,
+      "sha256_markdown": "26800d19ad5c3532c7d6e2ca139cef25f864c7a3fc1d2a0da2f594f59371f361",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 34,
+      "data": "2001-12-13",
+      "serie": "CF/1988",
+      "ementa": "Dá nova redação à alínea c do inciso XVI do art. 37 da Constituição Federal.",
+      "arquivo": "federal/br-federal-emenda-constitucional-2001-12-13-34.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/2001/emendaconstitucional-34-13-dezembro-2001-427152-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc34.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "0283ba934723fc9cba23cec4660984b554263870289bcc44c3758cd88514dfc3",
+      "bytes_camara": 47573,
+      "sha256_markdown": "9dfc590c2252b752c1f8a3551623fc9793c5c7062f43c9b90f6ec8055db56126",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 35,
+      "data": "2001-12-20",
+      "serie": "CF/1988",
+      "ementa": "Dá nova redação ao art. 53 da Constituição Federal.",
+      "arquivo": "federal/br-federal-emenda-constitucional-2001-12-20-35.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/2001/emendaconstitucional-35-20-dezembro-2001-429311-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc35.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "9b1900aecf3e12e5bba36526f8532a792755d680a5e2b8b89ad73b0088d8076b",
+      "bytes_camara": 44304,
+      "sha256_markdown": "cfd641a3b88dee30b4038f1c07168c1313dcc8da72c1f6dd728ea1f6fe0f3613",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 37,
+      "data": "2002-06-12",
+      "serie": "CF/1988",
+      "ementa": "Altera os arts. 100 e 156 da Constituição Federal e acrescenta os arts. 76-A, 76-B, 82-A, 82-B e 85-A ao Ato das Disposições Constitucionais Transitórias, e dá outras providências.",
+      "arquivo": "federal/br-federal-emenda-constitucional-2002-06-12-37.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/2002/emendaconstitucional-37-12-junho-2002-395051-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc37.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "c34bf7db4b046df59d6014c59815f4e85d95551b6df36cb26d73a500ba4cf58b",
+      "bytes_camara": 51612,
+      "sha256_markdown": "0db69f142521b7c2a69857502e6f28782b0a1ab25e8a0d03aeb38941cafaf12d",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 41,
+      "data": "2003-12-19",
+      "serie": "CF/1988",
+      "ementa": "Modifica os arts. 37, 40, 42, 48, 96, 149 e 201 da Constituição Federal, cria o art. 142-A e o art. 201-A no Ato das Disposições Constitucionais Transitórias e dá outras providências.",
+      "arquivo": "federal/br-federal-emenda-constitucional-2003-12-19-41.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/2003/emendaconstitucional-41-19-dezembro-2003-497025-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc41.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "159d3bfad0087f4de67bafda897fd9b9baaa9301e3721cbd201247485876fb00",
+      "bytes_camara": 67202,
+      "sha256_markdown": "eb765566416c3bb0e396861d4e173b397fe40b4c609e2fde4dc476e0adc11ba8",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 42,
+      "data": "2003-12-19",
+      "serie": "CF/1988",
+      "ementa": "Altera o Sistema Tributário Nacional e dá outras providências.",
+      "arquivo": "federal/br-federal-emenda-constitucional-2003-12-19-42.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/2003/emendaconstitucional-42-19-dezembro-2003-497205-publicacaooriginal-1-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc42.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "ec36139c124a59314beccfa84426cbbffca554fdf6f164e79a7d54638515a00f",
+      "bytes_camara": 64612,
+      "sha256_markdown": "d431f1c2b5409d9da67c611830f1e22efcb1fc6bb0444d8ebf4b8c181c8a9a90",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 43,
+      "data": "2004-04-15",
+      "serie": "CF/1988",
+      "ementa": "Altera o art. 42 do Ato das Disposições Constitucionais Transitórias, prorrogando, por 10 (dez) anos, a aplicação, por parte da União, de percentuais mínimos do total dos recursos destinados à irrigação nas Regiões Centro-Oeste e Nordeste.",
+      "arquivo": "federal/br-federal-emenda-constitucional-2004-04-15-43.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/2004/emendaconstitucional-43-15-abril-2004-531712-publicacaooriginal-13677-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc43.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência.",
+        "Falha conversão: EC 43: fecho Brasília ausente no recorte"
+      ],
+      "riscos": [
+        "Texto não inventado; permanece pendente."
+      ],
+      "sha256_camara": "8a82607aa673a0a4f3b4497b3e475b2ed91c52161f1af59c6ce8365bf88a0225",
+      "bytes_camara": 47226,
+      "sha256_markdown": "6d6963e48f4ad3c29cfd812f72dba297bcccb260392c7511847c6e44c612ccf6",
+      "vigencia_certificada": false
+    },
+    {
+      "numero": 45,
+      "data": "2004-12-08",
+      "serie": "CF/1988",
+      "ementa": "Altera dispositivos do Título IV da Constituição Federal e dá outras providências.",
+      "arquivo": "federal/br-federal-emenda-constitucional-2004-12-08-45.md",
+      "fonte_principal": "camara-publicacaooriginal",
+      "url_camara": "https://www2.camara.leg.br/legin/fed/emecon/2004/emendaconstitucional-45-8-dezembro-2004-535274-publicacaooriginal-22987-pl.html",
+      "url_planalto": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc45.htm",
+      "situacao_coleta": "publicada",
+      "notas": [
+        "Planalto disponível para conferência."
+      ],
+      "riscos": [],
+      "sha256_camara": "9eaff8544fc9734fe809c69c0e55e9b1c3a55c1decbea719c3476f4c146f1c32",
+      "bytes_camara": 91612,
+      "sha256_markdown": "989655a398dfaaec5f2468f946be7113c16ad0b1d994adae2915c2bb9ba51861",
+      "vigencia_certificada": false
+    }
+  ],
+  "publicadas": [
+    5,
+    6,
+    7,
+    8,
+    11,
+    13,
+    15,
+    16,
+    19,
+    20,
+    27,
+    29,
+    32,
+    33,
+    34,
+    35,
+    37,
+    41,
+    42,
+    43,
+    45
+  ],
+  "atualizado_em": "2026-11-04T12:36:05Z"
+}

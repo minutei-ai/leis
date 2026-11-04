@@ -1,0 +1,88 @@
+{
+  "artigos_fonte_principal": 81,
+  "artigos_fonte_conferencia": 79,
+  "apenas_na_principal": [
+    "14-A",
+    "57"
+  ],
+  "apenas_na_conferencia": [],
+  "identicos": 75,
+  "divergentes": [
+    {
+      "artigo": "5",
+      "similaridade": 0.989,
+      "diferencas": [
+        {
+          "operacao": "insert",
+          "principal": "",
+          "conferencia": "art57secaoiidoconselhonacionaldeprotecaodedadospessoaisedaprivacidade",
+          "contexto": "rimentodestaleiemtodooterritorionacional|"
+        }
+      ]
+    },
+    {
+      "artigo": "14",
+      "similaridade": 0.9855,
+      "diferencas": [
+        {
+          "operacao": "delete",
+          "principal": "iia",
+          "conferencia": "",
+          "contexto": "aleadequadaaoentendimentodacriancasecaoi|vetadanaleino15134de652025"
+        },
+        {
+          "operacao": "insert",
+          "principal": "",
+          "conferencia": "dot",
+          "contexto": "dequadaaoentendimentodacriancasecaoiiiav|etadanaleino15134de652025"
+        },
+        {
+          "operacao": "replace",
+          "principal": "tadanale",
+          "conferencia": "rm",
+          "contexto": "equadaaoentendimentodacriancasecaoiiiave|ino15134de652025"
+        }
+      ]
+    },
+    {
+      "artigo": "55-F",
+      "similaridade": 0.9713,
+      "diferencas": [
+        {
+          "operacao": "insert",
+          "principal": "",
+          "conferencia": "desteartigo",
+          "contexto": "paragrafounicoainfracaoaodispostonocaput|caracterizaatodeimprobidadeadministrativ"
+        }
+      ]
+    },
+    {
+      "artigo": "65",
+      "similaridade": 0.5224,
+      "diferencas": [
+        {
+          "operacao": "insert",
+          "principal": "",
+          "conferencia": "convertidanaleino14058de2020",
+          "contexto": "iadia1deagostode2021quantoaosarts5253e54|ii24vinteequatromesesaposadatadesuapubli"
+        },
+        {
+          "operacao": "insert",
+          "principal": "",
+          "conferencia": "brasilia14deagostode2018197daindependenciae130darepublicamicheltemertorquatojardimaloysionunesferreirafilhoeduardorefinettiguardiaestevespedrocolnagojuniorgilbe",
+          "contexto": "atadesuapublicacaoquantoaosdemaisartigos|"
+        }
+      ]
+    }
+  ],
+  "divergencias_de_forma": [],
+  "divergencias_substanciais": [
+    "5",
+    "14",
+    "55-F",
+    "65"
+  ],
+  "fonte_principal": "camara-lgpd-atualizada",
+  "fonte_conferencia": "planalto-lgpd",
+  "tratamento": "Markdown consolidado segue a Câmara (norma atualizada). Divergências de forma/segmentação com o Planalto permanecem explícitas; redações não foram combinadas."
+}

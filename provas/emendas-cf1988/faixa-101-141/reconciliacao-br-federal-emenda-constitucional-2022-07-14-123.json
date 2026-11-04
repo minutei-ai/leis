@@ -1,0 +1,80 @@
+{
+  "documento": "br-federal-emenda-constitucional-2022-07-14-123",
+  "fonte_principal": "planalto-emc123",
+  "sha256_fonte_principal": "5cb16e2433f1fd83fc3e47ae0903fcb728e81e78f103e9798217c6d71e46bf1a",
+  "sha256_conteudo": "e158413b8feafc3c90d875a567aeb96646b5ebbea907dac4a4c90929090b8467",
+  "capturado_em": "2026-11-04T12:54:08Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc123.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc123.htm.xz",
+  "sha256_snapshot_armazenado": "fe08fbe2b16e2df0561ed73f3c7bd341896d84df9b1b14420b20e98a4018aa83",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": null,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 13334,
+    "caracteres_normalizados_markdown": 13334,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 25,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/decreto/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 79,
+    "artigos": 7,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "3",
+      "4",
+      "5",
+      "6",
+      "7"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2022-07-14-123",
+    "numero": "123",
+    "data": "2022-07-14",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 123, DE 14 DE JULHO DE 2022",
+    "ementa": "Altera o art. 225 da Constituição Federal para estabelecer diferencial de competitividade para os biocombustíveis; inclui o art. 120 no Ato das Disposições Constitucionais Transitórias para reconhecer o estado de emergência decorrente da elevação extraordinária e imprevisível dos preços do petróleo, combustíveis e seus derivados e dos impactos sociais dela decorrentes; autoriza a União a entregar auxílio financeiro aos Estados e ao Distrito Federal que outorgarem créditos tributários do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação (ICMS) aos produtores e distribuidores de etanol hidratado; expande o auxílio Gás dos Brasileiros, de que trata a Lei nº 14.237, de 19 de novembro de 2021; institui auxílio para caminhoneiros autônomos; expande o Programa Auxílio Brasil, de que trata a Lei nº 14.284, de 29 de dezembro de 2021; e institui auxílio para entes da Federação financiarem a gratuidade do transporte público.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2022-07-14;123",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}

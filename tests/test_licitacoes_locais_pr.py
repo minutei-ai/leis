@@ -1,6 +1,8 @@
 """Regressões da recuperação PR do Decreto 10.086/2022 (licitações locais).
 
 Lê somente arquivos do repositório; não acessa a rede.
+A conferência de texto bruto da região normativa usa BeautifulSoup +
+nucleo_licitacoes.strip_fold/md_text_all (sem o conversor Paraná privado).
 Execute: python3 -m unittest tests.test_licitacoes_locais_pr -v
 """
 from __future__ import annotations
@@ -9,10 +11,16 @@ import hashlib
 import json
 import lzma
 import re
+import sys
 import unittest
 from pathlib import Path
 
+from bs4 import BeautifulSoup
+
 ROOT = Path(__file__).resolve().parent.parent
+sys.path.insert(0, str(ROOT / "scripts"))
+import nucleo_licitacoes as nl  # noqa: E402
+
 CATALOG = ROOT / "metadados" / "licitacoes-locais" / "PR.json"
 DOC = ROOT / "estaduais" / "PR" / "br-pr-ato-259084.md"
 PROOF = ROOT / "provas" / "licitacoes-locais" / "PR"
@@ -20,6 +28,7 @@ FONTES = PROOF / "fontes.json"
 ORIG_MD = PROOF / "br-pr-ato-259084-original.md"
 COMPILADO_XZ = PROOF / "fontes" / "legislacao-pr-259084-compilado.htm.xz"
 ORIGINAL_XZ = PROOF / "fontes" / "legislacao-pr-259084-original.htm.xz"
+PORTAL_DISCLAIMER = "Este texto não substitui o publicado no Diário Oficial do Estado"
 
 
 def sha256_bytes(data: bytes) -> str:
@@ -36,6 +45,34 @@ def content_sha_html(raw: bytes) -> str:
     return sha256_bytes(cleaned.encode("utf-8"))
 
 
+def normative_region_text(raw_html: bytes) -> str:
+    """Texto bruto da região normativa da impressão oficial Paraná.
+
+    Extrai `#conteudo_corpo > form[name=listarAtosAnoForm]`, remove controles do
+    portal e o aviso final que não entra no Markdown publicado.
+    """
+    soup = BeautifulSoup(raw_html.decode("utf-8", errors="replace"), "lxml")
+    form = soup.select_one("#conteudo_corpo > form[name=listarAtosAnoForm]")
+    if form is None:
+        raise AssertionError("região normativa paranaense ausente no snapshot")
+    for tag in form.find_all(["script", "style", "input", "button", "select", "textarea"]):
+        tag.decompose()
+    text = form.get_text(" ")
+    idx = text.rfind(PORTAL_DISCLAIMER)
+    if idx >= 0:
+        text = text[:idx]
+    return text
+
+
+def markdown_fold_text(markdown: str) -> str:
+    """Fold do Markdown alinhado ao texto HTML (ênfase removida antes do ordinal)."""
+    text = nl.md_text_all(markdown)
+    # `**Art.148** O` deixaria o "O" colado ao dígito só depois do strip_fold;
+    # remover ênfase antes evita assimetria com o get_text do HTML.
+    text = re.sub(r"[*_]+", "", text)
+    return nl.strip_fold(text)
+
+
 class TestLicitacoesLocaisPR(unittest.TestCase):
     @classmethod
     def setUpClass(cls) -> None:
@@ -44,6 +81,8 @@ class TestLicitacoesLocaisPR(unittest.TestCase):
         cls.doc = DOC.read_text(encoding="utf-8")
         cls.orig = ORIG_MD.read_text(encoding="utf-8")
         cls.entry = cls.catalog["documentos"][0]
+        cls.compilado_raw = lzma.open(COMPILADO_XZ).read()
+        cls.original_raw = lzma.open(ORIGINAL_XZ).read()
 
     def test_catalogo_minimo_parcial_pr(self) -> None:
         self.assertEqual(self.catalog["uf"], "PR")
@@ -111,7 +150,7 @@ class TestLicitacoesLocaisPR(unittest.TestCase):
 
     def test_hashes_fontes_e_markdown(self) -> None:
         compilado_key = "legislacao-pr-259084-compilado"
-        raw = lzma.open(COMPILADO_XZ).read()
+        raw = self.compilado_raw
         meta = self.fontes[compilado_key]
         self.assertEqual(meta["sha256_fonte"], sha256_bytes(raw))
         self.assertEqual(meta["sha256_conteudo"], content_sha_html(raw))
@@ -130,6 +169,60 @@ class TestLicitacoesLocaisPR(unittest.TestCase):
                 sha256_file(snap),
                 key,
             )
+
+    def test_texto_bruto_compilado_igual_markdown_publicado(self) -> None:
+        """Conferência independente de TODO o texto bruto da região normativa.
+
+        Não declara integralidade só por sentinelas: o fold do HTML oficial
+        compilado tem de coincidir com o do Markdown publicado.
+        """
+        html_fold = nl.strip_fold(normative_region_text(self.compilado_raw))
+        md_fold = markdown_fold_text(self.doc)
+        self.assertEqual(html_fold, md_fold)
+        self.assertGreater(len(html_fold), 500_000)
+        self.assertTrue(self.entry["edicao"]["edicao_integral_conferida_contra_snapshot"])
+
+    def test_texto_bruto_original_igual_markdown_prova(self) -> None:
+        """Prova do corpo histórico: HTML original ≡ Markdown de prova (fold)."""
+        html_fold = nl.strip_fold(normative_region_text(self.original_raw))
+        md_fold = markdown_fold_text(self.orig)
+        self.assertEqual(html_fold, md_fold)
+        self.assertGreater(len(html_fold), 400_000)
+        self.assertNotEqual(html_fold, markdown_fold_text(self.doc))
+
+    def test_reconversao_nucleo_preserva_texto_bruto_da_regiao(self) -> None:
+        """Reconversão via nucleo_licitacoes (disponível no CI), além do fold.
+
+        O conversor Paraná privado (coletores/convert.ts) formata títulos/artigos
+        de outro modo e não roda no CI; aqui a reconversão do núcleo confirma que
+        o texto jurídico da região normativa reaparece integralmente no Markdown
+        publicado após strip_fold, sem depender do turndown externo.
+        """
+        soup = BeautifulSoup(
+            self.compilado_raw.decode("utf-8", errors="replace"), "lxml"
+        )
+        form = soup.select_one("#conteudo_corpo > form[name=listarAtosAnoForm]")
+        self.assertIsNotNone(form)
+        for tag in form.find_all(["script", "style", "input", "button", "select", "textarea"]):
+            tag.decompose()
+        # Remove o disclaimer do portal antes da reconversão.
+        for node in form.find_all(string=re.compile(re.escape(PORTAL_DISCLAIMER))):
+            node.extract()
+        wrapped = (
+            "<html><body>" + str(form) + "</body></html>"
+        ).encode("utf-8")
+        url = self.fontes["legislacao-pr-259084-compilado"]["url"]
+        converted = nl.convert_html(wrapped, "utf-8", url)
+        recon_md = "\n\n".join(converted.blocks) + "\n"
+        # A reconversão do núcleo não replica `###`/`**Art.**` do perfil PR;
+        # confere o texto bruto completo, não a formatação byte-a-byte.
+        self.assertEqual(
+            nl.strip_fold(re.sub(r"[*_]+", "", nl.md_text_all(recon_md))),
+            markdown_fold_text(self.doc),
+        )
+        self.assertIn("Carlos Massa Ratinho Junior", recon_md)
+        self.assertIn("14.133", recon_md)
+        self.assertNotIn(PORTAL_DISCLAIMER, recon_md)
 
     def test_sem_duplicata_por_cod_ato(self) -> None:
         matches = list((ROOT / "estaduais" / "PR").glob("*259084*"))
@@ -182,7 +275,7 @@ class TestLicitacoesLocaisPR(unittest.TestCase):
         self.assertNotIn("fornecedor", self.entry["ambito"]["poder_administracao"]["literal"].lower())
 
     def test_snapshot_compilado_contem_identidade_e_art1(self) -> None:
-        html = lzma.open(COMPILADO_XZ).read().decode("utf-8", errors="replace")
+        html = self.compilado_raw.decode("utf-8", errors="replace")
         self.assertIn('name="codAto"', html)
         self.assertIn('value="259084"', html)
         self.assertIn("Decreto 10086 - 17 de Janeiro de 2022", html)
@@ -190,6 +283,14 @@ class TestLicitacoesLocaisPR(unittest.TestCase):
         self.assertIn("Administra&ccedil;&atilde;o P&uacute;blica estadual", html)
         self.assertIn("14.133", html)
         self.assertIn("<strike", html.lower())
+        # Assinaturas e notas de alteração estão na região normativa (não só no MD).
+        region = normative_region_text(self.compilado_raw)
+        self.assertIn("Carlos Massa Ratinho Junior", region)
+        self.assertIn("João Carlos Ortega", region)
+        self.assertIn("Letícia Ferreira da Silva", region)
+        self.assertIn("Redação dada", region)
+        self.assertIn("Revogado", region)
+        self.assertIn("Incluído", region)
 
 
 if __name__ == "__main__":

@@ -65,7 +65,14 @@
           "sha256_markdown_prova": "b9d907ecca50f70a3195815eb656447fc64d74e05cd121652a70f5a4cc8ed170",
           "nota": "O corpo original não sobrescreve o arquivo publicado; permanece como prova da edição histórica na fonte."
         },
-        "visao_alterado_preservada_em": "provas/licitacoes-locais/PR/fontes/legislacao-pr-259084-alterado.htm.xz"
+        "visao_alterado_preservada_em": "provas/licitacoes-locais/PR/fontes/legislacao-pr-259084-alterado.htm.xz",
+        "conferencia_texto_bruto": {
+          "metodo": "strip_fold da região #conteudo_corpo > form[name=listarAtosAnoForm] versus md_text_all do Markdown",
+          "implementacao_ci": "tests/test_licitacoes_locais_pr.py",
+          "sem_conversor_privado": true,
+          "reconversao_ci": "nucleo_licitacoes.convert_html sobre a mesma região (texto, não formatação PR)",
+          "nota": "Não declara vigência. Não substitui o DOE. Coincide o texto jurídico bruto compilado e o da prova original."
+        }
       },
       "captura": {
         "capturado_em": "2026-11-04T11:45:00Z",
@@ -467,7 +474,8 @@
           "redacao_dada": 194,
           "revogado": 465,
           "incluido": 312,
-          "marcadores_artigo_negrito": 746
+          "marcadores_artigo_negrito": 697,
+          "riscado_pares_tilde": 938
         },
         "vigencia_certificada": false,
         "situacao": "nao-informada-como-vigente-pelo-acervo",
@@ -477,7 +485,7 @@
           "art. 734 com revogações a partir de 1º de abril de 2023",
           "art. 732 sobre adoção da Lei 14.133 e deste Decreto a partir de 1º de abril de 2023"
         ],
-        "inspecao_visual": "não exigida: fonte HTML textual oficial sem imagens/tabelas normativas na impressão compilada; conversão via conversor PR existente"
+        "inspecao_visual": "não exigida: fonte HTML textual oficial sem imagens/tabelas normativas na impressão compilada; texto bruto da região normativa conferido por fold independente no CI"
       }
     }
   ],
