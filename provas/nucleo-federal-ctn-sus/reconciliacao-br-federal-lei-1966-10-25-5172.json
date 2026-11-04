@@ -1,0 +1,82 @@
+{
+  "documento": "br-federal-lei-1966-10-25-5172",
+  "fonte_principal": "planalto-l5172compilado",
+  "sha256_fonte_principal": "8fa4e25e543b5de354574d940a016d6df3f43b363183f92771d710ccd69bb08a",
+  "sha256_conteudo": "78f946846d6f97a02bf4b34e6ccf9a8a40a6154b8c48cbac3e8cc2ce46e0900e",
+  "capturado_em": "2026-11-04T12:08:03Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/l5172compilado.htm",
+  "snapshot": "provas/nucleo-federal-ctn-sus/fontes/planalto-l5172compilado.htm.xz",
+  "sha256_snapshot_armazenado": "8fadcaeba993d3ac91242c99afe923a2d733d8cb5154b890609e49795c69ad2c",
+  "fontes_conferencia": [],
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 112626,
+    "caracteres_normalizados_markdown": 112626,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 1,
+    "links": 342,
+    "tabelas_markdown": 2,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/leis/QUADRO/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 14,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 14,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 998,
+    "artigos": 229,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "214",
+      "215",
+      "216",
+      "217",
+      "218"
+    ],
+    "titulos_e_capitulos": 86
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1966-10-25-5172",
+    "numero": "5172",
+    "data": "1966-10-25",
+    "titulo_fonte": "LEI Nº 5.172, DE 25 DE OUTUBRO DE 1966",
+    "ementa": "Dispõe sobre o Sistema Tributário Nacional e institui normas gerais de direito tributário aplicáveis à União, Estados e Municípios.",
+    "denominacao": "Código Tributário Nacional",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "compilado-planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte única (Planalto); fonte_conferencia=nenhuma — sem conferência artigo a artigo com segunda fonte oficial nesta entrega.",
+    "Edição consolidada/compilada do Planalto; não é publicação original do DOU nem edição histórica isolada.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados."
+  ]
+}
