@@ -249,6 +249,48 @@
       "sha256_arquivo_xz": "5e15bd40387fe6e8ddeea7e2620d242a1e289cf5f99165762eeaf4b0c263b8d1",
       "sha256_conteudo": "4f203e621c2ddb2a33d438a9399f331c4ceabd8529480aa4e06d9cca3ddb4e2a",
       "capturado_em": "2026-11-04T19:10:00Z"
+    },
+    {
+      "chave": "dom-ato-434009-json",
+      "descricao": "Resposta JSON do ato 434009 (Decreto 18.621/2024).",
+      "url": "https://api-dom.pbh.gov.br/api/v1/edicoes/atos/434009/publicado",
+      "url_visualizacao": "https://dom-web.pbh.gov.br/visualizacao/ato/434009",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/dom-ato-434009.json.xz",
+      "sha256_arquivo_xz": "db1919171cb98130de1b0682001d3a3898ee69cb4bbbbfd2eab1b5bc8bbfe280",
+      "sha256_conteudo": "bc206ec831c2eb970d30b6bb9772dfae2786a4bf852375a4c9e909004df2ab28",
+      "capturado_em": "2026-11-04T20:15:00Z",
+      "metadados_ato": {
+        "id": 434009,
+        "titulo_ato": "DECRETO Nº 18.621, DE 5 DE FEVEREIRO DE 2024.",
+        "edicao_id": 7056,
+        "orgao": {
+          "id": 2272,
+          "nivel_orgao_siom": 42,
+          "sigla_orgao": "GP",
+          "nome_orgao": "Gabinete do Prefeito",
+          "poder": "E",
+          "ind_ativo": true,
+          "ind_favorito_dom": true,
+          "orgao_id": 2268,
+          "dt_desativacao": null,
+          "dt_criacao": "2021-04-09 00:00:47",
+          "dt_atualizacao": "2021-05-29 00:00:29"
+        },
+        "documento_ato": {
+          "nome_original": "conteudoAto_id434009.html",
+          "nome_minio": "5a992436af04c7444076bf35bdcd20d145e13e7e2c8f496cdeb1f1aac19f9e7c",
+          "hash_arquivo": "44df53a9de560a8cd335f5cdaa6939736602bfb5c492bdcab7467772c80676cf"
+        }
+      }
+    },
+    {
+      "chave": "dom-ato-434009-html",
+      "descricao": "Documento HTML integral do ato 434009.",
+      "url": "https://api-dom.pbh.gov.br/api/v1/documentos/5a992436af04c7444076bf35bdcd20d145e13e7e2c8f496cdeb1f1aac19f9e7c/download",
+      "arquivo": "provas/licitacoes-locais/MG/fontes/conteudoAto_id434009.html.xz",
+      "sha256_arquivo_xz": "5778ea65c5f79b1980c723b98078bf4b5e7b725be834d8d718b376afbbea0468",
+      "sha256_conteudo": "44df53a9de560a8cd335f5cdaa6939736602bfb5c492bdcab7467772c80676cf",
+      "capturado_em": "2026-11-04T20:15:00Z"
     }
   ]
 }

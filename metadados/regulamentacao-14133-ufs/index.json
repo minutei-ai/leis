@@ -67,12 +67,20 @@
     },
     {
       "uf": "DF",
-      "status_acervo": "nao-encontrado-no-acervo",
-      "decretos_14133": [],
-      "srp_pesquisa_precos": "desconhecido",
+      "status_acervo": "decreto-geral-publicado",
+      "decretos_14133": [
+        {
+          "norma_id": "br-df-decreto-2023-03-16-44330",
+          "titulo": "Decreto 44.330/2023",
+          "arquivo": "estaduais/DF/br-df-decreto-2023-03-16-44330.md",
+          "carater": "regulamento-geral-distrital",
+          "fonte_url": "https://www.sinj.df.gov.br/sinj/Norma/878b445155514f05a3fb411e1c2da0c0/Decreto_44330_16_03_2023.html"
+        }
+      ],
+      "srp_pesquisa_precos": "parcial-no-proprio-decreto-geral",
       "fonte_oficial_indicada": "https://www.sinj.df.gov.br/",
       "pendencias": [
-        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+        "Inventariar alterações posteriores ao Decreto 44.330/2023 (ex.: 44.365/2023 e outras referidas no SINJ) e normas específicas de SRP/pesquisa de preços se autonomizadas."
       ]
     },
     {

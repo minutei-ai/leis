@@ -127,6 +127,32 @@
       "acao": "reutilizar"
     },
     {
+      "uf": "PE",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-pe-constituicao-1989",
+      "arquivo": "estaduais/PE/br-pe-constituicao-1989.md",
+      "titulo": "Constituição do Estado de Pernambuco",
+      "edicao": {
+        "tipo": "atualizada-portal",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "nota": "Texto atualizado do Alepe Legis (tiponorma=12); lista de emendas aplicadas não inventariada nesta entrega."
+      },
+      "fonte": {
+        "url": "https://legis.alepe.pe.gov.br/texto.aspx?tiponorma=12&numero=1989&complemento=0&ano=1989",
+        "orgao": "Alepe Legis",
+        "capturado_em": "2026-11-04T20:15:00Z",
+        "sha256_html": "838bda526b3c73b38f1c85afc0f86264ef1e1dbd53db65139cfa40f2a1dc2f53"
+      },
+      "emendas_listadas": "pendente",
+      "acao": "publicar",
+      "provas": {
+        "cobertura": "provas/constituicoes-estaduais/PE/cobertura-constituicao.json",
+        "fontes": "provas/constituicoes-estaduais/PE/fontes.json"
+      }
+    },
+    {
       "uf": "PR",
       "status": "presente",
       "papel": "constituicao-estadual",
@@ -205,7 +231,6 @@
     "MT",
     "PA",
     "PB",
-    "PE",
     "PI",
     "RJ",
     "RN",
@@ -216,8 +241,8 @@
     "TO"
   ],
   "pendencias": [
-    "Publicar Constituições consolidadas das 19 UFs ainda ausentes, com lista de emendas aplicadas.",
-    "Inventariar emendas constitucionais estaduais aplicadas às cartas já presentes (AC, BA, DF/LO, ES, MG, PR, SC, SP).",
+    "Publicar Constituições consolidadas das 18 UFs ainda ausentes, com lista de emendas aplicadas.",
+    "Inventariar emendas constitucionais estaduais aplicadas às cartas já presentes (AC, BA, DF/LO, ES, MG, PE, PR, SC, SP).",
     "Recaptura/hash próprios de AC, ES, MG, PR e SP para sair de edicao_integral=desconhecido.",
     "GO: falso positivo de detecção por título (norma que 'Constitui o Fórum...'); não é Constituição estadual."
   ]

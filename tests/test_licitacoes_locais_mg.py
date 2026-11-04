@@ -124,7 +124,7 @@ class TestLicitacoesLocaisMG(unittest.TestCase):
         self.assertEqual(cand['tipo'], 'recuperacao-integral-concluida-parcial')
         publicados = [p.name for p in (ROOT / 'municipais/3106200').glob('*.md')]
         self.assertTrue(any('decreto-2023-03-28-18289' in n for n in publicados))
-        for num in ('17813', '18096', '18240', '18242'):
+        for num in ('17813', '18096', '18240', '18242', '18621'):
             self.assertTrue(any(num in n for n in publicados), num)
         ids = {d['norma_id'] for d in self.cat['documentos']}
         for nid in cand['itens_publicados']:

@@ -204,11 +204,11 @@ Esta lista contém lacunas identificadas na revisão destes lotes; não é um ce
 
 ## Regulamentação estadual da Lei 14.133 (issue #73)
 
-Inventário parcial em `metadados/regulamentacao-14133-ufs/index.json`. No acervo, há decreto geral publicado para o Paraná (10.086/2022); cobertura parcial/específica em MG (48.723/2023), GO (10.247/2023) e SP (67.608/2023 transitório). As demais UFs constam como não encontradas no acervo até a data do inventário — a ausência não prova inexistência na fonte oficial. Pendente: localizar e publicar decretos gerais, alterações, SRP e pesquisa de preços por UF; em seguida o lote das capitais (issue #101).
+Inventário parcial em `metadados/regulamentacao-14133-ufs/index.json`. No acervo, há decreto geral publicado para o Paraná (10.086/2022) e para o Distrito Federal (44.330/2023, nesta entrega); cobertura parcial/específica em MG (48.723/2023), GO (10.247/2023) e SP (67.608/2023 transitório). As demais UFs constam como não encontradas no acervo até a data do inventário — a ausência não prova inexistência na fonte oficial. Pendente: localizar e publicar decretos gerais, alterações, SRP e pesquisa de preços por UF; em seguida o lote das capitais (issue #101).
 
 ## Constituições estaduais e Lei Orgânica do DF (issue #86)
 
-Catálogo parcial em `metadados/constituicoes-estaduais/index.json`. Já presentes (incluindo IDs que o `grep constituic` no nome não detecta): AC, BA (1989, nesta entrega), DF/LO (nesta entrega), ES, MG, PR, SC (nesta entrega), SP. Ausentes: AL, AM, AP, CE, GO, MA, MS, MT, PA, PB, PE, PI, RJ, RN, RO, RR, RS, SE, TO. Pendente: lista de emendas aplicadas a cada carta e recaptura/hash das já presentes com `edicao_integral=desconhecido`.
+Catálogo parcial em `metadados/constituicoes-estaduais/index.json`. Já presentes (incluindo IDs que o `grep constituic` no nome não detecta): AC, BA (1989, nesta entrega), DF/LO (nesta entrega), ES, MG, PE (1989, nesta entrega), PR, SC (nesta entrega), SP. Ausentes: AL, AM, AP, CE, GO, MA, MS, MT, PA, PB, PI, RJ, RN, RO, RR, RS, SE, TO. Pendente: lista de emendas aplicadas a cada carta e recaptura/hash das já presentes com `edicao_integral=desconhecido`.
 
 ## Capitais — Lei Orgânica e decreto da Lei 14.133 (issue #101)
 

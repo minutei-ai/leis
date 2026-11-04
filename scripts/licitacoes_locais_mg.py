@@ -152,13 +152,30 @@ def verify() -> None:
     if cat.get('uf') != 'MG' or cat.get('cobertura') != 'parcial':
         raise SystemExit('catálogo MG inválido')
     docs = cat.get('documentos') or []
-    if len(docs) != 1 or docs[0].get('norma_id') != 'br-municipal-3106200-decreto-2023-03-28-18289':
+    doc_18289 = next(
+        (d for d in docs if d.get('norma_id') == 'br-municipal-3106200-decreto-2023-03-28-18289'),
+        None,
+    )
+    if doc_18289 is None:
         raise SystemExit('documento 18.289 ausente no catálogo')
-    if docs[0].get('hashes', {}).get('corpo_markdown') != SHA256_CORPO:
+    if doc_18289.get('hashes', {}).get('corpo_markdown') != SHA256_CORPO:
         raise SystemExit('hash do corpo no catálogo divergiu')
-    ed_desc = (docs[0].get('edicao') or {}).get('descricao') or ''
+    ed_desc = (doc_18289.get('edicao') or {}).get('descricao') or ''
     if '28/03/2023' not in ed_desc or '2023-03-29' not in ed_desc:
         raise SystemExit('catálogo deve registrar assinatura 28/03 e publicação 2023-03-29')
+    # Candidatos complementares e o alterador 18.621 podem coexistir no mesmo catálogo.
+    for nid in (
+        'br-municipal-3106200-decreto-2021-12-21-17813',
+        'br-municipal-3106200-decreto-2022-09-20-18096',
+        'br-municipal-3106200-decreto-2023-01-19-18240',
+        'br-municipal-3106200-decreto-2023-01-25-18242',
+        'br-municipal-3106200-decreto-2024-02-05-18621',
+    ):
+        extra = next((d for d in docs if d.get('norma_id') == nid), None)
+        if extra is None:
+            raise SystemExit(f'documento complementar ausente no catálogo: {nid}')
+        if not (ROOT / extra['arquivo']).is_file():
+            raise SystemExit(f'arquivo complementar ausente: {extra["arquivo"]}')
     reut = cat.get('reutilizados') or []
     if not any(r.get('arquivo') == 'estaduais/MG/br-mg-decreto-2023-11-24-48723.md' for r in reut):
         raise SystemExit('reuso do Decreto estadual 48.723 ausente')

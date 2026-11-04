@@ -50,9 +50,11 @@ class TestConstituicoesEstaduaisLote(unittest.TestCase):
         self.assertIn("br-df-lei-organica-1993-06-08", ids)
         self.assertIn("br-sc-constituicao-1989", ids)
         self.assertIn("br-ba-norma-27298", ids)
+        self.assertIn("br-pe-constituicao-1989", ids)
         self.assertIn("br-es-norma-33122", ids)
         self.assertIn("br-pr-ato-9779", ids)
         self.assertIn("br-sp-norma-155101", ids)
+        self.assertNotIn("PE", self.catalog["ausentes"])
         for d in self.catalog["documentos"]:
             path = ROOT / d["arquivo"]
             self.assertTrue(path.is_file(), d["arquivo"])
@@ -119,6 +121,52 @@ class TestConstituicoesEstaduaisLote(unittest.TestCase):
         self.assertIn("nota-edicao:inicio", md)
         self.assertEqual(sha256_bytes(md.encode("utf-8")), entry["sha256_markdown"])
 
+    def test_pe_constituicao_fold(self) -> None:
+        fontes = json.loads(
+            (ROOT / "provas/constituicoes-estaduais/PE/fontes.json").read_text(encoding="utf-8")
+        )
+        entry = fontes["fontes"][0]
+        raw = lzma.open(ROOT / entry["arquivo"]).read()
+        self.assertEqual(sha256_bytes(raw), entry["sha256_conteudo"])
+        soup = BeautifulSoup(raw.decode("utf-8", errors="replace"), "lxml")
+        div = soup.select_one("#divTexto")
+        self.assertIsNotNone(div)
+        for tag in div.find_all(["script", "style"]):
+            tag.decompose()
+
+        def plain_blocks(container) -> str:
+            blocks = []
+            for p in container.find_all(["p", "h1", "h2", "h3", "h4"]):
+                parent = p.parent
+                skip = False
+                while parent is not None and parent is not container:
+                    if getattr(parent, "name", None) in ("p", "h1", "h2", "h3", "h4", "li"):
+                        skip = True
+                        break
+                    parent = parent.parent
+                if skip:
+                    continue
+                t = re.sub(r"[ \t]{2,}", " ", p.get_text("", strip=False).replace("\xa0", " ")).strip()
+                if t:
+                    blocks.append(t)
+            return "\n\n".join(blocks) + "\n"
+
+        plain = plain_blocks(div)
+        lines = plain.split("\n\n")
+        start = next(
+            i
+            for i, ln in enumerate(lines)
+            if re.search(r"CONSTITUI[CÇ][AÃ]O DO\s+ESTADO DE PERNAMBUCO", ln, re.I)
+        )
+        plain = "\n\n".join(lines[start:])
+        if not plain.endswith("\n"):
+            plain += "\n"
+        md = strip_note(
+            (ROOT / "estaduais/PE/br-pe-constituicao-1989.md").read_text(encoding="utf-8")
+        )
+        self.assertEqual(nl.strip_fold(plain), nl.strip_fold(nl.md_text_all(md)))
+        self.assertEqual(sha256_bytes(md.encode("utf-8")), entry["sha256_markdown"])
+
 
 class TestLicitacoesLocaisIndex(unittest.TestCase):
     def test_index_links_uf_catalogs(self) -> None:
@@ -131,6 +179,9 @@ class TestLicitacoesLocaisIndex(unittest.TestCase):
             self.assertTrue((ROOT / u["catalogo"]).is_file())
             for d in u["documentos"]:
                 self.assertTrue((ROOT / d["arquivo"]).is_file(), d["arquivo"])
+        for p in idx["prioritarios_issue"]:
+            self.assertEqual(p["status"].split("-")[0], "publicado")
+
     def test_bh_complementary_decrees_published(self) -> None:
         cat = json.loads((ROOT / "metadados/licitacoes-locais/MG.json").read_text(encoding="utf-8"))
         ids = {d["norma_id"] for d in cat["documentos"]}
@@ -140,12 +191,16 @@ class TestLicitacoesLocaisIndex(unittest.TestCase):
             "br-municipal-3106200-decreto-2023-01-19-18240",
             "br-municipal-3106200-decreto-2023-01-25-18242",
             "br-municipal-3106200-decreto-2023-03-28-18289",
+            "br-municipal-3106200-decreto-2024-02-05-18621",
         ]:
             self.assertIn(nid, ids)
             path = next(d["arquivo"] for d in cat["documentos"] if d["norma_id"] == nid)
             self.assertTrue((ROOT / path).is_file())
-        for p in idx["prioritarios_issue"]:
-            self.assertEqual(p["status"].split("-")[0], "publicado")
+            cob = ROOT / next(d["provas"]["cobertura"] for d in cat["documentos"] if d["norma_id"] == nid)
+            self.assertTrue(cob.is_file(), cob)
+        pend = next(p for p in cat["pendencias"] if p["id"] == "bh-18289-consolidacao-18621")
+        self.assertEqual(pend["alterador_publicado"], "br-municipal-3106200-decreto-2024-02-05-18621")
+        self.assertIn("parcialmente-atendida", pend["tipo"])
 
 
 class TestRegulamentacao14133Ufs(unittest.TestCase):
@@ -158,6 +213,10 @@ class TestRegulamentacao14133Ufs(unittest.TestCase):
         pr = next(u for u in idx["ufs"] if u["uf"] == "PR")
         self.assertEqual(pr["status_acervo"], "decreto-geral-publicado")
         self.assertTrue((ROOT / pr["decretos_14133"][0]["arquivo"]).is_file())
+        df = next(u for u in idx["ufs"] if u["uf"] == "DF")
+        self.assertEqual(df["status_acervo"], "decreto-geral-publicado")
+        self.assertEqual(df["decretos_14133"][0]["norma_id"], "br-df-decreto-2023-03-16-44330")
+        self.assertTrue((ROOT / df["decretos_14133"][0]["arquivo"]).is_file())
 
 
 class TestCapitaisInventario(unittest.TestCase):
