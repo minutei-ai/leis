@@ -1,0 +1,74 @@
+{
+  "documento": "br-federal-emenda-constitucional-2007-12-20-56",
+  "fonte_principal": "planalto-emc56",
+  "sha256_fonte_principal": "c58116dad676d7ec7235c5f1ca0ca146a3a31ba906132f011c195dd960e6284d",
+  "sha256_conteudo": "a1b814cc2fb3909e41faaa3a1eaf0773d16cba6df5792e9e6bd2498579836584",
+  "capturado_em": "2026-11-04T12:40:24Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc56.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-051-100/fontes/planalto-emc56.htm.xz",
+  "sha256_snapshot_armazenado": "ae4b1c111c769e8144130cbcec07e232f219956b35cf9d85878ed589e28ef661",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": null,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 1251,
+    "caracteres_normalizados_markdown": 1251,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 12,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2007-12-20-56",
+    "numero": "56",
+    "data": "2007-12-20",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 56, DE 20 DE DEZEMBRO DE 2007",
+    "ementa": "Prorroga o prazo previsto no caput do art. 76 do Ato das Disposições Constitucionais Transitórias e dá outras providências.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2007-12-20;56",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}

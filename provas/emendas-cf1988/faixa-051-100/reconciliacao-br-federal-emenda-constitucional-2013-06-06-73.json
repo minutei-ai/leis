@@ -1,0 +1,76 @@
+{
+  "documento": "br-federal-emenda-constitucional-2013-06-06-73",
+  "fonte_principal": "planalto-emc73",
+  "sha256_fonte_principal": "0a30a38f1ee1a082aa13071791ee214f05e872a7cd1c2ab9f4d8e5cfc212d9f0",
+  "sha256_conteudo": "19f658a3a125399feddc82d4658353d7a9cd6b0365d7ca5f965afce4a4f9ebf1",
+  "capturado_em": "2026-11-04T12:40:24Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc73.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-051-100/fontes/planalto-emc73.htm.xz",
+  "sha256_snapshot_armazenado": "81e1f77e9fd6f947b97c380c1bedaa59388ca937ad75768b12de91281cb3b05c",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": null,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 1545,
+    "caracteres_normalizados_markdown": 1545,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 4,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 15,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2013-06-06-73",
+    "numero": "73",
+    "data": "2013-06-06",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 73, DE 6 DE JUNHO DE 2013",
+    "ementa": "Cria os Tribunais Regionais Federais da 6ª, 7ª, 8ª e 9ª Regiões.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2013-06-06;73",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}
