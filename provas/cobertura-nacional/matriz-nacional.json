@@ -159,6 +159,16 @@
     "territorial": "provas/cobertura-nacional/inventario-territorial.json",
     "fac_similes": "provas/cobertura-nacional/inventario-fac-similes.json",
     "campos": "provas/cobertura-nacional/cobertura-campos.json",
-    "bm25": "provas/cobertura-nacional/bm25-mapeamento.json"
-  }
+    "bm25": "provas/cobertura-nacional/bm25-mapeamento.json",
+    "fontes_jurisdicao": "provas/cobertura-nacional/registro-fontes-jurisdicao.json",
+    "reconciliacao_especies": "provas/cobertura-nacional/reconciliacao-especies-publicadas.json",
+    "piloto_cabecalhos": "metadados/acervo-geral-piloto.json",
+    "cpp_formulario": "provas/cobertura-nacional/cpp-anexo-formulario.json"
+  },
+  "avanco_desde_inventario_inicial": [
+    "piloto de 4 cabeçalhos gerais com campo_fontes (#70)",
+    "registro de fontes por UF + municípios publicados (#74)",
+    "colação visual estrutural do formulário CPP (#77)",
+    "contagem federal por espécie + blockers #102/#103 (#83)"
+  ]
 }

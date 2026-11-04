@@ -3597,7 +3597,7 @@
       "imagens_asset": 1,
       "texto_integral_pesquisavel": false,
       "fonte_integral_preservada": true,
-      "sha256_arquivo": "50632a01bd4d920e6e201ca113cc62292696fb1b34408220527475eb9df98516",
+      "sha256_arquivo": "a9c0d564b8f7b65ccccae9d5ce653636b96ebec88a66ec45d5f8a4afea41be66",
       "pendencia_transcricao": true,
       "pecas": [
         {
@@ -3606,10 +3606,12 @@
           "origem": "ANEXO com redação dada pelo DL 3.992/1941",
           "asset": "assets/federal/br-federal-decreto-lei-1941-10-03-3689/anexo-formulario-boletim-individual.png",
           "sha256_imagem": "d8811277f5d8730d50454357d574094a0ff06a97a55d933a698f410f0880c9b1",
-          "cobertura_transcricao": "ausente",
-          "cobertura_ocr": "ausente",
+          "cobertura_transcricao": "parcial",
+          "cobertura_ocr": "nao-aplicavel",
           "vigencia_campos": "nao-atribuida",
-          "nota": "Fac-símile do formulário extraído do base64 inline; transcrição estruturada permanece pendente."
+          "transcricao": "assets/federal/br-federal-decreto-lei-1941-10-03-3689/anexo-formulario-boletim-individual-transcricao.md",
+          "metodo": "colacao-visual-do-fac-simile-oficial",
+          "nota": "Estrutura tipográfica colacionada visualmente; campos em branco preservados; não é OCR."
         }
       ]
     },

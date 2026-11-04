@@ -94,11 +94,18 @@ class CoberturaNacionalTest(unittest.TestCase):
         )
         md = (ROOT / 'federal/br-federal-decreto-lei-1941-10-03-3689.md').read_text(encoding='utf-8')
         self.assertIn('anexo-formulario-boletim-individual.png', md)
-        self.assertIn('transcrição pendente', md.lower())
+        self.assertIn('anexo-formulario-boletim-individual-transcricao.md', md)
+        self.assertIn('cobertura_transcricao=parcial', md)
         self.assertIn('3.992', md)
         evid = cn.load_json(PROVAS / 'cpp-anexo-formulario.json')
-        self.assertEqual(evid['cobertura_transcricao'], 'ausente')
+        self.assertEqual(evid['cobertura_transcricao'], 'parcial')
+        self.assertEqual(evid['metodo_transcricao'], 'colacao-visual-do-fac-simile-oficial')
         self.assertEqual(evid['vigencia_campos_formulario'], 'nao-atribuida')
+        transc = ROOT / evid['transcricao']
+        self.assertEqual(cn.sha256_file(transc), evid['sha256_transcricao'])
+        text = transc.read_text(encoding='utf-8')
+        self.assertIn('BOLETIM INDIVIDUAL', text)
+        self.assertIn('colação visual', text.lower())
 
     def test_export_preserves_full_markdown_hash(self):
         rel = 'federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md'
@@ -138,6 +145,43 @@ class CoberturaNacionalTest(unittest.TestCase):
         self.assertIn('#74', {x['id'] for x in matriz['lotes_diagnosticados']})
         self.assertIn('#77', {x['id'] for x in matriz['lotes_diagnosticados']})
         self.assertTrue(matriz['universos_abertos'])
+        self.assertIn('piloto_cabecalhos', matriz['artefatos'])
+        self.assertTrue(matriz['avanco_desde_inventario_inicial'])
+
+    def test_piloto_cabecalhos_preserva_corpo_e_proveniencia(self):
+        piloto = cn.load_json(ROOT / 'metadados/acervo-geral-piloto.json')
+        self.assertGreaterEqual(len(piloto['documentos']), 4)
+        for item in piloto['documentos']:
+            meta, body, body_hash = cn.markdown_body_hash(ROOT / item['arquivo'])
+            self.assertIsNotNone(meta)
+            self.assertEqual(body_hash, item['sha256_corpo_antes_depois'])
+            self.assertIn('campo_fontes', meta)
+            doc = cn.export_document(item['arquivo'])
+            self.assertEqual(doc['markdown_integral'], body)
+            self.assertIn('fonte_do_campo', doc)
+            self.assertFalse(doc['vigencia_certificada'])
+        ac = cn.export_document('estaduais/AC/br-ac-norma-1121.md')
+        self.assertEqual(ac['numero'], '300')
+        self.assertEqual(str(ac['provedor_id']), '1121')
+        self.assertNotEqual(ac['numero'], str(ac['provedor_id']))
+        self.assertEqual(ac['fonte_do_campo']['numero'], 'cabecalho-literal')
+
+    def test_registro_fontes_jurisdicao(self):
+        fontes = cn.load_json(PROVAS / 'registro-fontes-jurisdicao.json')
+        self.assertEqual(len(fontes['ufs']), 27)
+        self.assertIn('PR', fontes['ufs'])
+        self.assertTrue(any('legislacao.pr.gov.br' in (f.get('url_descoberta') or '') for f in fontes['ufs']['PR']))
+        sem = fontes['municipios_sem_diretorio']
+        self.assertIn('ausencia-por-falta-de-pasta', sem['nao_inferir'])
+        self.assertIn('ausencia-por-erro-http', sem['nao_inferir'])
+        self.assertEqual(sem['estado_trabalho'], 'sem-publicacao-identificada')
+        self.assertIn('3106200', fontes['municipios_publicados'])
+
+    def test_reconciliacao_especies_e_blockers(self):
+        recon = cn.load_json(PROVAS / 'reconciliacao-especies-publicadas.json')
+        self.assertEqual(recon['publicados_por_especie_caminho']['decreto-lei'], 9647)
+        ids = {b['id'] for b in recon['blockers_concretos']}
+        self.assertEqual(ids & {'#70', '#74', '#77', '#102', '#103'}, {'#70', '#74', '#77', '#102', '#103'})
 
     def test_verify_command(self):
         cn.cmd_verify()

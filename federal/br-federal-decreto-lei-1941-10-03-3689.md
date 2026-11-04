@@ -4924,9 +4924,9 @@ ANEXO
 
 <!-- peca-imagem:inicio -->
 
-> **Peça em imagem — transcrição pendente.** O formulário do anexo (boletim individual; redação dada pelo Decreto-Lei nº 3.992/1941) é preservado como fac-símile em `assets/federal/br-federal-decreto-lei-1941-10-03-3689/anexo-formulario-boletim-individual.png` (SHA-256 `d8811277f5d8730d50454357d574094a0ff06a97a55d933a698f410f0880c9b1`). A referência da edição ao DL 3.992/1941 permanece. Não há OCR/transcrição estruturada validada; os campos do formulário não recebem vigência atual por esta preservação. Para BM25, o corpo textual dos arts. 1º–811 permanece pesquisável; o conteúdo exclusivo desta imagem permanece com `cobertura_transcricao=ausente` até conferência (#77).
+> **Peça em imagem — estrutura tipográfica colacionada.** O formulário do anexo (boletim individual; redação dada pelo Decreto-Lei nº 3.992/1941) permanece como fac-símile em `assets/federal/br-federal-decreto-lei-1941-10-03-3689/anexo-formulario-boletim-individual.png` (SHA-256 `d8811277f5d8730d50454357d574094a0ff06a97a55d933a698f410f0880c9b1`). A colação visual dos rótulos está em `assets/federal/br-federal-decreto-lei-1941-10-03-3689/anexo-formulario-boletim-individual-transcricao.md` (`cobertura_transcricao=parcial` da estrutura; campos em branco permanecem vazios; `vigencia_campos_formulario=nao-atribuida`). Não é OCR automático. A referência da edição ao DL 3.992/1941 permanece. Para BM25, o corpo textual dos arts. 1º–811 permanece pesquisável; o fac-símile continua a fonte visual da peça (#77).
 
-![Formulário do anexo — boletim individual (fac-símile; transcrição pendente)](../assets/federal/br-federal-decreto-lei-1941-10-03-3689/anexo-formulario-boletim-individual.png)
+![Formulário do anexo — boletim individual (fac-símile; estrutura tipográfica colacionada)](../assets/federal/br-federal-decreto-lei-1941-10-03-3689/anexo-formulario-boletim-individual.png)
 
 <!-- peca-imagem:fim -->
 

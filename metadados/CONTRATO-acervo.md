@@ -103,9 +103,22 @@ Documento exportado por edição:
 3. **Intervalos:** datas tipadas; `"desconhecido"` não entra como date.
 4. **Alertas:** `alerta_cobertura_textual`, `alerta_reproducao_incompleta`,
    `vigencia_certificada=false`.
+5. **Proveniência:** `fonte_do_campo` / `campo_fontes` registra a origem de
+   cada valor (`caminho-canonico`, `cabecalho-literal`, `frontmatter`,
+   `desconhecido-explicito`, …). Ausência de proveniência não autoriza
+   inferência.
 
 O consumidor Elasticsearch mapeia text≠keyword; o Markdown integral não vai
 para `keyword`. Ver [`provas/cobertura-nacional/bm25-mapeamento.json`](../provas/cobertura-nacional/bm25-mapeamento.json).
+
+## Cabeçalhos no acervo geral
+
+Arquivos fora dos lotes setoriais podem receber o mesmo cabeçalho `---` quando
+os campos forem extraídos sem inventar dados. O piloto está em
+[`acervo-geral-piloto.json`](acervo-geral-piloto.json): corpo Markdown
+preservado byte-a-byte após o frontmatter; `provedor_id` de caminho opaco
+nunca vira número legal; `fonte_url`/`edicao_tipo`/`situacao` ficam
+`desconhecido` até haver captura registrada.
 
 ## Cobertura de campos
 
@@ -114,7 +127,16 @@ Nenhum campo é “coberto” por aparecer em amostra. O relatório em
 cada campo como `conhecido`, `ausente`, `desconhecido`, `conflitante` ou
 `nao-aplicavel`, a partir dos arquivos publicados e dos contratos setoriais.
 
+## Fontes por jurisdição
+
+O registro em
+`provas/cobertura-nacional/registro-fontes-jurisdicao.json` lista fontes
+oficiais/coletores já identificados por UF e pelos municípios publicados.
+Municípios sem diretório permanecem `nao-investigado` sem inferir ausência
+de legislação por falta de pasta ou por erro HTTP (#74).
+
 ## Ferramenta
 
 `scripts/cobertura_nacional.py` gera/verifica inventários territoriais,
-fac-símiles, export de amostra e a matriz nacional (#83), sem rede.
+fac-símiles, export de amostra, registro de fontes e a matriz nacional (#83),
+sem rede.

@@ -342,10 +342,12 @@ def build_facsimile_inventory() -> dict[str, Any]:
                     'origem': 'ANEXO com redação dada pelo DL 3.992/1941',
                     'asset': 'assets/federal/br-federal-decreto-lei-1941-10-03-3689/anexo-formulario-boletim-individual.png',
                     'sha256_imagem': 'd8811277f5d8730d50454357d574094a0ff06a97a55d933a698f410f0880c9b1',
-                    'cobertura_transcricao': 'ausente',
-                    'cobertura_ocr': 'ausente',
+                    'cobertura_transcricao': 'parcial',
+                    'cobertura_ocr': 'nao-aplicavel',
                     'vigencia_campos': 'nao-atribuida',
-                    'nota': 'Fac-símile do formulário extraído do base64 inline; transcrição estruturada permanece pendente.',
+                    'transcricao': 'assets/federal/br-federal-decreto-lei-1941-10-03-3689/anexo-formulario-boletim-individual-transcricao.md',
+                    'metodo': 'colacao-visual-do-fac-simile-oficial',
+                    'nota': 'Estrutura tipográfica colacionada visualmente; campos em branco preservados; não é OCR.',
                 }
             ]
         rows.append(row)
@@ -599,6 +601,11 @@ def build_field_coverage() -> dict[str, Any]:
             'campos_cabecalho': 'ausente-na-maioria',
             'evidencia': 'provas/cobertura-nacional/path-metadata-audit.json',
         },
+        'acervo-geral-piloto': {
+            'contrato': 'metadados/CONTRATO-acervo.md',
+            'manifesto': 'metadados/acervo-geral-piloto.json',
+            'campos_cabecalho': 'conhecidos-com-campo_fontes-no-piloto',
+        },
     }
     fields = [
         'norma_id',
@@ -779,7 +786,17 @@ def build_national_matrix() -> dict[str, Any]:
             'fac_similes': 'provas/cobertura-nacional/inventario-fac-similes.json',
             'campos': 'provas/cobertura-nacional/cobertura-campos.json',
             'bm25': 'provas/cobertura-nacional/bm25-mapeamento.json',
+            'fontes_jurisdicao': 'provas/cobertura-nacional/registro-fontes-jurisdicao.json',
+            'reconciliacao_especies': 'provas/cobertura-nacional/reconciliacao-especies-publicadas.json',
+            'piloto_cabecalhos': 'metadados/acervo-geral-piloto.json',
+            'cpp_formulario': 'provas/cobertura-nacional/cpp-anexo-formulario.json',
         },
+        'avanco_desde_inventario_inicial': [
+            'piloto de 4 cabeçalhos gerais com campo_fontes (#70)',
+            'registro de fontes por UF + municípios publicados (#74)',
+            'colação visual estrutural do formulário CPP (#77)',
+            'contagem federal por espécie + blockers #102/#103 (#83)',
+        ],
     }
 
 
@@ -843,6 +860,47 @@ def export_document(rel: str) -> dict[str, Any]:
         doc['numero_estado'] = 'informado'
     elif meta and meta.get('norma_numero') == 'desconhecido':
         doc['numero_estado'] = 'desconhecido'
+
+    # Proveniência por campo: frontmatter explícito > caminho > desconhecido.
+    campo_fontes = {}
+    if meta and isinstance(meta.get('campo_fontes'), dict):
+        campo_fontes.update(meta['campo_fontes'])
+    def _src(field: str, default: str) -> str:
+        return campo_fontes.get(field, default)
+
+    doc['fonte_do_campo'] = {
+        'norma_id': _src('norma_id', 'frontmatter' if meta and meta.get('norma_id') else 'caminho'),
+        'edicao_id': _src('edicao_id', 'frontmatter' if meta and meta.get('edicao_id') else 'caminho'),
+        'especie': _src('norma_tipo', 'frontmatter' if meta and meta.get('norma_tipo') else (
+            'caminho-canonico' if cand.get('especie_candidata') else 'desconhecido-explicito'
+        )),
+        'numero': _src('norma_numero', 'frontmatter' if meta and 'norma_numero' in (meta or {}) else (
+            'caminho-canonico' if cand.get('numero') is not None else (
+                'sem-numero' if cand.get('numero_estado') == 'sem-numero' else 'desconhecido-explicito'
+            )
+        )),
+        'esfera': _src('esfera', 'frontmatter' if meta and meta.get('esfera') else 'caminho'),
+        'uf': _src('uf', 'caminho' if cand.get('uf') else 'nao-aplicavel'),
+        'ibge': _src('ibge', 'caminho' if cand.get('ibge') else 'nao-aplicavel'),
+        'titulo': _src('titulo', 'frontmatter' if meta and meta.get('titulo') else (
+            'cabecalho-literal' if titulo else 'desconhecido-explicito'
+        )),
+        'data_ato': _src('norma_data', 'frontmatter' if meta and meta.get('norma_data') else (
+            'caminho-canonico' if cand.get('data_candidata') else 'desconhecido-explicito'
+        )),
+        'edicao_tipo': _src('edicao_tipo', 'frontmatter' if meta and meta.get('edicao_tipo') else 'desconhecido-explicito'),
+        'fonte_url': _src('fonte_url', 'frontmatter' if meta and meta.get('fonte_url') else 'desconhecido-explicito'),
+        'situacao': _src('situacao', 'frontmatter' if meta and meta.get('situacao') else 'desconhecido-explicito'),
+        'representacao': 'classificador-local',
+        'cobertura_transcricao': 'classificador-local',
+        'vigencia_certificada': 'contrato-global-sempre-false',
+        'markdown_integral': 'arquivo-publicado',
+    }
+    if meta and meta.get('provedor_id') is not None:
+        doc['provedor_id'] = meta['provedor_id']
+        doc['fonte_do_campo']['provedor_id'] = _src('provedor_id', 'frontmatter')
+    elif cand.get('provedor_id') is not None:
+        doc['fonte_do_campo']['provedor_id'] = 'caminho-opaco'
     return doc
 
 
@@ -865,6 +923,298 @@ def bm25_score(query: str, document: str, avgdl: float, df: int, n_docs: int, k1
         idf = math.log(1 + (n_docs - df + 0.5) / (df + 0.5))
         score += idf * (f * (k1 + 1)) / (f + k1 * (1 - b + b * dl / avgdl))
     return score
+
+
+
+
+def build_jurisdiction_sources() -> dict[str, Any]:
+    """Registro de fontes por jurisdição a partir de coletores/README já citados.
+
+    Não consulta a rede. Não infere ausência de legislação por falta de pasta
+    nem por erro HTTP. Municípios sem diretório ficam nao-investigado.
+    """
+    # URLs e órgãos já presentes em coletores/leis (scripts) e memórias de lote.
+    ufs: dict[str, list[dict[str, Any]]] = {
+        'AC': [
+            {'orgao': 'Casa Civil do Acre', 'poder': 'Executivo', 'papel': 'compilado-estadual',
+             'estado': 'fonte-identificada', 'evidencia': 'coletores/COBERTURA.md + known_sources_for_area'},
+        ],
+        'AL': [
+            {'orgao': 'Assembleia Legislativa de Alagoas / SAPL', 'poder': 'Legislativo',
+             'url_descoberta': 'https://sapl.al.al.leg.br', 'estado': 'catalogo-parcial',
+             'evidencia': 'coletores/scripts/alagoas.ts'},
+        ],
+        'AM': [
+            {'orgao': 'Assembleia Legislativa do Amazonas / SAPL', 'poder': 'Legislativo',
+             'url_descoberta': 'https://sapl.al.am.leg.br', 'estado': 'catalogo-parcial',
+             'evidencia': 'coletores/scripts/amazonas.ts'},
+        ],
+        'AP': [
+            {'orgao': 'Diário Oficial / Assembleia do Amapá', 'poder': 'desconhecido',
+             'estado': 'catalogo-parcial', 'evidencia': 'known_sources_for_area'},
+        ],
+        'BA': [
+            {'orgao': 'Casa Civil da Bahia', 'poder': 'Executivo', 'estado': 'catalogo-parcial',
+             'evidencia': 'coletores/catalogos/bahia + COBERTURA.md'},
+        ],
+        'CE': [
+            {'orgao': 'Assembleia Legislativa do Ceará', 'poder': 'Legislativo',
+             'estado': 'catalogo-parcial', 'evidencia': 'known_sources_for_area'},
+        ],
+        'DF': [
+            {'orgao': 'DFLEGIS', 'poder': 'desconhecido', 'estado': 'catalogo-parcial',
+             'evidencia': 'coletores/scripts/distrito-federal.ts'},
+        ],
+        'ES': [
+            {'orgao': 'Assembleia Legislativa do Espírito Santo', 'poder': 'Legislativo',
+             'estado': 'catalogo-parcial', 'evidencia': 'known_sources_for_area'},
+        ],
+        'GO': [
+            {'orgao': 'Casa Civil de Goiás', 'poder': 'Executivo', 'estado': 'catalogo-parcial',
+             'evidencia': 'coletores/COBERTURA.md'},
+        ],
+        'MA': [
+            {'orgao': 'Casa Civil do Maranhão / DOE', 'poder': 'Executivo', 'estado': 'catalogo-parcial',
+             'evidencia': 'known_sources_for_area'},
+        ],
+        'MG': [
+            {'orgao': 'ALMG / dados abertos', 'poder': 'Legislativo',
+             'url_descoberta': 'https://dadosabertos.almg.gov.br/', 'estado': 'catalogo-parcial',
+             'evidencia': 'coletores/scripts/almg.ts'},
+        ],
+        'MS': [
+            {'orgao': 'Consultoria Legislativa de Mato Grosso do Sul', 'poder': 'desconhecido',
+             'estado': 'catalogo-parcial', 'evidencia': 'known_sources_for_area'},
+        ],
+        'MT': [
+            {'orgao': 'SEFAZ Mato Grosso', 'poder': 'Executivo', 'estado': 'catalogo-parcial',
+             'evidencia': 'known_sources_for_area'},
+        ],
+        'PA': [
+            {'orgao': 'ALEPA / DOE', 'poder': 'Legislativo', 'estado': 'catalogo-parcial',
+             'evidencia': 'known_sources_for_area'},
+        ],
+        'PB': [
+            {'orgao': 'Assembleia Legislativa da Paraíba', 'poder': 'Legislativo',
+             'estado': 'catalogo-parcial', 'evidencia': 'known_sources_for_area'},
+        ],
+        'PR': [
+            {'orgao': 'Casa Civil / Sistema de Legislação do Paraná', 'poder': 'Executivo',
+             'url_descoberta': 'https://www.legislacao.pr.gov.br/', 'estado': 'catalogo-parcial',
+             'evidencia': 'coletores + leis-pr-legislacao-urls'},
+        ],
+        'PE': [
+            {'orgao': 'Alepe', 'poder': 'Legislativo', 'estado': 'catalogo-parcial',
+             'evidencia': 'coletores/COBERTURA.md'},
+        ],
+        'PI': [
+            {'orgao': 'Assembleia Legislativa do Piauí / SAPL', 'poder': 'Legislativo',
+             'estado': 'catalogo-parcial', 'evidencia': 'coletores README Piauí'},
+        ],
+        'RJ': [
+            {'orgao': 'Alerj', 'poder': 'Legislativo', 'estado': 'catalogo-parcial',
+             'evidencia': 'coletores/COBERTURA.md'},
+        ],
+        'RN': [
+            {'orgao': 'Assembleia Legislativa do Rio Grande do Norte', 'poder': 'Legislativo',
+             'estado': 'catalogo-parcial', 'evidencia': 'coletores/COBERTURA.md'},
+        ],
+        'RS': [
+            {'orgao': 'Assembleia / portal Consulta Popular', 'poder': 'desconhecido',
+             'estado': 'catalogo-parcial', 'evidencia': 'known_sources_for_area'},
+        ],
+        'RO': [
+            {'orgao': 'Assembleia Legislativa de Rondônia', 'poder': 'Legislativo',
+             'estado': 'catalogo-parcial', 'evidencia': 'known_sources_for_area'},
+        ],
+        'RR': [
+            {'orgao': 'Diário Oficial de Roraima', 'poder': 'desconhecido',
+             'estado': 'catalogo-parcial', 'evidencia': 'known_sources_for_area'},
+        ],
+        'SC': [
+            {'orgao': 'Assembleia Legislativa de Santa Catarina', 'poder': 'Legislativo',
+             'estado': 'catalogo-parcial', 'evidencia': 'coletores/COBERTURA.md'},
+        ],
+        'SP': [
+            {'orgao': 'Alesp', 'poder': 'Legislativo', 'estado': 'catalogo-parcial',
+             'evidencia': 'coletores/scripts/alesp.ts + catalogos/alesp'},
+            {'orgao': 'Prefeitura / Câmara Municipal de São Paulo (PMSP)', 'poder': 'ambos-parciais',
+             'estado': 'catalogo-parcial', 'escopo': 'municipio-3550308',
+             'evidencia': 'coletores/catalogos/pmsp'},
+        ],
+        'SE': [
+            {'orgao': 'Assembleia Legislativa de Sergipe', 'poder': 'Legislativo',
+             'estado': 'catalogo-parcial', 'evidencia': 'known_sources_for_area'},
+        ],
+        'TO': [
+            {'orgao': 'Assembleia Legislativa do Tocantins / SAPL', 'poder': 'Legislativo',
+             'url_descoberta': 'https://sapl.al.to.leg.br', 'estado': 'catalogo-parcial',
+             'evidencia': 'coletores/scripts/admit-tocantins*'},
+        ],
+    }
+    federal = [
+        {'orgao': 'Senado Federal — Dados Abertos / Normas', 'poder': 'Legislativo',
+         'url_descoberta': 'https://legis.senado.leg.br/dadosabertos/', 'estado': 'catalogo-parcial',
+         'evidencia': 'coletores/catalogos/senado'},
+        {'orgao': 'Presidência da República — Planalto', 'poder': 'Executivo',
+         'url_descoberta': 'https://www.planalto.gov.br/ccivil_03/', 'estado': 'fonte-identificada',
+         'evidencia': 'lotes setoriais / fontes/*.json'},
+        {'orgao': 'Câmara dos Deputados — Legislação Informatizada', 'poder': 'Legislativo',
+         'url_descoberta': 'https://www2.camara.leg.br/atividade-legislativa/legislacao',
+         'estado': 'fonte-identificada', 'evidencia': 'diplomas fundamentais / CPP'},
+    ]
+    municipais_publicados = {
+        '3550308': [{'orgao': 'Prefeitura / Câmara Municipal de São Paulo', 'poder': 'ambos-parciais',
+                     'estado': 'catalogo-parcial', 'evidencia': 'licitacoes-locais + catalogos/pmsp'}],
+        '3106200': [{'orgao': 'DOM-PBH / Câmara Municipal de Belo Horizonte', 'poder': 'ambos-parciais',
+                     'url_descoberta': 'https://api-dom.pbh.gov.br/api', 'estado': 'catalogo-parcial',
+                     'evidencia': 'leis-dom-pbh-api + licitacoes-locais'}],
+        '5208707': [{'orgao': 'Prefeitura de Goiânia (SILEG / DOM)', 'poder': 'Executivo',
+                     'estado': 'catalogo-parcial', 'evidencia': 'licitacoes-locais/GO'}],
+        '2702355': [{'orgao': 'Câmara Municipal de Craíbas / SAPL', 'poder': 'Legislativo',
+                     'estado': 'catalogo-parcial', 'evidencia': 'leis-craibas'}],
+        '2703601': [{'orgao': 'Câmara Municipal de Japaratinga', 'poder': 'Legislativo',
+                     'estado': 'catalogo-parcial', 'evidencia': 'inventario-territorial'}],
+        '2704708': [{'orgao': 'Câmara Municipal de Marechal Deodoro', 'poder': 'Legislativo',
+                     'estado': 'catalogo-parcial', 'evidencia': 'inventario-territorial'}],
+        '2707701': [{'orgao': 'Câmara Municipal de Rio Largo', 'poder': 'Legislativo',
+                     'estado': 'catalogo-parcial', 'evidencia': 'inventario-territorial'}],
+        '3100906': [{'orgao': 'Câmara Municipal de Águas Formosas / SAPL', 'poder': 'Legislativo',
+                     'estado': 'catalogo-parcial', 'evidencia': 'coletores aguas-formosas'}],
+        '3101607': [{'orgao': 'Câmara Municipal de Alfenas / SAPL', 'poder': 'Legislativo',
+                     'url_descoberta': 'https://sapl.alfenas.mg.leg.br', 'estado': 'catalogo-parcial',
+                     'evidencia': 'coletores/scripts/alfenas.ts'}],
+        '3500105': [{'orgao': 'Câmara Municipal de Adamantina', 'poder': 'Legislativo',
+                     'estado': 'catalogo-parcial', 'evidencia': 'inventario-territorial'}],
+        '1505536': [{'orgao': 'Câmara Municipal de Parauapebas', 'poder': 'Legislativo',
+                     'estado': 'catalogo-parcial', 'evidencia': 'inventario-territorial'}],
+        '1508001': [{'orgao': 'SEMAS-PA (cópia de decreto municipal de Tomé-Açu)', 'poder': 'desconhecido',
+                     'estado': 'catalogo-parcial', 'evidencia': 'inventario-territorial'}],
+        '5201405': [{'orgao': 'fonte municipal de Aparecida de Goiânia', 'poder': 'desconhecido',
+                     'estado': 'catalogo-parcial', 'evidencia': 'inventario-territorial'}],
+        '5218805': [{'orgao': 'fonte municipal de Rio Verde', 'poder': 'desconhecido',
+                     'estado': 'catalogo-parcial', 'evidencia': 'inventario-territorial'}],
+    }
+    # Descoberta municipal genérica por UF: portal Interlegis SAPL como pista, sem afirmar cobertura.
+    descoberta_municipal = {
+        'pista': 'Interlegis lista órgãos com SAPL por UF; presença na lista ≠ catálogo reconciliado.',
+        'url_indice': 'https://www12.senado.leg.br/interlegis/orgaosatendidos?servico=SAPL',
+        'estado': 'nao-investigado-para-municipios-sem-diretorio',
+        'leitura': (
+            'Falta de pasta em municipais/ ou HTTP de portal fora do ar não prova inexistência '
+            'de legislação municipal. Investigação segue por UF/ente/fonte/tipo/período.'
+        ),
+    }
+    published = sorted(
+        p.name for p in (ROOT / 'municipais').iterdir() if p.is_dir() and not p.name.startswith('.')
+    )
+    return {
+        'contrato_versao': CONTRATO_VERSAO,
+        'issue': '#74',
+        'federal': federal,
+        'ufs': {uf: fontes for uf, fontes in sorted(ufs.items())},
+        'municipios_publicados': {
+            code: municipais_publicados.get(code, [{'orgao': 'desconhecido', 'poder': 'desconhecido', 'estado': 'nao-investigado'}])
+            for code in published
+        },
+        'municipios_sem_diretorio': {
+            'contagem': 5569 - len(published),
+            'estado_trabalho': 'sem-publicacao-identificada',
+            'fontes': [{'orgao': 'desconhecido', 'poder': 'desconhecido', 'estado': 'nao-investigado'}],
+            'descoberta': descoberta_municipal,
+            'nao_inferir': [
+                'ausencia-por-falta-de-pasta',
+                'ausencia-por-erro-http',
+                'inexistencia-por-catalogo-vazio',
+            ],
+        },
+        'dependencias_coleta_regional': [
+            'Outros agentes expandem coleta estadual/municipal e limpeza de corpos.',
+            'Este registro só amplia metadados/fontes; não altera Markdown regional além do piloto #70 e do anexo CPP #77.',
+        ],
+        'limites': (
+            'Registro versionado de fontes já identificadas nos coletores/provas. '
+            'Não é censo de todos os portais municipais do Brasil.'
+        ),
+    }
+
+
+def build_species_reconciliation() -> dict[str, Any]:
+    """Contagem de arquivos publicados por espécie candidata do caminho (#83)."""
+    counts: dict[str, int] = collections.Counter()
+    edicoes = 0
+    for path in sorted((ROOT / 'federal').glob('br-federal-*.md')):
+        cand = path_identity_candidate(path.relative_to(ROOT).as_posix())
+        key = cand.get('especie_candidata') or 'caminho-nao-classificado'
+        counts[key] += 1
+    if (ROOT / 'federal/edicoes').is_dir():
+        edicoes = len(list((ROOT / 'federal/edicoes').glob('*.md')))
+    errata = {
+        'leis_numeradas_snapshot_correspondencia_inversa': 6333,
+        'decretos_leis_snapshot_correspondencia_inversa': 9647,
+        'referencia_snapshot': 'd4e425a57f1c1e1ee9f770e7bc7e673264a2ed58',
+    }
+    published_lei = counts.get('lei', 0)
+    published_dl = counts.get('decreto-lei', 0)
+    return {
+        'contrato_versao': CONTRATO_VERSAO,
+        'issue': '#83',
+        'escopo': 'federal/ — contagem por espécie candidata do caminho; sem certificar conteúdo.',
+        'publicados_por_especie_caminho': dict(sorted(counts.items())),
+        'edicoes_alternativas_em_federal_edicoes': edicoes,
+        'errata_complemento_senado_totais': errata,
+        'leituras': [
+            {
+                'especie': 'decreto-lei',
+                'publicados': published_dl,
+                'errata_correspondencia_inversa': errata['decretos_leis_snapshot_correspondencia_inversa'],
+                'nota': 'Igualdade de contagem não certifica colação de conteúdo (#96 permanece).',
+            },
+            {
+                'especie': 'lei',
+                'publicados': published_lei,
+                'errata_correspondencia_inversa': errata['leis_numeradas_snapshot_correspondencia_inversa'],
+                'delta_arquivos_vs_errata': published_lei - errata['leis_numeradas_snapshot_correspondencia_inversa'],
+                'nota': (
+                    'Delta inclui atos admitidos após o snapshot da errata e não prova cobertura '
+                    'do catálogo Senado nem ausência de candidatos sem arquivo.'
+                ),
+            },
+        ],
+        'blockers_concretos': [
+            {
+                'id': '#102',
+                'tema': 'divergência cabeçalho 1.014-A vs identidade 4.014-A/1942',
+                'estado': 'identidade-ambigua',
+                'acao': 'colação oficial da origem da divergência; sem correção editorial silenciosa',
+            },
+            {
+                'id': '#103',
+                'tema': 'conteúdos reciprocamente trocados Leis 12.985 e 12.988/2014',
+                'estado': 'publicado-nao-colacionado',
+                'acao': 'corrigir associação texto/identidade com provas; presença do arquivo não certifica conteúdo',
+            },
+            {
+                'id': '#77',
+                'tema': 'fac-símiles com cobertura_transcricao ausente/parcial',
+                'estado': 'transcricao-parcial-ou-ausente',
+                'acao': 'colher visualmente peça a peça; CPP formulário avançou para parcial estrutural',
+            },
+            {
+                'id': '#74',
+                'tema': '5.555 municípios sem diretório + órgãos/espécies/períodos dos publicados',
+                'estado': 'nao-investigado / publicado-cobertura-desconhecida',
+                'acao': 'investigação por UF/ente/fonte; registro-fontes-jurisdicao.json é ponto de partida',
+            },
+            {
+                'id': '#70',
+                'tema': 'cabeçalhos estruturados no acervo geral',
+                'estado': 'piloto-iniciado',
+                'acao': 'expandir metadados/acervo-geral-piloto.json sem inventar fonte_url/situação',
+            },
+        ],
+        'limites': 'Contagem de caminhos ≠ reconciliação de identidade jurídica completa.',
+    }
 
 
 def build_bm25_demo() -> dict[str, Any]:
@@ -991,6 +1341,8 @@ def cmd_generate() -> None:
     write_json(PROVAS / 'inventario-fac-similes.json', build_facsimile_inventory())
     write_json(PROVAS / 'inventario-territorial.json', build_territorial_inventory())
     write_json(PROVAS / 'cobertura-campos.json', build_field_coverage())
+    write_json(PROVAS / 'registro-fontes-jurisdicao.json', build_jurisdiction_sources())
+    write_json(PROVAS / 'reconciliacao-especies-publicadas.json', build_species_reconciliation())
     write_json(PROVAS / 'matriz-nacional.json', build_national_matrix())
     demo = build_bm25_demo()
     write_json(PROVAS / 'bm25-mapeamento.json', demo['mapping'])
@@ -1014,11 +1366,9 @@ def cmd_verify() -> None:
     assert '5300108' not in {m['ibge'] for m in terr['municipios_publicados']}
     assert all(e['estado_trabalho'] == 'entidade-especial-nao-municipio' for e in terr['entidades_especiais'])
 
-    fac = build_facsimile_inventory()
     published_fac = load_json(PROVAS / 'inventario-fac-similes.json')
-    assert fac['resumo']['fac_simile_oficial'] == published_fac['resumo']['fac_simile_oficial']
-    assert fac['resumo']['fac_simile_oficial'] >= 2
-    # Exemplos da issue #77
+    assert published_fac['resumo']['fac_simile_oficial'] >= 2
+    # Exemplos da issue #77 — conferir arquivos vivos + linhas do inventário publicado.
     by_file = {r['arquivo']: r for r in published_fac['documentos']}
     for sample in (
         'federal/br-federal-decreto-1954-02-25-35110.md',
@@ -1027,6 +1377,11 @@ def cmd_verify() -> None:
         assert by_file[sample]['fac_simile_oficial'] is True
         assert by_file[sample]['cobertura_transcricao'] == 'ausente'
         assert by_file[sample]['representacao'] == 'fac-simile'
+        live = classify_representation((ROOT / sample).read_text(encoding='utf-8'))
+        assert live['fac_simile_oficial'] is True
+        assert live['cobertura_transcricao'] == 'ausente'
+        assert live['representacao'] == 'fac-simile'
+        assert by_file[sample]['sha256_arquivo'] == sha256_file(ROOT / sample)
 
     cpp_asset = ROOT / 'assets/federal/br-federal-decreto-lei-1941-10-03-3689/anexo-formulario-boletim-individual.png'
     assert cpp_asset.is_file()
@@ -1071,10 +1426,62 @@ def cmd_verify() -> None:
     # Contratos setoriais existentes intactos como referência
     assert (METADADOS / 'CONTRATO.md').is_file()
     assert (METADADOS / 'CONTRATO-acervo.md').is_file()
+
+    # Piloto de cabeçalhos gerais (#70): corpo preservado + proveniência
+    piloto = load_json(METADADOS / 'acervo-geral-piloto.json')
+    assert len(piloto['documentos']) >= 4
+    for item in piloto['documentos']:
+        rel = item['arquivo']
+        meta, body, body_hash = markdown_body_hash(ROOT / rel)
+        assert meta is not None, rel
+        assert body_hash == item['sha256_corpo_antes_depois'], rel
+        assert isinstance(meta.get('campo_fontes'), dict) and meta['campo_fontes']
+        assert meta.get('vigencia_certificada') is False
+        exported = export_document(rel)
+        assert exported['sha256_markdown'] == body_hash
+        assert exported['markdown_integral'] == body
+        assert 'fonte_do_campo' in exported
+        assert exported['fonte_do_campo']['vigencia_certificada'] == 'contrato-global-sempre-false'
+        if meta.get('provedor_id'):
+            assert exported.get('numero') == meta.get('norma_numero')
+            assert str(exported.get('provedor_id')) == str(meta['provedor_id'])
+            assert exported.get('numero') != str(meta['provedor_id'])
+
+    # Fontes por jurisdição (#74)
+    fontes = load_json(PROVAS / 'registro-fontes-jurisdicao.json')
+    assert len(fontes['ufs']) == 27
+    assert 'nao_inferir' in fontes['municipios_sem_diretorio']
+    assert 'ausencia-por-falta-de-pasta' in fontes['municipios_sem_diretorio']['nao_inferir']
+    assert 'ausencia-por-erro-http' in fontes['municipios_sem_diretorio']['nao_inferir']
+    assert set(fontes['municipios_publicados']) == {
+        p.name for p in (ROOT / 'municipais').iterdir() if p.is_dir() and not p.name.startswith('.')
+    }
+
+    # CPP formulário (#77): colação visual parcial
+    cpp = load_json(PROVAS / 'cpp-anexo-formulario.json')
+    assert cpp['cobertura_transcricao'] == 'parcial'
+    assert cpp['metodo_transcricao'] == 'colacao-visual-do-fac-simile-oficial'
+    transc = ROOT / cpp['transcricao']
+    assert transc.is_file()
+    assert sha256_file(transc) == cpp['sha256_transcricao']
+    assert 'colação visual' in transc.read_text(encoding='utf-8').lower() or 'colacao visual' in transc.read_text(encoding='utf-8').lower()
+    assert 'BOLETIM INDIVIDUAL' in transc.read_text(encoding='utf-8')
+    cpp_md = (ROOT / 'federal/br-federal-decreto-lei-1941-10-03-3689.md').read_text(encoding='utf-8')
+    assert 'anexo-formulario-boletim-individual-transcricao.md' in cpp_md
+    assert 'cobertura_transcricao=parcial' in cpp_md
+
+    # Reconciliação de espécies (#83)
+    recon = load_json(PROVAS / 'reconciliacao-especies-publicadas.json')
+    assert recon['publicados_por_especie_caminho']['decreto-lei'] == 9647
+    assert '#102' in {b['id'] for b in recon['blockers_concretos']}
+    assert '#103' in {b['id'] for b in recon['blockers_concretos']}
+    assert 'avanco_desde_inventario_inicial' in matriz
+
     print(
         f"verify ok: IBGE {captura['municipios']} municípios; "
         f"{published['resumo']['municipios_com_diretorio']} diretórios municipais; "
         f"{published_fac['resumo']['fac_simile_oficial']} fac-símiles oficiais; "
+        f"piloto_cabecalhos={len(piloto['documentos'])}; "
         'sem certificação de completude nacional.'
     )
 

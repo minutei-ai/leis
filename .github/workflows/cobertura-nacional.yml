@@ -6,9 +6,14 @@ on:
       - 'scripts/cobertura_nacional.py'
       - 'tests/test_cobertura_nacional.py'
       - 'metadados/CONTRATO-acervo.md'
+      - 'metadados/acervo-geral-piloto.json'
       - 'provas/cobertura-nacional/**'
       - 'assets/federal/br-federal-decreto-lei-1941-10-03-3689/**'
       - 'federal/br-federal-decreto-lei-1941-10-03-3689.md'
+      - 'federal/br-federal-lei-2002-01-10-10406.md'
+      - 'federal/br-federal-lei-2015-03-16-13105.md'
+      - 'estaduais/AC/br-ac-norma-1121.md'
+      - 'estaduais/AC/br-ac-norma-120.md'
 permissions:
   contents: read
 jobs:
