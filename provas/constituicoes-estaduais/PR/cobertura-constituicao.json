@@ -1,0 +1,12 @@
+{
+  "norma_id": "br-pr-ato-9779",
+  "uf": "PR",
+  "fold_ok": true,
+  "adct": {
+    "mencao_adct_sigla": false,
+    "mencao_ato_disposicoes": true,
+    "mencao_disposicoes_transitorias": true
+  },
+  "chars_corpo": 373614,
+  "verificado_em": "2026-11-04T20:21:06Z"
+}

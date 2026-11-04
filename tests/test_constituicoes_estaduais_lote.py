@@ -54,11 +54,29 @@ class TestConstituicoesEstaduaisLote(unittest.TestCase):
         self.assertIn("br-es-norma-33122", ids)
         self.assertIn("br-pr-ato-9779", ids)
         self.assertIn("br-sp-norma-155101", ids)
+        for nid in [
+            "br-go-constituicao-1989",
+            "br-se-constituicao-1989",
+            "br-rs-constituicao-1989",
+            "br-mt-constituicao-1989",
+            "br-to-constituicao-1989",
+            "br-pb-constituicao-1989",
+            "br-ma-constituicao-1989",
+            "br-ro-constituicao-1989",
+            "br-rn-constituicao-1989",
+            "br-ce-constituicao-1989",
+            "br-al-constituicao-1989",
+            "br-ms-constituicao-1989",
+        ]:
+            self.assertIn(nid, ids)
         self.assertNotIn("PE", self.catalog["ausentes"])
+        self.assertNotIn("GO", self.catalog["ausentes"])
+        self.assertNotIn("RS", self.catalog["ausentes"])
         for d in self.catalog["documentos"]:
             path = ROOT / d["arquivo"]
             self.assertTrue(path.is_file(), d["arquivo"])
             self.assertIs(d["edicao"]["vigencia_certificada"], False)
+            self.assertFalse(d["edicao"].get("vigencia_certificada", False))
 
     def test_df_lei_organica_fold(self) -> None:
         fontes = json.loads(
@@ -166,6 +184,63 @@ class TestConstituicoesEstaduaisLote(unittest.TestCase):
         self.assertEqual(nl.strip_fold(plain), nl.strip_fold(nl.md_text_all(md)))
         self.assertEqual(sha256_bytes(md_full.encode("utf-8")), entry["sha256_markdown"])
         self.assertEqual(sha256_bytes(md.encode("utf-8")), entry["sha256_corpo_markdown"])
+
+
+    def test_novas_ufs_fontes_e_cobertura(self) -> None:
+        """Hashes e fold_ok das UFs publicadas/recapturadas neste lote #86."""
+        ufs = [
+            "GO", "SE", "RS", "ES", "SP", "PR", "MT", "TO", "PB", "MA", "RO", "RN", "CE", "AL", "MS",
+        ]
+        for uf in ufs:
+            fontes = json.loads(
+                (ROOT / f"provas/constituicoes-estaduais/{uf}/fontes.json").read_text(encoding="utf-8")
+            )
+            entry = fontes["fontes"][0]
+            raw = lzma.open(ROOT / entry["arquivo"]).read()
+            self.assertEqual(sha256_bytes(raw), entry["sha256_conteudo"], uf)
+            doc = next(d for d in self.catalog["documentos"] if d["uf"] == uf)
+            md_full = (ROOT / doc["arquivo"]).read_text(encoding="utf-8")
+            self.assertIn("nota-edicao:inicio", md_full, uf)
+            self.assertEqual(sha256_bytes(md_full.encode("utf-8")), entry["sha256_markdown"], uf)
+            md = strip_note(md_full)
+            self.assertEqual(sha256_bytes(md.encode("utf-8")), entry["sha256_corpo_markdown"], uf)
+            cob = json.loads(
+                (ROOT / f"provas/constituicoes-estaduais/{uf}/cobertura-constituicao.json").read_text(
+                    encoding="utf-8"
+                )
+            )
+            self.assertTrue(cob["fold_ok"], uf)
+            # ADCT / disposições transitórias: ao menos um marcador literal no corpo
+            low = md.lower()
+            self.assertTrue(
+                ("disposições constitucionais transit" in low)
+                or ("disposicoes constitucionais transit" in low)
+                or ("disposições transitórias" in low)
+                or ("disposicoes transitorias" in low)
+                or ("adct" in low),
+                f"{uf} sem menção literal a disposições transitórias/ADCT",
+            )
+
+    def test_auditoria_existentes_ba_sc_df_pe(self) -> None:
+        audit = json.loads(
+            (ROOT / "provas/constituicoes-estaduais/auditoria-existentes.json").read_text(encoding="utf-8")
+        )
+        by_uf = {i["uf"]: i for i in audit["itens"]}
+        for uf in ("BA", "SC", "DF", "PE"):
+            self.assertTrue(by_uf[uf]["tem_nota_edicao"], uf)
+            self.assertTrue(by_uf[uf]["sha256_markdown_bate"], uf)
+            self.assertTrue(by_uf[uf]["sha256_fonte_bate"], uf)
+            self.assertTrue(by_uf[uf]["mencao_disposicoes_transitorias"], uf)
+        for uf in ("ES", "PR", "SP"):
+            self.assertTrue(by_uf[uf]["prova_recaptura"], uf)
+            self.assertTrue(by_uf[uf]["mencao_disposicoes_transitorias"], uf)
+
+    def test_pendencias_setoriais(self) -> None:
+        pend = (ROOT / "provas/constituicoes-estaduais/PENDENCIAS.md").read_text(encoding="utf-8")
+        self.assertIn("#86", pend)
+        self.assertIn("HTTP", pend)
+
+
 
 
 class TestLicitacoesLocaisIndex(unittest.TestCase):

@@ -1,0 +1,14 @@
+{
+  "uf": "RJ",
+  "chave": "alerj-constest-compilada",
+  "url": "http://alerjln1.alerj.rj.gov.br/constest.nsf/1171c5bc55cc861b032568f50070cfb6?OpenView&ExpandView",
+  "url_final": "http://alerjln1.alerj.rj.gov.br/constest.nsf/1171c5bc55cc861b032568f50070cfb6?OpenView&ExpandView",
+  "bytes": 192852,
+  "sha256_conteudo": "bea791e237b55c2cc4f3ba075a389cc26b16517fd7f7caa601fe953f816355ee",
+  "sha256_arquivo_xz": "1bd45511323dea78bb47a3efd10b3216fd01f75e9c95e475d22488b7b7fe14c1",
+  "capturado_em": "2026-11-04T20:33:24Z",
+  "status": "ok",
+  "arquivo": "provas/constituicoes-estaduais/RJ/fontes/alerj-constest-compilada.html.xz",
+  "partes": 12,
+  "nota": "Montagem de todos os OpenDocument do view ExpandView do constest.nsf ALERJ; ordem do índice."
+}

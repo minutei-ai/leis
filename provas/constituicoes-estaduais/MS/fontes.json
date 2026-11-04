@@ -1,0 +1,20 @@
+{
+  "capturado_em": "2026-11-04T20:22:53Z",
+  "nota": "Captura oficial ALEMS da Constituição/LO (MS).",
+  "fontes": [
+    {
+      "chave": "alems-constituicao-1989",
+      "url": "https://www.al.ms.gov.br/upload/Pdf/2019_07_15_05_15_11_constituicao-do-estado-de-mato-grosso-do-sul-1989.pdf",
+      "url_final": "https://al.ms.gov.br/upload/Pdf/2019_07_15_05_15_11_constituicao-do-estado-de-mato-grosso-do-sul-1989.pdf",
+      "arquivo": "provas/constituicoes-estaduais/MS/fontes/alems-constituicao-1989.pdf.xz",
+      "sha256_conteudo": "2e3455d54328e210c8c14aea3458468e0ce446ce6254a34b8bad7e03c3715677",
+      "sha256_arquivo_xz": "46d55a6327beb98f16eb5897a3d2548a557def4d1323f9a394b0e45bad90c24c",
+      "bytes_fonte": 529172,
+      "capturado_em": "2026-11-04T20:22:53Z",
+      "sha256_markdown": "247c867f70bc62fe042ffa4a06e77bbabf68d26cadb69168f175977c0f0422ad",
+      "sha256_corpo_markdown": "8ae4668a975d60b8185ea20c5f61be8c546c23d3b8487431a8e2e4baa769b235",
+      "formato": "pdf",
+      "estrategia": "pdf-text"
+    }
+  ]
+}

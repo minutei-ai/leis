@@ -25,6 +25,39 @@
       "acao": "reutilizar"
     },
     {
+      "uf": "AL",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-al-constituicao-1989",
+      "arquivo": "estaduais/AL/br-al-constituicao-1989.md",
+      "titulo": "Constituição do Estado de Alagoas",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALEAL — SAPL",
+        "url": "https://sapl.al.al.leg.br/media/sapl/public/normajuridica/1989/2/constituicao_de_alagoas_ate_emenda_52.pdf",
+        "sha256_fonte": "f5ff5cbbf71447f668910cb3e21886de8772c673ebf42606261c9d4a6ed8cdd3",
+        "capturado_em": "2026-11-04T20:18:57Z",
+        "formato": "pdf",
+        "nota": "PDF SAPL norma/2 (até emenda 52); detalhe https://sapl.al.al.leg.br/norma/2?display"
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/AL/fontes.json",
+        "provas/constituicoes-estaduais/AL/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": true,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
+    },
+    {
       "uf": "BA",
       "status": "publicado-nesta-entrega",
       "papel": "constituicao-estadual",
@@ -56,6 +89,39 @@
       "acao": "publicar"
     },
     {
+      "uf": "CE",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-ce-constituicao-1989",
+      "arquivo": "estaduais/CE/br-ce-constituicao-1989.md",
+      "titulo": "Constituição do Estado do Ceará",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALECE",
+        "url": "https://www.al.ce.gov.br/storage/anexos/nDJ4WT3YVIIA58c5qAWpKdo70gJjXgtZPtY1ccsG.pdf",
+        "sha256_fonte": "5f30b2df5f4007899268e4a12675dbd95ec72e6de8e957af89a9b25e5374fc4a",
+        "capturado_em": "2026-11-04T20:18:52Z",
+        "formato": "pdf",
+        "nota": "PDF ALECE atualizado até EC nº 135/2025."
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/CE/fontes.json",
+        "provas/constituicoes-estaduais/CE/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": true,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
+    },
+    {
       "uf": "DF",
       "status": "publicado-nesta-entrega",
       "papel": "lei-organica-df",
@@ -82,23 +148,100 @@
     },
     {
       "uf": "ES",
-      "status": "presente",
+      "status": "recapturado-nesta-entrega",
       "papel": "constituicao-estadual",
       "norma_id": "br-es-norma-33122",
       "arquivo": "estaduais/ES/br-es-norma-33122.md",
       "titulo": "Constituição do Estado do Espírito Santo, 05 de outubro de 1989",
       "edicao": {
-        "tipo": "desconhecido",
-        "edicao_integral": "desconhecido",
-        "vigencia_certificada": false
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
       },
       "fonte": {
+        "orgao": "ALEES",
         "url": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/COE11989.html",
-        "nota": "URL no arquivo publicado; sem nova captura nesta entrega."
+        "sha256_fonte": "44ddcfc5ea7f6efc395564f9476630d608f2387e029a6c46e8b08e8734345273",
+        "capturado_em": "2026-11-04T20:18:19Z",
+        "formato": "html"
       },
-      "emendas_listadas": "desconhecido",
-      "acao": "reutilizar",
-      "nota_deteccao": "Ausente do grep constituic no nome; ID da fonte ALEES."
+      "provas": [
+        "provas/constituicoes-estaduais/ES/fontes.json",
+        "provas/constituicoes-estaduais/ES/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": false,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "recapturar"
+    },
+    {
+      "uf": "GO",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-go-constituicao-1989",
+      "arquivo": "estaduais/GO/br-go-constituicao-1989.md",
+      "titulo": "Constituição do Estado de Goiás",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "Casa Civil de Goiás — Legisla",
+        "url": "https://legisla.casacivil.go.gov.br/api/v1/arquivos/17142",
+        "sha256_fonte": "1826b22dbca7cdc90f822005c8207dfb4947b54e2ba5d1664ce047ed1dda1ce3",
+        "capturado_em": "2026-11-04T20:18:11Z",
+        "formato": "html"
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/GO/fontes.json",
+        "provas/constituicoes-estaduais/GO/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": true,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
+    },
+    {
+      "uf": "MA",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-ma-constituicao-1989",
+      "arquivo": "estaduais/MA/br-ma-constituicao-1989.md",
+      "titulo": "Constituição do Estado do Maranhão",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALEMA",
+        "url": "https://www.al.ma.leg.br/sitealema/wp-content/uploads/2025/11/Constituicao-MA-nov25.pdf",
+        "sha256_fonte": "6e69d677a566b32e6308b6169a23f7c4e00f54624d53b4be4ce5b8b4bcb59c00",
+        "capturado_em": "2026-11-04T20:18:36Z",
+        "formato": "pdf",
+        "nota": "PDF ALEMA edição comemorativa (emendas 1/1989 a 101/2024)."
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/MA/fontes.json",
+        "provas/constituicoes-estaduais/MA/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": false,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
     },
     {
       "uf": "MG",
@@ -125,6 +268,105 @@
       ],
       "emendas_listadas": "desconhecido",
       "acao": "reutilizar"
+    },
+    {
+      "uf": "MS",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-ms-constituicao-1989",
+      "arquivo": "estaduais/MS/br-ms-constituicao-1989.md",
+      "titulo": "Constituição do Estado de Mato Grosso do Sul",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALEMS",
+        "url": "https://www.al.ms.gov.br/upload/Pdf/2019_07_15_05_15_11_constituicao-do-estado-de-mato-grosso-do-sul-1989.pdf",
+        "sha256_fonte": "2e3455d54328e210c8c14aea3458468e0ce446ce6254a34b8bad7e03c3715677",
+        "capturado_em": "2026-11-04T20:22:53Z",
+        "formato": "pdf",
+        "nota": "PDF ALEMS (upload 2019-07-15); consolidação na data do arquivo da Assembleia — não certifica atualização posterior."
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/MS/fontes.json",
+        "provas/constituicoes-estaduais/MS/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": false,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
+    },
+    {
+      "uf": "MT",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-mt-constituicao-1989",
+      "arquivo": "estaduais/MT/br-mt-constituicao-1989.md",
+      "titulo": "Constituição do Estado de Mato Grosso",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALMT",
+        "url": "https://storage.al.mt.gov.br/api/v1/download/default/639107",
+        "sha256_fonte": "34bbe086a660b2fc8a090020c85a72b4390a9e8faf56cf2eeced46914e1317c8",
+        "capturado_em": "2026-11-04T20:18:28Z",
+        "formato": "pdf",
+        "nota": "PDF texto compilado (atualizado até EC nº 115, D.O. 26/12/2023) via storage.al.mt.gov.br."
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/MT/fontes.json",
+        "provas/constituicoes-estaduais/MT/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": true,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
+    },
+    {
+      "uf": "PB",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-pb-constituicao-1989",
+      "arquivo": "estaduais/PB/br-pb-constituicao-1989.md",
+      "titulo": "Constituição do Estado da Paraíba",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALPB",
+        "url": "https://www.al.pb.leg.br/wp-content/uploads/2023/10/constituicao_estadual.pdf",
+        "sha256_fonte": "d85cd248c58aa1aba1e3e5ebe8d02b8994926e6d2679e2a29dc991226677ebf7",
+        "capturado_em": "2026-11-04T20:18:34Z",
+        "formato": "pdf",
+        "nota": "PDF oficial ALPB (atualizado até EC n° 053/2023)."
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/PB/fontes.json",
+        "provas/constituicoes-estaduais/PB/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": false,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
     },
     {
       "uf": "PE",
@@ -154,23 +396,133 @@
     },
     {
       "uf": "PR",
-      "status": "presente",
+      "status": "recapturado-nesta-entrega",
       "papel": "constituicao-estadual",
       "norma_id": "br-pr-ato-9779",
       "arquivo": "estaduais/PR/br-pr-ato-9779.md",
       "titulo": "Constituição do Estado do Paraná",
       "edicao": {
-        "tipo": "desconhecido",
-        "edicao_integral": "desconhecido",
-        "vigencia_certificada": false
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
       },
       "fonte": {
-        "url": "desconhecido",
-        "nota": "Arquivo Sistema Legislação PR (codAto aparente 9779); sem nova captura nesta entrega."
+        "orgao": "Sistema Legislação PR",
+        "url": "https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=iniciarProcesso&codAto=9779&codItemAto=90725",
+        "sha256_fonte": "758230952973d3f9f1edb392e11edc42f3809fd1b237f08348b43d4796bda27f",
+        "capturado_em": "2026-11-04T20:18:26Z",
+        "formato": "html"
       },
-      "emendas_listadas": "parcial-no-corpo-como-vide",
-      "acao": "reutilizar",
-      "nota_deteccao": "Ausente do grep constituic no nome."
+      "provas": [
+        "provas/constituicoes-estaduais/PR/fontes.json",
+        "provas/constituicoes-estaduais/PR/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": false,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "recapturar"
+    },
+    {
+      "uf": "RN",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-rn-constituicao-1989",
+      "arquivo": "estaduais/RN/br-rn-constituicao-1989.md",
+      "titulo": "Constituição do Estado do Rio Grande do Norte",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALRN",
+        "url": "https://www.al.rn.leg.br/documentos/Constituicao_Estadual-2023%20-%202024.pdf",
+        "sha256_fonte": "7e9ea65f28044c114d96b6efbaa26c5813730ed7fa6c5a6051e11c4434e0e808",
+        "capturado_em": "2026-11-04T20:18:41Z",
+        "formato": "pdf",
+        "nota": "PDF ALRN (versão digital 2023–2024)."
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/RN/fontes.json",
+        "provas/constituicoes-estaduais/RN/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": true,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
+    },
+    {
+      "uf": "RO",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-ro-constituicao-1989",
+      "arquivo": "estaduais/RO/br-ro-constituicao-1989.md",
+      "titulo": "Constituição do Estado de Rondônia",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALERO",
+        "url": "https://www.al.ro.leg.br/downloads/constituicao-do-estado-de-rondonia",
+        "sha256_fonte": "4cafbde5037938c268aa369f2289d2e4f4b71bdb61f9d4aea6902f9e25158718",
+        "capturado_em": "2026-11-04T20:18:39Z",
+        "formato": "pdf"
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/RO/fontes.json",
+        "provas/constituicoes-estaduais/RO/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": false,
+        "mencao_ato_disposicoes": false,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
+    },
+    {
+      "uf": "RS",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-rs-constituicao-1989",
+      "arquivo": "estaduais/RS/br-rs-constituicao-1989.md",
+      "titulo": "Constituição do Estado do Rio Grande do Sul",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALERS — Departamento de Assessoramento Legislativo",
+        "url": "https://ww2.al.rs.gov.br/dal/LinkClick.aspx?fileticket=WQdIfqNoXO4%3d&tabid=3683&mid=5359",
+        "sha256_fonte": "f8abf00ba09ac773af814eeb6e905257215fea9e84ed33d77924441de313b16b",
+        "capturado_em": "2026-11-04T20:18:16Z",
+        "formato": "html",
+        "nota": "HTML «Constituição Compilada» (mid=5359) a partir do portal ww4.al.rs.gov.br/legislacao-estadual."
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/RS/fontes.json",
+        "provas/constituicoes-estaduais/RS/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": true,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
     },
     {
       "uf": "SC",
@@ -199,51 +551,114 @@
       "acao": "publicar"
     },
     {
+      "uf": "SE",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-se-constituicao-1989",
+      "arquivo": "estaduais/SE/br-se-constituicao-1989.md",
+      "titulo": "Constituição do Estado de Sergipe",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALESE — Aleselegis",
+        "url": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/CE11989.html",
+        "sha256_fonte": "b362acc580fa6526d31e369470e5eb6c74e92e632f3ddf43505b4fca585ca982",
+        "capturado_em": "2026-11-04T20:18:13Z",
+        "formato": "html"
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/SE/fontes.json",
+        "provas/constituicoes-estaduais/SE/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": false,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
+    },
+    {
       "uf": "SP",
-      "status": "presente",
+      "status": "recapturado-nesta-entrega",
       "papel": "constituicao-estadual",
       "norma_id": "br-sp-norma-155101",
       "arquivo": "estaduais/SP/br-sp-norma-155101.md",
       "titulo": "Constituição Estadual de 05 de outubro de 1989",
       "edicao": {
         "tipo": "compilado-alesp-informado",
-        "edicao_integral": "desconhecido",
+        "edicao_integral": true,
         "vigencia_certificada": false,
-        "ultima_atualizacao_informada_no_arquivo": "ADI - STF n° 7436, de 23/08/2023"
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
       },
       "fonte": {
+        "orgao": "ALESP",
         "url": "https://www.al.sp.gov.br/repositorio/legislacao/constituicao/1989/compilacao-constituicao-0-05.10.1989.html",
-        "nota": "Link no arquivo; sem nova captura nesta entrega."
+        "sha256_fonte": "98864f817b30e9cfe05fcbab70dcb230d8c1146cec3e1c9eafd8ed0583db14fe",
+        "capturado_em": "2026-11-04T20:18:21Z",
+        "formato": "html"
       },
-      "emendas_listadas": "desconhecido",
-      "acao": "reutilizar",
-      "nota_deteccao": "Ausente do grep constituic no nome."
+      "provas": [
+        "provas/constituicoes-estaduais/SP/fontes.json",
+        "provas/constituicoes-estaduais/SP/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": true,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "recapturar"
+    },
+    {
+      "uf": "TO",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-to-constituicao-1989",
+      "arquivo": "estaduais/TO/br-to-constituicao-1989.md",
+      "titulo": "Constituição do Estado do Tocantins",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Integralidade refere-se à reprodução conferida da fonte oficial capturada; não certifica vigência nem esgota inventário de emendas."
+      },
+      "fonte": {
+        "orgao": "ALETO",
+        "url": "https://www.al.to.leg.br/documento/visualizar?documento.codigo=66",
+        "sha256_fonte": "14d928f5a4e381facd9a6daf1f7423d29745d98db3b20d3777f83916e52dd10b",
+        "capturado_em": "2026-11-04T20:18:31Z",
+        "formato": "pdf"
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/TO/fontes.json",
+        "provas/constituicoes-estaduais/TO/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "adct": {
+        "mencao_adct_sigla": false,
+        "mencao_ato_disposicoes": true,
+        "mencao_disposicoes_transitorias": true
+      },
+      "acao": "publicar"
     }
   ],
   "ausentes": [
-    "AL",
     "AM",
     "AP",
-    "CE",
-    "GO",
-    "MA",
-    "MS",
-    "MT",
     "PA",
-    "PB",
     "PI",
     "RJ",
-    "RN",
-    "RO",
-    "RR",
-    "RS",
-    "SE",
-    "TO"
+    "RR"
   ],
   "pendencias": [
-    "Publicar Constituições consolidadas das 18 UFs ainda ausentes, com lista de emendas aplicadas.",
-    "Inventariar emendas constitucionais estaduais aplicadas às cartas já presentes (AC, BA, DF/LO, ES, MG, PE, PR, SC, SP).",
-    "Recaptura/hash próprios de AC, ES, MG, PR e SP para sair de edicao_integral=desconhecido.",
-    "GO: falso positivo de detecção por título (norma que 'Constitui o Fórum...'); não é Constituição estadual."
+    "Inventariar emendas constitucionais estaduais aplicadas às cartas publicadas.",
+    "UFs ainda sem captura/publicação nesta entrega: AM, AP, PA, PI, RJ, RR",
+    "RJ (ALERJ Lotus Notes fragmentado), AM/AP/MS/RR/PI: fonte HTML consolidada ou PDF oficial ainda em descoberta/captura.",
+    "Não inferir vigência de presença no acervo nem de HTTP."
   ]
 }

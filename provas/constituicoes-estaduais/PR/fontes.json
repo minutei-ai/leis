@@ -1,0 +1,20 @@
+{
+  "capturado_em": "2026-11-04T20:18:26Z",
+  "nota": "Captura oficial Sistema Legislação PR da Constituição/LO (PR).",
+  "fontes": [
+    {
+      "chave": "legislacao-pr-ato-9779",
+      "url": "https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=iniciarProcesso&codAto=9779&codItemAto=90725",
+      "url_final": "https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=iniciarProcesso&codAto=9779&codItemAto=90725",
+      "arquivo": "provas/constituicoes-estaduais/PR/fontes/legislacao-pr-ato-9779.html.xz",
+      "sha256_conteudo": "758230952973d3f9f1edb392e11edc42f3809fd1b237f08348b43d4796bda27f",
+      "sha256_arquivo_xz": "6441fe7a55abd2c75345b44904cdc943b8678f0a26d978a8e87ba8bca27f3e5c",
+      "bytes_fonte": 744464,
+      "capturado_em": "2026-11-04T20:18:26Z",
+      "sha256_markdown": "530121943ec594b4894ba6c02e49cb20ce013829bbfd5b8472f46f3afbf37a83",
+      "sha256_corpo_markdown": "eb71bbb87b305b8c5b171d6ab72c3bebc4868fceaaa464a55db78fea5f42be49",
+      "formato": "html",
+      "estrategia": "body-html"
+    }
+  ]
+}

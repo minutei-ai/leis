@@ -1,0 +1,20 @@
+{
+  "capturado_em": "2026-11-04T20:18:36Z",
+  "nota": "Captura oficial ALEMA da Constituição/LO (MA).",
+  "fontes": [
+    {
+      "chave": "alema-constituicao-1989",
+      "url": "https://www.al.ma.leg.br/sitealema/wp-content/uploads/2025/11/Constituicao-MA-nov25.pdf",
+      "url_final": "https://www.al.ma.leg.br/sitealema/wp-content/uploads/2025/11/Constituicao-MA-nov25.pdf",
+      "arquivo": "provas/constituicoes-estaduais/MA/fontes/alema-constituicao-1989.pdf.xz",
+      "sha256_conteudo": "6e69d677a566b32e6308b6169a23f7c4e00f54624d53b4be4ce5b8b4bcb59c00",
+      "sha256_arquivo_xz": "a48c3159c23ee45d26267eb7a40f0449844a278a351a628a81103b737379ab3e",
+      "bytes_fonte": 2612475,
+      "capturado_em": "2026-11-04T20:18:36Z",
+      "sha256_markdown": "de73ddb16bb24fa2555f87f30b33ae78415484f0f852901433486829c2373538",
+      "sha256_corpo_markdown": "97a3c37ec224efd0db7abbcc96412525a056afb16dfcacf66b9a000605e3add2",
+      "formato": "pdf",
+      "estrategia": "pdf-text"
+    }
+  ]
+}

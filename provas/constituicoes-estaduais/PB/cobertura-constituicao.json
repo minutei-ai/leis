@@ -1,0 +1,12 @@
+{
+  "norma_id": "br-pb-constituicao-1989",
+  "uf": "PB",
+  "fold_ok": true,
+  "adct": {
+    "mencao_adct_sigla": false,
+    "mencao_ato_disposicoes": true,
+    "mencao_disposicoes_transitorias": true
+  },
+  "chars_corpo": 485357,
+  "verificado_em": "2026-11-04T20:21:11Z"
+}

@@ -1,0 +1,12 @@
+{
+  "norma_id": "br-ro-constituicao-1989",
+  "uf": "RO",
+  "fold_ok": true,
+  "adct": {
+    "mencao_adct_sigla": false,
+    "mencao_ato_disposicoes": false,
+    "mencao_disposicoes_transitorias": true
+  },
+  "chars_corpo": 449377,
+  "verificado_em": "2026-11-04T20:21:16Z"
+}

@@ -1,0 +1,20 @@
+{
+  "capturado_em": "2026-11-04T20:18:31Z",
+  "nota": "Captura oficial ALETO da Constituição/LO (TO).",
+  "fontes": [
+    {
+      "chave": "aleto-constituicao-1989",
+      "url": "https://www.al.to.leg.br/documento/visualizar?documento.codigo=66",
+      "url_final": "https://www.al.to.leg.br/arquivos/documento_68367.PDF",
+      "arquivo": "provas/constituicoes-estaduais/TO/fontes/aleto-constituicao-1989.pdf.xz",
+      "sha256_conteudo": "14d928f5a4e381facd9a6daf1f7423d29745d98db3b20d3777f83916e52dd10b",
+      "sha256_arquivo_xz": "6f6bf4954414942bcd70a2df4bbb50ae2a3c48337df6976ae6d1ae6b2186082b",
+      "bytes_fonte": 1751873,
+      "capturado_em": "2026-11-04T20:18:31Z",
+      "sha256_markdown": "9b721009cda2f676a93d72e83d70b3d8cff4ae516e6675942ed575b5ab06c61a",
+      "sha256_corpo_markdown": "71c72736230d8f5c33e6aae893f6076115cfad4c579804ce17fe6ad9220df0ad",
+      "formato": "pdf",
+      "estrategia": "pdf-text"
+    }
+  ]
+}

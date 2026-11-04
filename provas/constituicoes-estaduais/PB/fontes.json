@@ -1,0 +1,20 @@
+{
+  "capturado_em": "2026-11-04T20:18:34Z",
+  "nota": "Captura oficial ALPB da Constituição/LO (PB).",
+  "fontes": [
+    {
+      "chave": "alpb-constituicao-1989",
+      "url": "https://www.al.pb.leg.br/wp-content/uploads/2023/10/constituicao_estadual.pdf",
+      "url_final": "https://www.al.pb.leg.br/wp-content/uploads/2023/10/constituicao_estadual.pdf",
+      "arquivo": "provas/constituicoes-estaduais/PB/fontes/alpb-constituicao-1989.pdf.xz",
+      "sha256_conteudo": "d85cd248c58aa1aba1e3e5ebe8d02b8994926e6d2679e2a29dc991226677ebf7",
+      "sha256_arquivo_xz": "fca01f0203f024946b66816a566e2b6577ed36fca21f1b1de9cfe2c336be6721",
+      "bytes_fonte": 1987864,
+      "capturado_em": "2026-11-04T20:18:34Z",
+      "sha256_markdown": "258f1463c2efdf4c830994123faec489df22826077ca09ca78a46ef8e872da6d",
+      "sha256_corpo_markdown": "3a8b9897f226841824e2a3428f1e2018c7e81bae3910a1ecdda864d8568430f0",
+      "formato": "pdf",
+      "estrategia": "pdf-text"
+    }
+  ]
+}

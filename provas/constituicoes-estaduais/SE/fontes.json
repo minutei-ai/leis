@@ -1,0 +1,20 @@
+{
+  "capturado_em": "2026-11-04T20:18:13Z",
+  "nota": "Captura oficial ALESE — Aleselegis da Constituição/LO (SE).",
+  "fontes": [
+    {
+      "chave": "alese-constituicao-1989",
+      "url": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/CE11989.html",
+      "url_final": "https://aleselegis.al.se.leg.br/Arquivo/Documents/legislacao/html/CE11989.html",
+      "arquivo": "provas/constituicoes-estaduais/SE/fontes/alese-constituicao-1989.html.xz",
+      "sha256_conteudo": "b362acc580fa6526d31e369470e5eb6c74e92e632f3ddf43505b4fca585ca982",
+      "sha256_arquivo_xz": "725997fd6ec82646cd770029784d18007abec769cb8838a55d1e618bba5e7440",
+      "bytes_fonte": 898305,
+      "capturado_em": "2026-11-04T20:18:13Z",
+      "sha256_markdown": "634e5e512c9067fda7e2c63df1e19426d25e967c5aac902ff8de5040ed9ce3f7",
+      "sha256_corpo_markdown": "5b2f58363ca27e5a2df3436d9f321dc19456e7ead5214821521e36ce92e20ff0",
+      "formato": "html",
+      "estrategia": "body-html"
+    }
+  ]
+}

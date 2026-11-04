@@ -1,0 +1,12 @@
+{
+  "norma_id": "br-go-constituicao-1989",
+  "uf": "GO",
+  "fold_ok": true,
+  "adct": {
+    "mencao_adct_sigla": true,
+    "mencao_ato_disposicoes": true,
+    "mencao_disposicoes_transitorias": true
+  },
+  "chars_corpo": 818531,
+  "verificado_em": "2026-11-04T20:21:00Z"
+}

@@ -1,0 +1,20 @@
+{
+  "capturado_em": "2026-11-04T20:18:11Z",
+  "nota": "Captura oficial Casa Civil de Goiás — Legisla da Constituição/LO (GO).",
+  "fontes": [
+    {
+      "chave": "casacivil-constituicao-1989",
+      "url": "https://legisla.casacivil.go.gov.br/api/v1/arquivos/17142",
+      "url_final": "https://legisla.casacivil.go.gov.br/api/v1/arquivos/17142",
+      "arquivo": "provas/constituicoes-estaduais/GO/fontes/casacivil-constituicao-1989.html.xz",
+      "sha256_conteudo": "1826b22dbca7cdc90f822005c8207dfb4947b54e2ba5d1664ce047ed1dda1ce3",
+      "sha256_arquivo_xz": "454b0d2896398617557fc0e907a32047ebc319d535e0e22099d3c20cfc85ff45",
+      "bytes_fonte": 1380011,
+      "capturado_em": "2026-11-04T20:18:11Z",
+      "sha256_markdown": "8802c139f925fa54f0648b2c67086c00b5ceecf06c1833ad5bee9f5fc022cb8f",
+      "sha256_corpo_markdown": "9dfe6e5fca709637fabe56905f10a9dfa710434d1c59fbeb23561d170499897a",
+      "formato": "html",
+      "estrategia": "body-html"
+    }
+  ]
+}

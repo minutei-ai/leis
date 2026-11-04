@@ -1,0 +1,12 @@
+{
+  "norma_id": "br-mt-constituicao-1989",
+  "uf": "MT",
+  "fold_ok": true,
+  "adct": {
+    "mencao_adct_sigla": true,
+    "mencao_ato_disposicoes": true,
+    "mencao_disposicoes_transitorias": true
+  },
+  "chars_corpo": 601025,
+  "verificado_em": "2026-11-04T20:21:08Z"
+}
