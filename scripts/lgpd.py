@@ -49,6 +49,8 @@ CONSOLIDADA = ROOT / 'federal' / 'edicoes' / 'br-federal-lei-2018-08-14-13709-co
 MODIFICADORA = ROOT / 'federal' / 'br-federal-lei-2026-02-25-15352.md'
 MP1317 = ROOT / 'federal' / 'br-federal-medida-provisoria-2025-09-17-1317.md'
 
+HISTORICA_SHA256_AUDITADO = 'd6f046095c0c80db5fd0069b8103b489f98a4b83648ac2d114e23c05ffe68422'
+
 CAPTURA_PADRAO = '2026-11-04T12:01:14Z'
 UA = 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36'
 
@@ -320,6 +322,8 @@ def consolidada_note(fontes: dict) -> str:
 
 def build_historica(corpo_original: str) -> tuple[str, dict]:
     corpo_hash = sha256(corpo_original.encode('utf-8'))
+    if corpo_hash != HISTORICA_SHA256_AUDITADO:
+        raise RuntimeError('corpo histórico diverge da edição auditada')
     note = historical_alerts()
     body = note + corpo_original
     if not body.endswith('\n'):
@@ -694,6 +698,8 @@ def cmd_verify(args):
         corpo = ''
     else:
         corpo = m.group(1)
+        if sha256(corpo.encode('utf-8')) != HISTORICA_SHA256_AUDITADO:
+            problems.append('histórica: corpo diverge da edição auditada')
         if sha256(corpo.encode('utf-8')) != meta_h.get('sha256_corpo_preservado'):
             problems.append('histórica: sha256_corpo_preservado diverge do corpo')
         if 'Alerta por dispositivo' not in body_h:

@@ -18,6 +18,7 @@ sys.path.insert(0, str(ROOT / 'scripts'))
 
 from lgpd import (  # noqa: E402
     CONSOLIDADA,
+    build_historica,
     HISTORICA,
     MANIFESTO,
     MODIFICADORA,
@@ -49,6 +50,10 @@ class TestLgpdEdicoes(unittest.TestCase):
         assert m, 'histórica sem corpo após nota'
         cls.corpo_h = m.group(1)
         cls.corpo_c = cls.body_c.split('<!-- nota-edicao:fim -->\n\n', 1)[1]
+
+    def test_recusa_alteracao_corpo_historico(self):
+        with self.assertRaises(RuntimeError):
+            build_historica(self.corpo_h + 'alterado')
 
     def test_hashes_frontmatter(self):
         self.assertEqual(self.meta_h['edicao_tipo'], 'historica')
