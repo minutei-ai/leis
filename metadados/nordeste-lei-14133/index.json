@@ -21,23 +21,31 @@
   "ufs": [
     {
       "uf": "AL",
-      "status_acervo": "nao-encontrado-geral-no-acervo",
+      "status_acervo": "geral-nao-recuperado-acesso-parcial",
       "decretos_14133": [],
       "fonte_oficial_indicada": "https://diario.imprensaoficial.al.gov.br/",
       "tentativas": [
         {
           "url": "https://diario.imprensaoficial.al.gov.br/",
-          "resultado": "DOE AL acessível; decretos pontuais (ex. convênios) — não geral 14.133",
-          "bloqueio": false
+          "resultado": "DOE AL SPA acessível; decretos pontuais (ex. convênios) — geral 14.133 não recuperado automaticamente",
+          "bloqueio": false,
+          "em": "2026-11-04T21:20:00Z"
         },
         {
           "url": "https://sapl.maceio.al.leg.br/",
-          "resultado": "timeout/falha de conexão neste ambiente",
-          "bloqueio": true
+          "resultado": "DNS failure — bloqueio de acesso, não ausência de norma",
+          "bloqueio": true,
+          "em": "2026-11-04T21:20:00Z"
+        },
+        {
+          "url": "https://www.maceio.al.leg.br/publicacoes id=1",
+          "resultado": "LO Maceió PDF publicada neste lote",
+          "bloqueio": false,
+          "em": "2026-11-04T21:20:00Z"
         }
       ],
       "pendencias": [
-        "Localizar e publicar decreto geral estadual 14.133 se existir; LO + decreto geral municipal de Maceió (2704302)."
+        "Localizar e publicar decreto geral estadual 14.133 se existir (SRP 95.019/2023 identificado externamente como temático). Decreto geral municipal Maceió ainda não recuperado."
       ]
     },
     {
@@ -74,20 +82,28 @@
           "titulo": "Decreto 35.283/2023",
           "arquivo": "estaduais/CE/br-ce-decreto-2023-01-19-35283.md",
           "carater": "etp-tr",
-          "fonte_url": "https://www.seplag.ce.gov.br/wp-content/uploads/sites/14/2023/01/Decreto-Estadual-no-35.283-19012023-Regulamenta-Lei-Federal-no-14.133-Ambito-Adm-Publica-Poder-Executivo-1.pdf"
+          "fonte_url": "https://www.seplag.ce.gov.br/wp-content/uploads/sites/14/2023/01/Decreto-Estadual-no-35.283-19012023-Regulamenta-Lei-Federal-no-14.133-Ambito-Adm-Publica-Poder-Executivo-1.pdf",
+          "proveniencia": "wayback-arquivo-url-oficial",
+          "wayback_timestamp": "20230323115514",
+          "url_captura": "https://web.archive.org/web/20230323115514/https://www.seplag.ce.gov.br/wp-content/uploads/sites/14/2023/01/Decreto-Estadual-no-35.283-19012023-Regulamenta-Lei-Federal-no-14.133-Ambito-Adm-Publica-Poder-Executivo-1.pdf",
+          "edicao_identidade": "DOE CE SÉRIE 3 ANO XV Nº015 2023-01-20",
+          "colacao_oficial_status": "desconhecido",
+          "equivalente_captura_oficial_atual": false
         }
       ],
       "fonte_oficial_indicada": "https://www.seplag.ce.gov.br/",
       "tentativas": [
         {
-          "url": "seplag PDF direto",
-          "resultado": "HTTP 500",
-          "bloqueio": true
+          "url": "https://www.seplag.ce.gov.br/.../Decreto-Estadual-no-35.283-....pdf",
+          "resultado": "HTTP 500; redirect ce.gov.br também 500",
+          "bloqueio": true,
+          "em": "2026-11-04T21:20:00Z"
         },
         {
-          "url": "wayback do mesmo URL",
-          "resultado": "PDF obtido; 35.283 ETP/TR publicado",
-          "bloqueio": false
+          "url": "wayback timestamp 20230323115514 (e 20240702174002 mesmo digest)",
+          "resultado": "PDF obtido; hash estável; edição DOE Nº015 identificada",
+          "bloqueio": false,
+          "em": "2026-11-04T21:20:00Z"
         },
         {
           "url": "https://legislacao.pgm.fortaleza.ce.gov.br/ api search 14.133",
@@ -96,7 +112,7 @@
         }
       ],
       "pendencias": [
-        "Localizar decreto geral estadual se existir; decreto geral municipal Fortaleza."
+        "Localizar decreto geral estadual se existir; decreto geral municipal Fortaleza (15.317 é só transição). Colação oficial atual do 35.283 permanece desconhecida enquanto origem 500."
       ]
     },
     {
@@ -106,59 +122,92 @@
       "identificacao_externa": {
         "titulo": "Decreto 38.189/2023",
         "carater_alegado": "marco-temporal-transicao",
-        "status": "identificado-nao-coletado"
+        "status": "identificado-nao-coletado",
+        "nota": "Texto citado em fontes secundárias; íntegra DOEMA oficial não recuperada neste ambiente. Não publicar como oficial sem captura DOE."
       },
       "fonte_oficial_indicada": "https://www.diariooficial.ma.gov.br/",
       "tentativas": [
         {
           "url": "https://www.diariooficial.ma.gov.br/",
           "resultado": "portal acessível; íntegra 38.189 não recuperada automaticamente",
-          "bloqueio": false
+          "bloqueio": false,
+          "em": "2026-11-04T21:20:00Z"
         },
         {
           "url": "https://leisestaduais.com.br/ma/decreto-n-38189-2023-maranhao",
-          "resultado": "Cloudflare challenge 403",
+          "resultado": "Cloudflare challenge 403 — bloqueio≠ausência",
           "bloqueio": true
         },
         {
           "url": "https://www.normasbrasil.com.br/norma/decreto-38189-2023-ma_425891.html",
-          "resultado": "ID aponta norma diversa (não 38.189 licitações)",
+          "resultado": "ID aponta norma diversa",
           "bloqueio": false
         },
         {
-          "url": "LegisWeb IDs tentados",
-          "resultado": "IDs errados (SUSEP/ICMS); 38.136 SRP encontrado como temático distinto",
-          "bloqueio": false
+          "url": "Wayback CDX *38189* ma.gov.br",
+          "resultado": "sem hit útil do PDF do decreto",
+          "bloqueio": false,
+          "em": "2026-11-04T21:20:00Z"
+        },
+        {
+          "url": "https://diariooficial.saoluis.ma.gov.br/",
+          "resultado": "DOM municipal acessível (SPA); LO São Luís não localizada automaticamente",
+          "bloqueio": false,
+          "em": "2026-11-04T21:20:00Z"
         }
       ],
       "pendencias": [
-        "Coletar 38.189 classificando como transitório; buscar regulamento geral; LO + decreto São Luís (2111300)."
+        "Coletar 38.189 do DOEMA classificando como transitório; buscar regulamento geral estadual; LO + decreto geral São Luís (2111300)."
       ]
     },
     {
       "uf": "PB",
-      "status_acervo": "nao-encontrado-geral-no-acervo",
+      "status_acervo": "geral-nao-recuperado-acesso-bloqueado",
       "decretos_14133": [],
       "fonte_oficial_indicada": "https://paraiba.pb.gov.br/diretas/secretaria-de-administracao/",
       "tentativas": [
         {
           "url": "SEA/PB legislacao",
-          "resultado": "WAF/captcha — bloqueio de acesso, não ausência",
-          "bloqueio": true
+          "resultado": "WAF/captcha — bloqueio de acesso, não ausência de norma",
+          "bloqueio": true,
+          "em": "2026-11-04T21:20:00Z"
+        },
+        {
+          "url": "https://paraiba.pb.gov.br/diretas/secretaria-de-administracao/arquivos/legislacoes/",
+          "resultado": "HTTP 200 mas página WAF/challenge; PDF 14.133 federal listado sem íntegra estadual geral recuperável",
+          "bloqueio": true,
+          "em": "2026-11-04T21:20:00Z"
         },
         {
           "url": "https://www.cmjp.pb.gov.br/",
-          "resultado": "HTTP 500 intermitente",
+          "resultado": "HTTP 500 intermitente — bloqueio≠ausência",
           "bloqueio": true
         },
         {
           "url": "https://sapl.joaopessoa.pb.leg.br/",
-          "resultado": "SAPL acessível; LO publicada neste lote; decreto municipal 14.133 não localizado na busca rápida",
+          "resultado": "SAPL acessível; LO publicada; decreto municipal 14.133 não localizado na busca",
           "bloqueio": false
         }
       ],
       "pendencias": [
-        "Retomar SEA/PB quando WAF permitir; localizar geral estadual; decreto geral municipal João Pessoa."
+        "Retomar SEA/PB quando WAF permitir (decretos temáticos 43.759 SRP / 43.975 agentes identificados externamente ≠ geral). Decreto geral municipal João Pessoa."
+      ],
+      "identificacoes_externas": [
+        {
+          "titulo": "Decreto 43.759/2023",
+          "carater_alegado": "srp-tematico",
+          "status": "identificado-nao-coletado"
+        },
+        {
+          "titulo": "Decreto 43.975/2023",
+          "carater_alegado": "agentes-funcoes-essenciais",
+          "status": "identificado-nao-coletado"
+        },
+        {
+          "titulo": "Decreto 45.710/2024",
+          "carater_alegado": "credenciamento-art79",
+          "status": "identificado-nao-coletado"
+        }
       ]
     },
     {
@@ -220,7 +269,9 @@
           "provas": {
             "fontes": "provas/regulamentacao-14133-ufs/PI/fontes.json",
             "cobertura": "provas/regulamentacao-14133-ufs/PI/cobertura-21872.json"
-          }
+          },
+          "colacao_oficial_status": "desconhecido",
+          "nota_colacao": "Hashes/contagem de artigos; fold do texto extraído ≠ prova de fidelidade; sem colação visual página-a-página."
         }
       ],
       "fonte_oficial_indicada": "https://portal.pi.gov.br/cge/",
@@ -258,7 +309,9 @@
           "provas": {
             "fontes": "provas/regulamentacao-14133-ufs/RN/fontes.json",
             "cobertura": "provas/regulamentacao-14133-ufs/RN/cobertura-32449.json"
-          }
+          },
+          "colacao_oficial_status": "desconhecido",
+          "nota_colacao": "Hashes/contagem de artigos; fold do texto extraído ≠ prova de fidelidade; sem colação visual página-a-página."
         }
       ],
       "fonte_oficial_indicada": "https://webdisk.diariooficial.rn.gov.br/",
@@ -279,7 +332,9 @@
           "provas": {
             "fontes": "provas/regulamentacao-14133-ufs/SE/fontes.json",
             "cobertura": "provas/regulamentacao-14133-ufs/SE/cobertura-342.json"
-          }
+          },
+          "colacao_oficial_status": "desconhecido",
+          "nota_colacao": "Hashes/contagem de artigos; fold do texto extraído ≠ prova de fidelidade; sem colação visual página-a-página."
         }
       ],
       "fonte_oficial_indicada": "https://www.sefaz.se.gov.br/",
@@ -300,27 +355,41 @@
       "uf": "AL",
       "capital": "Maceió",
       "ibge": "2704302",
-      "lei_organica": "ausente",
+      "lei_organica": "municipais/2704302/br-municipal-2704302-lei-organica.md",
       "decreto_14133": "ausente",
-      "decreto_14133_carater": "ausente",
+      "decreto_14133_carater": "nao-recuperado",
       "tentativas": [
         {
           "url": "https://sapl.maceio.al.leg.br/",
-          "resultado": "timeout/falha",
-          "bloqueio": true
+          "resultado": "DNS failure — bloqueio≠ausência",
+          "bloqueio": true,
+          "em": "2026-11-04T21:20:00Z"
+        },
+        {
+          "url": "https://www.maceio.al.leg.br/documentos/docs/doc.php?filepath=publicacoes&id=1",
+          "resultado": "LO PDF 85 págs publicada",
+          "bloqueio": false,
+          "em": "2026-11-04T21:20:00Z"
+        },
+        {
+          "url": "https://www.maceio.al.gov.br/",
+          "resultado": "portal acessível; decreto geral 14.133 não localizado automaticamente",
+          "bloqueio": false,
+          "em": "2026-11-04T21:20:00Z"
         }
       ],
       "pendencias": [
-        "LO + decreto geral municipal"
-      ]
+        "Decreto geral municipal 14.133"
+      ],
+      "lei_organica_status": "publicado"
     },
     {
       "uf": "BA",
       "capital": "Salvador",
       "ibge": "2927408",
       "lei_organica": "municipais/2927408/br-municipal-2927408-lei-organica-consolidada-2024.md",
-      "decreto_14133": "ausente",
-      "decreto_14133_carater": "ausente",
+      "decreto_14133": "nao-recuperado",
+      "decreto_14133_carater": "nao-recuperado",
       "tentativas": [
         {
           "url": "https://www.cms.ba.gov.br/lei-organica",
@@ -342,18 +411,24 @@
       "capital": "Fortaleza",
       "ibge": "2304400",
       "lei_organica": "municipais/2304400/br-municipal-2304400-lei-organica.md",
-      "decreto_14133": "ausente",
-      "decreto_14133_carater": "ausente",
+      "decreto_14133": "municipais/2304400/br-municipal-2304400-decreto-2022-05-06-15317.md",
+      "decreto_14133_carater": "marco-temporal-transicao",
       "tentativas": [
         {
           "url": "https://legislacao.pgm.fortaleza.ce.gov.br/index.php/Lei_Orgânica_do_Município",
-          "resultado": "HTML MediaWiki publicado",
+          "resultado": "HTML MediaWiki LO publicado",
           "bloqueio": false
         },
         {
           "url": "API search 14.133",
-          "resultado": "0 hits",
+          "resultado": "0 hits geral",
           "bloqueio": false
+        },
+        {
+          "url": "https://compras.sepog.fortaleza.ce.gov.br/.../Decreto_11.254_2022.pdf",
+          "resultado": "PDF DOM Decreto 15.317/2022 transição publicado (nome arquivo diverge)",
+          "bloqueio": false,
+          "em": "2026-11-04T21:20:00Z"
         },
         {
           "url": "http://www.cmfor.ce.gov.br/",
@@ -362,30 +437,44 @@
         }
       ],
       "pendencias": [
-        "Decreto geral municipal 14.133"
+        "Localizar decreto geral municipal 14.133 (15.317 é só transição)"
       ]
     },
     {
       "uf": "MA",
       "capital": "São Luís",
       "ibge": "2111300",
-      "lei_organica": "ausente",
-      "decreto_14133": "ausente",
-      "decreto_14133_carater": "ausente",
+      "lei_organica": "nao-recuperado",
+      "decreto_14133": "nao-recuperado",
+      "decreto_14133_carater": "nao-recuperado",
       "tentativas": [
         {
           "url": "https://www.camara.saoluis.ma.gov.br/",
-          "resultado": "falha de conexão",
-          "bloqueio": true
+          "resultado": "DNS failure — bloqueio≠ausência",
+          "bloqueio": true,
+          "em": "2026-11-04T21:20:00Z"
         },
         {
           "url": "https://sapl.saoluis.ma.leg.br/",
-          "resultado": "falha de conexão",
-          "bloqueio": true
+          "resultado": "timeout DNS — bloqueio≠ausência",
+          "bloqueio": true,
+          "em": "2026-11-04T21:20:00Z"
+        },
+        {
+          "url": "https://diariooficial.saoluis.ma.gov.br/",
+          "resultado": "DOM SPA acessível; LO/decreto 14.133 não localizados automaticamente",
+          "bloqueio": false,
+          "em": "2026-11-04T21:20:00Z"
+        },
+        {
+          "url": "https://www.saoluis.ma.gov.br/",
+          "resultado": "portal acessível; LO direta não encontrada",
+          "bloqueio": false,
+          "em": "2026-11-04T21:20:00Z"
         }
       ],
       "pendencias": [
-        "LO + decreto geral"
+        "LO + decreto geral — critério ainda não recuperado (falhas de acesso a Câmara/SAPL)"
       ]
     },
     {
@@ -393,8 +482,8 @@
       "capital": "João Pessoa",
       "ibge": "2507507",
       "lei_organica": "municipais/2507507/br-municipal-2507507-lei-organica-1990.md",
-      "decreto_14133": "ausente",
-      "decreto_14133_carater": "ausente",
+      "decreto_14133": "nao-recuperado",
+      "decreto_14133_carater": "nao-recuperado",
       "tentativas": [
         {
           "url": "https://sapl.joaopessoa.pb.leg.br/norma tipo=9",
@@ -411,8 +500,8 @@
       "capital": "Recife",
       "ibge": "2611606",
       "lei_organica": "municipais/2611606/br-municipal-2611606-lei-organica-1990-04-04.md",
-      "decreto_14133": "ausente",
-      "decreto_14133_carater": "ausente",
+      "decreto_14133": "nao-recuperado",
+      "decreto_14133_carater": "nao-recuperado",
       "tentativas": [
         {
           "url": "https://www.recife.pe.leg.br/.../lei-organica_atualizada-em-15-12-2025-docx.pdf",
@@ -433,23 +522,38 @@
       "uf": "PI",
       "capital": "Teresina",
       "ibge": "2211001",
-      "lei_organica": "ausente",
-      "decreto_14133": "ausente",
-      "decreto_14133_carater": "ausente",
+      "lei_organica": "nao-recuperado",
+      "decreto_14133": "nao-recuperado",
+      "decreto_14133_carater": "nao-recuperado",
       "tentativas": [
         {
           "url": "https://www.camara.teresina.pi.gov.br/",
-          "resultado": "falha de conexão",
-          "bloqueio": true
+          "resultado": "DNS failure — bloqueio≠ausência",
+          "bloqueio": true,
+          "em": "2026-11-04T21:20:00Z"
         },
         {
           "url": "https://sapl.teresina.pi.leg.br/",
-          "resultado": "falha de conexão",
-          "bloqueio": true
+          "resultado": "DNS failure — bloqueio≠ausência",
+          "bloqueio": true,
+          "em": "2026-11-04T21:20:00Z"
+        },
+        {
+          "url": "https://dom.pmt.pi.gov.br/",
+          "resultado": "SSL verify fail — bloqueio≠ausência",
+          "bloqueio": true,
+          "em": "2026-11-04T21:20:00Z"
         }
       ],
       "pendencias": [
-        "LO + decreto geral"
+        "LO + decreto geral — critério ainda não recuperado. Decreto 23.847/2023 (pessoa física) identificado externamente como temático ≠ geral."
+      ],
+      "identificacoes_externas": [
+        {
+          "titulo": "Decreto 23.847/2023",
+          "carater_alegado": "pessoa-fisica-tematico",
+          "status": "identificado-nao-coletado"
+        }
       ]
     },
     {
@@ -457,8 +561,8 @@
       "capital": "Natal",
       "ibge": "2408102",
       "lei_organica": "municipais/2408102/br-municipal-2408102-lei-organica-1990.md",
-      "decreto_14133": "ausente",
-      "decreto_14133_carater": "ausente",
+      "decreto_14133": "nao-recuperado",
+      "decreto_14133_carater": "nao-recuperado",
       "tentativas": [
         {
           "url": "https://sapl.natal.rn.leg.br/norma tipo=10",
@@ -479,29 +583,32 @@
       "uf": "SE",
       "capital": "Aracaju",
       "ibge": "2800308",
-      "lei_organica": "ausente",
-      "decreto_14133": "ausente",
-      "decreto_14133_carater": "ausente",
+      "lei_organica": "municipais/2800308/br-municipal-2800308-lei-organica-1990.md",
+      "decreto_14133": "municipais/2800308/br-municipal-2800308-decreto-2023-06-12-7178.md",
+      "decreto_14133_carater": "regulamento-geral-municipal",
       "tentativas": [
         {
-          "url": "https://www.aracaju.se.leg.br/",
-          "resultado": "home acessível sem LO direta",
-          "bloqueio": false
+          "url": "https://www.aracaju.se.leg.br/institucional/legislacao/LeiOrgnicaAtualizadaataEmenda72.pdf",
+          "resultado": "LO até Emenda 72 publicada",
+          "bloqueio": false,
+          "em": "2026-11-04T21:20:00Z"
         },
         {
-          "url": "https://www.aracaju.se.leg.br/atividade-legislativa/lei-organica",
-          "resultado": "HTTP 404",
-          "bloqueio": true
+          "url": "https://aracajucompras.se.gov.br/portal/documentos/legislacoes/2023/Decreto-7.178-V2.pdf",
+          "resultado": "Decreto 7.178/2023 geral publicado (183 págs)",
+          "bloqueio": false,
+          "em": "2026-11-04T21:20:00Z"
         },
         {
           "url": "https://sapl.aracaju.se.leg.br/",
-          "resultado": "falha de conexão",
+          "resultado": "DNS failure — bloqueio≠ausência",
           "bloqueio": true
         }
       ],
       "pendencias": [
-        "LO + decreto geral"
-      ]
+        "Inventariar Decreto 7.177/2023 (contratação direta) e alterações posteriores ao 7.178"
+      ],
+      "lei_organica_status": "publicado"
     }
   ],
   "resumo": {
@@ -518,18 +625,39 @@
     "ufs_identificado_nao_coletado": [
       "MA"
     ],
-    "ufs_sem_geral_localizado": [
+    "ufs_geral_nao_recuperado": [
       "AL",
       "PB"
     ],
     "capitais_com_lo_publicada": [
+      "AL",
       "BA",
       "CE",
       "PB",
       "PE",
+      "RN",
+      "SE"
+    ],
+    "capitais_lo_nao_recuperada": [
+      "MA",
+      "PI"
+    ],
+    "capitais_com_decreto_geral_14133": [
+      "SE"
+    ],
+    "capitais_com_decreto_transicao_14133": [
+      "CE"
+    ],
+    "capitais_decreto_nao_recuperado": [
+      "AL",
+      "BA",
+      "MA",
+      "PB",
+      "PE",
+      "PI",
       "RN"
     ],
-    "capitais_com_decreto_geral_14133": [],
-    "nota": "Índices compartilhados NÃO atualizados neste PR; integração posterior."
-  }
+    "nota": "Índices compartilhados NÃO atualizados neste PR. «nao-recuperado» = critério ainda não obtido (inclui bloqueio de acesso); não inferir ausência legislativa por HTTP. CE 35.283 = Wayback, colação oficial atual desconhecida."
+  },
+  "atualizado_em": "2026-11-04T21:20:00Z"
 }

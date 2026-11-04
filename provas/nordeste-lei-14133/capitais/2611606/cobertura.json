@@ -6,5 +6,12 @@
   "capturado_em": "2026-11-04T21:30:00Z",
   "artigos_contados": 186,
   "fold_ok": false,
-  "nota_fold": "Fonte PDF; cobertura por hashes e contagem de artigos."
+  "nota_fold": "Fonte PDF; cobertura por hashes e contagem de artigos.",
+  "colacao_oficial_status": "desconhecido",
+  "auditoria_pdf": {
+    "adct_mentions": 4,
+    "pages": 146,
+    "artigos_raw_vs_layout": "186 vs 186",
+    "nota": "Fold do texto extraído não prova fidelidade além de consistência. Colação visual: desconhecido."
+  }
 }

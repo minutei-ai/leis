@@ -5,5 +5,12 @@
   "sha256_fonte": "41c3a5e75035541559086faa1ade980903177a90162fe5834247179d3b15e44d",
   "capturado_em": "2026-11-04T21:45:00Z",
   "artigos_contados": 180,
-  "fold_ok": false
+  "fold_ok": false,
+  "colacao_oficial_status": "desconhecido",
+  "auditoria_pdf": {
+    "adct_mentions": 1,
+    "pages": 76,
+    "artigos_raw_vs_layout": "180 vs 180",
+    "nota": "Fold do texto extraído não prova fidelidade além de consistência. Colação visual: desconhecido."
+  }
 }

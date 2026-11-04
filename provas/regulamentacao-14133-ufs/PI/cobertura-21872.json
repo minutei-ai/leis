@@ -7,5 +7,13 @@
   "artigos_contados": 188,
   "artigos_max_marcador": 191,
   "fold_ok": false,
-  "nota_fold": "Fonte PDF; cobertura por contagem de artigos e hashes — fold HTML↔MD não aplicável."
+  "nota_fold": "Fonte PDF; cobertura por contagem de artigos e hashes — fold HTML↔MD não aplicável.",
+  "colacao_oficial_status": "desconhecido",
+  "auditoria_pdf": {
+    "pages": 28,
+    "artigos_raw_vs_layout": "185 vs 190; max marcador 191; PDF multi-ato CGE",
+    "anexo_mentions": 4,
+    "adct_mentions": 0,
+    "nota": "Faltas de marcador podem ser quebras de linha; fold≠fidelidade; colação visual desconhecida."
+  }
 }

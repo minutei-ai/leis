@@ -6,5 +6,13 @@
   "capturado_em": "2026-11-04T21:05:00Z",
   "artigos_contados": 198,
   "fold_ok": false,
-  "nota_fold": "Fonte PDF DOE; cobertura por contagem de artigos e hashes — fold HTML↔MD não aplicável."
+  "nota_fold": "Fonte PDF DOE; cobertura por contagem de artigos e hashes — fold HTML↔MD não aplicável.",
+  "colacao_oficial_status": "desconhecido",
+  "auditoria_pdf": {
+    "pages": 65,
+    "artigos_raw_vs_layout": "198 vs 114 — suspeita de colunas no DOE; pdftotext -raw usado na publicação",
+    "anexo_mentions": 72,
+    "adct_mentions": 0,
+    "nota": "Fold do texto extraído não prova fidelidade. Anexos do DOE a inventariar como peças."
+  }
 }
