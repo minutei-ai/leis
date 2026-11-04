@@ -14,6 +14,7 @@ import json
 import lzma
 import re
 import sys
+from bs4 import BeautifulSoup
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -24,6 +25,7 @@ from nucleo_licitacoes import (  # noqa: E402
     convert_html,
     coverage,
     md_plain,
+    md_text_all,
     sha256,
     split_articles,
     strip_fold,
@@ -144,6 +146,15 @@ def convert_camara(item: dict, fontes: dict) -> tuple[list[str], str]:
     conv = convert_html(data, rec.get('charset') or 'utf-8', rec['url'])
     blocks = trim_ec_blocks(conv.blocks, n)
     body = '\n\n'.join(blocks) + '\n'
+    # Região normativa oficial independente do recorte de blocos do conversor.
+    soup = BeautifulSoup(data.decode(rec.get('charset') or 'utf-8'), 'lxml')
+    title = soup.select_one('#content > h1')
+    region = soup.select_one('.textoNorma')
+    if title is None or region is None:
+        raise RuntimeError(f'EC {n}: região normativa oficial ausente')
+    source_text = title.get_text(' ') + region.get_text(' ')
+    if strip_fold(source_text) != strip_fold(md_text_all(body)):
+        raise RuntimeError(f'EC {n}: texto bruto integral diverge do Markdown')
     if not coverage(blocks, body):
         raise RuntimeError(f'EC {n}: coverage(blocks, markdown) falhou')
     return blocks, body
