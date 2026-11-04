@@ -1,0 +1,312 @@
+{
+  "lote": "especies-legislativas-federais",
+  "issues": [
+    65,
+    66,
+    89,
+    94
+  ],
+  "gerado_em": "2026-11-04T19:20:20Z",
+  "documentos": [
+    {
+      "id": "br-federal-decreto-legislativo-2026-09-16-433",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-09-16-433.md",
+      "tipo": "DLG",
+      "senado_id": "43926875",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-09-16;433",
+      "norma": {
+        "numero": "433",
+        "data": "2026-09-16",
+        "titulo": "Decreto Legislativo nº 433 de 16/09/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-09-16-433",
+      "sha256_fonte": "4bb567942c0abfd294855352ec036f545b903eeaceed7c9ef4491dc5e8262d51",
+      "sha256_markdown": "5c832939893bff112ca88c34656166bf02c9b08207643a390aadc62683e15390"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-09-16-442",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-09-16-442.md",
+      "tipo": "DLG",
+      "senado_id": "43926721",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-09-16;442",
+      "norma": {
+        "numero": "442",
+        "data": "2026-09-16",
+        "titulo": "Decreto Legislativo nº 442 de 16/09/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-09-16-442",
+      "sha256_fonte": "6fd0f38ac19f95c2c6103108297ffdfc066ce4e09548b60cc785dc2352d05c8f",
+      "sha256_markdown": "5786385e54ff1af33454e641851db66602c5ee9e05e24abeb46e67883047d9bf"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-09-16-426",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-09-16-426.md",
+      "tipo": "DLG",
+      "senado_id": "43924484",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-09-16;426",
+      "norma": {
+        "numero": "426",
+        "data": "2026-09-16",
+        "titulo": "Decreto Legislativo nº 426 de 16/09/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-09-16-426",
+      "sha256_fonte": "0c930d4644c03415e0bb43f59771a56e8c3647c085e299e6489ec3bb886d4502",
+      "sha256_markdown": "691dc612681e02827465391dc5c555c8d0b1207df04263c4d3c5d097d9a02ec4"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-09-16-424",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-09-16-424.md",
+      "tipo": "DLG",
+      "senado_id": "43924376",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-09-16;424",
+      "norma": {
+        "numero": "424",
+        "data": "2026-09-16",
+        "titulo": "Decreto Legislativo nº 424 de 16/09/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-09-16-424",
+      "sha256_fonte": "20d197961e576f17b1c9d5fe72334f45fa3a7effac9b74369c1f62deca6fec92",
+      "sha256_markdown": "077dbff530c236c378c29192bc229e5f45ab9d7bae8212462d919e1ef4e0eebf"
+    },
+    {
+      "id": "br-federal-decreto-legislativo-2026-09-16-400",
+      "arquivo": "federal/br-federal-decreto-legislativo-2026-09-16-400.md",
+      "tipo": "DLG",
+      "senado_id": "43926468",
+      "urn": "urn:lex:br:federal:decreto.legislativo:2026-09-16;400",
+      "norma": {
+        "numero": "400",
+        "data": "2026-09-16",
+        "titulo": "Decreto Legislativo nº 400 de 16/09/2026"
+      },
+      "fonte": "br-federal-decreto-legislativo-2026-09-16-400",
+      "sha256_fonte": "1705ccb7a9431fcd8a56a37330ebde2c6db8c4f27628ade1e9ac16f5febaefa1",
+      "sha256_markdown": "0c8d79bd4fa0d697c5bc997792b7d9ec86b53ba519074cf4859af1e7c9788ff2"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2026-09-04-44",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2026-09-04-44.md",
+      "tipo": "RSF",
+      "senado_id": "43755400",
+      "urn": "urn:lex:br:senado.federal:resolucao:2026-09-04;44",
+      "norma": {
+        "numero": "44",
+        "data": "2026-09-04",
+        "titulo": "Resolução do Senado Federal nº 44 de 04/09/2026"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2026-09-04-44",
+      "sha256_fonte": "f1bf5ee787bb60510f92f56bf52c0c81ca406197f5d6b726dd9f3ff0657dab2b",
+      "sha256_markdown": "8968ba45e2205ba17f82e4dab848378b188dc764e3a025588211edaf96dc8f88"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2026-09-04-43",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2026-09-04-43.md",
+      "tipo": "RSF",
+      "senado_id": "43755614",
+      "urn": "urn:lex:br:senado.federal:resolucao:2026-09-04;43",
+      "norma": {
+        "numero": "43",
+        "data": "2026-09-04",
+        "titulo": "Resolução do Senado Federal nº 43 de 04/09/2026"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2026-09-04-43",
+      "sha256_fonte": "d09b16ade706095277663122bb6cdbff59f7eb67f6efab030583b2d2827c2973",
+      "sha256_markdown": "dc6fa2451e4547c1eaea776bfd5521039579d37e4c54ec455de776b0377a0b54"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2026-09-04-47",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2026-09-04-47.md",
+      "tipo": "RSF",
+      "senado_id": "43755430",
+      "urn": "urn:lex:br:senado.federal:resolucao:2026-09-04;47",
+      "norma": {
+        "numero": "47",
+        "data": "2026-09-04",
+        "titulo": "Resolução do Senado Federal nº 47 de 04/09/2026"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2026-09-04-47",
+      "sha256_fonte": "1630704ef5dcbeb53bd9fc1c95c6b7a0db37d0b771643ee023f96b1270738f33",
+      "sha256_markdown": "9766608b74c3ec9d60fb3bd1079864494414bfe5343330a0df671ba64d2149fe"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2026-09-04-45",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2026-09-04-45.md",
+      "tipo": "RSF",
+      "senado_id": "43755644",
+      "urn": "urn:lex:br:senado.federal:resolucao:2026-09-04;45",
+      "norma": {
+        "numero": "45",
+        "data": "2026-09-04",
+        "titulo": "Resolução do Senado Federal nº 45 de 04/09/2026"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2026-09-04-45",
+      "sha256_fonte": "6086d920a8e8a5d6ecdc34b873ecfecdcacaa69991a24e88e6ed9fa5f70c13db",
+      "sha256_markdown": "646e177d760a61272d636dfd3184a677cc65bf95982c4de028f9a7f455b3eba2"
+    },
+    {
+      "id": "br-federal-resolucao-senado-federal-2026-08-14-33",
+      "arquivo": "federal/br-federal-resolucao-senado-federal-2026-08-14-33.md",
+      "tipo": "RSF",
+      "senado_id": "43686392",
+      "urn": "urn:lex:br:senado.federal:resolucao:2026-08-14;33",
+      "norma": {
+        "numero": "33",
+        "data": "2026-08-14",
+        "titulo": "Resolução do Senado Federal nº 33 de 14/08/2026"
+      },
+      "fonte": "br-federal-resolucao-senado-federal-2026-08-14-33",
+      "sha256_fonte": "fb78f8555ce262475a628777d23aa8947b7c63e33b2faf6dd661c49744cc904f",
+      "sha256_markdown": "0614115aba16cf3a320b690b61294e7279852161eb0eba2a561377a12fc55744"
+    },
+    {
+      "id": "br-federal-resolucao-camara-deputados-1991-09-25-9",
+      "arquivo": "federal/br-federal-resolucao-camara-deputados-1991-09-25-9.md",
+      "tipo": "RCD",
+      "senado_id": "559394",
+      "urn": "urn:lex:br:camara.deputados:resolucao:1991-09-25;9",
+      "norma": {
+        "numero": "9",
+        "data": "1991-09-25",
+        "titulo": "Resolução da Câmara dos Deputados nº 9 de 25/09/1991"
+      },
+      "fonte": "br-federal-resolucao-camara-deputados-1991-09-25-9",
+      "sha256_fonte": "7339d9931ad2b01a645d26545a97c152c64d4c8712f7aa09f3d04441bcbe3d13",
+      "sha256_markdown": "1792a46303be8b16a3d645bacff65252b91ac97d0396c68e5ea36e5db03dbaa0"
+    },
+    {
+      "id": "br-federal-resolucao-camara-deputados-1991-08-14-7",
+      "arquivo": "federal/br-federal-resolucao-camara-deputados-1991-08-14-7.md",
+      "tipo": "RCD",
+      "senado_id": "559353",
+      "urn": "urn:lex:br:camara.deputados:resolucao:1991-08-14;7",
+      "norma": {
+        "numero": "7",
+        "data": "1991-08-14",
+        "titulo": "Resolução da Câmara dos Deputados nº 7 de 14/08/1991"
+      },
+      "fonte": "br-federal-resolucao-camara-deputados-1991-08-14-7",
+      "sha256_fonte": "10de3053367a783c427b0eb44876500275ea77bc3951aed9051ffabd1848401a",
+      "sha256_markdown": "7bdd700b65f87ad1ab6d1c8245fdc2aa9e6eaf0ad6da2e9b0a426ab743a23feb"
+    },
+    {
+      "id": "br-federal-resolucao-camara-deputados-1991-04-02-2",
+      "arquivo": "federal/br-federal-resolucao-camara-deputados-1991-04-02-2.md",
+      "tipo": "RCD",
+      "senado_id": "559249",
+      "urn": "urn:lex:br:camara.deputados:resolucao:1991-04-02;2",
+      "norma": {
+        "numero": "2",
+        "data": "1991-04-02",
+        "titulo": "Resolução da Câmara dos Deputados nº 2 de 02/04/1991"
+      },
+      "fonte": "br-federal-resolucao-camara-deputados-1991-04-02-2",
+      "sha256_fonte": "f4570d4e2e42c8f11ed7838d839b467e73017e0369a9a5d4879a4adcc46b8fcb",
+      "sha256_markdown": "2065526ca31ca8021f609fcac47c5445f31da839cdd96436b63c99ad05a8ea10"
+    },
+    {
+      "id": "br-federal-resolucao-camara-deputados-1990-10-18-29",
+      "arquivo": "federal/br-federal-resolucao-camara-deputados-1990-10-18-29.md",
+      "tipo": "RCD",
+      "senado_id": "559790",
+      "urn": "urn:lex:br:camara.deputados:resolucao:1990-10-18;29",
+      "norma": {
+        "numero": "29",
+        "data": "1990-10-18",
+        "titulo": "Resolução da Câmara dos Deputados nº 29 de 18/10/1990"
+      },
+      "fonte": "br-federal-resolucao-camara-deputados-1990-10-18-29",
+      "sha256_fonte": "cd70a26ac4cd21d033aef63fe31ec2d42bbc2b1cde8a5f5e7f2a51b6536d8a19",
+      "sha256_markdown": "df6596c7f9347ee82c80cf5226e4ba3c719d8aa883de994a2232ff590f771d3e"
+    },
+    {
+      "id": "br-federal-resolucao-camara-deputados-1990-10-18-28",
+      "arquivo": "federal/br-federal-resolucao-camara-deputados-1990-10-18-28.md",
+      "tipo": "RCD",
+      "senado_id": "559773",
+      "urn": "urn:lex:br:camara.deputados:resolucao:1990-10-18;28",
+      "norma": {
+        "numero": "28",
+        "data": "1990-10-18",
+        "titulo": "Resolução da Câmara dos Deputados nº 28 de 18/10/1990"
+      },
+      "fonte": "br-federal-resolucao-camara-deputados-1990-10-18-28",
+      "sha256_fonte": "e73c8f3ccfd1afbf2b7e46851cf2e4763c5f5461e5d4ee79c82b549fd42af53d",
+      "sha256_markdown": "544f7443121c13597d7ab7ff9652ed069da60c742e16fa85c789e73cd09311e7"
+    },
+    {
+      "id": "br-federal-resolucao-congresso-nacional-2021-12-01-2",
+      "arquivo": "federal/br-federal-resolucao-congresso-nacional-2021-12-01-2.md",
+      "tipo": "RCN",
+      "senado_id": "35212493",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:2021-12-01;2",
+      "norma": {
+        "numero": "2",
+        "data": "2021-12-01",
+        "titulo": "Resolução do Congresso Nacional nº 2 de 01/12/2021"
+      },
+      "fonte": "br-federal-resolucao-congresso-nacional-2021-12-01-2",
+      "sha256_fonte": "d635904be65d51c02caa8efb3184b2c8465e946136e1faa7b828461df4171383",
+      "sha256_markdown": "50f87c94e9695216e8a73723dec408a06e0250d5cc59b35aa3c32f3fd25909c5"
+    },
+    {
+      "id": "br-federal-resolucao-congresso-nacional-2021-03-23-1",
+      "arquivo": "federal/br-federal-resolucao-congresso-nacional-2021-03-23-1.md",
+      "tipo": "RCN",
+      "senado_id": "33349680",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:2021-03-23;1",
+      "norma": {
+        "numero": "1",
+        "data": "2021-03-23",
+        "titulo": "Resolução do Congresso Nacional nº 1 de 23/03/2021"
+      },
+      "fonte": "br-federal-resolucao-congresso-nacional-2021-03-23-1",
+      "sha256_fonte": "31d43f1893d697ebfd7c19d57ac38e186008ead1a1ab5bbaf01d6418167c2fc8",
+      "sha256_markdown": "239b0baa349b301f7397302585ff23ace7214013a38f96c12bcb8622c1e1aa67"
+    },
+    {
+      "id": "br-federal-resolucao-congresso-nacional-2015-03-23-2",
+      "arquivo": "federal/br-federal-resolucao-congresso-nacional-2015-03-23-2.md",
+      "tipo": "RCN",
+      "senado_id": "561152",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:2015-03-23;2",
+      "norma": {
+        "numero": "2",
+        "data": "2015-03-23",
+        "titulo": "Resolução do Congresso Nacional nº 2 de 23/03/2015"
+      },
+      "fonte": "br-federal-resolucao-congresso-nacional-2015-03-23-2",
+      "sha256_fonte": "d68a7802b62323427a9a449847d05fe7f1bbaab1f9212182e6b436dd81ac4683",
+      "sha256_markdown": "576b20bf6be0a34e018d092bdf07efc2194f7272a11e38f98d21a7d0bb5caa18"
+    },
+    {
+      "id": "br-federal-resolucao-congresso-nacional-2013-11-28-4",
+      "arquivo": "federal/br-federal-resolucao-congresso-nacional-2013-11-28-4.md",
+      "tipo": "RCN",
+      "senado_id": "561170",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:2013-11-28;4",
+      "norma": {
+        "numero": "4",
+        "data": "2013-11-28",
+        "titulo": "Resolução do Congresso Nacional nº 4 de 28/11/2013"
+      },
+      "fonte": "br-federal-resolucao-congresso-nacional-2013-11-28-4",
+      "sha256_fonte": "039a892a98b57aafe2849fd4e6bb528cdae7643d05b4dcf6367521c504ac79c1",
+      "sha256_markdown": "0f1cbbf6c3bc2c03307a34bd30f3f3a473c0ea54fd344bca1cd52c077461036b"
+    },
+    {
+      "id": "br-federal-resolucao-congresso-nacional-2013-11-22-2",
+      "arquivo": "federal/br-federal-resolucao-congresso-nacional-2013-11-22-2.md",
+      "tipo": "RCN",
+      "senado_id": "561150",
+      "urn": "urn:lex:br:congresso.nacional:resolucao:2013-11-22;2",
+      "norma": {
+        "numero": "2",
+        "data": "2013-11-22",
+        "titulo": "Resolução do Congresso Nacional nº 2 de 22/11/2013"
+      },
+      "fonte": "br-federal-resolucao-congresso-nacional-2013-11-22-2",
+      "sha256_fonte": "c86a295bcc44b28bfc02b93cba1bd4aec82ecb12332998a9f58f33c17637b687",
+      "sha256_markdown": "3cb287efe62154e6e4aafba081e57d944b1567ba6722d7e89f66a7641dc2b316"
+    }
+  ]
+}

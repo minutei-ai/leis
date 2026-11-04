@@ -1,0 +1,24 @@
+{
+  "lote": "especies-legislativas-federais",
+  "gerado_em": "2026-11-04T19:22:55Z",
+  "RCD": {
+    "senado_lista_url": "https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=RCD",
+    "senado_intervalo_observado": {
+      "inicio": "1937-09-25",
+      "fim": "1991-09-25"
+    },
+    "aviso": "A lista do Senado para RCD termina em 1991 nesta captura. Não usar esse total como denominador da série atual. O Regimento Interno da Câmara atualizado até a Resolução 16/2025 (https://bd.camara.leg.br/bd/items/dc8e99ca-5f5c-4e33-8cab-626f82522a8b) demonstra atividade normativa posterior; complementar descoberta no catálogo oficial da própria Câmara.",
+    "fonte_complementar_regimento": {
+      "titulo": "Regimento Interno da Câmara dos Deputados atualizado até a Resolução 16/2025",
+      "url": "https://bd.camara.leg.br/bd/items/dc8e99ca-5f5c-4e33-8cab-626f82522a8b",
+      "papel": "evidencia-de-atividade-posterior-a-1991"
+    },
+    "senado_registros_capturados": 1885
+  },
+  "notas_gerais": [
+    "Catálogo é evidência de descoberta, não substitui texto integral nem certifica vigência.",
+    "Número igual com espécie ou data diferente não é a mesma identidade.",
+    "RSF, RCD e RCN são espécies distintas; não reunir sob identidade numérica comum.",
+    "Lista vazia ou intervalo capturado não prova inexistência fora do recorte."
+  ]
+}

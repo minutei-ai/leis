@@ -1,0 +1,54 @@
+{
+  "lote": "especies-legislativas-federais",
+  "reconciliado_em": "2026-11-04T19:22:55Z",
+  "especies": {
+    "DLG": {
+      "registros": 15944,
+      "chaves_unicas": 15944,
+      "publicados": 5,
+      "identificados_nao_coletados": 15939,
+      "ambiguidades": 0,
+      "intervalo_datas": {
+        "inicio": "1935-05-16",
+        "fim": "2026-09-16"
+      },
+      "arquivo": "provas/especies-legislativas-federais/reconciliacao-dlg.json"
+    },
+    "RSF": {
+      "registros": 6578,
+      "chaves_unicas": 6578,
+      "publicados": 5,
+      "identificados_nao_coletados": 6573,
+      "ambiguidades": 0,
+      "intervalo_datas": {
+        "inicio": "1937-02-22",
+        "fim": "2026-09-04"
+      },
+      "arquivo": "provas/especies-legislativas-federais/reconciliacao-rsf.json"
+    },
+    "RCD": {
+      "registros": 1885,
+      "chaves_unicas": 1885,
+      "publicados": 5,
+      "identificados_nao_coletados": 1880,
+      "ambiguidades": 0,
+      "intervalo_datas": {
+        "inicio": "1937-09-25",
+        "fim": "1991-09-25"
+      },
+      "arquivo": "provas/especies-legislativas-federais/reconciliacao-rcd.json"
+    },
+    "RCN": {
+      "registros": 88,
+      "chaves_unicas": 88,
+      "publicados": 5,
+      "identificados_nao_coletados": 83,
+      "ambiguidades": 0,
+      "intervalo_datas": {
+        "inicio": "1951-04-20",
+        "fim": "2025-06-23"
+      },
+      "arquivo": "provas/especies-legislativas-federais/reconciliacao-rcn.json"
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "lote": "especies-legislativas-federais",
+  "itens": {
+    "br-federal-decreto-legislativo-2026-09-16-433": {
+      "slug": "br-federal-decreto-legislativo-2026-09-16-433",
+      "fonte_fold_chars": 1001,
+      "markdown_fold_chars": 1669,
+      "blocos": 9,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-decreto-legislativo-2026-09-16-442": {
+      "slug": "br-federal-decreto-legislativo-2026-09-16-442",
+      "fonte_fold_chars": 927,
+      "markdown_fold_chars": 1545,
+      "blocos": 9,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-decreto-legislativo-2026-09-16-426": {
+      "slug": "br-federal-decreto-legislativo-2026-09-16-426",
+      "fonte_fold_chars": 829,
+      "markdown_fold_chars": 1410,
+      "blocos": 9,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-decreto-legislativo-2026-09-16-424": {
+      "slug": "br-federal-decreto-legislativo-2026-09-16-424",
+      "fonte_fold_chars": 905,
+      "markdown_fold_chars": 1511,
+      "blocos": 9,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-decreto-legislativo-2026-09-16-400": {
+      "slug": "br-federal-decreto-legislativo-2026-09-16-400",
+      "fonte_fold_chars": 918,
+      "markdown_fold_chars": 1531,
+      "blocos": 9,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-senado-federal-2026-09-04-44": {
+      "slug": "br-federal-resolucao-senado-federal-2026-09-04-44",
+      "fonte_fold_chars": 3109,
+      "markdown_fold_chars": 3877,
+      "blocos": 29,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-senado-federal-2026-09-04-43": {
+      "slug": "br-federal-resolucao-senado-federal-2026-09-04-43",
+      "fonte_fold_chars": 2316,
+      "markdown_fold_chars": 2964,
+      "blocos": 26,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-senado-federal-2026-09-04-47": {
+      "slug": "br-federal-resolucao-senado-federal-2026-09-04-47",
+      "fonte_fold_chars": 2691,
+      "markdown_fold_chars": 3355,
+      "blocos": 24,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-senado-federal-2026-09-04-45": {
+      "slug": "br-federal-resolucao-senado-federal-2026-09-04-45",
+      "fonte_fold_chars": 2637,
+      "markdown_fold_chars": 3263,
+      "blocos": 26,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-senado-federal-2026-08-14-33": {
+      "slug": "br-federal-resolucao-senado-federal-2026-08-14-33",
+      "fonte_fold_chars": 3879,
+      "markdown_fold_chars": 4496,
+      "blocos": 40,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-camara-deputados-1991-09-25-9": {
+      "slug": "br-federal-resolucao-camara-deputados-1991-09-25-9",
+      "fonte_fold_chars": 688,
+      "markdown_fold_chars": 1146,
+      "blocos": 13,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-camara-deputados-1991-08-14-7": {
+      "slug": "br-federal-resolucao-camara-deputados-1991-08-14-7",
+      "fonte_fold_chars": 1387,
+      "markdown_fold_chars": 1889,
+      "blocos": 15,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-camara-deputados-1991-04-02-2": {
+      "slug": "br-federal-resolucao-camara-deputados-1991-04-02-2",
+      "fonte_fold_chars": 585,
+      "markdown_fold_chars": 1103,
+      "blocos": 10,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-camara-deputados-1990-10-18-29": {
+      "slug": "br-federal-resolucao-camara-deputados-1990-10-18-29",
+      "fonte_fold_chars": 723,
+      "markdown_fold_chars": 1189,
+      "blocos": 11,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-camara-deputados-1990-10-18-28": {
+      "slug": "br-federal-resolucao-camara-deputados-1990-10-18-28",
+      "fonte_fold_chars": 615,
+      "markdown_fold_chars": 1082,
+      "blocos": 11,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-congresso-nacional-2021-12-01-2": {
+      "slug": "br-federal-resolucao-congresso-nacional-2021-12-01-2",
+      "fonte_fold_chars": 1838,
+      "markdown_fold_chars": 2436,
+      "blocos": 17,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-congresso-nacional-2021-03-23-1": {
+      "slug": "br-federal-resolucao-congresso-nacional-2021-03-23-1",
+      "fonte_fold_chars": 784,
+      "markdown_fold_chars": 1320,
+      "blocos": 15,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-congresso-nacional-2015-03-23-2": {
+      "slug": "br-federal-resolucao-congresso-nacional-2015-03-23-2",
+      "fonte_fold_chars": 1867,
+      "markdown_fold_chars": 2393,
+      "blocos": 18,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-congresso-nacional-2013-11-28-4": {
+      "slug": "br-federal-resolucao-congresso-nacional-2013-11-28-4",
+      "fonte_fold_chars": 674,
+      "markdown_fold_chars": 1258,
+      "blocos": 9,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    },
+    "br-federal-resolucao-congresso-nacional-2013-11-22-2": {
+      "slug": "br-federal-resolucao-congresso-nacional-2013-11-22-2",
+      "fonte_fold_chars": 21637,
+      "markdown_fold_chars": 22290,
+      "blocos": 156,
+      "tabelas": 0,
+      "imagens": 0,
+      "title_injected": false
+    }
+  }
+}
