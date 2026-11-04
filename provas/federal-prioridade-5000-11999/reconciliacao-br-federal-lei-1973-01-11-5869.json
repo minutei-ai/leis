@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1973-01-11-5869",
+  "fonte_principal": "planalto-L5869",
+  "sha256_fonte_principal": "4170c3c4946318fa25affb38b8d3c3adbd0c99e6ee8ad146c367c255322eabb3",
+  "sha256_conteudo": "e04a8920cbf1d9229372a347efefe9e7d096fc14445af0cdedf3baefafee1652",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L5869.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L5869.htm.xz",
+  "sha256_snapshot_armazenado": "f4441a7db5d41b4ffce84bffa61ef4a598090791058935a5fa418b8eab187752",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 483460,
+    "caracteres_normalizados_markdown": 483460,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 4221,
+    "links": 1431,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 4126,
+    "artigos": 1033,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "995",
+      "996",
+      "997",
+      "998",
+      "999"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1973-01-11-5869",
+    "numero": "5869",
+    "data": "1973-01-11",
+    "titulo_fonte": "LEI Nº 5869, DE 11 DE JANEIRO DE 1973",
+    "ementa": "Institui o Código de Processo Civil.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "547745"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

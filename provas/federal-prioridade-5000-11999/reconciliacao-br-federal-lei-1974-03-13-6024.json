@@ -1,0 +1,70 @@
+{
+  "documento": "br-federal-lei-1974-03-13-6024",
+  "fonte_principal": "planalto-L6024",
+  "sha256_fonte_principal": "c799e1781bb3d227199dd63dce64c1101b27c7ba9b5d7a8c2fef03433a91a3e1",
+  "sha256_conteudo": "ecfd6868d97970d835f5776e22f92c342b75e02e9078e6042f781d2f7416df99",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L6024.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L6024.htm.xz",
+  "sha256_snapshot_armazenado": "a0b19f523beb24da7fc8d4f3634632bb2757dc54c4c473cc84e09ce5d4230e78",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 33872,
+    "caracteres_normalizados_markdown": 33872,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 32,
+    "links": 99,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/DNN/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 239,
+    "artigos": 4,
+    "primeiros_artigos": [
+      "19",
+      "39",
+      "40",
+      "41"
+    ],
+    "ultimos_artigos": [
+      "19",
+      "39",
+      "40",
+      "41"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1974-03-13-6024",
+    "numero": "6024",
+    "data": "1974-03-13",
+    "titulo_fonte": "LEI Nº 6024, DE 13 DE MARÇO DE 1974",
+    "ementa": "Dispõe sobre a intervenção e a liquidação extrajudicial de instituições financeiras, e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "547900"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

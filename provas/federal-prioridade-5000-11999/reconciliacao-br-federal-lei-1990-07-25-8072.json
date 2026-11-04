@@ -3,17 +3,18 @@
   "fonte_principal": "planalto-L8072",
   "sha256_fonte_principal": "3b93e4af5589b3e2aa4fe5610db12cd5b5cdc5bb794581c8df5fbdf5335f02d2",
   "sha256_conteudo": "1fd4251a5b29ff2429726c2c638085634e41c0c4c05a160067c4073b80706159",
-  "capturado_em": "2026-11-04T19:02:16Z",
+  "capturado_em": "2026-11-04T21:30:00Z",
   "url": "https://www.planalto.gov.br/ccivil_03/leis/L8072.htm",
   "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L8072.htm.xz",
   "sha256_snapshot_armazenado": "0cb4fcfdfb9136cd1d8ae86835daad69bf2d26358c3543b9d3ec695b8da368f4",
   "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
   "cobertura_texto": {
-    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
     "equivalente": true,
     "caracteres_normalizados_fonte": 11891,
     "caracteres_normalizados_markdown": 11891,
-    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
   },
   "conversao": {
     "trechos_riscados": 24,
@@ -58,12 +59,14 @@
       "tipo": "historica",
       "identidade": "planalto",
       "integral": "desconhecido"
-    }
+    },
+    "senado_id": null
   },
   "limites": [
     "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
     "O acervo não certifica vigência.",
     "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
-    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
   ]
 }

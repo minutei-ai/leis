@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-1996-12-24-9424",
+  "fonte_principal": "planalto-L9424",
+  "sha256_fonte_principal": "c9e37ba5add2b226d0d396396e8ccbd8f9491bf3b0f0a33c2d4f280c88e7f897",
+  "sha256_conteudo": "f4dc0c665dd8a0c792910f63475b09418d7d40133d2bd6b4d660eb24d2a48a48",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L9424.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9424.htm.xz",
+  "sha256_snapshot_armazenado": "1f0574b0887d1dee163beb2129408aa54273b247875a8e5556115da30c1ca118",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 21442,
+    "caracteres_normalizados_markdown": 21442,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 165,
+    "links": 186,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 115,
+    "artigos": 17,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "13",
+      "14",
+      "15",
+      "16",
+      "17"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1996-12-24-9424",
+    "numero": "9424",
+    "data": "1996-12-24",
+    "titulo_fonte": "LEI Nº 9424, DE 24 DE DEZEMBRO DE 1996",
+    "ementa": "Dispõe sobre o Fundo de Manutenção e Desenvolvimento do Ensino Fundamental e de Valorização do Magistério, na forma prevista no art. 60, § 7º, do Ato das Disposições Constitucionai",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "551300"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

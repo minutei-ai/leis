@@ -1,0 +1,72 @@
+{
+  "documento": "br-federal-lei-2002-12-30-10637",
+  "fonte_principal": "planalto-L10637",
+  "sha256_fonte_principal": "9727238721db1472ae8f05e98facc18f0c81a90283f17faaf5d8149670c5f6c6",
+  "sha256_conteudo": "da67a86299b11d5194e3378d2bd98996fb17c205f069accc8074f2805caabf31",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10637.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L10637.htm.xz",
+  "sha256_snapshot_armazenado": "d361c46bd99701d5e854ae22faa97098c2358edb1cf3b09a3b77baa5d34f5686",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 79850,
+    "caracteres_normalizados_markdown": 79850,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 167,
+    "links": 543,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 492,
+    "artigos": 68,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "63",
+      "65",
+      "66",
+      "67",
+      "68"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-2002-12-30-10637",
+    "numero": "10637",
+    "data": "2002-12-30",
+    "titulo_fonte": "LEI Nº 10637, DE 30 DE DEZEMBRO DE 2002",
+    "ementa": "Dispõe sobre a não-cumulatividade na cobrança da contribuição para os Programas de Integração Social (PIS) e de Formação do Patrimônio do Servidor Público (Pasep), nos casos que es",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "552513"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

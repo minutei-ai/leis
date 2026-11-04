@@ -3,17 +3,18 @@
   "fonte_principal": "planalto-L9504",
   "sha256_fonte_principal": "ee6a7488c59a9289dc94f5f3f31db58a78ea05cce673fed8be624665b5f556bc",
   "sha256_conteudo": "284d265ac9f81a5a3dc07f283991cdfdd81fea96f807ce3e8abd5511f83a7703",
-  "capturado_em": "2026-11-04T19:02:16Z",
+  "capturado_em": "2026-11-04T21:30:00Z",
   "url": "https://www.planalto.gov.br/ccivil_03/leis/L9504.htm",
   "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L9504.htm.xz",
   "sha256_snapshot_armazenado": "43c7f2eae6789ae2e8c6dfa84bc7356f300c84fd4930d6349e8554927f395895",
   "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
   "cobertura_texto": {
-    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
     "equivalente": true,
     "caracteres_normalizados_fonte": 195564,
     "caracteres_normalizados_markdown": 195564,
-    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
   },
   "conversao": {
     "trechos_riscados": 297,
@@ -82,7 +83,7 @@
         "com_mesclagem": false
       }
     ],
-    "blocos": 1338,
+    "blocos": 1334,
     "artigos": 151,
     "primeiros_artigos": [
       "1",
@@ -109,12 +110,14 @@
       "tipo": "historica",
       "identidade": "planalto",
       "integral": "desconhecido"
-    }
+    },
+    "senado_id": null
   },
   "limites": [
     "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
     "O acervo não certifica vigência.",
     "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
-    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
   ]
 }

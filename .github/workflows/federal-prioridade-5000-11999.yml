@@ -8,31 +8,7 @@ on:
       - 'scripts/nucleo_licitacoes.py'
       - 'tests/test_federal_prioridade_5000_11999.py'
       - 'provas/federal-prioridade-5000-11999/**'
-      - 'federal/br-federal-lei-1964-03-17-4320.md'
-      - 'federal/br-federal-lei-1968-07-25-5478.md'
-      - 'federal/br-federal-lei-1973-12-31-6015.md'
-      - 'federal/br-federal-lei-1976-12-15-6404.md'
-      - 'federal/br-federal-lei-1979-12-19-6766.md'
-      - 'federal/br-federal-lei-1980-09-22-6830.md'
-      - 'federal/br-federal-lei-1984-07-11-7210.md'
-      - 'federal/br-federal-lei-1985-07-24-7347.md'
-      - 'federal/br-federal-lei-1990-03-29-8009.md'
-      - 'federal/br-federal-lei-1990-05-11-8036.md'
-      - 'federal/br-federal-lei-1990-07-25-8072.md'
-      - 'federal/br-federal-lei-1990-12-11-8112.md'
-      - 'federal/br-federal-lei-1991-10-18-8245.md'
-      - 'federal/br-federal-lei-1992-06-02-8429.md'
-      - 'federal/br-federal-lei-1994-07-04-8906.md'
-      - 'federal/br-federal-lei-1995-02-13-8987.md'
-      - 'federal/br-federal-lei-1995-09-26-9099.md'
-      - 'federal/br-federal-lei-1996-09-23-9307.md'
-      - 'federal/br-federal-lei-1996-12-20-9394.md'
-      - 'federal/br-federal-lei-1997-09-23-9503.md'
-      - 'federal/br-federal-lei-1997-09-30-9504.md'
-      - 'federal/br-federal-lei-1998-02-12-9605.md'
-      - 'federal/br-federal-lei-2004-12-30-11079.md'
-      - 'federal/br-federal-lei-2005-02-09-11101.md'
-      - 'federal/br-federal-lei-2006-08-23-11343.md'
+      - 'federal/br-federal-lei-*.md'
 
 permissions:
   contents: read
@@ -40,12 +16,12 @@ permissions:
 jobs:
   verify:
     runs-on: ubuntu-24.04
-    timeout-minutes: 20
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - run: sudo apt-get update && sudo apt-get install -y --no-install-recommends python3-venv
       - run: python3 -m venv "$RUNNER_TEMP/venv" && "$RUNNER_TEMP/venv/bin/pip" install beautifulsoup4==4.15.0 lxml==6.1.3
       - name: Reconverter snapshots e conferir Markdown/provas
         run: $RUNNER_TEMP/venv/bin/python scripts/federal_prioridade_5000_11999.py verify
-      - name: Cobertura fonte→Markdown do lote prioritário
+      - name: Cobertura fonte→Markdown do lote prioritário e série
         run: $RUNNER_TEMP/venv/bin/python -m unittest tests.test_federal_prioridade_5000_11999 -v

@@ -1,0 +1,153 @@
+{
+  "documento": "br-federal-lei-1980-12-09-6880",
+  "fonte_principal": "planalto-L6880",
+  "sha256_fonte_principal": "1bc0938f4bc4716e5914a8da52f9b8e931697974018f68d90b2dbbee04c32a7c",
+  "sha256_conteudo": "8239c0639203ad8b667f80908446e2cbd5f6f0d2175465507fba52af0327602e",
+  "capturado_em": "2026-11-04T21:30:00Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/leis/L6880.htm",
+  "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L6880.htm.xz",
+  "sha256_snapshot_armazenado": "fead7718d94d41d9a37314d207684454e6d126404e22ee069c9588773cdff33a",
+  "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 125756,
+    "caracteres_normalizados_markdown": 125756,
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 363,
+    "links": 319,
+    "tabelas_markdown": 14,
+    "tabelas_html": 2,
+    "imagens": [
+      {
+        "alt": "Brasão das Armas Nacionais da República Federativa do Brasil",
+        "largura": "76",
+        "altura": "82",
+        "origem": "http://www.planalto.gov.br/ccivil_03/img/brasao.png",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 8,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 6,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 4,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 7,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      },
+      {
+        "linhas": 8,
+        "colunas_max": 6,
+        "com_mesclagem": true
+      },
+      {
+        "linhas": 6,
+        "colunas_max": 5,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 991,
+    "artigos": 159,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "156",
+      "157",
+      "158",
+      "159",
+      "160"
+    ]
+  },
+  "identidade": {
+    "norma_id": "br-federal-lei-1980-12-09-6880",
+    "numero": "6880",
+    "data": "1980-12-09",
+    "titulo_fonte": "LEI Nº 6880, DE 9 DE DEZEMBRO DE 1980",
+    "ementa": "Dispõe sobre o Estatuto dos Militares, e dá outras providências.",
+    "edicao": {
+      "tipo": "historica",
+      "identidade": "planalto",
+      "integral": "desconhecido"
+    },
+    "senado_id": "548756"
+  },
+  "limites": [
+    "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
+    "O acervo não certifica vigência.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
+  ]
+}

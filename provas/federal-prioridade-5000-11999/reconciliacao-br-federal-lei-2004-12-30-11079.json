@@ -3,17 +3,18 @@
   "fonte_principal": "planalto-L11079",
   "sha256_fonte_principal": "f9ef8370387427da1338292a8da80cd35b1fc68f79451673c5bd0055dd6a50cd",
   "sha256_conteudo": "b7f8760019f5b63207fab27e4de98b5bc8d797dbe7256b5aeca73aa4a2c00065",
-  "capturado_em": "2026-11-04T19:02:16Z",
+  "capturado_em": "2026-11-04T21:30:00Z",
   "url": "https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L11079.htm",
   "snapshot": "provas/federal-prioridade-5000-11999/fontes/planalto-L11079.htm.xz",
   "sha256_snapshot_armazenado": "2a2d826d419f5a2e267f8f041189641f9fd18e19e3e7b06bfe2ed5ccdf287015",
   "fontes_conferencia": [],
+  "normalizacao_ordinal_planalto": true,
   "cobertura_texto": {
-    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização tipográfica de ordinais e strip_fold",
     "equivalente": true,
     "caracteres_normalizados_fonte": 42350,
     "caracteres_normalizados_markdown": 42350,
-    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+    "metodo": "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == strip_fold(md_text_all(body_convertido))"
   },
   "conversao": {
     "trechos_riscados": 56,
@@ -49,12 +50,14 @@
       "tipo": "historica",
       "identidade": "planalto",
       "integral": "desconhecido"
-    }
+    },
+    "senado_id": null
   },
   "limites": [
     "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
     "O acervo não certifica vigência.",
     "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
-    "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md."
+    "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+    "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie."
   ]
 }

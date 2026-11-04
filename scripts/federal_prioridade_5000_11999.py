@@ -1,11 +1,13 @@
-"""Lote prioritário de leis ordinárias federais 5.000–11.999 (issue #71).
+"""Lote prioritário e reconciliação retomável da série 5.000–11.999 (#71).
 
-Publica um primeiro lote das normas essenciais citadas na #71 a partir do
-Planalto, com cobertura fonte→Markdown integral. Demais prioridades e a série
-completa do catálogo ficam em provas/.../PENDENCIAS-prioridade.md.
+Publica as normas essenciais da lista prioritária a partir do Planalto, com
+cobertura fonte→Markdown integral. Inclui normalização tipográfica de ordinais
+partido do Planalto (ex.: Lei 9.784 `1o`/`1oo`) sem enfraquecer a validação.
+
+Também expõe reconciliação e coleta retomável da série 5.000–11.999 contra o
+catálogo anual do Senado (1966–2009), sem parar em amostras.
 
 Reutiliza `nucleo_licitacoes.convert_html` sem alterar aquele gerador.
-Já cobertas por outros lotes (não republicadas aqui): ['10520', '11340', '5172', '8069', '8078', '8080', '8213', '8666'].
 """
 from __future__ import annotations
 
@@ -28,374 +30,105 @@ FONTES_DIR = PROVAS / "fontes"
 MANIFESTO = PROVAS / "manifesto.json"
 FONTES_JSON = PROVAS / "fontes.json"
 PENDENCIAS = PROVAS / "PENDENCIAS-prioridade.md"
+CATALOGO_PRIORIDADES = PROVAS / "prioridades-catalogo.json"
+SENADO_ANUAL_DIR = PROVAS / "senado-anual"
+SERIE_ESTADO_DIR = PROVAS / "serie-estado"
+SERIE_CATALOGO = PROVAS / "catalogo-serie-reconciliacao.json"
+SERIE_ESTADO_JSON = SERIE_ESTADO_DIR / "collect-state.json"
 UNKNOWN = nl.UNKNOWN
 PLANALTO = nl.PLANALTO
 USER_AGENT = nl.USER_AGENT
 CONTRACT_VERSION = nl.CONTRACT_VERSION
 LOTE = "federal-prioridade-5000-11999"
 TITLE_PATTERN = r"^LEI(?: COMPLEMENTAR)? N"
+SERIE_MIN = 5000
+SERIE_MAX = 11999
+SERIE_ANOS = range(1966, 2010)
 
-# Prioridades da #71 ainda não publicadas neste lote (números).
-PRIORIDADE_RESTANTE = [5859, 5869, 5889, 6019, 6024, 6360, 6385, 6437, 6880, 6938, 7492, 7998, 8137, 8142, 8212, 8443, 8742, 8884, 8934, 9069, 9074, 9096, 9249, 9279, 9296, 9424, 9427, 9430, 9433, 9455, 9456, 9472, 9478, 9492, 9514, 9601, 9609, 9610, 9613, 9656, 9717, 9718, 9782, 9784, 9868, 9876, 9882, 9985, 10101, 10172, 10216, 10257, 10259, 10637, 10671, 10741, 10820, 10826, 10833, 10861, 10931, 11107, 11419, 11428, 11441, 11494, 11638, 11738, 11788]
+# Ordinal tipográfico partido do Planalto → "Nº " (cp1252), sem reeditar o jurídico.
+_ORD_BYTE = "º".encode("cp1252")
+_NBSP = b"\xa0"
+_ORDINAL_TAG_RE = re.compile(
+    rb"(\d)"
+    rb"(?:\s*</?(?:sup|u|b|i|strong|em|font|span|small|a)(?:\s[^>]*)?>)*\s*"
+    rb"(?:<(?:sup|u)(?:\s[^>]*)?>\s*(?:<(?:span|font|b|i)(?:\s[^>]*)?>\s*)*)+"
+    rb"o\s*"
+    rb"(?:</(?:span|font|b|i|sup|u|small)>\s*)+",
+    re.I,
+)
+_ORDINAL_CHAR_GLUE_RE = re.compile(rb"(\d)" + re.escape(_ORD_BYTE) + rb"(?=[A-Za-z])")
 
-# Já no acervo por outros lotes (não republicar).
-JA_NO_ACERVO = ['10520', '11340', '5172', '8069', '8078', '8080', '8213', '8666']
 
-SOURCES = {
-    'planalto-L4320': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L4320.htm', file='planalto-L4320.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L5478': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L5478.htm', file='planalto-L5478.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L6015': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L6015compilada.htm', file='planalto-L6015.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L6404': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L6404compilada.htm', file='planalto-L6404.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L6766': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L6766.htm', file='planalto-L6766.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L6830': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L6830.htm', file='planalto-L6830.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L7210': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L7210.htm', file='planalto-L7210.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L7347': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L7347compilada.htm', file='planalto-L7347.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L8009': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L8009.htm', file='planalto-L8009.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L8036': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L8036compilada.htm', file='planalto-L8036.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L8072': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L8072.htm', file='planalto-L8072.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L8112': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L8112cons.htm', file='planalto-L8112.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L8245': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L8245.htm', file='planalto-L8245.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L8429': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L8429compilada.htm', file='planalto-L8429.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L8906': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L8906.htm', file='planalto-L8906.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L8987': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L8987compilada.htm', file='planalto-L8987.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L9099': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L9099.htm', file='planalto-L9099.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L9307': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L9307.htm', file='planalto-L9307.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L9394': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L9394.htm', file='planalto-L9394.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L9503': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L9503Compilado.htm', file='planalto-L9503.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L9504': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L9504.htm', file='planalto-L9504.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L9605': dict(url='https://www.planalto.gov.br/ccivil_03/leis/L9605.htm', file='planalto-L9605.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L11079': dict(url='https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2004/Lei/L11079.htm', file='planalto-L11079.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L11101': dict(url='https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2005/Lei/L11101.htm', file='planalto-L11101.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-    'planalto-L11343': dict(url='https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/2006/Lei/L11343.htm', file='planalto-L11343.htm', orgao=PLANALTO, formato='html', charset='cp1252'),
-}
+def normalize_planalto_ordinals(data: bytes) -> bytes:
+    """Junta ordinal partido em tags e evita colar º na palavra seguinte.
 
-DOCS = [
-    dict(
-        slug='br-federal-lei-1964-03-17-4320',
-        arquivo='federal/br-federal-lei-1964-03-17-4320.md',
-        fonte='planalto-L4320',
+    Markup-only: não altera o texto jurídico além da tipografia ordinal do Planalto.
+    """
+    data = data.replace(b"&nbsp;", b" ").replace(b"&NBSP;", b" ").replace(_NBSP, b" ")
+    prev = None
+    cur = data
+    while prev != cur:
+        prev = cur
+        cur = _ORDINAL_TAG_RE.sub(lambda m: m.group(1) + _ORD_BYTE + b" ", cur)
+        cur = _ORDINAL_CHAR_GLUE_RE.sub(lambda m: m.group(1) + _ORD_BYTE + b" ", cur)
+    return cur
+
+
+def load_prioridades_catalogo() -> dict:
+    if not CATALOGO_PRIORIDADES.is_file():
+        raise SystemExit(f"catálogo ausente: {CATALOGO_PRIORIDADES}")
+    return json.loads(CATALOGO_PRIORIDADES.read_text(encoding="utf-8"))
+
+
+def _doc_from_entry(entry: dict) -> dict:
+    numero = str(entry["numero"])
+    data = entry["data"]
+    edicao = entry.get("edicao") or "historica"
+    key = f"planalto-L{numero}"
+    slug = f"br-federal-lei-{data}-{numero}"
+    if edicao == "consolidada":
+        edicao_meta = dict(tipo="consolidada", identidade="compilado-planalto", integral=True)
+    else:
+        edicao_meta = dict(tipo="historica", identidade="planalto", integral=UNKNOWN)
+    return dict(
+        slug=slug,
+        arquivo=f"federal/{slug}.md",
+        fonte=key,
+        senado_id=entry.get("senado_id"),
         norma=dict(
-            tipo='lei', numero='4320', data='1964-03-17',
-            titulo='LEI Nº 4320, DE 17 DE MARÇO DE 1964',
-            ementa='Estatui Normas Gerais de Direito Financeiro para elaboração e contrôle dos orçamentos e balanços da União, dos Estados, dos Municípios e do Distrito Federal.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
+            tipo="lei",
+            numero=numero,
+            data=data,
+            titulo=entry.get("titulo") or f"LEI Nº {numero}, DE {data}",
+            ementa=entry.get("ementa") or "",
+            denominacao=None,
+        ),
+        edicao=edicao_meta,
+        situacao=dict(valor="nao-informada"),
         title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1968-07-25-5478',
-        arquivo='federal/br-federal-lei-1968-07-25-5478.md',
-        fonte='planalto-L5478',
-        norma=dict(
-            tipo='lei', numero='5478', data='1968-07-25',
-            titulo='LEI Nº 5478, DE 25 DE JULHO DE 1968',
-            ementa='Dispõe sobre ação de alimentos e dá outras providências.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1973-12-31-6015',
-        arquivo='federal/br-federal-lei-1973-12-31-6015.md',
-        fonte='planalto-L6015',
-        norma=dict(
-            tipo='lei', numero='6015', data='1973-12-31',
-            titulo='LEI Nº 6015, DE 31 DE DEZEMBRO DE 1973',
-            ementa='Dispõe sobre os registros públicos e dá outras providências.',
-            denominacao=None),
-        edicao=dict(tipo='consolidada', identidade='compilado-planalto', integral=True),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1976-12-15-6404',
-        arquivo='federal/br-federal-lei-1976-12-15-6404.md',
-        fonte='planalto-L6404',
-        norma=dict(
-            tipo='lei', numero='6404', data='1976-12-15',
-            titulo='LEI Nº 6404, DE 15 DE DEZEMBRO DE 1976',
-            ementa='Dispõe sobre as sociedades por ações.',
-            denominacao=None),
-        edicao=dict(tipo='consolidada', identidade='compilado-planalto', integral=True),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1979-12-19-6766',
-        arquivo='federal/br-federal-lei-1979-12-19-6766.md',
-        fonte='planalto-L6766',
-        norma=dict(
-            tipo='lei', numero='6766', data='1979-12-19',
-            titulo='LEI Nº 6766, DE 19 DE DEZEMBRO DE 1979',
-            ementa='Dispõe sobre o parcelamento do solo urbano e dá outras providências.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1980-09-22-6830',
-        arquivo='federal/br-federal-lei-1980-09-22-6830.md',
-        fonte='planalto-L6830',
-        norma=dict(
-            tipo='lei', numero='6830', data='1980-09-22',
-            titulo='LEI Nº 6830, DE 22 DE SETEMBRO DE 1980',
-            ementa='Dispõe sobre a cobrança judicial da Dívida Ativa da Fazenda Pública e dá outras providências.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1984-07-11-7210',
-        arquivo='federal/br-federal-lei-1984-07-11-7210.md',
-        fonte='planalto-L7210',
-        norma=dict(
-            tipo='lei', numero='7210', data='1984-07-11',
-            titulo='LEI Nº 7210, DE 11 DE JULHO DE 1984',
-            ementa='Institui a Lei de Execução Penal.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1985-07-24-7347',
-        arquivo='federal/br-federal-lei-1985-07-24-7347.md',
-        fonte='planalto-L7347',
-        norma=dict(
-            tipo='lei', numero='7347', data='1985-07-24',
-            titulo='LEI Nº 7347, DE 24 DE JULHO DE 1985',
-            ementa='Disciplina a ação civil pública de responsabilidade por danos causados ao meio-ambiente, ao consumidor, a bens e direitos de valor artístico, estético, histórico, turístico e paisagístico e dá outras providências.',
-            denominacao=None),
-        edicao=dict(tipo='consolidada', identidade='compilado-planalto', integral=True),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1990-03-29-8009',
-        arquivo='federal/br-federal-lei-1990-03-29-8009.md',
-        fonte='planalto-L8009',
-        norma=dict(
-            tipo='lei', numero='8009', data='1990-03-29',
-            titulo='LEI Nº 8009, DE 29 DE MARÇO DE 1990',
-            ementa='Dispõe sobre a impenhorabilidade do bem de família.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1990-05-11-8036',
-        arquivo='federal/br-federal-lei-1990-05-11-8036.md',
-        fonte='planalto-L8036',
-        norma=dict(
-            tipo='lei', numero='8036', data='1990-05-11',
-            titulo='LEI Nº 8036, DE 11 DE MAIO DE 1990',
-            ementa='Dispõe sobre o Fundo de Garantia do Tempo de Serviço e dá outras providências.',
-            denominacao=None),
-        edicao=dict(tipo='consolidada', identidade='compilado-planalto', integral=True),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1990-07-25-8072',
-        arquivo='federal/br-federal-lei-1990-07-25-8072.md',
-        fonte='planalto-L8072',
-        norma=dict(
-            tipo='lei', numero='8072', data='1990-07-25',
-            titulo='LEI Nº 8072, DE 25 DE JULHO DE 1990',
-            ementa='Dispõe sobre os crimes hediondos, nos termos do art. 5º, inciso XLIII, da Constituição Federal, e determina outras providências.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1990-12-11-8112',
-        arquivo='federal/br-federal-lei-1990-12-11-8112.md',
-        fonte='planalto-L8112',
-        norma=dict(
-            tipo='lei', numero='8112', data='1990-12-11',
-            titulo='LEI Nº 8112, DE 11 DE DEZEMBRO DE 1990',
-            ementa='Dispõe sobre o Regime Jurídico dos Servidores Públicos Civis da União, das autarquias e das fundações públicas federais.',
-            denominacao=None),
-        edicao=dict(tipo='consolidada', identidade='compilado-planalto', integral=True),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1991-10-18-8245',
-        arquivo='federal/br-federal-lei-1991-10-18-8245.md',
-        fonte='planalto-L8245',
-        norma=dict(
-            tipo='lei', numero='8245', data='1991-10-18',
-            titulo='LEI Nº 8245, DE 18 DE OUTUBRO DE 1991',
-            ementa='Dispõe sobre as locações dos imóveis urbanos e os procedimentos a elas pertinentes.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1992-06-02-8429',
-        arquivo='federal/br-federal-lei-1992-06-02-8429.md',
-        fonte='planalto-L8429',
-        norma=dict(
-            tipo='lei', numero='8429', data='1992-06-02',
-            titulo='LEI Nº 8429, DE 2 DE JUNHO DE 1992',
-            ementa='Dispõe sobre as sanções aplicáveis em virtude da prática de atos de improbidade administrativa, de que trata o § 4º do art. 37 da Constituição Federal; e dá outras providências.',
-            denominacao=None),
-        edicao=dict(tipo='consolidada', identidade='compilado-planalto', integral=True),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1994-07-04-8906',
-        arquivo='federal/br-federal-lei-1994-07-04-8906.md',
-        fonte='planalto-L8906',
-        norma=dict(
-            tipo='lei', numero='8906', data='1994-07-04',
-            titulo='LEI Nº 8906, DE 4 DE JULHO DE 1994',
-            ementa='Dispõe sobre o Estatuto da Advocacia e a Ordem dos Advogados do Brasil - OAB.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1995-02-13-8987',
-        arquivo='federal/br-federal-lei-1995-02-13-8987.md',
-        fonte='planalto-L8987',
-        norma=dict(
-            tipo='lei', numero='8987', data='1995-02-13',
-            titulo='LEI Nº 8987, DE 13 DE FEVEREIRO DE 1995',
-            ementa='Dispõe sobre o regime de concessão e permissão da prestação de serviços públicos previsto no art. 175 da Constituição Federal e dá outras providências.',
-            denominacao=None),
-        edicao=dict(tipo='consolidada', identidade='compilado-planalto', integral=True),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1995-09-26-9099',
-        arquivo='federal/br-federal-lei-1995-09-26-9099.md',
-        fonte='planalto-L9099',
-        norma=dict(
-            tipo='lei', numero='9099', data='1995-09-26',
-            titulo='LEI Nº 9099, DE 26 DE SETEMBRO DE 1995',
-            ementa='Dispõe sobre os Juizados Especiais Cíveis e Criminais e dá outras providências.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1996-09-23-9307',
-        arquivo='federal/br-federal-lei-1996-09-23-9307.md',
-        fonte='planalto-L9307',
-        norma=dict(
-            tipo='lei', numero='9307', data='1996-09-23',
-            titulo='LEI Nº 9307, DE 23 DE SETEMBRO DE 1996',
-            ementa='Dispõe sobre a arbitragem.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1996-12-20-9394',
-        arquivo='federal/br-federal-lei-1996-12-20-9394.md',
-        fonte='planalto-L9394',
-        norma=dict(
-            tipo='lei', numero='9394', data='1996-12-20',
-            titulo='LEI Nº 9394, DE 20 DE DEZEMBRO DE 1996',
-            ementa='Estabelece as diretrizes e bases da educação nacional.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1997-09-23-9503',
-        arquivo='federal/br-federal-lei-1997-09-23-9503.md',
-        fonte='planalto-L9503',
-        norma=dict(
-            tipo='lei', numero='9503', data='1997-09-23',
-            titulo='LEI Nº 9503, DE 23 DE SETEMBRO DE 1997',
-            ementa='Institui o Código de Trânsito Brasileiro.',
-            denominacao=None),
-        edicao=dict(tipo='consolidada', identidade='compilado-planalto', integral=True),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1997-09-30-9504',
-        arquivo='federal/br-federal-lei-1997-09-30-9504.md',
-        fonte='planalto-L9504',
-        norma=dict(
-            tipo='lei', numero='9504', data='1997-09-30',
-            titulo='LEI Nº 9504, DE 30 DE SETEMBRO DE 1997',
-            ementa='Estabelece normas para as eleições.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-1998-02-12-9605',
-        arquivo='federal/br-federal-lei-1998-02-12-9605.md',
-        fonte='planalto-L9605',
-        norma=dict(
-            tipo='lei', numero='9605', data='1998-02-12',
-            titulo='LEI Nº 9605, DE 12 DE FEVEREIRO DE 1998',
-            ementa='Dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente, e dá outras providências.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-2004-12-30-11079',
-        arquivo='federal/br-federal-lei-2004-12-30-11079.md',
-        fonte='planalto-L11079',
-        norma=dict(
-            tipo='lei', numero='11079', data='2004-12-30',
-            titulo='LEI Nº 11079, DE 30 DE DEZEMBRO DE 2004',
-            ementa='Institui normas gerais para licitação e contratação de parceria público-privada no âmbito da administração pública.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-2005-02-09-11101',
-        arquivo='federal/br-federal-lei-2005-02-09-11101.md',
-        fonte='planalto-L11101',
-        norma=dict(
-            tipo='lei', numero='11101', data='2005-02-09',
-            titulo='LEI Nº 11101, DE 9 DE FEVEREIRO DE 2005',
-            ementa='Regula a recuperação judicial, a extrajudicial e a falência do empresário e da sociedade empresária.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-    dict(
-        slug='br-federal-lei-2006-08-23-11343',
-        arquivo='federal/br-federal-lei-2006-08-23-11343.md',
-        fonte='planalto-L11343',
-        norma=dict(
-            tipo='lei', numero='11343', data='2006-08-23',
-            titulo='LEI Nº 11343, DE 23 DE AGOSTO DE 2006',
-            ementa='Institui o Sistema Nacional de Políticas Públicas sobre Drogas - Sisnad; prescreve medidas para prevenção do uso indevido, atenção e reinserção social de usuários e dependentes de drogas; estabelece normas para repressão à produção não autorizada e ao tráfico ilícito de drogas e define crimes.',
-            denominacao=None),
-        edicao=dict(tipo='historica', identidade='planalto', integral=UNKNOWN),
-        situacao=dict(valor='nao-informada'),
-        title_pattern=TITLE_PATTERN,
-    ),
-]
+        normalize_ordinals=bool(entry.get("normalize_ordinals", True)),
+    )
+
+
+def _source_from_entry(entry: dict) -> dict:
+    numero = str(entry["numero"])
+    return dict(
+        url=entry["url"],
+        file=entry["file"],
+        orgao=PLANALTO,
+        formato="html",
+        charset="cp1252",
+        normalize_ordinals=bool(entry.get("normalize_ordinals", True)),
+    )
+
+
+_CAT = load_prioridades_catalogo()
+JA_NO_ACERVO = list(_CAT.get("ja_no_acervo") or [])
+_ENTRIES = list(_CAT["documentos"])
+SOURCES = {f"planalto-L{e['numero']}": _source_from_entry(e) for e in _ENTRIES}
+DOCS = [_doc_from_entry(e) for e in _ENTRIES]
+# Prioridades da lista essencial ainda sem arquivo canônico neste lote / acervo.
+PRIORIDADE_RESTANTE: list[int] = []  # preenchido em write_pendencias / verify
 
 
 def now_utc() -> str:
@@ -408,6 +141,13 @@ def snapshot_path(key: str) -> Path:
 
 def read_snapshot(key: str) -> bytes:
     return lzma.decompress(snapshot_path(key).read_bytes())
+
+
+def source_bytes(key: str) -> bytes:
+    data = read_snapshot(key)
+    if SOURCES[key].get("normalize_ordinals"):
+        return normalize_planalto_ordinals(data)
+    return data
 
 
 def write_snapshot(key: str, data: bytes) -> None:
@@ -435,46 +175,72 @@ def dou_aviso_from_html(data: bytes, charset: str) -> str | None:
     return plain or None
 
 
-def fetch(dest: Path) -> dict:
-    dest = Path(dest)
-    dest.mkdir(parents=True, exist_ok=True)
-    records = {}
-    for key, spec in SOURCES.items():
-        target = dest / spec["file"]
-        header_file = dest / (spec["file"] + ".headers")
-        captured = now_utc()
-        proc = subprocess.run([
+def _curl_fetch(url: str, dest: Path, header_file: Path) -> dict:
+    captured = now_utc()
+    proc = subprocess.run(
+        [
             "curl", "--silent", "--show-error", "--location", "--http1.1",
             "--proto", "=https", "--proto-redir", "=https",
             "--connect-timeout", "30", "--max-time", "300",
             "--max-filesize", str(64 * 1024 * 1024),
             "--user-agent", USER_AGENT, "--dump-header", str(header_file),
             "--write-out", "%{http_code} %{url_effective}",
-            "--output", str(target), spec["url"],
-        ], capture_output=True, text=True)
-        record = dict(url=spec["url"], capturado_em=captured, curl_exit=proc.returncode, user_agent=USER_AGENT)
-        if proc.returncode == 0:
-            status, _, effective = proc.stdout.partition(" ")
-            record.update(http_status=int(status), url_final=effective)
-            data = target.read_bytes()
-            record.update(bytes=len(data), sha256=nl.sha256(data), sha256_conteudo=nl.content_sha256(data))
-            raw_headers = header_file.read_bytes().decode("latin-1").replace("\r\n", "\n")
-            final_block = [b for b in raw_headers.split("\n\n") if b.strip()][-1:] or [""]
-            for line in final_block[0].splitlines():
-                name, _, value = line.partition(":")
-                if name.lower() in ("last-modified", "etag", "content-type", "date"):
-                    record["cabecalho_" + name.lower().replace("-", "_")] = value.strip()
-            looks_like_gateway = b"504 Gateway Time-out" in data[:400] or b"<title>5" in data[:400]
-            record["utilizavel"] = status == "200" and not looks_like_gateway and len(data) > 1000
-            if record["utilizavel"]:
-                record["dou_aviso"] = dou_aviso_from_html(data, spec["charset"])
-            else:
-                record["motivo"] = f"resposta HTTP {status} sem conteúdo utilizável ({len(data)} bytes)"
+            "--output", str(dest), url,
+        ],
+        capture_output=True,
+        text=True,
+    )
+    record = dict(url=url, capturado_em=captured, curl_exit=proc.returncode, user_agent=USER_AGENT)
+    if proc.returncode == 0:
+        status, _, effective = proc.stdout.partition(" ")
+        record.update(http_status=int(status) if status.isdigit() else status, url_final=effective.strip())
+        data = dest.read_bytes() if dest.is_file() else b""
+        record.update(bytes=len(data), sha256=nl.sha256(data), sha256_conteudo=nl.content_sha256(data))
+        looks_like_gateway = b"504 Gateway Time-out" in data[:400] or b"<title>5" in data[:400]
+        record["utilizavel"] = (
+            str(record["http_status"]) == "200"
+            and not looks_like_gateway
+            and len(data) > 800
+            and bool(re.search(br"LEI|Lei", data[:5000]))
+        )
+        if record["utilizavel"]:
+            record["dou_aviso"] = dou_aviso_from_html(data, "cp1252")
         else:
-            record.update(utilizavel=False, motivo=proc.stderr.strip()[-500:])
+            record["motivo"] = (
+                f"resposta HTTP {record['http_status']} sem conteúdo utilizável ({len(data)} bytes)"
+            )
+    else:
+        record.update(utilizavel=False, motivo=(proc.stderr or "")[-500:])
+    return record
+
+
+def fetch(dest: Path, resume: bool = True) -> dict:
+    dest = Path(dest)
+    dest.mkdir(parents=True, exist_ok=True)
+    records = {}
+    for key, spec in SOURCES.items():
+        target = dest / spec["file"]
+        header_file = dest / (spec["file"] + ".headers")
+        if resume and target.is_file() and target.stat().st_size > 800:
+            data = target.read_bytes()
+            if re.search(br"LEI|Lei", data[:5000]):
+                records[key] = dict(
+                    url=spec["url"], capturado_em=now_utc(), curl_exit=0, user_agent=USER_AGENT,
+                    http_status=200, url_final=spec["url"], bytes=len(data),
+                    sha256=nl.sha256(data), sha256_conteudo=nl.content_sha256(data),
+                    utilizavel=True, retomado=True,
+                    dou_aviso=dou_aviso_from_html(data, spec["charset"]),
+                )
+                print(f"{key}: retomado {len(data)} bytes", flush=True)
+                continue
+        record = _curl_fetch(spec["url"], target, header_file)
         header_file.unlink(missing_ok=True)
         records[key] = record
-        print(f"{key}: {record.get('http_status')} {record.get('bytes')} utilizável={record['utilizavel']}", flush=True)
+        print(
+            f"{key}: {record.get('http_status')} {record.get('bytes')} "
+            f"utilizável={record['utilizavel']}",
+            flush=True,
+        )
     write_json(dest / "fetch.json", records)
     return records
 
@@ -502,6 +268,7 @@ def ingest_capture(capture_dir: Path, capturado_em: str | None = None) -> dict:
             snapshot=str(snapshot_path(key).relative_to(ROOT)),
             sha256_snapshot_armazenado=nl.sha256(snapshot_path(key).read_bytes()),
             charset=spec["charset"],
+            normalizacao_ordinal_planalto=bool(spec.get("normalize_ordinals")),
         )
         if headers_path.is_file():
             raw_headers = headers_path.read_bytes().decode("latin-1").replace("\r\n", "\n")
@@ -521,32 +288,47 @@ def load_fontes() -> dict:
 
 
 def load_sources_bytes() -> dict:
-    return {key: read_snapshot(key) for key in SOURCES}
+    return {key: source_bytes(key) for key in SOURCES}
 
 
 def edition_note(doc: dict, rec: dict, conv: nl.Converter) -> str:
     edicao = doc["edicao"]["tipo"]
     label = "Edição consolidada" if edicao == "consolidada" else "Edição histórica"
     lines = [
-        (f"**{label} — {rec['orgao']}.** Fonte: {rec['url']} "
-         f"(capturada em {rec['capturado_em']}, SHA-256 da fonte `{rec['sha256']}`, "
-         f"SHA-256 do conteúdo sem script de proteção `{rec['sha256_conteudo']}`). "
-         f"Snapshot: `{rec['snapshot']}`. O acervo não certifica vigência."),
-        ("Página oficial do Planalto. Notas, remissões, tabelas e trechos riscados da "
-         "página foram preservados literalmente. Não é republicação isolada do DOU."),
-        ("Texto entre `~~` é redação superada, vetada ou revogada que a fonte oficial "
-         "mantém riscada; não é dispositivo em vigor. A presença deste arquivo no acervo "
-         "não indica vigência."),
+        (
+            f"**{label} — {rec['orgao']}.** Fonte: {rec['url']} "
+            f"(capturada em {rec['capturado_em']}, SHA-256 da fonte `{rec['sha256']}`, "
+            f"SHA-256 do conteúdo sem script de proteção `{rec['sha256_conteudo']}`). "
+            f"Snapshot: `{rec['snapshot']}`. O acervo não certifica vigência."
+        ),
+        (
+            "Página oficial do Planalto. Notas, remissões, tabelas e trechos riscados da "
+            "página foram preservados literalmente. Não é republicação isolada do DOU."
+        ),
+        (
+            "Texto entre `~~` é redação superada, vetada ou revogada que a fonte oficial "
+            "mantém riscada; não é dispositivo em vigor. A presença deste arquivo no acervo "
+            "não indica vigência."
+        ),
     ]
+    if SOURCES[doc["fonte"]].get("normalize_ordinals"):
+        lines.append(
+            "Ordinais tipográficos partidos do Planalto "
+            "(`N<sup><u>o</u></sup>` / variantes com `<span>`/`&nbsp;`) foram normalizados "
+            "para `Nº ` antes da conversão e da cobertura fonte→Markdown, sem reeditar o "
+            "texto jurídico."
+        )
     if rec.get("dou_aviso"):
         lines.append(rec["dou_aviso"])
     lines.append(
         f"Prova de cobertura fonte→Markdown e reconversão: "
-        f"`provas/{LOTE}/reconciliacao-{doc['slug']}.json`.")
+        f"`provas/{LOTE}/reconciliacao-{doc['slug']}.json`."
+    )
     if conv.images:
         lines.append(
             f"{len(conv.images)} imagem(ns) institucional(is) do cabeçalho da página foram omitidas do "
-            "Markdown (brasão/logotipo sem texto jurídico).")
+            "Markdown (brasão/logotipo sem texto jurídico)."
+        )
     if conv.stats["tabelas_markdown"] or conv.stats["tabelas_html"]:
         n = conv.stats["tabelas_markdown"] + conv.stats["tabelas_html"]
         lines.append(f"{n} tabela(s) da fonte foram convertidas para Markdown/`<table>` no corpo.")
@@ -629,13 +411,20 @@ def build_document(doc: dict, data: bytes, rec: dict):
         snapshot=rec["snapshot"],
         sha256_snapshot_armazenado=rec["sha256_snapshot_armazenado"],
         fontes_conferencia=[],
+        normalizacao_ordinal_planalto=bool(spec.get("normalize_ordinals")),
         cobertura_texto=dict(
-            descricao=("texto integral da página da fonte (sem imagens) == texto do Markdown publicado "
-                       "(corpo convertido, sem nota de edição), após normalização"),
+            descricao=(
+                "texto integral da página da fonte (sem imagens) == texto do Markdown publicado "
+                "(corpo convertido, sem nota de edição), após normalização tipográfica de ordinais "
+                "e strip_fold"
+            ),
             equivalente=coverage_ok,
             caracteres_normalizados_fonte=len(src),
             caracteres_normalizados_markdown=len(md_all),
-            metodo="strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))",
+            metodo=(
+                "strip_fold(source_text_chars_from_html(normalize_planalto_ordinals(raw))) == "
+                "strip_fold(md_text_all(body_convertido))"
+            ),
         ),
         conversao=dict(
             **conv.stats,
@@ -653,12 +442,14 @@ def build_document(doc: dict, data: bytes, rec: dict):
             titulo_fonte=norma["titulo"],
             ementa=norma["ementa"],
             edicao=doc["edicao"],
+            senado_id=doc.get("senado_id"),
         ),
         limites=[
             "Fonte única nesta entrega (Planalto); fonte_conferencia=nenhuma.",
             "O acervo não certifica vigência.",
             "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados preservados.",
-            "Lote parcial da #71; demais prioridades em PENDENCIAS-prioridade.md.",
+            "Normalização ordinal é tipográfica (markup Planalto); não altera dispositivos.",
+            "Série completa 5.000–11.999 segue em catalogo-serie-reconciliacao.json / collect-serie.",
         ],
     )
     if not coverage_ok:
@@ -668,7 +459,10 @@ def build_document(doc: dict, data: bytes, rec: dict):
         id=doc["slug"],
         arquivo=doc["arquivo"],
         norma=norma,
-        edicao=dict(tipo=edicao_tipo, integral=edicao_integral, identidade=doc["edicao"]["identidade"], edicao_id=edicao_id),
+        edicao=dict(
+            tipo=edicao_tipo, integral=edicao_integral,
+            identidade=doc["edicao"]["identidade"], edicao_id=edicao_id,
+        ),
         situacao=doc["situacao"],
         fonte=dict(
             chave=doc["fonte"], orgao=spec["orgao"], url=spec["url"], formato="html",
@@ -689,8 +483,29 @@ def build_document(doc: dict, data: bytes, rec: dict):
     return markdown, proof, entry, conv
 
 
+def _canonical_present_numbers() -> set[str]:
+    present = set()
+    federal = ROOT / "federal"
+    if not federal.is_dir():
+        return present
+    for p in federal.glob("br-federal-lei-*-*-*-*.md"):
+        m = re.search(r"-(\d+)\.md$", p.name)
+        if m:
+            present.add(m.group(1))
+    return present
+
+
 def write_pendencias(manifest_docs: list) -> str:
     published = {e["norma"]["numero"] for e in manifest_docs}
+    present = _canonical_present_numbers()
+    restante = []
+    for e in _ENTRIES:
+        n = str(e["numero"])
+        if n not in published and n not in JA_NO_ACERVO and n not in present:
+            restante.append(int(n))
+    global PRIORIDADE_RESTANTE
+    PRIORIDADE_RESTANTE = sorted(restante)
+
     lines = [
         "# Pendências — prioridade #71 (faixa 5.000–11.999)",
         "",
@@ -722,12 +537,21 @@ def write_pendencias(manifest_docs: list) -> str:
         "| Número | Fonte consultada | Estado |",
         "| --- | --- | --- |",
     ]
-    for n in PRIORIDADE_RESTANTE:
-        lines.append(
-            f"| {n} | Planalto / Senado (catálogo LEI) | Identificada no catálogo; íntegra ainda não "
-            f"publicada neste lote. Próxima captura: página oficial do Planalto ou encoding normas.leg.br. |"
-        )
+    if PRIORIDADE_RESTANTE:
+        for n in PRIORIDADE_RESTANTE:
+            lines.append(
+                f"| {n} | Planalto / Senado (catálogo LEI) | Identificada no catálogo; íntegra ainda não "
+                f"publicada neste lote. Próxima captura: página oficial do Planalto ou encoding normas.leg.br. |"
+            )
+    else:
+        lines.append("| — | — | Nenhuma pendência restante na lista prioritária essencial. |")
     lines += [
+        "",
+        "## Série 5.000–11.999",
+        "",
+        "A reconciliação por identidade do catálogo Senado (1966–2009) e a coleta retomável",
+        "estão em `catalogo-serie-reconciliacao.json` e `serie-estado/`. Ausência de arquivo",
+        "canônico ou falha de transporte não prova inexistência da lei.",
         "",
         "## Limites",
         "",
@@ -752,17 +576,23 @@ def compute(sources: dict, fontes: dict):
     manifest = dict(
         contrato_versao=CONTRACT_VERSION,
         lote=LOTE,
-        descricao=("Lote prioritário da #71: leis ordinárias federais essenciais da faixa "
-                   "5.000–11.999 recuperadas do Planalto com cobertura integral."),
+        descricao=(
+            "Lote prioritário da #71: leis ordinárias federais essenciais da faixa "
+            "5.000–11.999 recuperadas do Planalto com cobertura integral "
+            "(inclui normalização tipográfica de ordinais)."
+        ),
         gerado_em=now_utc(),
         vigencia_certificada=False,
         documentos=manifest_docs,
         ja_no_acervo=JA_NO_ACERVO,
         prioridade_restante=PRIORIDADE_RESTANTE,
+        catalogo_prioridades=str(CATALOGO_PRIORIDADES.relative_to(ROOT)),
+        catalogo_serie=str(SERIE_CATALOGO.relative_to(ROOT)),
         limites=[
-            "Lote parcial; não esgota as ~7.061 identidades do catálogo 1966–2009.",
-            "Não altera nucleo_licitacoes nem README agregado além da contagem federal deste PR.",
+            "Lista prioritária essencial; série ampla em catalogo-serie-reconciliacao.json.",
+            "Não altera nucleo_licitacoes nem README agregado.",
             "Sem segunda fonte de conferência nesta entrega.",
+            "Normalização ordinal é tipográfica (markup), não jurídica.",
         ],
     )
     return docs_out, proofs, manifest
@@ -776,9 +606,12 @@ def write_outputs(docs_out, proofs, manifest) -> None:
         print(f"wrote {item['arquivo']} ({len(item['markdown'])} chars)", flush=True)
     for slug, proof in proofs.items():
         write_json(PROVAS / f"reconciliacao-{slug}.json", proof)
+    # pendências antes de gravar manifesto (preenche PRIORIDADE_RESTANTE)
+    pend_text = write_pendencias(manifest["documentos"])
+    manifest["prioridade_restante"] = PRIORIDADE_RESTANTE
     write_json(MANIFESTO, manifest)
     write_json(PROVAS / "ferramentas.json", nl.tool_versions())
-    PENDENCIAS.write_text(write_pendencias(manifest["documentos"]), encoding="utf-8")
+    PENDENCIAS.write_text(pend_text, encoding="utf-8")
     print(f"wrote {PENDENCIAS.relative_to(ROOT)}", flush=True)
 
 
@@ -811,6 +644,8 @@ def verify() -> None:
         problems.append("cardinalidade do manifesto diverge")
     if not PENDENCIAS.is_file():
         problems.append("PENDENCIAS-prioridade.md ausente")
+    if not CATALOGO_PRIORIDADES.is_file():
+        problems.append("prioridades-catalogo.json ausente")
     for doc in DOCS:
         slug = doc["slug"]
         path = ROOT / doc["arquivo"]
@@ -832,32 +667,314 @@ def verify() -> None:
             problems.append(f"{slug}: prova sem cobertura")
         if "não certifica vigência" not in body:
             problems.append(f"{slug}: falta aviso de vigência")
-    # Aceite parcial: cada prioridade publicada OU em PENDENCIAS OU já no acervo.
+        # Lei 9784: regressão do bug 1o/1oo
+        if doc["norma"]["numero"] == "9784":
+            if proofs[slug]["cobertura_texto"]["equivalente"] is not True:
+                problems.append("9784: cobertura 1o/1oo ainda falha")
+            if not pub.get("normalizacao_ordinal_planalto"):
+                problems.append("9784: prova sem marcação de normalização ordinal")
+    # Aceite: cada entrada do catálogo prioritário publicada OU já no acervo OU em PENDENCIAS.
     pend_text = PENDENCIAS.read_text(encoding="utf-8")
-    for n in JA_NO_ACERVO + [d["norma"]["numero"] for d in DOCS] + [str(x) for x in PRIORIDADE_RESTANTE]:
-        if str(n) not in pend_text and not any(d["norma"]["numero"] == str(n) for d in DOCS):
-            # must appear in pendencias table for restante; JA_NO_ACERVO and DOCS are in pendencias by construction
-            pass
+    published_nums = {d["norma"]["numero"] for d in DOCS}
+    for e in _ENTRIES:
+        n = str(e["numero"])
+        if n in published_nums or n in JA_NO_ACERVO:
+            continue
+        if str(n) not in pend_text:
+            problems.append(f"prioridade {n}: ausente de PENDENCIAS e do lote")
     if problems:
         raise SystemExit("verify falhou:\n- " + "\n- ".join(problems))
     print("verify ok", flush=True)
 
 
+# ---------------------------------------------------------------------------
+# Série 5.000–11.999: reconciliação + coleta retomável
+# ---------------------------------------------------------------------------
+
+
+def _iter_senado_lei_docs(year: int):
+    path = SENADO_ANUAL_DIR / f"senado-LEI-{year}.json"
+    if not path.is_file():
+        return []
+    data = json.loads(path.read_text(encoding="utf-8"))
+    docs = data.get("ListaDocumento", {}).get("documentos", {})
+    if isinstance(docs, dict):
+        docs = docs.get("documento", [])
+    if isinstance(docs, dict):
+        docs = [docs]
+    return docs or []
+
+
+def _parse_senado_date(value: str | None) -> str | None:
+    if not value:
+        return None
+    m = re.match(r"^(\d{1,2})/(\d{1,2})/(\d{4})$", value.strip())
+    if not m:
+        return None
+    d, mo, y = m.groups()
+    return f"{y}-{int(mo):02d}-{int(d):02d}"
+
+
+def _numero_digits(value: str | None) -> str | None:
+    if not value:
+        return None
+    digits = "".join(c for c in value if c.isdigit())
+    return digits or None
+
+
+def reconcile_serie() -> dict:
+    """Reconciliа identidades LEI do Senado (1966–2009) na faixa 5k–12k com federal/."""
+    present_files = {}
+    for p in (ROOT / "federal").glob("br-federal-lei-*-*-*-*.md"):
+        m = re.match(r"br-federal-lei-(\d{4}-\d{2}-\d{2})-(\d+)\.md$", p.name)
+        if not m:
+            continue
+        data, numero = m.group(1), m.group(2)
+        n = int(numero)
+        if SERIE_MIN <= n <= SERIE_MAX:
+            present_files.setdefault(numero, []).append(dict(arquivo=str(p.relative_to(ROOT)), data=data))
+
+    identidades = []
+    revisao = []
+    for year in SERIE_ANOS:
+        for d in _iter_senado_lei_docs(year):
+            numero = _numero_digits(d.get("numero"))
+            if not numero:
+                revisao.append(dict(motivo="numero-ausente", year=year, raw=d.get("id")))
+                continue
+            n = int(numero)
+            if n < SERIE_MIN or n > SERIE_MAX:
+                continue
+            data = _parse_senado_date(d.get("dataassinatura") or d.get("dataAssinatura"))
+            senado_id = str(d.get("id"))
+            hits = present_files.get(numero, [])
+            exact = [h for h in hits if data and h["data"] == data]
+            if exact:
+                estado = "presente-exato"
+                caminho = exact[0]["arquivo"]
+            elif hits:
+                estado = "revisao-data-divergente"
+                caminho = hits[0]["arquivo"]
+                revisao.append(dict(
+                    motivo="mesmo-numero-outra-data", senado_id=senado_id, numero=numero,
+                    data_catalogo=data, caminhos=[h["arquivo"] for h in hits],
+                ))
+            else:
+                estado = "ausente-canonico"
+                caminho = None
+            identidades.append(dict(
+                senado_id=senado_id,
+                tipo="LEI",
+                numero=numero,
+                data=data,
+                ano_catalogo=year,
+                ementa=(d.get("ementa") or "")[:300],
+                url_senado=f"https://legis.senado.leg.br/norma/{senado_id}",
+                estado_coleta=estado,
+                caminho_publicado=caminho,
+            ))
+
+    totais = dict(
+        identidades_catalogo_faixa=len(identidades),
+        presente_exato=sum(1 for i in identidades if i["estado_coleta"] == "presente-exato"),
+        revisao_data_divergente=sum(1 for i in identidades if i["estado_coleta"] == "revisao-data-divergente"),
+        ausente_canonico=sum(1 for i in identidades if i["estado_coleta"] == "ausente-canonico"),
+        revisao_registros=len(revisao),
+        anos_catalogo=list(SERIE_ANOS),
+        faixa=[SERIE_MIN, SERIE_MAX],
+    )
+    catalogo = dict(
+        fonte_catalogo="https://legis.senado.leg.br/dadosabertos/legislacao/lista.json?tipo=LEI&ano=AAAA",
+        snapshots_dir=str(SENADO_ANUAL_DIR.relative_to(ROOT)),
+        gerado_em=now_utc(),
+        criterio=(
+            "Correspondência por espécie LEI + número + dataassinatura na faixa 5000–11999; "
+            "IDs do Senado preservados; falha de transporte não vira ausência; "
+            "ementa/registro não substituem íntegra."
+        ),
+        totais=totais,
+        revisao=revisao[:500],
+        identidades=identidades,
+    )
+    write_json(SERIE_CATALOGO, catalogo)
+    print(
+        f"reconcile-serie: {totais['identidades_catalogo_faixa']} identidades; "
+        f"presentes={totais['presente_exato']} ausentes={totais['ausente_canonico']} "
+        f"revisão-data={totais['revisao_data_divergente']}",
+        flush=True,
+    )
+    return catalogo
+
+
+def _planalto_candidates(numero: int, year: int | None, data: str | None) -> list[str]:
+    n = numero
+    y = year or (int(data[:4]) if data else None)
+    dotted = f"{n // 1000}.{n % 1000:03d}" if n >= 1000 else str(n)
+    urls = [
+        f"https://www.planalto.gov.br/ccivil_03/leis/L{n}.htm",
+        f"https://www.planalto.gov.br/ccivil_03/leis/l{n}.htm",
+        f"https://www.planalto.gov.br/ccivil_03/leis/L{n}compilada.htm",
+        f"https://www.planalto.gov.br/ccivil_03/leis/L{n}Compilado.htm",
+        f"https://www.planalto.gov.br/ccivil_03/leis/L{n}compilado.htm",
+        f"https://www.planalto.gov.br/ccivil_03/leis/L{n}cons.htm",
+    ]
+    if y:
+        urls += [
+            f"https://www.planalto.gov.br/ccivil_03/leis/leis_{y}/l{n}.htm",
+            f"https://www.planalto.gov.br/ccivil_03/leis/leis_{y}/L{n}.htm",
+            f"https://www.planalto.gov.br/ccivil_03/leis/{y}/l{n}.htm",
+            f"https://www.planalto.gov.br/ccivil_03/leis/{y}/L{n}.htm",
+            f"https://www.planalto.gov.br/ccivil_03/leis/{y}/l{dotted}.htm",
+            f"https://www.planalto.gov.br/ccivil_03/leis/{y}/L{dotted}.htm",
+        ]
+        # Pastas _ato* só existem para o intervalo do mandato; não gerar URLs absurdas.
+        if 1999 <= y <= 2001:
+            urls += [
+                f"https://www.planalto.gov.br/ccivil_03/_ato1999-2001/{y}/lei/l{n}.htm",
+                f"https://www.planalto.gov.br/ccivil_03/_ato1999-2001/{y}/lei/l{dotted}.htm",
+            ]
+        elif 2002 <= y <= 2003:
+            urls += [
+                f"https://www.planalto.gov.br/ccivil_03/_ato2002-2003/{y}/lei/l{n}.htm",
+                f"https://www.planalto.gov.br/ccivil_03/_Ato2002-2003/{y}/Lei/L{n}.htm",
+            ]
+        elif 2004 <= y <= 2006:
+            urls += [
+                f"https://www.planalto.gov.br/ccivil_03/_ato2004-2006/{y}/lei/l{n}.htm",
+                f"https://www.planalto.gov.br/ccivil_03/_ato2004-2006/{y}/lei/l{dotted}.htm",
+                f"https://www.planalto.gov.br/ccivil_03/_ato2004-2006/{y}/lei/l{dotted}compilado.htm",
+                f"https://www.planalto.gov.br/ccivil_03/_Ato2004-2006/{y}/Lei/L{n}.htm",
+            ]
+        elif 2007 <= y <= 2010:
+            urls += [
+                f"https://www.planalto.gov.br/ccivil_03/_ato2007-2010/{y}/lei/l{n}.htm",
+                f"https://www.planalto.gov.br/ccivil_03/_Ato2007-2010/{y}/Lei/L{n}.htm",
+            ]
+    seen = set()
+    out = []
+    for u in urls:
+        if u not in seen:
+            seen.add(u)
+            out.append(u)
+    return out
+
+
+def collect_serie(limit: int | None = None, resume: bool = True) -> dict:
+    """Coleta retomável Planalto para identidades ausentes do catálogo da série."""
+    if not SERIE_CATALOGO.is_file():
+        reconcile_serie()
+    catalogo = json.loads(SERIE_CATALOGO.read_text(encoding="utf-8"))
+    SERIE_ESTADO_DIR.mkdir(parents=True, exist_ok=True)
+    state = {}
+    if resume and SERIE_ESTADO_JSON.is_file():
+        state = json.loads(SERIE_ESTADO_JSON.read_text(encoding="utf-8"))
+
+    def _skip_row(sid: str) -> bool:
+        st = state.get(sid) or {}
+        if st.get("ok"):
+            return True
+        # 404 esgotado e adiamentos de onda ficam no estado; falha de transporte é retomável.
+        status = st.get("status")
+        if status in {"http-404-esgotado", "adiado-onda-pos-1990"}:
+            return True
+        return False
+
+    pending = [
+        row for row in catalogo["identidades"]
+        if row["estado_coleta"] == "ausente-canonico" and not _skip_row(row["senado_id"])
+    ]
+    if limit is not None:
+        pending = pending[:limit]
+
+    capture_dir = SERIE_ESTADO_DIR / "capturas"
+    capture_dir.mkdir(parents=True, exist_ok=True)
+    done = 0
+    ok_count = 0
+    for row in pending:
+        sid = row["senado_id"]
+        numero = int(row["numero"])
+        year = row.get("ano_catalogo")
+        file_name = f"planalto-L{numero}-{sid}.htm"
+        dest = capture_dir / file_name
+        header = capture_dir / (file_name + ".headers")
+        found = None
+        attempts = []
+        for url in _planalto_candidates(numero, year, row.get("data")):
+            rec = _curl_fetch(url, dest, header)
+            attempts.append(dict(url=url, status=rec.get("http_status"), bytes=rec.get("bytes"),
+                                 utilizavel=rec.get("utilizavel"), motivo=rec.get("motivo")))
+            print(f"serie {numero} {sid}: {rec.get('http_status')} {rec.get('bytes')} {url}", flush=True)
+            if rec.get("utilizavel"):
+                found = dict(url=url, effective=rec.get("url_final"), bytes=rec.get("bytes"),
+                             sha256=rec.get("sha256"), capturado_em=rec.get("capturado_em"),
+                             file=str(dest.relative_to(ROOT)))
+                break
+        header.unlink(missing_ok=True)
+        if found:
+            state[sid] = dict(
+                ok=True, numero=str(numero), data=row.get("data"), ano=year,
+                ementa=row.get("ementa"), **found, attempts=attempts[:8],
+            )
+            ok_count += 1
+        else:
+            statuses = {str(a.get("status")) for a in attempts}
+            status = "http-404-esgotado" if statuses <= {"404"} and attempts else "falha-transporte-ou-url"
+            state[sid] = dict(
+                ok=False, status=status, numero=str(numero), data=row.get("data"), ano=year,
+                attempts=attempts[:12],
+                leitura=(
+                    "HTTP 404 em todos os candidatos tentados não prova inexistência; "
+                    "permanece pendente de outra URL oficial ou nova captura."
+                    if status == "http-404-esgotado"
+                    else "Falha de transporte/URL; não classificar como ausência normativa."
+                ),
+            )
+        done += 1
+        write_json(SERIE_ESTADO_JSON, state)
+    summary = dict(
+        gerado_em=now_utc(),
+        processados=done,
+        ok=ok_count,
+        estado=str(SERIE_ESTADO_JSON.relative_to(ROOT)),
+        pendentes_restantes=sum(
+            1 for row in catalogo["identidades"]
+            if row["estado_coleta"] == "ausente-canonico"
+            and not (state.get(row["senado_id"], {}) or {}).get("ok")
+        ),
+    )
+    write_json(SERIE_ESTADO_DIR / "collect-summary.json", summary)
+    print(f"collect-serie: processados={done} ok={ok_count} pendentes≈{summary['pendentes_restantes']}", flush=True)
+    return summary
+
+
 def main(argv=None):
     parser = argparse.ArgumentParser(description=__doc__)
     sub = parser.add_subparsers(dest="cmd", required=True)
-    p_fetch = sub.add_parser("fetch"); p_fetch.add_argument("dir", type=Path)
-    p_ingest = sub.add_parser("ingest"); p_ingest.add_argument("dir", type=Path); p_ingest.add_argument("--capturado-em", default=None)
-    sub.add_parser("build"); sub.add_parser("verify")
+    p_fetch = sub.add_parser("fetch")
+    p_fetch.add_argument("dir", type=Path)
+    p_fetch.add_argument("--no-resume", action="store_true")
+    p_ingest = sub.add_parser("ingest")
+    p_ingest.add_argument("dir", type=Path)
+    p_ingest.add_argument("--capturado-em", default=None)
+    sub.add_parser("build")
+    sub.add_parser("verify")
+    sub.add_parser("reconcile-serie")
+    p_collect = sub.add_parser("collect-serie")
+    p_collect.add_argument("--limit", type=int, default=None)
+    p_collect.add_argument("--no-resume", action="store_true")
     args = parser.parse_args(argv)
     if args.cmd == "fetch":
-        fetch(args.dir)
+        fetch(args.dir, resume=not args.no_resume)
     elif args.cmd == "ingest":
         ingest_capture(args.dir, args.capturado_em)
     elif args.cmd == "build":
         build()
     elif args.cmd == "verify":
         verify()
+    elif args.cmd == "reconcile-serie":
+        reconcile_serie()
+    elif args.cmd == "collect-serie":
+        collect_serie(limit=args.limit, resume=not args.no_resume)
 
 
 if __name__ == "__main__":
