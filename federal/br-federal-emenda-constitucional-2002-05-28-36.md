@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2002-05-28-36"
+norma_id: "br-federal-emenda-constitucional-2002-05-28-36"
+norma_tipo: "emenda-constitucional"
+norma_numero: "36"
+norma_data: "2002-05-28"
+titulo: "EMENDA CONSTITUCIONAL Nº 36, DE 2002"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2002-05-28-36@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc36.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 0
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "f9d290046cd7190a47a6b9eb6c89d7c6bce48746a7d8140932a1e8b6bc7852c6"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 ###EMC-000036-0-000-28-05-2002@@@
 
 <strong>EMENDA CONSTITUCIONAL Nº 36, DE 2002</strong>

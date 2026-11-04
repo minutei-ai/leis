@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-1996-08-15-12"
+norma_id: "br-federal-emenda-constitucional-1996-08-15-12"
+norma_tipo: "emenda-constitucional"
+norma_numero: "12"
+norma_data: "1996-08-15"
+titulo: "EMENDA CONSTITUCIONAL Nº 12, DE 15/08/1996"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-1996-08-15-12@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc12.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "5f5a782a800cc54ceb5b92c752957ee3303b94f1a9180d77f5c83da606afc06a"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL N° 12</strong>
 
 <em><strong>Outorga competência à União, para instituir contribuição provisória sobre movimentação ou transmissão de valores e de créditos e direitos de natureza financeira.</strong></em>

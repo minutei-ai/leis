@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2022-04-27-119"
+norma_id: "br-federal-emenda-constitucional-2022-04-27-119"
+norma_tipo: "emenda-constitucional"
+norma_numero: "119"
+norma_data: "2022-04-27"
+titulo: "EMENDA CONSTITUCIONAL Nº 119"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2022-04-27-119@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc119.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "8f01970227ad01aafe57b2698d729acfb6f41711860ab2a07f7c88c047780bfe"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL Nº 119</strong>
 
 <em><strong>Altera o Ato das Disposições Constitucionais Transitórias para determinar a impossibilidade de responsabilização dos Estados, do Distrito Federal, dos Municípios e dos agentes públicos desses entes federados pelo descumprimento, nos exercícios financeiros de 2020 e 2021, do disposto no caput do art. 212 da Constituição Federal; e dá outras providências.</strong></em>

@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2014-06-04-80"
+norma_id: "br-federal-emenda-constitucional-2014-06-04-80"
+norma_tipo: "emenda-constitucional"
+norma_numero: "80"
+norma_data: "2014-06-04"
+titulo: "EMENDA CONSTITUCIONAL Nº 80, DE 04/06/2014"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2014-06-04-80@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: "desconhecido"
+fonte_orgao: "desconhecido"
+fonte_url: "desconhecido"
+fonte_formato: "desconhecido"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc80.htm"]
+capturado_em: "desconhecido"
+sha256_fonte: "desconhecido"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 1
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "3f1b94b08c0d74083e0b8f43fcde48a9a6ef7ffcbe5f3bc8c86a01496aa90ee0"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "corpo-preservado-pre-metadados"
+---
+
 <strong>EMENDA CONSTITUCIONAL Nº</strong> <strong>80</strong>
 
 <em><strong>Altera o Capítulo IV - Das Funções Essenciais à Justiça, do Título IV - Da Organização dos Poderes, e acrescenta artigo ao Ato das Disposições Constitucionais Transitórias da Constituição Federal.</strong></em>

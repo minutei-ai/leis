@@ -1,3 +1,34 @@
+---
+id: "br-federal-emenda-constitucional-2001-09-11-32"
+norma_id: "br-federal-emenda-constitucional-2001-09-11-32"
+norma_tipo: "emenda-constitucional"
+norma_numero: "32"
+norma_data: "2001-09-11"
+titulo: "EMENDA CONSTITUCIONAL Nº 32, DE 2001"
+esfera: "federal"
+edicao_id: "br-federal-emenda-constitucional-2001-09-11-32@historica-acervo"
+edicao_tipo: "historica"
+edicao_integral: true
+fonte_orgao: "Câmara dos Deputados"
+fonte_url: "https://www2.camara.leg.br/legin/fed/emecon/2001/emendaconstitucional-32-11-setembro-2001-395730-publicacaooriginal-1-pl.html"
+fonte_formato: "html"
+fonte_conferencia: ["https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc32.htm"]
+capturado_em: "2026-11-04T12:33:02Z"
+sha256_fonte: "9f016c22de7acfd39ac433eafe92cf32d85658bae8130de75b10a180de6d2cee"
+situacao: "nao-informada"
+situacao_fundamento: "desconhecido"
+vigencia_certificada: false
+texto_riscado: false
+anexos_no_corpo: 0
+tabelas: 2
+imagens_omitidas: 0
+efeitos_diferidos: "preservados-nas-notas-do-texto"
+sha256_markdown: "b7362de5367e6e9b0e8792dee6e685b33ddc149f2cc8046699e62f3a5b9177c3"
+manifesto: "provas/emendas-cf1988/serie-1-141/manifesto-frontmatter.json"
+contrato_versao: 1
+metadados_origem: "faixa-001-050"
+---
+
 EMENDA CONSTITUCIONAL Nº 32, DE 2001
 
 Altera dispositivos dos arts. 48, 57, 61, 62, 64, 66, 84, 88 e 246 da Constituição Federal, e dá outras providências.

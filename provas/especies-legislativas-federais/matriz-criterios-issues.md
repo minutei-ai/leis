@@ -1,58 +1,57 @@
-# Matriz por critério — PR #107 (issues #63 #65 #66 #89 #94)
+# Matriz por critério — issues #63 e #94 (PR empilhado sobre #107)
 
-Gerado na retomada do PR. Issues permanecem abertas. Contagem sozinha ≠ completude.
+Gerado na retomada de textos/anexos. Issues permanecem abertas. Contagem sozinha ≠ completude.
 
 ## #63 Emendas CF/1988 1–141
 
-| Critério | Estado | Notas |
+| Critério | Estado | Notas / provas |
 | --- | --- | --- |
-| Criar matriz por número, data, fonte e situação da coleta, reconciliando a série com catálogo oficial | **satisfeito** | publicados=141 lacunas=0 |
-| Recuperar atos integrais ausentes, incluindo dispositivos autônomos, anexos, regras transitórias | **parcial** | Heurística lexical; mapa estruturado incompleto |
-| Distinguir claramente emendas da CF/1988, emendas de revisão e emendas de constituições históricas | **satisfeito** | |
-| Registrar vínculos da Constituição/ADCT com o ato modificador e seus dispositivos autônomos | **parcial** | Citação textual; mapa dispositivo-a-dispositivo ainda não estruturado |
-| Preservar metadados de edição/fonte/captura, hashes e provas de conversão, sem presumir vigência | **parcial** | 79 arquivos antigos ainda sem frontmatter YAML |
-| Não recontar Constituição consolidada ou edições alternativas como se fossem emendas coletadas | **satisfeito** | |
+| Matriz por número, data, fonte e situação da coleta | **satisfeito** | `provas/emendas-cf1988/serie-1-141/matriz-serie.json` (141/141) |
+| Textos integrais + dispositivos autônomos/anexos/transitórias | **parcial** | 141 atos publicados; mapa de dispositivos com 3 lacunas de segmentação heurística (`mapa-constituicao-adct-dispositivos.json`) |
+| Distinguir CF/1988 × revisão × históricas | **satisfeito** | |
+| Vínculos Constituição/ADCT → ato/dispositivos | **satisfeito** | Mapa estruturado no escopo literal do issue (sem mapa CF inteira) |
+| Metadados/hashes por edição (contrato) | **satisfeito** | Frontmatter `contrato_versao=1` nos 141; 79 antigos preenchidos (`manifesto-frontmatter.json`); captura original desconhecida permanece explícita |
+| Não recontar consolidada | **satisfeito** | |
 
-Resumo: satisfeitos=3 parciais=3 pendentes=0; `issue_fechavel=False`.
+Resumo: satisfeitos=5 parciais=1 pendentes=0; `issue_fechavel=false`.
 
-## #65 DLG / #66 RSF / #89 RCD / #94 RCN
+## #94 RCN — anexos essenciais
 
-| Critério transversal | Estado atual |
+| Critério | Estado | Notas / provas |
+| --- | --- | --- |
+| Catálogo Senado reconciliado (88) | **satisfeito** | `reconciliacao-rcn.json` |
+| Markdown integral com anexos | **satisfeito** (neste avanço) | 88/88 publicados após recuperação das 6 ANX |
+| PDF ANX Senado HTTP 200 / 0 bytes | **bloqueio de URL** | `bloqueio-anexos-rcn-pdf-vazio.json` — não prova inacessibilidade global |
+| Fontes alternativas oficiais (Câmara/Senado HTML) | **satisfeito** | `anexos-rcn/recuperacao-fontes-alternativas.json` + fac-símiles PNG + transcrições |
+| Colação visual / transcrição | **satisfeito** | `anexos-rcn/facsimiles/*.png.xz` e `*.anexo.txt.xz` |
+
+### Contagens RCN
+
+| Catálogo Senado | Publicado | Anexos pendentes |
+| ---: | ---: | ---: |
+| 88 | **88** | **0** |
+
+### Fontes alternativas usadas nos 6 ANX
+
+| Slug | Fonte alternativa |
 | --- | --- |
-| Catálogo Senado reconciliado com identidade/ID/URL/estado | satisfeito (4 espécies) |
-| Coleta integral com retomada e limites de acesso | em progresso (coleta retomável; lote ampliado além de 5 amostras) |
-| Rejeição de HTML erro/login e falsa íntegra | satisfeito (pipeline + testes) |
-| Anexos essenciais bloqueiam publicação | satisfeito (`anexos-pendentes`; evidência PDF vazio) |
-| Descoberta Câmara RCD pós-1991 | parcial (63 citações; **13** íntegras legin publicacaooriginal) |
-| Completar Markdown do catálogo | pendente (milhares restantes em DLG/RSF/RCD Senado) |
+| RCN 2/2025 | Câmara legin anexo PDF |
+| RCN 1/2025 | Câmara legin anexo PDF (DCN 8/2025) |
+| RCN 2/2014 | Câmara publicação original HTML (Estatuto AP-CPLP no corpo) |
+| RCN 3/2013 | Câmara legin anexo PDF |
+| RCN 2/2006 | Senado HTML 36751146 (PDF 36751141 vazio) — Estatuto de Montevidéu |
+| RCN 1/2006 | Câmara legin anexo PDF |
 
-### Contagens reconciliadas (Senado) + manifesto do lote
-
-| Espécie | Catálogo Senado | Publicado (Senado) | Anexos pendentes | Identificado não coletado | Manifesto (incl. Câmara) |
-| --- | ---: | ---: | ---: | ---: | ---: |
-| DLG | 15944 | 335 | 0 | 15609 | 335 |
-| RSF | 6578 | 335 | 0 | 6243 | 335 |
-| RCD | 1885 (até 1991-09-25) | 335 | 0 | 1550 | **348** (=335 Senado + 13 Câmara) |
-| RCN | 88 | 82 | **6** | 0 | 82 |
-
-Manifesto total do lote: **1100** Markdown. Origens: normas.leg.br 350; Senado publicação HTML 737; Câmara legin publicacaooriginal 13.
-
-### #94 RCN — bloqueio concreto de anexos
-
-Seis RCN com corpo HTML OK e ANX `temTexto=S` cujo endpoint Senado devolve HTTP 200 `application/pdf` com **0 bytes**. Evidência: `bloqueio-anexos-rcn-pdf-vazio.json`. Não publicados (sem falsa íntegra).
-
-### #89 RCD pós-1991
-
-- Descoberta: 63 citações nº/ano no Regimento CD 30ª ed. (BD Câmara).
-- URLs legin resolvidas: 13 em `urls-legin-camara-rcd-resolvidas.json`.
-- Coletadas e publicadas: 13 (inclui RCD 16/2025).
-- Restantes 50 citações: URL individual ainda não resolvida (índices `/legin/fed/rescad/YYYY/` → 403; LexML WAF; PRC ≠ promulgada).
-- Comando: `collect-camara-rcd`.
-
-## Não feito neste passo
+## Não feito / limites
 
 - Merge / fechamento de issues
-- README agregado / contagens globais
-- Íntegra das 50 citações RCD restantes
-- Recuperação dos PDF ANX RCN (fonte oficial vazia nesta captura)
-- #63: frontmatter nos 79 antigos; mapa ADCT dispositivo-a-dispositivo
+- README agregado (fora deste PR filho, salvo se já herdado do #107)
+- #65/#66/#89 restantes (fora do escopo deste avanço #63/#94 anexos)
+- Segmentação heurística de 3 emendas no mapa de dispositivos permanece explícita
+- Fac-símile prevalece sobre transcrição em divergência visual
+
+## Test plan
+
+- [x] `python3 scripts/emendas_cf1988_serie_1_141.py verify`
+- [x] `python3 scripts/rcn_anexos_fontes_alternativas.py verify`
+- [x] `python3 -m unittest tests.test_emendas_cf1988_serie_1_141 tests.test_especies_legislativas_federais -v`
