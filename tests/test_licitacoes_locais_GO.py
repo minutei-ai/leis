@@ -130,7 +130,7 @@ class TestCatalogoGO(unittest.TestCase):
         self.assertTrue(started)
         expected = nl.blocks_to_markdown(blocks, r'^DECRETO N')
         self.assertEqual(expected, self.body)
-        # Conferência independente de todo o texto bruto do corpo convertido.
+        # Compara também o texto normalizado da reconversão com o publicado.
         self.assertEqual(nl.strip_fold(nl.md_text_all(expected)), nl.strip_fold(nl.md_text_all(self.body)))
 
     def test_markdown_preserva_trechos_notas_e_disclaimer(self):
