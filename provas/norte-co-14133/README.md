@@ -1,23 +1,20 @@
-# Provas — recorte Norte/Centro-Oeste Lei 14.133 (#73/#101)
+# Provas — recorte Norte/CO Lei 14.133 (#73/#101)
 
-Inventário setorial em `metadados/norte-co-14133/`. Não altera inventários compartilhados de PR #116.
+Snapshots xz + `fontes.json` por ente. PDFs oficiais não são commitados.
 
-## Publicados nesta entrega
+## Publicados
 
-| Ente | Norma | Pasta |
+| Pasta | Norma | Método |
 | --- | --- | --- |
-| AC | Decreto 11.363/2023 (geral) | `AC/` |
-| MT | Decreto 1.525/2022 (geral) | `MT/` |
-| MS | Decreto 16.122/2023 (SRP) | `MS/` |
-| AP | Decreto 1.716/2023 (SRP) | `AP/` |
-| Porto Velho | Decreto 18.892/2023 (geral municipal) | `RO-porto-velho/` |
-| Porto Velho | Lei Orgânica 1990 | `RO-porto-velho-lo/` |
-| Boa Vista | Lei Orgânica 1992 | `RR-boa-vista-lo/` |
+| AC | Decreto 11.363/2023 | HTML LEGIS |
+| MT | Decreto 1.525/2022 | HTML IOMAT |
+| MS | Decreto 16.122/2023 (SRP) | HTML SPDO |
+| AP | Decreto 1.716/2023 (SRP) | PDF→txt |
+| RO-porto-velho | Decreto 18.892/2023 | SAPL |
+| RO-porto-velho-lo | LO Porto Velho | SAPL |
+| RR-boa-vista-lo | LO Boa Vista | SAPL |
+| TO | Decreto 6.606/2023 | PDF DOE colunas (coordenadas) |
+| AM-manaus-5525 | Decreto 5.525/2023 | PDF DOM colunas (coordenadas) |
+| AM-manaus-lo | LOMAN | PDF CMM layout |
 
-## Identificados com bloqueio de qualidade
-
-| Ente | Norma | Pasta |
-| --- | --- | --- |
-| TO | Decreto 6.606/2023 (DOE 4862, colunas) | `TO/` |
-
-Reuso AM 47.133 / DF 44.330 + LO-DF sem republicação. PDFs oficiais não são commitados; hashes ficam em `fontes.json`.
+Comandos: `python3 scripts/norte_co_14133.py verify` · `python3 -m unittest tests.test_norte_co_14133 -v`

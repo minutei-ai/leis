@@ -19,8 +19,8 @@
     "MS",
     "DF"
   ],
-  "nota": "Inventário setorial do recorte AC/AM/AP/PA/RO/RR/TO/GO/MT/MS/DF para issues #73/#101. Não altera metadados/regulamentacao-14133-ufs nem capitais-lei-organica-14133 (coordenação posterior). Não altera README/PENDENCIAS agregados. Reusa AM/DF/GO opacos sem duplicar. Parcial/temático/SRP ≠ geral. HTTP/DNS/Cloudflare/colunas-PDF ≠ ausência. Não certifica vigência.",
-  "capturado_em": "2026-11-04T21:05:00Z",
+  "nota": "Inventário setorial do recorte AC/AM/AP/PA/RO/RR/TO/GO/MT/MS/DF para issues #73/#101. Não altera metadados/regulamentacao-14133-ufs nem capitais-lei-organica-14133. Não altera README/PENDENCIAS agregados. Reusa AM/DF/GO opacos sem duplicar. Parcial/temático/SRP ≠ geral. HTTP/DNS/Cloudflare/colunas-PDF ≠ ausência. Não certifica vigência. Continuação: TO 6.606 + Manaus 5.525 + LOMAN via extração por coordenadas/colação visual.",
+  "capturado_em": "2026-11-04T21:18:37Z",
   "ufs": [
     {
       "uf": "AC",
@@ -57,13 +57,14 @@
       ],
       "capital": {
         "nome": "Manaus",
-        "ibge": "1302603"
+        "ibge": "1302603",
+        "pasta_existe": true
       },
-      "lei_organica_capital": "ausente",
-      "decreto_14133_capital": "ausente",
-      "decreto_14133_capital_carater": "ausente",
+      "lei_organica_capital": "municipais/1302603/br-municipal-1302603-lei-organica.md",
+      "decreto_14133_capital": "municipais/1302603/br-municipal-1302603-decreto-2023-03-28-5525.md",
+      "decreto_14133_capital_carater": "regulamento-geral-municipal",
       "pendencias": [
-        "LO Manaus e Decreto municipal 5.525/2023 identificados; íntegras limpas pendentes (PDF DOM duas colunas / LOMAN PDF)."
+        "Estado AM reuso PR #116; capital Manaus LO + 5.525 publicados nesta entrega."
       ],
       "reuso": true
     },
@@ -140,14 +141,14 @@
     },
     {
       "uf": "TO",
-      "status_acervo_estado": "identificado-bloqueio-qualidade",
-      "decretos_14133_estado": [],
-      "candidato_estado": {
-        "norma": "Decreto 6.606/2023",
-        "fonte": "https://doe.to.gov.br/diario/4862/download",
-        "status": "pdf-duas-colunas-intercaladas",
-        "provas": "provas/norte-co-14133/TO/fontes.json"
-      },
+      "status_acervo_estado": "decreto-geral-publicado",
+      "decretos_14133_estado": [
+        {
+          "norma_id": "br-to-decreto-2023-03-28-6606",
+          "arquivo": "estaduais/TO/br-to-decreto-2023-03-28-6606.md",
+          "carater": "regulamento-geral-estadual"
+        }
+      ],
       "capital": {
         "nome": "Palmas",
         "ibge": "1721000"
@@ -156,7 +157,7 @@
       "decreto_14133_capital": "ausente",
       "decreto_14133_capital_carater": "ausente",
       "pendencias": [
-        "DOE 4862 baixado; colunas intercaladas; HTML 403. LO Palmas pendente."
+        "LO Palmas pendente (SAPL 404 nesta sessão)."
       ],
       "reuso": false
     },
@@ -219,7 +220,8 @@
       "decreto_14133_capital": "ausente",
       "decreto_14133_capital_carater": "ausente",
       "pendencias": [
-        "Alterações ao 1.525 (216/2023, 779/2024, 900/2024, 1376/2025) a inventariar; LO Cuiabá pendente (SAPL DNS)."
+        "Alterações ao 1.525 (216/2023, 779/2024, 900/2024, 1376/2025) a inventariar; LO Cuiabá pendente (SAPL DNS).",
+        "Auditoria íntegra: fecho IOMAT contém chrome de portal (\"Baixar diário completo\"/© Ionews) — identidade do decreto ok; limpeza tipográfica pendente."
       ],
       "reuso": false
     },
@@ -322,29 +324,55 @@
       "arquivo": "municipais/1400100/br-municipal-1400100-lei-organica-1992-07-11.md",
       "carater": "lei-organica-municipal",
       "ente": "capital"
+    },
+    {
+      "uf": "TO",
+      "norma_id": "br-to-decreto-2023-03-28-6606",
+      "arquivo": "estaduais/TO/br-to-decreto-2023-03-28-6606.md",
+      "carater": "regulamento-geral-estadual",
+      "ente": "estado"
+    },
+    {
+      "uf": "AM",
+      "capital": "Manaus",
+      "ibge": "1302603",
+      "norma_id": "br-municipal-1302603-decreto-2023-03-28-5525",
+      "arquivo": "municipais/1302603/br-municipal-1302603-decreto-2023-03-28-5525.md",
+      "carater": "regulamento-geral-municipal",
+      "ente": "capital"
+    },
+    {
+      "uf": "AM",
+      "capital": "Manaus",
+      "ibge": "1302603",
+      "norma_id": "br-municipal-1302603-lei-organica",
+      "arquivo": "municipais/1302603/br-municipal-1302603-lei-organica.md",
+      "carater": "lei-organica-municipal",
+      "ente": "capital"
     }
   ],
   "resumo": {
     "ufs_com_geral_estado": [
       "AC",
       "AM",
+      "DF",
       "MT",
-      "DF"
+      "TO"
     ],
     "ufs_com_especifico_sem_geral": [
       "AP",
       "MS"
     ],
-    "ufs_geral_identificado_bloqueado": [
-      "TO"
-    ],
+    "ufs_geral_identificado_bloqueado": [],
     "capitais_com_decreto_geral": [
+      "AM",
       "RO"
     ],
     "capitais_com_lo": [
+      "AM",
       "RO",
       "RR"
     ],
-    "normas_novas": 7
+    "normas_novas": 10
   }
 }

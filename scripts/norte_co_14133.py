@@ -76,6 +76,30 @@ PUBLICADOS = [
         'marcador': r'PRE[ÂA]MBULO',
         'min_arts': 40,
     },
+    {
+        'norma_id': 'br-to-decreto-2023-03-28-6606',
+        'arquivo': 'estaduais/TO/br-to-decreto-2023-03-28-6606.md',
+        'provas': 'provas/norte-co-14133/TO',
+        'carater': 'regulamento-geral-estadual',
+        'marcador': r'DECRETO\s+NO\s+6\.606',
+        'min_arts': 300,
+    },
+    {
+        'norma_id': 'br-municipal-1302603-decreto-2023-03-28-5525',
+        'arquivo': 'municipais/1302603/br-municipal-1302603-decreto-2023-03-28-5525.md',
+        'provas': 'provas/norte-co-14133/AM-manaus-5525',
+        'carater': 'regulamento-geral-municipal',
+        'marcador': r'DECRETO\s+N[ºo°\. ]*\s*5\.525',
+        'min_arts': 70,
+    },
+    {
+        'norma_id': 'br-municipal-1302603-lei-organica',
+        'arquivo': 'municipais/1302603/br-municipal-1302603-lei-organica.md',
+        'provas': 'provas/norte-co-14133/AM-manaus-lo',
+        'carater': 'lei-organica-municipal',
+        'marcador': r'PRE[ÂA]MBULO|N[oó]s,\s*representantes',
+        'min_arts': 200,
+    },
 ]
 
 REUSO = [
@@ -102,7 +126,7 @@ def erros_norma(spec: dict) -> list[str]:
         errs.append(f"{spec['norma_id']}: marcador identidade ausente no corpo")
     min_arts = spec.get('min_arts')
     if min_arts:
-        arts = len(re.findall(r'(?m)^Art\.\s*\d+', corpo))
+        arts = len(re.findall(r'(?m)^\s*Art\.\s*\d+', corpo))
         if arts < min_arts:
             errs.append(f"{spec['norma_id']}: poucos artigos ({arts} < {min_arts})")
     provas = ROOT / spec['provas']
@@ -159,9 +183,9 @@ def verify() -> int:
         row = next(u for u in index['ufs'] if u['uf'] == uf)
         if row['status_acervo_estado'] not in {'decreto-geral-publicado', 'decreto-geral-publicado-reuso'}:
             errs.append(f'resumo.ufs_com_geral_estado inclui {uf} indevidamente')
-    for bad in ['AP', 'MS', 'PA', 'RO', 'RR', 'TO', 'GO']:
-        if bad in (resumo.get('ufs_com_geral_estado') or []) and bad not in {'AM'}:
-            # AP/MS are especifico; others sem geral
+    for bad in ['AP', 'MS', 'PA', 'RO', 'RR', 'GO']:
+        if bad in (resumo.get('ufs_com_geral_estado') or []):
+            # AP/MS are especifico; PA/RO/RR/GO sem geral estadual nesta entrega
             row = next(u for u in index['ufs'] if u['uf'] == bad)
             if 'geral-publicado' not in row['status_acervo_estado']:
                 errs.append(f'resumo classifica {bad} como geral indevidamente')
@@ -181,10 +205,23 @@ def verify() -> int:
         if not (ROOT / rel).is_file():
             errs.append(f'reuso ausente: {rel}')
 
-    # TO evidence of block must exist
+    # TO 6606 must be published via column extraction (not left as quality block)
     to_fontes = PROVAS / 'TO' / 'fontes.json'
     if not to_fontes.is_file():
-        errs.append('provas TO (bloqueio 6606) ausentes')
+        errs.append('provas TO 6606 ausentes')
+    else:
+        to_data = json.loads(to_fontes.read_text(encoding='utf-8'))
+        to_entries = to_data.get('fontes') or []
+        if not to_entries or to_entries[0].get('resultado') != 'publicado-colunas-coordenadas':
+            errs.append('TO 6606: esperado resultado publicado-colunas-coordenadas')
+        if 'TO' not in (resumo.get('ufs_com_geral_estado') or []):
+            errs.append('resumo.ufs_com_geral_estado deve incluir TO após publicação 6606')
+
+    # Manaus capital: LO + geral municipal
+    if 'AM' not in (resumo.get('capitais_com_lo') or []):
+        errs.append('resumo.capitais_com_lo deve incluir AM (LOMAN)')
+    if 'AM' not in (resumo.get('capitais_com_decreto_geral') or []):
+        errs.append('resumo.capitais_com_decreto_geral deve incluir AM (5.525)')
 
     if errs:
         print('FAIL norte-co-14133:')
