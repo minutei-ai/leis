@@ -1,0 +1,19 @@
+name: Licitações locais PR
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/licitacoes-locais-pr.yml'
+      - 'tests/test_licitacoes_locais_pr.py'
+      - 'metadados/licitacoes-locais/PR.json'
+      - 'provas/licitacoes-locais/PR/**'
+      - 'estaduais/PR/br-pr-ato-259084.md'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Regressões PR Decreto 10.086/2022
+        run: python3 -m unittest tests.test_licitacoes_locais_pr -v
