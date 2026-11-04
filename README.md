@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**229.961 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**229.962 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -56,6 +56,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Municipal | [São Paulo · SP](municipais/3550308/) | 7.473 |
 | Municipal | [Tomé-Açu · PA](municipais/1508001/) | 1 |
 | Municipal | [Aparecida de Goiânia · GO](municipais/5201405/) | 4.229 |
+| Municipal | [Goiânia · GO](municipais/5208707/) | 1 |
 | Municipal | [Rio Verde · GO](municipais/5218805/) | 1.089 |
 
 As pastas municipais usam o código IBGE do município. As contagens da tabela representam normas e incluem constituições, emendas, decretos e outros atos normativos. Anexos em arquivos próprios são contados separadamente.
@@ -83,7 +84,7 @@ Os Decretos [10.922/2021](federal/br-federal-decreto-2021-12-30-10922.md), [11.3
 
 ## Fontes e cobertura
 
-Os textos vêm do Senado Federal, da Câmara dos Deputados, da Presidência da República (Planalto), das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, do Pará, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, do Rio Grande do Sul, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás, do Maranhão e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo, das Câmaras Municipais de Adamantina, de Alfenas, de Águas Formosas, de Belo Horizonte, de Craíbas, de Japaratinga, de Marechal Deodoro, de Parauapebas e de Rio Largo, da SEMAS do Pará (cópia do decreto municipal de Tomé-Açu), dos Diários Oficiais do Amapá, do Maranhão, do Pará e de Roraima, do portal DFLEGIS do Distrito Federal e de um exemplar hospedado no portal Consulta Popular do Governo do Rio Grande do Sul.
+Os textos vêm do Senado Federal, da Câmara dos Deputados, da Presidência da República (Planalto), das Assembleias Legislativas de Alagoas, do Amapá, do Amazonas, do Ceará, do Espírito Santo, de Minas Gerais, do Pará, da Paraíba, de Pernambuco, do Piauí, do Rio de Janeiro, do Rio Grande do Norte, do Rio Grande do Sul, de Rondônia, de Santa Catarina, de São Paulo, de Sergipe e do Tocantins, das Casas Civis do Acre, da Bahia, de Goiás, do Maranhão e do Paraná, da Secretaria de Fazenda de Mato Grosso, da Consultoria Legislativa de Mato Grosso do Sul, da Prefeitura e da Câmara Municipal de São Paulo, das Câmaras Municipais de Adamantina, de Alfenas, de Águas Formosas, de Belo Horizonte, de Craíbas, de Japaratinga, de Marechal Deodoro, de Parauapebas e de Rio Largo, da Prefeitura de Goiânia (SILEG e Diário Oficial do Município), da SEMAS do Pará (cópia do decreto municipal de Tomé-Açu), dos Diários Oficiais do Amapá, do Maranhão, do Pará e de Roraima, do portal DFLEGIS do Distrito Federal e de um exemplar hospedado no portal Consulta Popular do Governo do Rio Grande do Sul.
 
 A presença de uma norma neste acervo não indica que ela esteja vigente. Há textos originais, atualizados e republicações integrais, conforme a versão disponível na fonte. Para uma aplicação concreta, confira a versão oficial, suas alterações e eventuais revogações.
 
