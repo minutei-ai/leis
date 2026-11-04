@@ -74,15 +74,15 @@ class TestConstituicoesEstaduaisLote(unittest.TestCase):
             nl.strip_fold(div.get_text(" ")),
             ["preambulo", "leiaorganicadodistritofederal"],
         )
-        md = strip_note(
-            (ROOT / "estaduais/DF/br-df-lei-organica-1993-06-08.md").read_text(encoding="utf-8")
-        )
+        md_full = (ROOT / "estaduais/DF/br-df-lei-organica-1993-06-08.md").read_text(encoding="utf-8")
+        md = strip_note(md_full)
         md_fold = from_marker(
             nl.strip_fold(nl.md_text_all(md)),
             ["preambulo", "leiaorganicadodistritofederal"],
         )
         self.assertEqual(md_fold, html_fold)
-        self.assertEqual(sha256_bytes(md.encode("utf-8")), entry["sha256_markdown"])
+        self.assertEqual(sha256_bytes(md_full.encode("utf-8")), entry["sha256_markdown"])
+        self.assertEqual(sha256_bytes(md.encode("utf-8")), entry["sha256_corpo_markdown"])
 
     def test_sc_constituicao_fold(self) -> None:
         fontes = json.loads(
@@ -99,15 +99,15 @@ class TestConstituicoesEstaduaisLote(unittest.TestCase):
             nl.strip_fold(body.get_text(" ")),
             ["constituicaodoestadodesantacatarina", "preambulo"],
         )
-        md = strip_note(
-            (ROOT / "estaduais/SC/br-sc-constituicao-1989.md").read_text(encoding="utf-8")
-        )
+        md_full = (ROOT / "estaduais/SC/br-sc-constituicao-1989.md").read_text(encoding="utf-8")
+        md = strip_note(md_full)
         md_fold = from_marker(
             nl.strip_fold(nl.md_text_all(md)),
             ["constituicaodoestadodesantacatarina", "preambulo"],
         )
         self.assertTrue(md_fold == html_fold or md_fold in html_fold or html_fold in md_fold)
-        self.assertEqual(sha256_bytes(md.encode("utf-8")), entry["sha256_markdown"])
+        self.assertEqual(sha256_bytes(md_full.encode("utf-8")), entry["sha256_markdown"])
+        self.assertEqual(sha256_bytes(md.encode("utf-8")), entry["sha256_corpo_markdown"])
 
     def test_ba_source_hash(self) -> None:
         fontes = json.loads(
@@ -161,11 +161,11 @@ class TestConstituicoesEstaduaisLote(unittest.TestCase):
         plain = "\n\n".join(lines[start:])
         if not plain.endswith("\n"):
             plain += "\n"
-        md = strip_note(
-            (ROOT / "estaduais/PE/br-pe-constituicao-1989.md").read_text(encoding="utf-8")
-        )
+        md_full = (ROOT / "estaduais/PE/br-pe-constituicao-1989.md").read_text(encoding="utf-8")
+        md = strip_note(md_full)
         self.assertEqual(nl.strip_fold(plain), nl.strip_fold(nl.md_text_all(md)))
-        self.assertEqual(sha256_bytes(md.encode("utf-8")), entry["sha256_markdown"])
+        self.assertEqual(sha256_bytes(md_full.encode("utf-8")), entry["sha256_markdown"])
+        self.assertEqual(sha256_bytes(md.encode("utf-8")), entry["sha256_corpo_markdown"])
 
 
 class TestLicitacoesLocaisIndex(unittest.TestCase):
