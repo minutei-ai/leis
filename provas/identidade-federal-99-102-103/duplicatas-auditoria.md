@@ -16,20 +16,22 @@ Os 5 decretos federais da issue (#99) permanecem recolecionados e **não** entra
 
 Critério: ementa ALMG diverge; Markdown era o mesmo corpo. Ação: manter corpo no caminho cuja ficha/nomes batem; substituir o outro por nota documental (sem inventar dispositivo a partir da ementa). HTML ALMG do número órfão continua a servir o corpo errado — evidência preservada.
 
-| Par | Corpo mantido em | Órfão (nota) | Identidade do órfão (ficha) | Bloqueio residual |
+| Par | Corpo mantido em | Órfão / recuperado | Identidade do órfão (ficha) | Estado residual |
 | --- | --- | --- | --- | --- |
-| 803/804 (1937) | `…-804` Manhumirim | `…-803` | Escola distrital Jequitinhonha | Microfilme/DO 09/04/1937 p.2 |
-| 2159/2160 (1945) | `…-2159` Sete Lagoas | `…-2160` | 2º grupo escolar Pouso Alegre | DO / microfilme |
-| 3996/3997 (1953) | `…-3996` José Donato | `…-3997` | Magalhães Drumont | DO 29/04/1953 p.1 |
-| 5082/5085 (1956) | `…-5082` transfere Álvaro | `…-5085` | Extingue função isolada (DJ) | DO 11/09/1956 p.1 |
-| 5120/5121 (1956) | `…-5121` transfere Antônio | `…-5120` | Extingue/transforma Vigilante Policial | DO 10/10/1956 p.1 |
-| 12612/12704 (1970) | `…-12612` José Teubner | `…-12704` | Lotação Regina da Costa Val | DO 28–30/05/1970 |
-| 17645/17720 | `…-17645` Darowish | `…-17720` | Lotação Carlos Aniceto Pimenta (motorista) | DO 17/01/1976 p.6 |
-| 18653/18693 (1977) | `…-18653` Olivia Pinto | `…-18693` | Padre Lourenço → Márcio Nicolato | DO 07/09/1977 p.6 |
-| 22346/1982 × lei/2016 | `…lei-2016-…-22346` Limeira | `…decreto-1982-…-22346` | Crédito FJP CR$ 63.417.500,00 | DO 17/09/1982 p.7 |
-| 36566/36574 (1994) | `…-36566` crédito DER 26/12 | `…-36574` | Ficha 27/12; HTML ALMG ainda traz 26/12 | DO 28/12/1994 p.6 |
-| 40951/40955 (2000) | `…-40951` FEAM R$200.000,00 | `…-40955` | FIA R$327.713,81 | DO 22/03/2000 p.1 |
-| 10454/10523 (1991) | `…-10454` Bias Fortes | `…-10523` | Permuta Sapucaí-Mirim | DO 23/11/1991 p.1 |
+| 803/804 (1937) | `…-804` Manhumirim | **`…-803` recuperado** (JMG 09/04/1937 p.2 — 4.ª escola Joaima/Jequitinhonha) | Escola distrital Jequitinhonha | íntegra publicada; crops `jmg/crop-803-*.png` |
+| 2159/2160 (1945) | `…-2159` Sete Lagoas | `…-2160` nota (`nao_publicado_integra`) | 2º grupo escolar Pouso Alegre | JMG sem edição digital 1945; IOF/microfilme |
+| 3996/3997 (1953) | `…-3996` José Donato | `…-3997` nota | Magalhães Drumont | JMG sem edição digital 1953 |
+| 5082/5085 (1956) | `…-5082` transfere Álvaro | `…-5085` nota | Extingue função isolada (DJ) | JMG sem edição digital 1956 |
+| 5120/5121 (1956) | `…-5121` transfere Antônio | `…-5120` nota | Extingue/transforma Vigilante Policial | JMG sem edição digital 1956 |
+| 12612/12704 (1970) | `…-12612` José Teubner | `…-12704` nota | Lotação Regina da Costa Val | JMG sem edição digital 1970 |
+| 17645/17720 | `…-17645` Darowish | `…-17720` nota | Lotação Carlos Aniceto Pimenta (motorista) | JMG sem edição digital 1976 |
+| 18653/18693 (1977) | `…-18653` Olivia Pinto | `…-18693` nota | Padre Lourenço → Márcio Nicolato | JMG sem edição digital 1977 |
+| 22346/1982 × lei/2016 | `…lei-2016-…-22346` Limeira | `…decreto-1982-…-22346` nota | Crédito FJP CR$ 63.417.500,00 | JMG sem edição digital 1982 |
+| 36566/36574 (1994) | `…-36566` crédito DER 26/12 | `…-36574` nota | Ficha 27/12; HTML ALMG ainda traz 26/12 | JMG sem edição digital 1994 |
+| 40951/40955 (2000) | `…-40951` FEAM R$200.000,00 | **`…-40955` recuperado** (JMG 22/03/2000 p.1 — FIA R$327.713,81) | FIA R$327.713,81 | íntegra publicada; crops `jmg/crop-40955-*.png` |
+| 10454/10523 (1991) | `…-10454` Bias Fortes | `…-10523` nota | Permuta Sapucaí-Mirim | JMG sem edição digital 1991 |
+
+Inventário máquina: `mg-orfaos-inventario.json` (2 recuperados / 17 pendentes). Notas trazem `Status_publicacao: nao_publicado_integra`, `edicao_integral: false`, `excluir_denominador_integra: true` — presença/hash **não** reclassifica como íntegra. Fonte ALMG incorreta dos recuperados em `mg-recoleta/fonte-incorreta-historica/`.
 
 ## Matriz dos 9 grupos `mesmo_texto_fonte_com_ressalva` (reauditoria)
 

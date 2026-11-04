@@ -198,17 +198,28 @@ class TestIdentidadeFederal99102103104(unittest.TestCase):
                 tipos.add(group['tipo'])
         self.assertIn('alias_catalogo', tipos)
         self.assertIn('mesmo_texto_fonte_com_ressalva', tipos)
+        aliases = [g for g in EXCECOES['grupos'] if g['tipo'] == 'alias_catalogo']
+        ressalvas = [g for g in EXCECOES['grupos'] if g['tipo'] == 'mesmo_texto_fonte_com_ressalva']
+        self.assertEqual(len(aliases), 13)
+        self.assertEqual(len(ressalvas), 1)
+        self.assertEqual(
+            sorted(ressalvas[0]['arquivos']),
+            sorted([
+                'estaduais/MG/br-mg-decreto-1994-08-05-35816.md',
+                'estaduais/MG/br-mg-decreto-1994-08-05-35817.md',
+            ]),
+        )
+        self.assertEqual(ressalvas[0].get('status'), 'justificado_com_ressalva')
+        self.assertIn('microfilme', ressalvas[0]['justificativa'].lower())
+        for g in aliases:
+            with self.subTest(alias=g['sha1'][:12]):
+                self.assertTrue(g.get('identidade_do_corpo'))
+                self.assertGreaterEqual(len(g['justificativa']), 40)
         self.assertTrue((PROVAS / 'duplicatas-auditoria.md').is_file())
 
     def test_mg_pares_desmembrados_nao_compartilham_corpo(self):
-        """Os 12 pares + reauditoria: corpo correto ≠ nota do órfão."""
-        pares = [
-            (
-                'estaduais/MG/br-mg-decreto-1937-04-08-804.md',
-                'estaduais/MG/br-mg-decreto-1937-04-08-803.md',
-                'Manhumirim',
-                'Jequitinhonha',
-            ),
+        """Pares ainda órfãos: corpo correto ≠ nota; recuperados JMG têm dispositivo próprio."""
+        notas = [
             (
                 'estaduais/MG/br-mg-decreto-1945-06-14-2159.md',
                 'estaduais/MG/br-mg-decreto-1945-06-26-2160.md',
@@ -227,14 +238,8 @@ class TestIdentidadeFederal99102103104(unittest.TestCase):
                 'Limeira do Oeste',
                 'FJP',
             ),
-            (
-                'estaduais/MG/br-mg-decreto-2000-03-08-40951.md',
-                'estaduais/MG/br-mg-decreto-2000-03-21-40955.md',
-                'FEAM',
-                'FIA',
-            ),
         ]
-        for keep, orphan, keep_token, orphan_token in pares:
+        for keep, orphan, keep_token, orphan_token in notas:
             with self.subTest(keep=keep):
                 keep_text = (ROOT / keep).read_text(encoding='utf-8')
                 orphan_text = (ROOT / orphan).read_text(encoding='utf-8')
@@ -243,6 +248,52 @@ class TestIdentidadeFederal99102103104(unittest.TestCase):
                 self.assertIn('corpo integral não recuperado', orphan_text)
                 self.assertIn(orphan_token.lower(), orphan_text.lower())
                 self.assertIn('mg-recoleta/api-', orphan_text)
+                self.assertIn('excluir_denominador_integra: true', orphan_text)
+                self.assertIn('edicao_integral: false', orphan_text)
+                self.assertIn('nao_publicado_integra', orphan_text)
+
+        # 803 e 40955 recuperados do JMG — dispositivo distinto do par mantido
+        d804 = (ROOT / 'estaduais/MG/br-mg-decreto-1937-04-08-804.md').read_text(encoding='utf-8')
+        d803 = (ROOT / 'estaduais/MG/br-mg-decreto-1937-04-08-803.md').read_text(encoding='utf-8')
+        self.assertIn('Manhumirim', d804)
+        self.assertIn('Jequitinhonha', d803)
+        self.assertIn('Joaima', d803)
+        self.assertNotIn('corpo integral não recuperado', d803)
+        self.assertNotEqual(sha1_file(ROOT / 'estaduais/MG/br-mg-decreto-1937-04-08-804.md'),
+                            sha1_file(ROOT / 'estaduais/MG/br-mg-decreto-1937-04-08-803.md'))
+        self.assertTrue((PROVAS / 'mg-recoleta/jmg/crop-803-decreto.png').is_file())
+
+        d40951 = (ROOT / 'estaduais/MG/br-mg-decreto-2000-03-08-40951.md').read_text(encoding='utf-8')
+        d40955 = (ROOT / 'estaduais/MG/br-mg-decreto-2000-03-21-40955.md').read_text(encoding='utf-8')
+        self.assertIn('FEAM', d40951)
+        self.assertIn('FIA', d40955)
+        self.assertIn('327.713,81', d40955)
+        self.assertNotIn('corpo integral não recuperado', d40955)
+        self.assertNotEqual(sha1_file(ROOT / 'estaduais/MG/br-mg-decreto-2000-03-08-40951.md'),
+                            sha1_file(ROOT / 'estaduais/MG/br-mg-decreto-2000-03-21-40955.md'))
+        self.assertTrue((PROVAS / 'mg-recoleta/jmg/crop-40955-decreto.png').is_file())
+
+    def test_mg_orfaos_inventario_exclui_stubs_do_denominador_integra(self):
+        inv = json.loads((PROVAS / 'mg-orfaos-inventario.json').read_text(encoding='utf-8'))
+        self.assertEqual(len(inv['recuperados']), 2)
+        self.assertEqual(len(inv['pendentes']), 17)
+        for item in inv['pendentes']:
+            with self.subTest(item['id']):
+                self.assertIs(item['edicao_integral'], False)
+                self.assertIs(item['excluir_denominador_integra'], True)
+                self.assertEqual(item['status_publicacao'], 'nao_publicado_integra')
+                text = (ROOT / item['arquivo']).read_text(encoding='utf-8')
+                self.assertIn('corpo integral não recuperado', text)
+                self.assertIn('excluir_denominador_integra: true', text)
+                # presença/hash não reclassifica
+                self.assertNotIn('edicao_integral: true', text)
+        for item in inv['recuperados']:
+            with self.subTest(item['id']):
+                self.assertIs(item['edicao_integral'], True)
+                text = (ROOT / item['arquivo']).read_text(encoding='utf-8')
+                self.assertNotIn('corpo integral não recuperado', text)
+                for token in item['tokens_identidade']:
+                    self.assertIn(token, text)
 
     def test_mg_37349_recoleta_zacarias_distinto_de_37351(self):
         a = (ROOT / 'estaduais/MG/br-mg-decreto-1995-10-05-37349.md').read_text(encoding='utf-8')

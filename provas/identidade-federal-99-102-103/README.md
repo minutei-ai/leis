@@ -6,7 +6,7 @@ Lote de correção de identidade, colação de cabeçalho divergente, reconcilia
 
 | Issue | Objeto | Estado neste PR |
 | --- | --- | --- |
-| #99 | Cinco decretos com texto de outra norma; grupos de hash idêntico | 5 federais recolecionados; 12 pares MG desmembrados (corpo certo + nota no órfão); 8 ex-ressalvas corrigidas por nomes; 37349 recolecionado; 35816/35817 ressalva; 13 aliases. Corpos órfãos ainda pendem microfilme/DO |
+| #99 | Cinco decretos com texto de outra norma; grupos de hash idêntico | 5 federais recolecionados; 12 pares MG desmembrados; **803 e 40955 recuperados** via JMG (colação visual); 17 órfãos restantes = nota `nao_publicado_integra` + `excluir_denominador_integra`; 8 ex-ressalvas corrigidas; 37349 recolecionado; 35816/35817 ressalva; 13 aliases. Issue aberta pelos 17 blockers de microfilme/IOF |
 | #102 | Decreto-Lei 4.014-A/1942 + lote ampliado | 4.014-A colacionado; **45171 / 45353 / 46934** colacionados ato a ato (literais Senado preservados) |
 | #103 | Leis 12.985 e 12.988/2014 com corpos reciprocamente trocados | Corpos, ementas e busca Viaduto/Nabuco conferidos com hashes em `fontes.json` |
 | #104 | Anexos dos Decretos-Leis 1.873/1981 e 2.111/1984 | Tabelas + fac-símiles; célula **CLASSE A — NS-4 a 6** (jornada 4 h) Câmara **e** Planalto |
@@ -22,7 +22,7 @@ Snapshots HTML em `fontes/*.html.xz`; divergência Senado em `divergencias/`; fa
 
 ## Decisões de colação
 
-1. **#99 / #103** — Texto integral recolhido da Câmara quando disponível. Pares MG com HTML ALMG atribuído a outra norma: corpo mantido só no caminho cuja ficha bate; órfão recebe nota `corpo_digital_indisponivel` (sem inventar dispositivo). 37349 recolecionado (Zacarias Roque) porque a API entregou o corpo correto.
+1. **#99 / #103** — Texto integral recolhido da Câmara quando disponível. Pares MG com HTML ALMG atribuído a outra norma: corpo mantido só no caminho cuja ficha bate; órfão recebe nota `corpo_digital_indisponivel` com metadados explícitos de não-publicação/exclusão do denominador íntegra (sem inventar dispositivo). 37349 recolecionado (Zacarias Roque) via API correta; **803** e **40955** recuperados do Diário oficial JMG (edições digitais 1937 e 2000). Ausência de texto na API ALMG **não** implica indisponibilidade universal.
 2. **#102** — Identidade canônica 4.014-A (Câmara). Lote 45171/45353/46934: cabeçalhos divergentes = literais da publicação Senado; Markdown preservado; ver `divergencias-cabecalho-lote.md`.
 3. **#104** — Célula CLASSE A (jornada 4 h) = **NS-4 a 6** nos fac-símiles Câmara e Planalto. Edição histórica do DL 2.111 preservada.
 4. **Duplicatas restantes** — `duplicatas-excecoes.json` (13 `alias_catalogo` + 1 `mesmo_texto_fonte_com_ressalva`).
@@ -31,5 +31,5 @@ Snapshots HTML em `fontes/*.html.xz`; divergência Senado em `divergencias/`; fa
 
 - Não se afirma vigência atual a partir da presença de arquivo ou HTTP.
 - PDFs oficiais não entram no repositório público.
-- Corpos MG órfãos aguardam microfilme/DO; a nota não substitui o texto legal.
+- 17 corpos MG órfãos aguardam microfilme/IOF (JMG sem edição digital nos anos respectivos); a nota não substitui o texto legal nem entra no denominador íntegra.
 - Sem merge enquanto houver requisito pendente nas issues abertas deste lote.
