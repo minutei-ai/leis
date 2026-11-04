@@ -10,6 +10,8 @@ on:
       - 'metadados/CONTRATO-atos-infralegais-orgaos.md'
       - 'provas/atos-infralegais-orgaos/**'
       - 'federal/br-federal-rdc-anvisa-*.md'
+      - 'federal/br-federal-in-rfb-*.md'
+      - 'federal/br-federal-resolucao-cmn-*.md'
 permissions:
   contents: read
 jobs:

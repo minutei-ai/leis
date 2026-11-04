@@ -36,5 +36,23 @@
   "limites": [
     "Edição BVS; atualização deve ser conferida no sistema normativo da ANVISA sem presumir vigência pela disponibilidade da página",
     "Figura normativa preservada como imagem; tabelas convertidas para Markdown/HTML simples"
-  ]
+  ],
+  "auditoria_tabelas_diagrama": {
+    "em": "2026-11-04T21:30:00Z",
+    "tabelas_html_fonte": 52,
+    "tabelas_markdown_pipe": 8,
+    "tabelas_html_preservadas_no_md": 44,
+    "soma_tabelas_pesquisaveis": 52,
+    "conteudo_celulas_pesquisavel": true,
+    "exemplos_frases_no_md": [
+      "UNIDADE FUNCIONAL: 1- ATENDIMENTO AMBULATORIAL",
+      "Sala de atendimento individualizado",
+      "Barreiras Secundárias"
+    ],
+    "diagrama": {
+      "tratamento": "fac-simile-normativo",
+      "arquivo": "provas/atos-infralegais-orgaos/fac-similes/rdc-anvisa-50-2002-fig1.jpg",
+      "nota": "Fac-símile do diagrama de relações funcionais não substitui transcrição tabular pesquisável; as 52 tabelas do anexo estão no Markdown como HTML/<table> ou pipes pesquisáveis."
+    }
+  }
 }

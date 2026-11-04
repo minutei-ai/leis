@@ -5,7 +5,7 @@
       "in": "br-federal-in-<orgao>-<AAAA-MM-DD>-<numero>",
       "resolucao-cmn": "br-federal-resolucao-cmn-<AAAA-MM-DD>-<numero>"
     },
-    "nota": "Órgão e espécie entram na identidade. Resolução CMN ≠ Resolução BCB ≠ Comunicado."
+    "nota": "Órgão e espécie entram na identidade. Resolução CMN ≠ Resolução BCB ≠ Comunicado. Visões SIJUT original/vigente/multivigente são identidades distintas."
   },
   "rdc50-anvisa-bvs": {
     "chave": "rdc50-anvisa-bvs",
@@ -18,21 +18,7 @@
     "snapshot": "provas/atos-infralegais-orgaos/fontes/br-federal-rdc-anvisa-2002-02-21-50.html.xz",
     "sha256_snapshot_armazenado": "bc48bbdab744b4df2d3a12030435c7129cc2d3302e8e13ae6a312ebd349e86fc",
     "http_status": 200,
-    "aviso_fonte": "Este texto não substitui o publicado no Diário Oficial da União",
-    "rfb-2110-shell": {
-      "papel": "evidencia-estado-acesso",
-      "sha256": "9f9413e20884b24680269927744a2abbf407243127ba5087a1489fd91fc8153a",
-      "snapshot": "provas/atos-infralegais-orgaos/fontes/rfb-2110-shell.html.xz",
-      "http_status": 200,
-      "capturado_em": "2026-11-04T19:31:55Z"
-    },
-    "cmn-4966-shell": {
-      "papel": "evidencia-estado-acesso",
-      "sha256": "e64d3a8ecfc66b359e640b507d59ff35fe4ac1be596e969812068cc0aa3fb1d4",
-      "snapshot": "provas/atos-infralegais-orgaos/fontes/cmn-4966-shell.html.xz",
-      "http_status": 200,
-      "capturado_em": "2026-11-04T19:31:55Z"
-    }
+    "aviso_fonte": "Este texto não substitui o publicado no Diário Oficial da União"
   },
   "fac_simile_rdc50_fig1": {
     "arquivo": "provas/atos-infralegais-orgaos/fac-similes/rdc-anvisa-50-2002-fig1.jpg",
@@ -56,5 +42,63 @@
     "snapshot": "provas/atos-infralegais-orgaos/fontes/cmn-4966-shell.html.xz",
     "http_status": 200,
     "capturado_em": "2026-11-04T19:31:55Z"
+  },
+  "rfb-2110-vigente-json": {
+    "chave": "rfb-2110-vigente-json",
+    "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/126687/visao/vigente",
+    "orgao": "RFB",
+    "formato": "json",
+    "visao": "vigente",
+    "idAto": 126687,
+    "capturado_em": "2026-11-04T21:30:00Z",
+    "sha256": "2968feac3ddae3dc5ccef1f398bfb5f0639042501671d257bbc624adb36604cb",
+    "snapshot": "provas/atos-infralegais-orgaos/fontes/rfb-2110-vigente.json.xz",
+    "http_status": 200
+  },
+  "rfb-2110-original-json": {
+    "chave": "rfb-2110-original-json",
+    "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/126687/visao/original",
+    "orgao": "RFB",
+    "formato": "json",
+    "visao": "original",
+    "idAto": 126687,
+    "capturado_em": "2026-11-04T21:30:00Z",
+    "sha256": "7a004a4963b1e2ccf8729c849c142ed80c23ef645a68650edefb6909de8bc6f2",
+    "snapshot": "provas/atos-infralegais-orgaos/fontes/rfb-2110-original.json.xz",
+    "http_status": 200
+  },
+  "rfb-2110-multivigente-json": {
+    "chave": "rfb-2110-multivigente-json",
+    "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/126687/visao/multivigente",
+    "orgao": "RFB",
+    "formato": "json",
+    "visao": "multivigente",
+    "idAto": 126687,
+    "capturado_em": "2026-11-04T21:30:00Z",
+    "sha256": "584fcc1ba285747b20f701db8fcc6c3e7a62cf22b43a46c70d5e6882c56df8f5",
+    "snapshot": "provas/atos-infralegais-orgaos/fontes/rfb-2110-multivigente.json.xz",
+    "http_status": 200,
+    "nota": "Preservada como variante; não concatenada às edições original/vigente publicadas em Markdown."
+  },
+  "rfb-2110-dou": {
+    "chave": "rfb-2110-dou",
+    "url": "https://www.in.gov.br/web/dou/-/instrucao-normativa-rfb-n-2.110-de-17-de-outubro-de-2022-437619362",
+    "orgao": "RFB",
+    "formato": "html",
+    "papel": "conferencia-dou",
+    "capturado_em": "2026-11-04T21:30:00Z",
+    "sha256": "9e164d92de5b1adf71ac6eec22ffa4795142741cdf138c0cd12a1b5ef88c0a29",
+    "snapshot": "provas/atos-infralegais-orgaos/fontes/rfb-2110-dou.html.xz",
+    "http_status": 200
+  },
+  "cmn-4966-dou": {
+    "chave": "cmn-4966-dou",
+    "url": "https://www.in.gov.br/web/dou/-/resolucao-cmn-n-4.966-de-25-de-novembro-de-2021-362755044",
+    "orgao": "CMN",
+    "formato": "html",
+    "capturado_em": "2026-11-04T21:30:00Z",
+    "sha256": "9c9f23963a3f8e6b709ea308e8ff30c5b9158079f1601589f7c63d2592f48d04",
+    "snapshot": "provas/atos-infralegais-orgaos/fontes/br-federal-resolucao-cmn-2021-11-25-4966.html.xz",
+    "http_status": 200
   }
 }

@@ -1,0 +1,17 @@
+{
+  "id": "br-federal-resolucao-cmn-2021-11-25-4966",
+  "fonte": "cmn-4966-dou",
+  "sha256_fonte": "9c9f23963a3f8e6b709ea308e8ff30c5b9158079f1601589f7c63d2592f48d04",
+  "sha256_markdown": "4b8433c522190a4de617d75a27aad1ef44727091ab3fbf844afa882fd677a03b",
+  "edicao_tipo": "original",
+  "visao_fonte": null,
+  "cobertura_marcadores": {
+    "tem_titulo": true,
+    "tem_art_1": true,
+    "aviso_edicao": true,
+    "tem_instrumento_financeiro": true,
+    "fonte": "DOU"
+  },
+  "vigencia_certificada": false,
+  "notas": "Identidade e edição preservadas; sem certificação de vigência."
+}

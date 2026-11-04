@@ -28,3 +28,9 @@ com o mesmo número **não** são intercambiáveis.
 6. Escopo parcial: três exemplos da issue #75; não declara cobertura nacional.
 7. Separar atos normativos de notícias, consultas e atos individuais quando a
    fonte os mistura.
+
+## Edições SIJUT / DOU neste lote
+
+- RFB IN 2.110: visões `original` e `vigente` em Markdown distintos; `multivigente` só em snapshot JSON.
+- CMN 4.966: edição original do DOU; consolidada do portal BCB permanece bloqueada por shell JS (pendência residual, sem falso negativo).
+- RDC 50: tabelas pesquisáveis no Markdown; diagrama como fac-símile normativo adicional.

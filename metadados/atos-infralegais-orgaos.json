@@ -5,8 +5,8 @@
   "issue_refs": [
     "https://github.com/minutei-ai/leis/issues/75"
   ],
-  "descricao": "Inventário inicial de atos infralegais por órgão (ANVISA, RFB, CMN/BCB): publica RDC 50/2002 integral com tabelas e fac-símile; cataloga IN RFB 2110 e Resolução CMN 4966 com estado de acesso explícito.",
-  "gerado_em": "2026-11-04T19:31:55Z",
+  "descricao": "Inventário inicial de atos infralegais por órgão (ANVISA, RFB, CMN/BCB): publica RDC 50/2002 (tabelas pesquisáveis + fac-símile do diagrama), IN RFB 2.110 (visões original e vigente SIJUT; multivigente em prova), Resolução CMN 4.966 (DOU original). Escopo parcial; amostra ≠ cobertura completa.",
+  "gerado_em": "2026-11-04T21:30:00Z",
   "vigencia_certificada": false,
   "catalogo_orgaos": {
     "anvisa": {
@@ -26,7 +26,10 @@
           "estado": "nao-inventariado-neste-lote"
         }
       ],
-      "ainda_nao_inventariado": "Demais RDCs, INs e Portarias ANVISA fora da RDC 50/2002"
+      "ainda_nao_inventariado": "Demais RDCs, INs e Portarias ANVISA fora da RDC 50/2002; conferência no sistema normativo da agência além da edição BVS.",
+      "amostra_neste_lote": [
+        "br-federal-rdc-anvisa-2002-02-21-50"
+      ]
     },
     "rfb": {
       "orgao_id": "rfb",
@@ -36,12 +39,33 @@
       ],
       "fontes_oficiais": [
         {
-          "sistema": "SIJUT2 Normas",
+          "sistema": "SIJUT2 Normas (shell Angular)",
           "url_base": "https://normas.receita.fazenda.gov.br/sijut2consulta/",
           "idAto_exemplo": 126687
+        },
+        {
+          "sistema": "SIJUT2 API consulta-externa",
+          "url_base": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/{idAto}/visao/{visao}",
+          "visoes": [
+            "original",
+            "vigente",
+            "multivigente"
+          ]
+        },
+        {
+          "sistema": "SIJUT2 API indexação",
+          "url_base": "https://normas.receita.fazenda.gov.br/api/indexacao/ato/pesquisar"
+        },
+        {
+          "sistema": "DOU Imprensa Nacional",
+          "url_exemplo": "https://www.in.gov.br/web/dou/-/instrucao-normativa-rfb-n-2.110-de-17-de-outubro-de-2022-437619362"
         }
       ],
-      "ainda_nao_inventariado": "Demais INs/AD/Portarias RFB; modos multivigente/original/relacional do SIJUT2"
+      "ainda_nao_inventariado": "Demais INs/AD/Portarias RFB; visão relacional SIJUT; atos individuais e consultas públicas misturados no portal.",
+      "amostra_neste_lote": [
+        "br-federal-in-rfb-2022-10-17-2110",
+        "br-federal-in-rfb-2022-10-17-2110-original"
+      ]
     },
     "cmn-bcb": {
       "orgao_id": "cmn",
@@ -51,15 +75,23 @@
       ],
       "fontes_oficiais": [
         {
-          "sistema": "BCB Exibe Normativo",
-          "url_base": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo"
+          "sistema": "BCB Exibe Normativo (shell JS)",
+          "url_base": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo",
+          "estado": "shell-javascript"
         },
         {
           "sistema": "BCB Busca Normas",
           "url_base": "https://www.bcb.gov.br/estabilidadefinanceira/buscanormas"
+        },
+        {
+          "sistema": "DOU Imprensa Nacional",
+          "url_exemplo": "https://www.in.gov.br/web/dou/-/resolucao-cmn-n-4.966-de-25-de-novembro-de-2021-362755044"
         }
       ],
-      "ainda_nao_inventariado": "Resoluções BCB, Circulares, Comunicados e demais Resoluções CMN; número sozinho não é chave"
+      "ainda_nao_inventariado": "Resoluções BCB, Circulares, Comunicados e demais Resoluções CMN; edições consolidadas do portal BCB (SPA) não recuperadas nesta captura; número sozinho não é chave.",
+      "amostra_neste_lote": [
+        "br-federal-resolucao-cmn-2021-11-25-4966"
+      ]
     }
   },
   "documentos": [
@@ -82,74 +114,117 @@
       "fac_similes": 1,
       "prova": "provas/atos-infralegais-orgaos/reconciliacao-br-federal-rdc-anvisa-2002-02-21-50.json",
       "vigencia_certificada": false
-    }
-  ],
-  "pendencias_acesso": [
+    },
     {
-      "slug_previsto": "br-federal-in-rfb-2022-10-17-2110",
+      "id": "br-federal-in-rfb-2022-10-17-2110",
+      "arquivo": "federal/br-federal-in-rfb-2022-10-17-2110.md",
       "norma_tipo": "in",
       "orgao_emissor": "rfb",
       "norma_numero": "2110",
       "norma_data": "2022-10-17",
-      "titulo": "INSTRUÇÃO NORMATIVA RFB Nº 2.110, DE 17 DE OUTUBRO DE 2022",
-      "fonte_oficial": "https://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=126687",
+      "titulo": "INSTRUÇÃO NORMATIVA RFB Nº 2.110, DE 17 DE OUTUBRO DE 2022 (visão vigente SIJUT)",
+      "edicao_id": "br-federal-in-rfb-2022-10-17-2110@sijut-vigente",
+      "edicao_tipo": "consolidada",
+      "fonte_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/126687/visao/vigente",
+      "estado_recuperacao": "publicado",
+      "estado_acesso": "ok",
+      "sha256_fonte": "2968feac3ddae3dc5ccef1f398bfb5f0639042501671d257bbc624adb36604cb",
+      "sha256_markdown": "2a4a594ef2cc68d3980933f6db79568b58d6693ab932bc6730992ce128e05136",
+      "visao_fonte": "vigente",
       "id_oficial": {
         "sistema": "SIJUT2",
         "idAto": 126687
       },
-      "estado_acesso": "shell-spa-sem-corpo-normativo-nesta-captura",
-      "captura": {
-        "em": "2026-11-04T19:31:55Z",
-        "http_status": 200,
-        "sha256_pagina": "9f9413e20884b24680269927744a2abbf407243127ba5087a1489fd91fc8153a",
-        "resultado": "Aplicação Angular/SPA; HTML estático sem texto do ato (só shell). Não confundir com inexistência."
-      },
-      "modos_fonte_a_preservar_quando_acessivel": [
-        "original",
-        "vigente",
-        "multivigente",
-        "relacional"
-      ],
-      "leitura": "Portal inacessível ao coletor HTTP simples ≠ norma inexistente. Markdown integral pendente de captura do corpo (API/exportação oficial ou renderização autenticada)."
+      "prova": "provas/atos-infralegais-orgaos/reconciliacao-br-federal-in-rfb-2022-10-17-2110.json",
+      "vigencia_certificada": false,
+      "tabelas": 0
     },
     {
-      "slug_previsto": "br-federal-resolucao-cmn-2021-11-25-4966",
+      "id": "br-federal-in-rfb-2022-10-17-2110-original",
+      "arquivo": "federal/br-federal-in-rfb-2022-10-17-2110-original.md",
+      "norma_tipo": "in",
+      "orgao_emissor": "rfb",
+      "norma_numero": "2110",
+      "norma_data": "2022-10-17",
+      "titulo": "INSTRUÇÃO NORMATIVA RFB Nº 2.110, DE 17 DE OUTUBRO DE 2022 (visão original SIJUT)",
+      "edicao_id": "br-federal-in-rfb-2022-10-17-2110@sijut-original",
+      "edicao_tipo": "original",
+      "fonte_url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/126687/visao/original",
+      "estado_recuperacao": "publicado",
+      "estado_acesso": "ok",
+      "sha256_fonte": "7a004a4963b1e2ccf8729c849c142ed80c23ef645a68650edefb6909de8bc6f2",
+      "sha256_markdown": "30e9ee6d7c9e603c1bf5294881855cd15b75bf4515995d28d2efc800686688d0",
+      "visao_fonte": "original",
+      "id_oficial": {
+        "sistema": "SIJUT2",
+        "idAto": 126687
+      },
+      "prova": "provas/atos-infralegais-orgaos/reconciliacao-br-federal-in-rfb-2022-10-17-2110-original.json",
+      "vigencia_certificada": false,
+      "tabelas": 0
+    },
+    {
+      "id": "br-federal-resolucao-cmn-2021-11-25-4966",
+      "arquivo": "federal/br-federal-resolucao-cmn-2021-11-25-4966.md",
       "norma_tipo": "resolucao-cmn",
       "orgao_emissor": "cmn",
       "norma_numero": "4966",
       "norma_data": "2021-11-25",
       "titulo": "RESOLUÇÃO CMN Nº 4.966, DE 25 DE NOVEMBRO DE 2021",
-      "fonte_oficial": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4966",
+      "edicao_id": "br-federal-resolucao-cmn-2021-11-25-4966@dou",
+      "edicao_tipo": "original",
+      "fonte_url": "https://www.in.gov.br/web/dou/-/resolucao-cmn-n-4.966-de-25-de-novembro-de-2021-362755044",
+      "estado_recuperacao": "publicado",
+      "estado_acesso": "ok",
+      "sha256_fonte": "9c9f23963a3f8e6b709ea308e8ff30c5b9158079f1601589f7c63d2592f48d04",
+      "sha256_markdown": "4b8433c522190a4de617d75a27aad1ef44727091ab3fbf844afa882fd677a03b",
+      "visao_fonte": null,
       "id_oficial": {
-        "sistema": "BCB",
+        "sistema": "DOU",
+        "url_path": "/web/dou/-/resolucao-cmn-n-4.966-de-25-de-novembro-de-2021-362755044",
         "tipoDocumento": "Resolução CMN",
         "numero": "4966"
       },
-      "estado_acesso": "pagina-depende-de-javascript",
+      "prova": "provas/atos-infralegais-orgaos/reconciliacao-br-federal-resolucao-cmn-2021-11-25-4966.json",
+      "vigencia_certificada": false,
+      "tabelas": 0
+    }
+  ],
+  "pendencias_acesso": [
+    {
+      "tema": "bcb-exibenormativo-consolidada-cmn-4966",
+      "slug_relacionado": "br-federal-resolucao-cmn-2021-11-25-4966",
+      "estado_acesso": "shell-javascript",
+      "fonte_oficial": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4966",
       "captura": {
-        "em": "2026-11-04T19:31:55Z",
+        "em": "2026-11-04T21:30:00Z",
         "http_status": 200,
-        "sha256_pagina": "e64d3a8ecfc66b359e640b507d59ff35fe4ac1be596e969812068cc0aa3fb1d4",
-        "resultado": "HTML de 2.8KB exigindo JavaScript; sem corpo normativo na captura curl. Número 4966 também existe em outros tipos de ato — tipoDocumento é obrigatório na identidade."
+        "resultado": "Página Angular BCB exige JS; HTML estático só avisa dependência de JavaScript. Íntegra original publicada via DOU."
       },
-      "leitura": "Falha de renderização JS ≠ inexistência. Não intercambiar Resolução CMN, Resolução BCB ou Comunicado com o mesmo número."
+      "leitura": "Shell JS do BCB ≠ inexistência da Resolução CMN 4.966. Edição consolidada do portal BCB permanece pendente; DOU original já publicado."
+    },
+    {
+      "tema": "sijut-link-action-shell-angular",
+      "slug_relacionado": "br-federal-in-rfb-2022-10-17-2110",
+      "estado_acesso": "shell-spa-com-api-alternativa",
+      "fonte_oficial": "https://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=126687",
+      "captura": {
+        "em": "2026-11-04T21:30:00Z",
+        "http_status": 200,
+        "resultado": "Shell Angular sem corpo; corpo obtido via API normasinternet2 /api/consulta-externa/ato/126687/visao/{original|vigente|multivigente}."
+      },
+      "leitura": "Falha do HTML shell ≠ inexistência. Visões original e vigente publicadas; multivigente preservada em snapshot JSON; visão relacional não inventariada."
     }
   ],
   "escopo": {
     "estado": "parcial",
     "inclui": [
-      "br-federal-rdc-anvisa-2002-02-21-50"
-    ],
-    "catalogado_sem_markdown_integral": [
+      "br-federal-rdc-anvisa-2002-02-21-50",
       "br-federal-in-rfb-2022-10-17-2110",
+      "br-federal-in-rfb-2022-10-17-2110-original",
       "br-federal-resolucao-cmn-2021-11-25-4966"
     ],
-    "nao_cataloga": [
-      "censo completo de ANVISA/RFB/CMN/BCB",
-      "INs SEGES (issue #72)",
-      "resoluções do Senado (#66) e decretos legislativos (#65)",
-      "notícias, consultas públicas, propostas e atos individuais misturados nas buscas dos portais"
-    ],
-    "nota": "Três exemplos oficiais da issue #75; não declara cobertura nacional."
+    "nao_cataloga_como_cobertura_completa": true,
+    "nota": "Amostra dos três órgãos da issue #75; não declara cobertura nacional nem inventário exaustivo por autoridade."
   }
 }
