@@ -1,0 +1,19 @@
+{
+  "capturado_em": "2026-11-04T21:05:00Z",
+  "nota": "DOE/TO 4862 identificado com Decreto 6.606/2023; íntegra limpa bloqueada por PDF duas colunas. PDF não commitado.",
+  "fontes": [
+    {
+      "chave": "doe-to-4862-2023-03-28",
+      "url": "https://doe.to.gov.br/diario/4862/download",
+      "arquivo": "provas/norte-co-14133/TO/fontes/doe-4862-bloqueio-colunas.txt.xz",
+      "sha256_pdf_original": "641db3f9e306a2ed788cbe404058a6e51b2aa5da8a23677dab31a196f88ed1d2",
+      "bytes_pdf": 3234747,
+      "sha256_nota": "fd02c09e0a2fdfdc80e8f550aa55b0857c71eb3c15b32c2fb67e957193cded23",
+      "sha256_arquivo_xz": "6d0af875a8e9fad428f9bff4f124f00e1f3345e243315dbfb532b175be7c98b9",
+      "resultado": "bloqueio-qualidade-colunas-intercaladas",
+      "carater": "regulamento-geral-estadual-identificado",
+      "http": 200,
+      "content_type": "application/pdf"
+    }
+  ]
+}

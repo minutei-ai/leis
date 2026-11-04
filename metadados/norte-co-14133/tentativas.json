@@ -1,0 +1,50 @@
+{
+  "capturado_em": "2026-11-04T21:05:00Z",
+  "tentativas": [
+    {
+      "uf": "TO",
+      "ente": "estado",
+      "url": "https://doe.to.gov.br/diario/4862/download",
+      "resultado": "identificado-bloqueio-qualidade-colunas",
+      "http": 200,
+      "content_type": "application/pdf",
+      "norma_candidata": "Decreto 6.606/2023",
+      "carater_esperado": "regulamento-geral-estadual",
+      "nota": "PDF DOE baixado; pdftotext duas colunas intercaladas. HTML edição 403. sha em provas/norte-co-14133/TO/fontes.json"
+    },
+    {
+      "uf": "TO",
+      "ente": "estado",
+      "url": "https://doe.to.gov.br/diario/4862",
+      "resultado": "http-403",
+      "http": 403,
+      "nota": "Página HTML da edição bloqueada; download PDF ok"
+    },
+    {
+      "uf": "RO",
+      "ente": "Porto Velho",
+      "ibge": "1100205",
+      "url": "https://sapl.portovelho.ro.leg.br/ta/1639/text",
+      "resultado": "ok-publicado-lo",
+      "http": 200,
+      "norma_candidata": "Lei Orgânica Porto Velho 1990"
+    },
+    {
+      "uf": "RR",
+      "ente": "Boa Vista",
+      "ibge": "1400100",
+      "url": "https://sapl.boavista.rr.leg.br/ta/641/text",
+      "resultado": "ok-publicado-lo",
+      "http": 200,
+      "norma_candidata": "Lei Orgânica Boa Vista 1992"
+    },
+    {
+      "uf": "AC",
+      "ente": "Rio Branco",
+      "url": "https://portalcgm.riobranco.ac.gov.br/portal/legislacao/lei-organica/",
+      "resultado": "dns-falha",
+      "nota": "Could not resolve host nesta sessão"
+    }
+  ],
+  "nota": "Registro verificável de fontes tentadas/candidatos/bloqueios do recorte norte-co-14133. Fonte bloqueada ≠ ausência no ordenamento."
+}
