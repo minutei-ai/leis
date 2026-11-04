@@ -1,0 +1,38 @@
+{
+  "br-federal-medida-provisoria-2004-07-15-199": {
+    "cobertura": true,
+    "sha256_markdown_corpo": "4caeaf18a4748aa2c60b7e980cc1a21b0d0a5edba6c55610ae9df1aca8857423"
+  },
+  "br-federal-medida-provisoria-2004-09-16-215": {
+    "cobertura": true,
+    "sha256_markdown_corpo": "f709c8cd7670086b8dc8e5c5b6d00c99189dd94879eb9954b3b368b7aeaf11fc"
+  },
+  "br-federal-medida-provisoria-2006-06-29-306": {
+    "cobertura": true,
+    "sha256_markdown_corpo": "71f026e9df2ec3bfa281cade1b33305aa756e141118deac78f5f252976c81b14"
+  },
+  "br-federal-medida-provisoria-2006-07-04-309": {
+    "cobertura": true,
+    "sha256_markdown_corpo": "7a44b2674ba8f4d63f1bbe35ea56fab79308b628878ea523ac0c5c1ed8fc332e"
+  },
+  "br-federal-medida-provisoria-2010-09-20-502": {
+    "cobertura": true,
+    "sha256_markdown_corpo": "93018ec41dded6378960e340b0da966cf1c2ec61e20d3afc2f61d74d8826308c"
+  },
+  "br-federal-medida-provisoria-2011-03-25-528": {
+    "cobertura": true,
+    "sha256_markdown_corpo": "11099b0c038be0c27e60a160cc287142dc6dcd85a37d52e46f3fee34a30f8774"
+  },
+  "br-federal-medida-provisoria-2015-07-30-686": {
+    "cobertura": true,
+    "sha256_markdown_corpo": "d5ada5d5a91129d937d7c44de403cde665db84f2dcf178c48307a80fc64597b8"
+  },
+  "br-federal-medida-provisoria-2026-10-20-1397": {
+    "cobertura": true,
+    "sha256_markdown_corpo": "6d7a75a6b1a019d3a2558d882cfdecef9385adc7f7f2e4e89c1f6489fbf1c15f"
+  },
+  "br-federal-medida-provisoria-2026-10-20-1398": {
+    "cobertura": true,
+    "sha256_markdown_corpo": "20e622acaaf4650365a495592fc0a5fcc535338026297e2e284793b8a9cdae8a"
+  }
+}

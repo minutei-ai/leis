@@ -1,0 +1,23 @@
+{
+  "issue": 96,
+  "matriz_resumo": {
+    "ausentes_canonicos": 738,
+    "catalogo_sha256": "1d4e9f323ee6c69ef750d43fe11bf140ed7b56cc4672c7f8a44b1c096c1c5336",
+    "nota": "Preservar DEL vs DEL-mpv. Não fundir documentos nem atribuir efeitos só pelo rótulo. Número coincidente exige revisão, não correção automática de arquivo existente.",
+    "presentes": 9643,
+    "revisao_mesmo_numero": 1997,
+    "sha256_bate_com_issue": false,
+    "total_registros": 12378
+  },
+  "n_publicados": 58,
+  "n_retidos": 53,
+  "nota": "111 HTML capturados; 58 publicadas; 53 retidos por anexo. Demais ausências pendentes.",
+  "regras": [
+    "Não inferir vigência/completude de presença de arquivo ou HTTP.",
+    "<<ANEXO>>/<<TABELA>> na conversão retêm a norma (sem publicar corpo incompleto).",
+    "Provas privadas fora do repo público; divergências literais preservadas."
+  ],
+  "retidos_por_status": {
+    "retido-marcador-anexo-tabela": 53
+  }
+}

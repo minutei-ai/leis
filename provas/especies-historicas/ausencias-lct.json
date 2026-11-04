@@ -1,0 +1,233 @@
+[
+  {
+    "data": "1946-01-23",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1946-01-23-21",
+    "norma": "LCT-21-1946-01-23",
+    "normaNome": "Lei Constitucional nº 21 de 23/01/1946",
+    "numero": "21",
+    "senado_id": "572933",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1946-01-02",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1946-01-02-20",
+    "norma": "LCT-20-1946-01-02",
+    "normaNome": "Lei Constitucional nº 20 de 02/01/1946",
+    "numero": "20",
+    "senado_id": "572932",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1945-12-31",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1945-12-31-19",
+    "norma": "LCT-19-1945-12-31",
+    "normaNome": "Lei Constitucional nº 19 de 31/12/1945",
+    "numero": "19",
+    "senado_id": "572931",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1945-12-11",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1945-12-11-18",
+    "norma": "LCT-18-1945-12-11",
+    "normaNome": "Lei Constitucional nº 18 de 11/12/1945",
+    "numero": "18",
+    "senado_id": "572930",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1945-12-03",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1945-12-03-17",
+    "norma": "LCT-17-1945-12-03",
+    "normaNome": "Lei Constitucional nº 17 de 03/12/1945",
+    "numero": "17",
+    "senado_id": "572929",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1945-11-30",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1945-11-30-16",
+    "norma": "LCT-16-1945-11-30",
+    "normaNome": "Lei Constitucional nº 16 de 30/11/1945",
+    "numero": "16",
+    "senado_id": "572928",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1945-11-26",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1945-11-26-15",
+    "norma": "LCT-15-1945-11-26",
+    "normaNome": "Lei Constitucional nº 15 de 26/11/1945",
+    "numero": "15",
+    "senado_id": "572927",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1945-11-17",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1945-11-17-14",
+    "norma": "LCT-14-1945-11-17",
+    "normaNome": "Lei Constitucional nº 14 de 17/11/1945",
+    "numero": "14",
+    "senado_id": "572926",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1945-11-12",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1945-11-12-13",
+    "norma": "LCT-13-1945-11-12",
+    "normaNome": "Lei Constitucional nº 13 de 12/11/1945",
+    "numero": "13",
+    "senado_id": "572925",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1945-11-07",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1945-11-07-12",
+    "norma": "LCT-12-1945-11-07",
+    "normaNome": "Lei Constitucional nº 12 de 07/11/1945",
+    "numero": "12",
+    "senado_id": "572924",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1945-10-30",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1945-10-30-11",
+    "norma": "LCT-11-1945-10-30",
+    "normaNome": "Lei Constitucional nº 11 de 30/10/1945",
+    "numero": "11",
+    "senado_id": "572923",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1945-05-26",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1945-05-26-10",
+    "norma": "LCT-10-1945-05-26",
+    "normaNome": "Lei Constitucional nº 10 de 26/05/1945",
+    "numero": "10",
+    "senado_id": "572922",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1945-02-28",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1945-02-28-9",
+    "norma": "LCT-9-1945-02-28",
+    "normaNome": "Lei Constitucional nº 9 de 28/02/1945",
+    "numero": "9",
+    "senado_id": "572921",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1942-10-12",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1942-10-12-8",
+    "norma": "LCT-8-1942-10-12",
+    "normaNome": "Lei Constitucional nº 8 de 12/10/1942",
+    "numero": "8",
+    "senado_id": "572920",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1942-09-30",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1942-09-30-7",
+    "norma": "LCT-7-1942-09-30",
+    "normaNome": "Lei Constitucional nº 7 de 30/09/1942",
+    "numero": "7",
+    "senado_id": "572919",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1942-05-13",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1942-05-13-6",
+    "norma": "LCT-6-1942-05-13",
+    "normaNome": "Lei Constitucional nº 6 de 13/05/1942",
+    "numero": "6",
+    "senado_id": "572918",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1942-03-10",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1942-03-10-5",
+    "norma": "LCT-5-1942-03-10",
+    "normaNome": "Lei Constitucional nº 5 de 10/03/1942",
+    "numero": "5",
+    "senado_id": "572917",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1940-09-20",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1940-09-20-4",
+    "norma": "LCT-4-1940-09-20",
+    "normaNome": "Lei Constitucional nº 4 de 20/09/1940",
+    "numero": "4",
+    "senado_id": "572916",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1940-09-18",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1940-09-18-3",
+    "norma": "LCT-3-1940-09-18",
+    "normaNome": "Lei Constitucional nº 3 de 18/09/1940",
+    "numero": "3",
+    "senado_id": "572915",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1938-05-16",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1938-05-16-1",
+    "norma": "LCT-1-1938-05-16",
+    "normaNome": "Lei Constitucional nº 1 de 16/05/1938",
+    "numero": "1",
+    "senado_id": "572913",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  },
+  {
+    "data": "1938-05-16",
+    "especie": "lei-constitucional",
+    "id": "br-federal-lei-constitucional-1938-05-16-2",
+    "norma": "LCT-2-1938-05-16",
+    "normaNome": "Lei Constitucional nº 2 de 16/05/1938",
+    "numero": "2",
+    "senado_id": "572914",
+    "serie": "lei-constitucional-1938-1946",
+    "tipo_catalogo": "LCT"
+  }
+]

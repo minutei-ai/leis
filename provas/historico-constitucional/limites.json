@@ -1,0 +1,21 @@
+{
+  "issue": 79,
+  "itens": [
+    "br-federal-constituicao-1824-03-25",
+    "br-federal-constituicao-1891-02-24",
+    "br-federal-constituicao-1934-07-16",
+    "br-federal-constituicao-1937-11-10",
+    "br-federal-constituicao-1946-09-18",
+    "br-federal-constituicao-1946-09-18-adct",
+    "br-federal-constituicao-1967-01-24",
+    "br-federal-emenda-constitucional-1969-10-17-1"
+  ],
+  "n_publicados": 8,
+  "n_retidos": 0,
+  "nota": "8 constituições/ADCT + EC1/1969 via Câmara div.texto; EC1969 prova privada fora do repo público.",
+  "regras": [
+    "Não inferir vigência/completude de presença de arquivo ou HTTP.",
+    "Provas privadas fora do repo público; divergências literais preservadas.",
+    "ADCT 1946 tem identidade própria mesmo quando a página da Constituição 1946 também a reproduz."
+  ]
+}
