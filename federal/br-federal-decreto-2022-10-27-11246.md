@@ -9,6 +9,7 @@ esfera: "federal"
 edicao_id: "br-federal-decreto-2022-10-27-11246@consolidada-planalto"
 edicao_tipo: "consolidada"
 edicao_integral: true
+edicao_relacionada: "br-federal-decreto-2022-10-27-11246-historica"
 fonte_orgao: "Presidência da República — Planalto"
 fonte_url: "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/decreto/D11246.htm"
 fonte_formato: "html"
@@ -23,7 +24,7 @@ anexos_no_corpo: 0
 tabelas: 0
 imagens_omitidas: 1
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "8a845b78eea9021335926cb05a75a857dc43d435123763f11dc38704f800f998"
+sha256_markdown: "c79222b1f1b62939dfdf23547b4a11cfb7d22462085fba1e9f9e776001c8c209"
 manifesto: "metadados/atualizacao-planalto-licitacao.json"
 contrato_versao: 1
 ---
@@ -38,7 +39,7 @@ Presidência da República Secretaria-Geral Subchefia para Assuntos Jurídicos
 >
 > Texto entre `~~` é redação superada, vetada ou revogada que a fonte oficial mantém riscada; não é dispositivo em vigor. Notas de alteração da fonte foram preservadas.
 >
-> A edição anterior publicada neste caminho antes desta atualização está autenticada por SHA-256 em `provas/atualizacao-planalto-licitacao/baseline-edicao-anterior.json`; não foi apagada silenciosamente.
+> A edição anterior deste caminho está preservada como edição histórica em `federal/edicoes/br-federal-decreto-2022-10-27-11246-historica.md` (autenticada também por SHA-256 em `provas/atualizacao-planalto-licitacao/baseline-edicao-anterior.json`); não foi apagada silenciosamente.
 >
 > Prova: `provas/atualizacao-planalto-licitacao/reconciliacao-br-federal-decreto-2022-10-27-11246.json`. Contrato: `metadados/CONTRATO-atualizacao-planalto-licitacao.md`.
 >

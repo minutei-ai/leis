@@ -200,7 +200,12 @@ def load_fontes() -> dict:
     return json.loads(FONTES_JSON.read_text(encoding='utf-8'))
 
 
+def historica_path(slug: str) -> str:
+    return f'federal/edicoes/{slug}-historica.md'
+
+
 def edition_note(doc: dict, rec: dict, conv: nl.Converter) -> str:
+    hist = historica_path(doc['slug'])
     lines = [
         (f'**Edição consolidada — {rec["orgao"]} (lote {LOTE}, issue #93).** Fonte: {rec["url"]} '
          f'(capturada em {rec["capturado_em"]}, SHA-256 da fonte `{rec["sha256"]}`, '
@@ -208,8 +213,9 @@ def edition_note(doc: dict, rec: dict, conv: nl.Converter) -> str:
          f'Snapshot: `{rec["snapshot"]}`. O acervo não certifica vigência.'),
         ('Texto entre `~~` é redação superada, vetada ou revogada que a fonte oficial mantém '
          'riscada; não é dispositivo em vigor. Notas de alteração da fonte foram preservadas.'),
-        ('A edição anterior publicada neste caminho antes desta atualização está autenticada por '
-         'SHA-256 em `provas/atualizacao-planalto-licitacao/baseline-edicao-anterior.json`; '
+        (f'A edição anterior deste caminho está preservada como edição histórica em `{hist}` '
+         f'(autenticada também por SHA-256 em '
+         '`provas/atualizacao-planalto-licitacao/baseline-edicao-anterior.json`); '
          'não foi apagada silenciosamente.'),
     ]
     if doc['slug'].endswith('12462'):
@@ -261,7 +267,7 @@ def build_document(doc: dict, data: bytes, rec: dict):
         edicao_id=edicao_id,
         edicao_tipo='consolidada',
         edicao_integral=True,
-        edicao_relacionada=None,
+        edicao_relacionada=f'{doc["slug"]}-historica',
         fonte_orgao=spec['orgao'],
         fonte_url=spec['url'],
         fonte_formato='html',
@@ -320,6 +326,7 @@ def build_document(doc: dict, data: bytes, rec: dict):
         limites=[
             'Fonte única (Planalto); fonte_conferencia=nenhuma.',
             'Edição consolidada do Planalto; não é fac-símile do DOU original.',
+            f'Edição histórica anterior em {historica_path(doc["slug"])}.',
             'situacao=nao-informada; vigencia_certificada=false.',
             'Imagens institucionais omitidas; notas/riscados/tabelas preservados.',
         ],
@@ -336,7 +343,8 @@ def build_document(doc: dict, data: bytes, rec: dict):
     entry = dict(
         id=doc['slug'], arquivo=doc['arquivo'], norma=norma,
         edicao=dict(tipo='consolidada', integral=True, identidade='consolidada-planalto',
-                    edicao_id=edicao_id),
+                    edicao_id=edicao_id, relacionada=f'{doc["slug"]}-historica',
+                    historica=historica_path(doc['slug'])),
         situacao=dict(valor='nao-informada'),
         fonte=dict(chave=doc['fonte'], orgao=spec['orgao'], url=spec['url'], formato='html',
                    capturado_em=rec['capturado_em'], sha256=rec['sha256'],
@@ -390,7 +398,8 @@ def write_outputs(docs_out, proofs, manifest):
         '## Conteúdo\n\n'
         '- `fontes.json` e `fontes/*.htm.xz` — capturas e hashes\n'
         '- `reconciliacao-*.json` — cobertura fonte→Markdown e regressões\n'
-        '- `baseline-edicao-anterior.json` — SHA-256 das edições publicadas antes desta atualização\n'
+        '- `baseline-edicao-anterior.json` e `edicoes-anteriores/*.md.xz` — autenticação da edição anterior\n'
+        '- `federal/edicoes/*-historica.md` — edição histórica consultável (padrão #33/#59)\n'
         '- `manifesto.json` — catálogo do lote, inclusive status da MP 1.349/2026\n\n'
         '## MP 1.349/2026\n\n'
         f'- Situação no Senado: **{MP1349_STATUS["situacao_atual"]}** '
@@ -409,7 +418,8 @@ def write_outputs(docs_out, proofs, manifest):
         'detalhe em [`atualizacao-planalto-licitacao.json`](atualizacao-planalto-licitacao.json).\n\n'
         '## Regras\n\n'
         '- `vigencia_certificada` é sempre `false`; `situacao` permanece `nao-informada`.\n'
-        '- Edição `consolidada` do Planalto; a edição anterior fica autenticada em '
+        '- Edição `consolidada` do Planalto no caminho canônico; a edição anterior permanece '
+        'como `historica` em `federal/edicoes/*-historica.md`, autenticada também em '
         '`provas/atualizacao-planalto-licitacao/baseline-edicao-anterior.json`.\n'
         '- Texto riscado (`~~…~~`) e notas de alteração vêm da fonte; não se combina redação '
         'com Câmara/Senado neste lote.\n'
@@ -463,9 +473,38 @@ def verify():
         problems.append('manifesto: MP 1349 sem PERDA_EFICACIA')
     if st.get('situacao_atual') != 'SEM EFICÁCIA':
         problems.append('manifesto: MP 1349 situacao_atual inesperada')
-    baseline = PROVAS / 'baseline-edicao-anterior.json'
-    if not baseline.is_file():
+    baseline_path = PROVAS / 'baseline-edicao-anterior.json'
+    if not baseline_path.is_file():
         problems.append('baseline-edicao-anterior.json ausente')
+    else:
+        baseline = json.loads(baseline_path.read_text(encoding='utf-8'))
+        for slug, info in baseline.get('documentos', {}).items():
+            hist = ROOT / historica_path(slug)
+            if not hist.is_file():
+                problems.append(f'{slug}: edição histórica ausente em {historica_path(slug)}')
+                continue
+            meta, body = nl.parse_frontmatter(hist.read_text(encoding='utf-8'))
+            if meta.get('edicao_tipo') != 'historica':
+                problems.append(f'{slug}: edição histórica sem edicao_tipo=historica')
+            if meta.get('vigencia_certificada') is not False:
+                problems.append(f'{slug}: histórica com vigencia_certificada != false')
+            if meta.get('situacao') != 'nao-informada':
+                problems.append(f'{slug}: histórica com situacao != nao-informada')
+            if meta.get('sha256_corpo_preservado') != info.get('sha256'):
+                problems.append(f'{slug}: sha256_corpo_preservado diverge do baseline')
+            if meta.get('sha256_markdown') != nl.sha256(body.encode('utf-8')):
+                problems.append(f'{slug}: histórica sha256_markdown diverge')
+            xz = PROVAS / 'edicoes-anteriores' / f'{slug}.md.xz'
+            if not xz.is_file():
+                problems.append(f'{slug}: snapshot da edição anterior ausente')
+            else:
+                raw = lzma.decompress(xz.read_bytes())
+                if nl.sha256(raw) != info.get('sha256'):
+                    problems.append(f'{slug}: snapshot da edição anterior diverge do baseline')
+            pub_meta = nl.parse_frontmatter((ROOT / next(
+                d['arquivo'] for d in DOCS if d['slug'] == slug)).read_text(encoding='utf-8'))[0]
+            if pub_meta.get('edicao_relacionada') != f'{slug}-historica':
+                problems.append(f'{slug}: consolidada sem edicao_relacionada histórica')
     if problems:
         raise SystemExit('verify falhou:\n' + '\n'.join(problems))
     print('verify ok', flush=True)

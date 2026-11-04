@@ -9,6 +9,7 @@ esfera: "federal"
 edicao_id: "br-federal-decreto-2024-01-09-11878@consolidada-planalto"
 edicao_tipo: "consolidada"
 edicao_integral: true
+edicao_relacionada: "br-federal-decreto-2024-01-09-11878-historica"
 fonte_orgao: "Presidência da República — Planalto"
 fonte_url: "https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2024/decreto/d11878.htm"
 fonte_formato: "html"
@@ -23,7 +24,7 @@ anexos_no_corpo: 0
 tabelas: 0
 imagens_omitidas: 1
 efeitos_diferidos: "preservados-nas-notas-do-texto"
-sha256_markdown: "53efede5d99adacc846b743284270bd9f928a73927ca66fab4549edbb525dca9"
+sha256_markdown: "dce9f3e8eecd2feaf42ea8e90bc6614d08c4285652a49948dab6c15c220ce408"
 manifesto: "metadados/atualizacao-planalto-licitacao.json"
 contrato_versao: 1
 ---
@@ -38,7 +39,7 @@ Presidência da República Casa Civil Secretaria Especial para Assuntos Jurídic
 >
 > Texto entre `~~` é redação superada, vetada ou revogada que a fonte oficial mantém riscada; não é dispositivo em vigor. Notas de alteração da fonte foram preservadas.
 >
-> A edição anterior publicada neste caminho antes desta atualização está autenticada por SHA-256 em `provas/atualizacao-planalto-licitacao/baseline-edicao-anterior.json`; não foi apagada silenciosamente.
+> A edição anterior deste caminho está preservada como edição histórica em `federal/edicoes/br-federal-decreto-2024-01-09-11878-historica.md` (autenticada também por SHA-256 em `provas/atualizacao-planalto-licitacao/baseline-edicao-anterior.json`); não foi apagada silenciosamente.
 >
 > Prova: `provas/atualizacao-planalto-licitacao/reconciliacao-br-federal-decreto-2024-01-09-11878.json`. Contrato: `metadados/CONTRATO-atualizacao-planalto-licitacao.md`.
 >

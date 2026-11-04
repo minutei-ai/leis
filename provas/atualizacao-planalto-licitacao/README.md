@@ -6,7 +6,8 @@ Reconversão integral das páginas compiladas do Planalto. O acervo não certifi
 
 - `fontes.json` e `fontes/*.htm.xz` — capturas e hashes
 - `reconciliacao-*.json` — cobertura fonte→Markdown e regressões
-- `baseline-edicao-anterior.json` — SHA-256 das edições publicadas antes desta atualização
+- `baseline-edicao-anterior.json` e `edicoes-anteriores/*.md.xz` — autenticação da edição anterior
+- `federal/edicoes/*-historica.md` — edição histórica consultável (padrão #33/#59)
 - `manifesto.json` — catálogo do lote, inclusive status da MP 1.349/2026
 
 ## MP 1.349/2026

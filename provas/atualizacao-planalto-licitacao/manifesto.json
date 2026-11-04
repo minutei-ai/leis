@@ -3,7 +3,7 @@
   "lote": "atualizacao-planalto-licitacao",
   "issue": 93,
   "descricao": "Atualização da redação compilada do Planalto para os Decretos 11.246/2022 e 11.878/2024 e as Leis 12.527/2011 e 12.462/2011, com notas de alteração e registro da perda de eficácia da MP 1.349/2026.",
-  "gerado_em": "2026-11-04T19:07:41Z",
+  "gerado_em": "2026-11-04T19:51:30Z",
   "vigencia_certificada": false,
   "mp_1349_status": {
     "materia_codigo": "173530",
@@ -42,7 +42,9 @@
         "tipo": "consolidada",
         "integral": true,
         "identidade": "consolidada-planalto",
-        "edicao_id": "br-federal-decreto-2022-10-27-11246@consolidada-planalto"
+        "edicao_id": "br-federal-decreto-2022-10-27-11246@consolidada-planalto",
+        "relacionada": "br-federal-decreto-2022-10-27-11246-historica",
+        "historica": "federal/edicoes/br-federal-decreto-2022-10-27-11246-historica.md"
       },
       "situacao": {
         "valor": "nao-informada"
@@ -59,7 +61,7 @@
         "sha256_snapshot_armazenado": "ab5391b1aad2c6985eb5f344d5bc5818b20605dcd5455d19a037a8a7d4120e01"
       },
       "prova": "provas/atualizacao-planalto-licitacao/reconciliacao-br-federal-decreto-2022-10-27-11246.json",
-      "sha256_markdown": "8a845b78eea9021335926cb05a75a857dc43d435123763f11dc38704f800f998",
+      "sha256_markdown": "c79222b1f1b62939dfdf23547b4a11cfb7d22462085fba1e9f9e776001c8c209",
       "regressao": [
         "art8-par1-gestores",
         "nota-13031",
@@ -81,7 +83,9 @@
         "tipo": "consolidada",
         "integral": true,
         "identidade": "consolidada-planalto",
-        "edicao_id": "br-federal-decreto-2024-01-09-11878@consolidada-planalto"
+        "edicao_id": "br-federal-decreto-2024-01-09-11878@consolidada-planalto",
+        "relacionada": "br-federal-decreto-2024-01-09-11878-historica",
+        "historica": "federal/edicoes/br-federal-decreto-2024-01-09-11878-historica.md"
       },
       "situacao": {
         "valor": "nao-informada"
@@ -98,7 +102,7 @@
         "sha256_snapshot_armazenado": "296e4dd3c4cadd93bf099d9db9c9b31f98b314ac25fcabae14cbab75b2d750ae"
       },
       "prova": "provas/atualizacao-planalto-licitacao/reconciliacao-br-federal-decreto-2024-01-09-11878.json",
-      "sha256_markdown": "53efede5d99adacc846b743284270bd9f928a73927ca66fab4549edbb525dca9",
+      "sha256_markdown": "dce9f3e8eecd2feaf42ea8e90bc6614d08c4285652a49948dab6c15c220ce408",
       "regressao": [
         "art1-incisos",
         "nota-13106"
@@ -118,7 +122,9 @@
         "tipo": "consolidada",
         "integral": true,
         "identidade": "consolidada-planalto",
-        "edicao_id": "br-federal-lei-2011-11-18-12527@consolidada-planalto"
+        "edicao_id": "br-federal-lei-2011-11-18-12527@consolidada-planalto",
+        "relacionada": "br-federal-lei-2011-11-18-12527-historica",
+        "historica": "federal/edicoes/br-federal-lei-2011-11-18-12527-historica.md"
       },
       "situacao": {
         "valor": "nao-informada"
@@ -135,7 +141,7 @@
         "sha256_snapshot_armazenado": "a7354999ce1c43a9ada33bcc45275e0fcdfa8e1ec6480344104bbd4b520bbe85"
       },
       "prova": "provas/atualizacao-planalto-licitacao/reconciliacao-br-federal-lei-2011-11-18-12527.json",
-      "sha256_markdown": "1bf69fa21df84d35b2ad330f71426782707d2bd7be4d2a67426a634432188cbf",
+      "sha256_markdown": "da6ff8f4d7298126448c00915279db1eeb5edad026a175e7ca10732c4a8be17f",
       "regressao": [
         "art-8a",
         "art-8b",
@@ -156,7 +162,9 @@
         "tipo": "consolidada",
         "integral": true,
         "identidade": "consolidada-planalto",
-        "edicao_id": "br-federal-lei-2011-08-04-12462@consolidada-planalto"
+        "edicao_id": "br-federal-lei-2011-08-04-12462@consolidada-planalto",
+        "relacionada": "br-federal-lei-2011-08-04-12462-historica",
+        "historica": "federal/edicoes/br-federal-lei-2011-08-04-12462-historica.md"
       },
       "situacao": {
         "valor": "nao-informada"
@@ -173,7 +181,7 @@
         "sha256_snapshot_armazenado": "9226b5301697a7fe752c4ab88d95b624839b58f4a18568e6a5ea57e2392de7b8"
       },
       "prova": "provas/atualizacao-planalto-licitacao/reconciliacao-br-federal-lei-2011-08-04-12462.json",
-      "sha256_markdown": "e47f6a22cd7d86e5f86830322141cb4df45a3386155821f8cde9532bc1af48c0",
+      "sha256_markdown": "88e67c3b22c40923c1196679c6eae860f3c0b6366fa49101d4fd2b1c2f5714b3",
       "regressao": [
         "art63-par17",
         "nota-mp1349"

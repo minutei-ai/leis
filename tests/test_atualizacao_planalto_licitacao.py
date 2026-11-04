@@ -92,6 +92,23 @@ class TestAtualizacaoPlanaltoLicitacao(unittest.TestCase):
             self.assertIn(slug, BASELINE['documentos'])
             self.assertEqual(len(BASELINE['documentos'][slug]['sha256']), 64)
 
+    def test_edicao_historica_publicada(self):
+        for doc in lote.DOCS:
+            slug = doc['slug']
+            with self.subTest(slug=slug):
+                hist = ROOT / lote.historica_path(slug)
+                self.assertTrue(hist.is_file(), hist)
+                meta, body = nl.parse_frontmatter(hist.read_text(encoding='utf-8'))
+                self.assertEqual(meta['edicao_tipo'], 'historica')
+                self.assertIs(meta['vigencia_certificada'], False)
+                self.assertEqual(meta['situacao'], 'nao-informada')
+                self.assertEqual(meta['sha256_corpo_preservado'], BASELINE['documentos'][slug]['sha256'])
+                self.assertEqual(meta['sha256_markdown'], nl.sha256(body.encode('utf-8')))
+                consol_meta, consol_body = nl.parse_frontmatter(
+                    (ROOT / doc['arquivo']).read_text(encoding='utf-8'))
+                self.assertEqual(consol_meta['edicao_relacionada'], f'{slug}-historica')
+                self.assertIn(lote.historica_path(slug), consol_body)
+
     def test_cobertura_fonte_markdown(self):
         for slug, proof in self.proofs.items():
             with self.subTest(slug=slug):
