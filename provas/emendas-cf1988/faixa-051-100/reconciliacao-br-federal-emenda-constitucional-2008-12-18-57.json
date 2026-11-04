@@ -1,0 +1,74 @@
+{
+  "documento": "br-federal-emenda-constitucional-2008-12-18-57",
+  "fonte_principal": "planalto-emc57",
+  "sha256_fonte_principal": "f450c099b0163d514ffc9a678a06ebbd4ed138ceb08abc785ee17326c06a38ce",
+  "sha256_conteudo": "29265cd3302d73448f6c77e0c8463f21fd124d891b06296f638910c329ce021d",
+  "capturado_em": "2026-11-04T12:40:24Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc57.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-051-100/fontes/planalto-emc57.htm.xz",
+  "sha256_snapshot_armazenado": "3d852342395b1556f3ad67d5c35c83ec4343e6d2bfc8d015d7289a4e6cfe1429",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": "https://www2.camara.leg.br/legin/fed/emecon/2008/emendaconstitucional-57-18-dezembro-2008-584930-publicacaooriginal-107792-pl.html",
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 1279,
+    "caracteres_normalizados_markdown": 1279,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 11,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2008-12-18-57",
+    "numero": "57",
+    "data": "2008-12-18",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 57, DE 18 DE DEZEMBRO DE 2008",
+    "ementa": "Acrescenta artigo ao Ato das Disposições Constitucionais Transitórias para convalidar os atos de criação, fusão, incorporação e desmembramento de Municípios.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2008-12-18;57",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}

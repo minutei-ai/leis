@@ -1,0 +1,68 @@
+{
+  "documento": "br-federal-emenda-constitucional-2013-04-02-72",
+  "fonte_principal": "planalto-emc72",
+  "sha256_fonte_principal": "f78fe3e5b38a491ee6e7030442b274ac0eedcb4fb4f2d962ae21f386f482d63b",
+  "sha256_conteudo": "311e389071a216ac4c32d9ede194efff283622e03471f64d1ffbdd8c2d47ebd2",
+  "capturado_em": "2026-11-04T12:40:24Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc72.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-051-100/fontes/planalto-emc72.htm.xz",
+  "sha256_snapshot_armazenado": "ccbef2e3cc598e466cc48505181e7f0e918b9a61a585cb9f1f1ac5cd322aab76",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": "https://www2.camara.leg.br/legin/fed/emecon/2013/emendaconstitucional-72-2-abril-2013-775615-publicacaooriginal-139358-pl.html",
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 1443,
+    "caracteres_normalizados_markdown": 1443,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 2,
+    "tabelas_markdown": 0,
+    "tabelas_html": 1,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 2,
+        "com_mesclagem": true
+      }
+    ],
+    "blocos": 12,
+    "artigos": 0,
+    "primeiros_artigos": [],
+    "ultimos_artigos": [],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2013-04-02-72",
+    "numero": "72",
+    "data": "2013-04-02",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 72, DE 2 DE ABRIL DE 2013",
+    "ementa": "Altera a redação do parágrafo único do art. 7º da Constituição Federal para estabelecer a igualdade de direitos trabalhistas entre os trabalhadores domésticos e os demais trabalhadores urbanos e rurais.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2013-04-02;72",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}

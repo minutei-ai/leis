@@ -1,0 +1,76 @@
+{
+  "documento": "br-federal-emenda-constitucional-2007-09-20-54",
+  "fonte_principal": "planalto-emc54",
+  "sha256_fonte_principal": "d4d78b4f1e3eee0ee938c1b6276a211ffc473e2adf1d4aedd383e70c06a66628",
+  "sha256_conteudo": "a79c8b252036a52802219f1af6fe9a2088d6256383584c7d27b354b1a37a86c1",
+  "capturado_em": "2026-11-04T12:40:24Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc54.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-051-100/fontes/planalto-emc54.htm.xz",
+  "sha256_snapshot_armazenado": "846bf9205aa8fbea2ddb3d47d9b8c0724ed0f1d816b2a96928783dd58e66629f",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": "https://www2.camara.leg.br/legin/fed/emecon/2007/emendaconstitucional-54-20-setembro-2007-559896-publicacaooriginal-82340-pl.html",
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 1722,
+    "caracteres_normalizados_markdown": 1722,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 3,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 17,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2007-09-20-54",
+    "numero": "54",
+    "data": "2007-09-20",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 54, DE 20 DE SETEMBRO DE 2007",
+    "ementa": "Dá nova redação à alínea c do inciso I do art. 12 da Constituição Federal e acrescenta art. 95 ao Ato das Disposições Constitucionais Transitórias, assegurando o registro nos consulados de brasileiros nascidos no estrangeiro.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2007-09-20;54",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}

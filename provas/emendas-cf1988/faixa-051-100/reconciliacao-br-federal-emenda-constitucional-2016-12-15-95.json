@@ -1,0 +1,70 @@
+{
+  "documento": "br-federal-emenda-constitucional-2016-12-15-95",
+  "fonte_principal": "planalto-emc95",
+  "sha256_fonte_principal": "4b57023d04fb01ba7e41d88494d1f489cd00b47c82150b2d835cb48c39d636ca",
+  "sha256_conteudo": "25f7de4cb0fe1a70a1bd47a064f735a5332a0e613c0cc663330f8132a4a28b20",
+  "capturado_em": "2026-11-04T12:40:24Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc95.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-051-100/fontes/planalto-emc95.htm.xz",
+  "sha256_snapshot_armazenado": "8b9fba9459ac2635f9de182bea3cba2e24f4d4f6ed4fd4f87b955a4fbd03068e",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": null,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 8803,
+    "caracteres_normalizados_markdown": 8803,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 12,
+    "tabelas_markdown": 0,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [],
+    "blocos": 76,
+    "artigos": 3,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2",
+      "3"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2016-12-15-95",
+    "numero": "95",
+    "data": "2016-12-15",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 95, DE 15 DE DEZEMBRO DE 2016",
+    "ementa": "Altera o Ato das Disposições Constitucionais Transitórias, para instituir o Novo Regime Fiscal, e dá outras providências.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2016-12-15;95",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}
