@@ -1,0 +1,42 @@
+{
+  "planalto-l8213cons": {
+    "orgao": "Presidência da República — Planalto",
+    "formato": "html",
+    "url": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm",
+    "capturado_em": "2026-11-04T12:22:09Z",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "http_status": 200,
+    "url_final": "https://www.planalto.gov.br/ccivil_03/leis/l8213cons.htm",
+    "bytes": 755476,
+    "sha256": "ac63647218cb1b9a5907987cd0732907cb2e3bcd7276729412ed1d52ca1b4511",
+    "sha256_conteudo": "144eed4b96f3607d20b2c872c9cc3d4c501ea342ccb590b16016ee1a2f222461",
+    "utilizavel": true,
+    "dou_aviso": "Este texto não substitui o publicado no DOU de 25.7.1991, republicado 11.4.1996 e republicado em 14.8.1998",
+    "snapshot": "provas/nucleo-federal-beneficios-mdp/fontes/planalto-l8213cons.htm.xz",
+    "sha256_snapshot_armazenado": "68cee96144f213f8941c1cdbbf95ecf08efe138be35722970ea467bace8246ea",
+    "charset": "cp1252",
+    "cabecalho_date": "Wed, 04 Nov 2026 12:22:01 GMT",
+    "cabecalho_last_modified": "Tue, 08 Sep 2026 14:20:44 GMT",
+    "cabecalho_etag": "\"b80fd-65af970b5147b\"",
+    "cabecalho_content_type": "text/html"
+  },
+  "camara-lei-11340-normaatualizada": {
+    "orgao": "Câmara dos Deputados — LegIn",
+    "formato": "html",
+    "url": "https://www2.camara.leg.br/legin/fed/lei/2006/lei-11340-7-agosto-2006-545133-normaatualizada-pl.html",
+    "capturado_em": "2026-11-04T12:22:09Z",
+    "user_agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "http_status": 200,
+    "url_final": "https://www2.camara.leg.br/legin/fed/lei/2006/lei-11340-7-agosto-2006-545133-normaatualizada-pl.html",
+    "bytes": 130690,
+    "sha256": "b02420f09f0ce1a4de35f39efe44c79e4d6953a64342d2155813c7485fe92f8a",
+    "sha256_conteudo": "b02420f09f0ce1a4de35f39efe44c79e4d6953a64342d2155813c7485fe92f8a",
+    "utilizavel": true,
+    "dou_aviso": null,
+    "snapshot": "provas/nucleo-federal-beneficios-mdp/fontes/camara-lei-11340-normaatualizada.html.xz",
+    "sha256_snapshot_armazenado": "d11b0f4efb0c1631ae656ca76b6c82760d6bcbccb017d63d9d4ddded4a7e1a63",
+    "charset": "utf-8",
+    "cabecalho_date": "Wed, 04 Nov 2026 12:22:11 GMT",
+    "cabecalho_content_type": "text/html; charset=UTF-8"
+  }
+}
