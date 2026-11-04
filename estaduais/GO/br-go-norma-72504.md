@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 13-01-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.589 / 2020
 
 <table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
@@ -19,7 +25,5 @@ Decreto Numerado n° 9.589 / 2020
 (NR) ”
 
 &nbsp;
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 13-01-2020.*
 
 </td></tr></tbody></table>

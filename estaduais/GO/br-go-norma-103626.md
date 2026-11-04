@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 14-12-2020_ _(vide Errata D.O. 18-12-2020).
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.913 / 2020           Lei Ordinária n° 20.913 / 2020
 
 <img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
@@ -131,5 +137,3 @@ Goiânia, 14 de dezembro de 2020; 132º da República.
 RONALDO CAIADO
 
 Governador do Estado
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 14-12-2020_ _(vide Errata D.O. 18-12-2020)._

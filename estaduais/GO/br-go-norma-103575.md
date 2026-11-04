@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 06-11-2020
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.740 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -143,6 +149,5 @@ Governador do Estado
 
 (D.O. de 06-11-2020-Suplemento)
 
-*Este texto não substitui o publicado no Suplemento do D.O. de 06-11-2020*
 *.
 *

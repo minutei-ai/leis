@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado na Edição Extra do D.O. de 08-11-2020
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.741 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -28,6 +34,5 @@ Governador do Estado
 </h2>
 (D.O. de 08-11-2020-Edição Extra)
 
-*Este texto não substitui o publicado na Edição Extra do D.O. de 08-11-2020*
 * ..
 *

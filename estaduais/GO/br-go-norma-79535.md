@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 11-03-20200_ _.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 012 / 2020
 
 ![](/assets/brasao_goias.gif)
@@ -31,6 +37,4 @@ QUADRO 1
 
   QUADRO 2 
 
-<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18">&nbsp;</td></tr><tr><td colspan="5"> **2550 - FUNDO DE ARTE E CULTURA DO ESTADO DE GOIÁS - FUNDO CULTURAL** </td><td height="18">&nbsp;</td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 13 392 1026 2.101 </td><td valign="top"> PROMOÇÃO E APOIO A FESTAS E EVENTOS ARTÍSTICOS E CULTURAIS EM GOIÁS </td><td valign="top"> 3 - OUTRAS DESPESAS CORRENTES </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 0,00 </td><td valign="top"> R$ 257.268,00 </td><td colspan="2" valign="top"> R$ 257.268,00 </td><td height="8">&nbsp;</td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 257.268,00 </td><td height="8">&nbsp;</td></tr></tbody></table>
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 11-03-20200_ _._
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18">&nbsp;</td></tr><tr><td colspan="5"> **2550 - FUNDO DE ARTE E CULTURA DO ESTADO DE GOIÁS - FUNDO CULTURAL** </td><td height="18">&nbsp;</td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 13 392 1026 2.101 </td><td valign="top"> PROMOÇÃO E APOIO A FESTAS E EVENTOS ARTÍSTICOS E CULTURAIS EM GOIÁS </td><td valign="top"> 3 - OUTRAS DESPESAS CORRENTES </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 0,00 </td><td valign="top"> R$ 257.268,00 </td><td colspan="2" valign="top"> R$ 257.268,00 </td><td height="8">&nbsp;</td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 257.268,00 </td><td height="8">&nbsp;

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 16-10-2020.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 236 / 2020             DECRETO Nº 9.626, DE 10 DE MARÇO DE 2020.
 
 <table border="0" cellpadding="0" id="table1" width="100%"><tbody><tr><td width="100%">
@@ -28,7 +34,5 @@ QUADRO 2
 # &nbsp; &nbsp;
 
 &nbsp;
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 16-10-2020.*
 
 </td></tr></tbody></table>

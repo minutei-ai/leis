@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no S.D.O. de 27-12-2019.](<https://legisla.casacivil.go.gov.br/api/v1/arquivos/18454>)
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.694 / 2019 ![](/assets/brasao_goias.gif) **GOVERNO DO ESTADO DE GOIÁSSecretaria de Estado da Casa CivilLEI No20.694, DE 26 DE DEZEMBRO DE 2019.  
 **\\- [Vide Decreto nº 10.591, de 10-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110120/decreto-10591) (Regulamento).  
 \\- [Vide Decreto no 9.890, de 22-12-2019](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104084/decreto-9890) (Regulamento).  
@@ -89,4 +95,4 @@ TIPOLOGIA VALOR RENOVAÇÃO Valor correspondente à taxa de Outorga RETIFICAÇÃ
 
  
 
-** _[Este texto não substitui o publicado no S.D.O. de 27-12-2019.](<https://legisla.casacivil.go.gov.br/api/v1/arquivos/18454>)_**
+** _[

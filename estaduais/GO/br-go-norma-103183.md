@@ -23,6 +23,6 @@ QUADRO 2
 
 &nbsp;
 
-*Este texto não substitui o publicado do D.O. de 01-06-2020.* &nbsp;
+&nbsp;
 
 </td></tr></tbody></table>

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no&nbsp; D.O. de 14-01-2021** .
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.786 / 2021
 
 <table border="0" cellpadding="0" id="table1" width="100%"><tbody><tr><td class="Normal" width="100%">
@@ -22,7 +28,5 @@ Goiânia,&nbsp;12&nbsp;de&nbsp;janeiro&nbsp;de 2021; 133º&nbsp;da República. &
 
 RONALDO CAIADO
 Governador do Estado
-
-*Este texto não substitui o publicado no&nbsp; D.O. de 14-01-2021** .*
 
 </td></tr></tbody></table>

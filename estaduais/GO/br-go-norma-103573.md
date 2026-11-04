@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 06-11-2020
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.897 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -31,6 +37,5 @@ Goiânia, 06 de novembro de 2020; 1322<sup>o</sup> da República.
 RONALDO CAIADO
 Governador do Estado
 
-*Este texto não substitui o publicado no Suplemento do D.O. de 06-11-2020*
 *...
 *

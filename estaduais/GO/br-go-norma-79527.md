@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 11-03-20200_ _.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 004 / 2020
 
 ![](/assets/brasao_goias.gif)
@@ -32,8 +38,4 @@ QUADRO 1
 
   QUADRO 2 
 
-<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18">&nbsp;</td></tr><tr><td colspan="5"> **100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS 101 - GABINETE&nbsp; DO&nbsp; PRESIDENTE&nbsp; DA&nbsp; ASSEMBLEIA&nbsp; LEGISLATIVA** </td><td height="18">&nbsp;</td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 01 031 4100 4.101 </td><td valign="top"> PESSOAL ATIVO E ENCARGOS SOCIAIS DA ALEGO </td><td valign="top"> 1 - PESSOAL E ENCARGOS SOCIAIS </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 268.000.000,00 </td><td valign="top"> R$ 1.990.000,00 </td><td colspan="2" valign="top"> R$ 1.990.000,00 </td><td height="8">&nbsp;</td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 1.990.000,00 </td><td height="8">&nbsp;</td></tr></tbody></table>
-
-_
-
-Este texto não substitui o publicado no Suplemento do D.O. de 11-03-20200_ _._
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18">&nbsp;</td></tr><tr><td colspan="5"> **100 - ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS 101 - GABINETE&nbsp; DO&nbsp; PRESIDENTE&nbsp; DA&nbsp; ASSEMBLEIA&nbsp; LEGISLATIVA** </td><td height="18">&nbsp;</td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 01 031 4100 4.101 </td><td valign="top"> PESSOAL ATIVO E ENCARGOS SOCIAIS DA ALEGO </td><td valign="top"> 1 - PESSOAL E ENCARGOS SOCIAIS </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 268.000.000,00 </td><td valign="top"> R$ 1.990.000,00 </td><td colspan="2" valign="top"> R$ 1.990.000,00 </td><td height="8">&nbsp;</td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 1.990.000,00 </td><td height="8">&nbsp;

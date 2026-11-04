@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento D.O. de 21-12-2020](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18490).
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.917 / 2020           Lei Ordinária n° 20.913 / 2020
 
 <img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
@@ -1855,4 +1861,4 @@ ANEXO III
 
                                                                                                                                                                                                                          .........................................” (NR)
 
-_\- [Este texto não substitui o publicado no Suplemento D.O. de 21-12-2020](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18490)._
+_\- [

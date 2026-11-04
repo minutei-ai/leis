@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 30-11-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.757 / 2020
 
 ![](/assets/brasao_goias.gif)
@@ -35,5 +41,3 @@ QUADRO DE DISTRIBUIÇÃO DE COTAS E VALOR EQUIVALENTE
 <table cellspacing="0" cellpadding="0" id="table2"><tbody><tr><td> **Nº DE&nbsp;ORDEM** </td><td> **ÓRGÃO** </td><td> **Nº DE COTAS** </td><td> **VALOREQUIVALENTE - R$** </td></tr><tr><td> ................. </td><td> ....................................................................................... </td><td> ............... </td><td> .................................. </td></tr><tr><td> 4 </td><td> AGÊNCIA GOIANA DE DEFESA AGROPECUÁRIA - &nbsp;AGRODEFESA </td><td> 615 </td><td> 92.250,00 </td></tr><tr><td> ................. </td><td> ....................................................................................... </td><td> ............... </td><td> .................................. </td></tr><tr><td> 16 </td><td> JUNTA COMERCIAL DO ESTADO DE GOIÁS - JUCEG </td><td> 722 </td><td> 108.300,00 </td></tr><tr><td> ................. </td><td> ....................................................................................... </td><td> ............... </td><td> .................................. </td></tr><tr><td colspan="2"> **TOTAL GERAL** </td><td> **24.426** </td><td> **3.663.900,00** </td></tr></tbody></table>
 
                                                                                                                                              ” (NR)
-
- _Este texto não substitui o publicado no Suplemento do D.O. de 30-11-2020._

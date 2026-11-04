@@ -38,5 +38,3 @@ PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 13 de março de 2020, 132�
 RONALDO RAMOS CAIADO
 
 (D.O. de 16-03-2020)
-
-*Este texto não substitui o publicado do D.O. de 16-03-2020.*

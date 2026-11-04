@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 29-09-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.719 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -224,7 +230,3 @@ Assinatura do declarante
 
 <del>_____________________________________________
 Assinatura do declarante
-</del>
-
-*
-Este texto não substitui o publicado no Suplemento do D.O. de 29-09-2020.*

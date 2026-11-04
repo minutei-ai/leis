@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 14-12-2020.
+
+<!-- nota-edicao:fim -->
+
 Lei Complementar n° 159 / 2020
 
  ![](/assets/brasao_goias.gif)
@@ -157,5 +163,3 @@ Tabelas das tarefas típicas e pré-requisitos para cargos de provimento em comi
 <table cellspacing="0" cellpadding="0" id="table17"><tbody><tr><td valign="top"> Grupo Ocupacional </td><td valign="top"> Cargo de provimento em comissão de nível superior </td></tr><tr><td valign="top"> Denominação </td><td valign="top"> Coordenador Administrativo da Procuradoria-Geral de Justiça </td></tr><tr><td valign="top"> Quantitativo </td><td valign="top"> 2 </td></tr><tr><td valign="top"> Pré-requisito: </td><td valign="top"> Formação de nível superior. </td></tr><tr><td valign="top"> Remuneração (símbolo) </td><td valign="top"> CC-9 </td></tr><tr><td colspan="2" valign="top"> Descrição Sumária das Tarefas </td></tr><tr><td colspan="2" valign="top"> &nbsp; Coordenar as atividades da Procuradoria-Geral de Justiça do Ministério Público do Estado de Goiás, auxiliando o Procurador-Geral de Justiça no planejamento, organização, supervisão e controle das atividades administrativas do órgão; receber documentos e expedientes distribuídos ao Ministério Público e dar-lhes o devido andamento; executar outras tarefas compatíveis com suas atribuições, a critério da chefia imediata ou institucional. &nbsp; </td></tr></tbody></table>
 
 ..................................................................................................................................................................…” (NR)
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 14-12-2020._

@@ -27,7 +27,3 @@ QUADRO 2
 &nbsp;
 
 &nbsp;
-
-*Este texto não substitui o publicado do D.O. de 01-06-2020.*
-
-</td></tr></tbody></table>

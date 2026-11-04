@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no DPL de
+
+<!-- nota-edicao:fim -->
+
 ![](https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/brasao.png)
 
 EMENDA CONSTITUCIONAL Nº 103, DE 18 DE DEZEMBRO DE 2015
@@ -23,5 +29,3 @@ ENIVALDO DOS ANJOS
 CACAU LORENZONI
 
 2º Secretário
-
-Este texto não substitui o publicado no DPL de

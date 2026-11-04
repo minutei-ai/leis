@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 30-12-2020~~ .
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.913 / 2020
 
 LEI Nº 20.952, DE 30 DE DEZEMBRO DE 2020
@@ -19,5 +25,3 @@ Governador do Estado
 CORONEL ADAILTON
 
 Deputado Estadual
-
-Este texto não substitui o publicado no Suplemento do D.O. de 30-12-2020~~ .~~

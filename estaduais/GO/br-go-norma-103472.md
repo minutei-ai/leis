@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 15-10-2020
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.725 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -59,5 +65,3 @@ _______________, _____ de _________ de 2020.
 ________________________________________
 
 Assinatura do declarante
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 15-10-2020*

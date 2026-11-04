@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento D.O. de 02-07-2020.
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.799 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -49,5 +55,3 @@ RONALDO CAIADO
 Governador do Estado
 
 (D.O. de 02-07-2020-Suplemento)
-
-*Este texto não substitui o publicado no Suplemento D.O. de 02-07-2020.*

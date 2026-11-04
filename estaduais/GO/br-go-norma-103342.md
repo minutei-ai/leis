@@ -29,5 +29,3 @@ Governador do Estado
 
 DELEGADO HUMBERTO TEÓFILO
 Deputado Estadual
-
-*Este texto não substitui o publicado do D.O. de 02-09-2020.*

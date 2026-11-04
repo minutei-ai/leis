@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 03-04-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.645 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -38,5 +44,3 @@ PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 03 de abril de 2020; 132o 
 RONALDO CAIADO
 
 (D.O. de 03-04-2020 - Suplemento)
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 03-04-2020.*

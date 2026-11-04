@@ -25,7 +25,3 @@ QUADRO 2
 <table cellpadding="0"><tbody><tr><td valign="top" colspan="5"> **REDUÇÃO** </td></tr><tr><td colspan="5"> **3051 - FUNDO ESTADUAL DE ASSISTÊNCIA SOCIAL - FEAS** </td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td></tr><tr><td valign="top"> 08 422 1023 2.085 </td><td valign="top"> AÇÃO DE PROMOÇÃO DA JUVENTUDE </td><td valign="top"> 3 - OUTRAS DESPESAS CORRENTES </td><td valign="top"> 100 </td><td valign="top"> 90 </td></tr><tr><td valign="top" colspan="2"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td valign="top" colspan="2"> **VALOR A REDUZIR** </td></tr><tr><td valign="top" colspan="2"> R$ 43.134.743,94 </td><td valign="top"> R$ 397.563,22 </td><td valign="top" colspan="2"> R$ 397.563,22 </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top" colspan="2"> **VALOR TOTAL A REDUZIR** </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top" colspan="2"> R$ 397.563,22 </td></tr></tbody></table>
 
 &nbsp;
-
-*Este texto não substitui o publicado do D.O. de 01-06-2020.*
-
-</td></tr></tbody></table>

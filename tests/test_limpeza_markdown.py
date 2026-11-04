@@ -39,7 +39,7 @@ PORTAL_FAMILIES = {
         r'Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo',
     ),
     'diario_oficial': re.compile(
-        r'Este texto não substitui o publicado\s+(?:n[oa]|d[oe])\s+D\.?\s*O\.?\s*U?\.?',
+        r'Este texto não substitui\b',
         re.I,
     ),
 }
@@ -161,7 +161,15 @@ class LimpezaUnit(unittest.TestCase):
         out, res = lm.process_text(src, 'federal/x.md', write_assets=False)
         self.assertIn('diario_oficial', res.portals_removed)
         self.assertIn('Art. 1º Norma.', out)
-        self.assertNotIn('não substitui', out)
+        body_wo_note = re.sub(
+            r'<!--\s*nota-edicao:inicio\s*-->.*?<!--\s*nota-edicao:fim\s*-->',
+            '',
+            out,
+            flags=re.I | re.S,
+        )
+        self.assertNotIn('não substitui', body_wo_note)
+        self.assertIn('nota-edicao:inicio', out)
+        self.assertIn('Este texto não substitui o publicado no D.O.U. de 1º/1/2020.', out)
 
     def test_dou_aviso_kept_inside_edition_note(self):
         src = (
@@ -183,6 +191,52 @@ class LimpezaUnit(unittest.TestCase):
             flags=re.I | re.S,
         )
         self.assertNotIn('não substitui', body_wo_note)
+
+    def test_dou_suplemento_dpl_pa_variants_to_note(self):
+        cases = [
+            (
+                'estaduais/GO/x.md',
+                'Art. 1º X.\n\n(D.O. de 13-01-2020-Suplemento) '
+                '*Este texto não substitui o publicado no Suplemento do D.O. de 13-01-2020.*\n',
+                'Suplemento do D.O.',
+                'D.O. de 13-01-2020-Suplemento',
+            ),
+            (
+                'estaduais/ES/x.md',
+                'Art. 1º X.\n\nEste texto não substitui o publicado no D.P.L. de 19/11/2015.\n',
+                'D.P.L.',
+                'Art. 1º X.',
+            ),
+            (
+                'estaduais/PA/x.md',
+                'Art. 1º X.\n\nDOE Nº 1.\n\n\\*Este texto não substitui o texto '
+                'publicado no Diário Oficial do Estado do Pará.\n',
+                'Diário Oficial do Estado do Pará',
+                'DOE Nº 1.',
+            ),
+            (
+                'municipais/5208707/x.md',
+                '<!-- nota-edicao:inicio -->\n\n> Captura SILEG.\n\n<!-- nota-edicao:fim -->\n\n'
+                'Art. 1º X.\n\nEste texto não substitui o publicado no '
+                '[DOM 8318 de 25/06/2024.](https://example.test/do.pdf)\n',
+                'DOM 8318',
+                'Art. 1º X.',
+            ),
+        ]
+        for path, src, needle, keep in cases:
+            with self.subTest(path=path):
+                out, res = lm.process_text(src, path, write_assets=False)
+                self.assertIn('diario_oficial', res.portals_removed)
+                self.assertIn(keep, out)
+                self.assertIn(needle, out)
+                self.assertIn('nota-edicao:inicio', out)
+                body_wo_note = re.sub(
+                    r'<!--\s*nota-edicao:inicio\s*-->.*?<!--\s*nota-edicao:fim\s*-->',
+                    '',
+                    out,
+                    flags=re.I | re.S,
+                )
+                self.assertNotIn('não substitui', body_wo_note)
 
     def test_link_and_relation_text_preserved(self):
         src = (
@@ -351,10 +405,10 @@ class LimpezaCorpusGates(unittest.TestCase):
             0,
         )
 
-        # Aviso DOU/D.O. fora de <!-- nota-edicao --> (proveniência editorial pode ficar na nota).
+        # Aviso «não substitui…» fora de <!-- nota-edicao --> (proveniência fica na nota).
         offenders = []
         for rel in sorted(_rg_files(
-            r'Este texto não substitui o publicado\s+(?:n[oa]|d[oe])\s+D\.?\s*O',
+            r'Este texto não substitui\b',
             self.roots,
         )):
             text = (ROOT / rel).read_text(encoding='utf-8', errors='replace')
@@ -364,11 +418,7 @@ class LimpezaCorpusGates(unittest.TestCase):
                 text,
                 flags=re.I | re.S,
             )
-            if re.search(
-                r'Este texto não substitui o publicado\s+(?:n[oa]|d[oe])\s+D\.?\s*O',
-                body,
-                re.I,
-            ):
+            if re.search(r'Este texto não substitui\b', body, re.I):
                 offenders.append(rel)
         self.assertEqual(offenders, [], offenders[:20])
 

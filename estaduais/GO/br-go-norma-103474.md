@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 15-10-2020
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.727 / 2020 ![](/assets/brasao_goias.gif) **GOVERNO DO ESTADO DE GOIÁSSecretaria de Estado da Casa Civil DECRETO Nº 9.727, DE 15 DE OUTUBRO DE 2020** Altera o Anexo IX do Decreto nº 4.852, de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE. **O GOVERNADOR DO ESTADO DE GOIÁS **, no uso de suas atribuições constitucionais, com fundamento no art. 37, IV, da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual-) , no art. 4º das Disposições Finais e Transitórias da Lei nº 11.651, de 26 de dezembro de 1991, Código Tributário do Estado de Goiás – CTE, tendo em vista o Decreto Legislativo nº 567, de 29 de setembro de 2020, que aprova o Convênio ICMS 81/20, de 2 de setembro de 2020, e o que consta no Processo nº 202000004077960, **DECRETA: ** Art. 1º O Anexo IX do Decreto nº 4.852, de 29 de dezembro de 1997, Regulamento do Código Tributário do Estado de Goiás – RCTE, passa a vigorar com as seguintes alterações: “Art. 7º ............................................................ .............................................................................. LXXII – as operações de doações das mercadorias constantes do Apêndice XLVII deste Anexo realizadas por pessoa jurídica, contribuinte ou não do ICMS quando destinadas ao Tribunal Superior Eleitoral – TSE e demais órgãos integrantes da Justiça Eleitoral para a realização das eleições municipais de 2020, com a manutenção de crédito, observado o seguinte: a) a isenção prevista no *caput* deste inciso abrange também: 1\. o imposto incidente nas prestações de serviço de transporte das mercadorias objeto da doação; 2\. o diferencial de alíquota entre a alíquota interestadual e interna, se couber; e 3\. o produto resultante da sua industrialização; b) a entrega do produto da doação prevista no *caput *deste inciso pode ser efetuada diretamente a qualquer órgão da Justiça Eleitoral ou ao estabelecimento indicado pelo TSE para a sua industrialização, quando for o caso, desde que o local da entrega esteja expressamente indicado no documento fiscal relativo à operação e prestação. § 1º ................................................................. INCISO ATO DATA LIMITE ............... .......................... ......................... LXXII CV ICMS 81/20 29/11/2020
 
  
@@ -70,9 +76,3 @@ LISTA DE BENS A SEREM DOADOS
 16.   Posters impressos em tinta colorida em tamanho A3 com recomendações sanitárias.
 
 17.   Posters impressos em tinta colorida em tamanho mínimo de 54 cm x 74 cm com recomendações sanitárias.” (NR)
-
- 
-
- 
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 15-10-2020_

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 19-03-2020.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 32 / 2020
 
 ![](/assets/brasao_goias.gif)
@@ -33,6 +39,4 @@ QUADRO 1
 
 QUADRO 2  
 
-<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18"></td></tr><tr><td colspan="5"> **3100 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO E INOVAÇÃO 3101 - GABINETE SECRETARIA DE ESTADO DE DESENVOLVIMENTO E INOVAÇÃO** </td><td height="18"></td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 04 122 4200 4.230 </td><td valign="top"> GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA SEDI </td><td valign="top"> 3 - OUTRAS DESPESAS CORRENTES </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 8.954.561,41 </td><td valign="top"> R$ 40.000,00 </td><td colspan="2" valign="top"> R$ 40.000,00 </td><td height="8"></td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 40.000,00 </td><td height="8"></td></tr></tbody></table>
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 19-03-2020._
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18"></td></tr><tr><td colspan="5"> **3100 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO E INOVAÇÃO 3101 - GABINETE SECRETARIA DE ESTADO DE DESENVOLVIMENTO E INOVAÇÃO** </td><td height="18"></td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 04 122 4200 4.230 </td><td valign="top"> GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA SEDI </td><td valign="top"> 3 - OUTRAS DESPESAS CORRENTES </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 8.954.561,41 </td><td valign="top"> R$ 40.000,00 </td><td colspan="2" valign="top"> R$ 40.000,00 </td><td height="8"></td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 40.000,00

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 23-11-2020
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.745 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -631,7 +637,5 @@ Goiânia, 23 de novembro de 2020; 132º da República.
 RONALDO CAIADO
 Governador do Estado
 
-*Este texto não substitui o publicado no Suplemento do D.O. de 23-11-2020
- *
 *..
 *

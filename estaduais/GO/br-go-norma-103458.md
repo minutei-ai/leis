@@ -1,9 +1,7 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 01-10-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.721 / 2020 ![](/assets/brasao_goias.gif) **GOVERNO DO ESTADO DE GOIÁSSecretaria de Estado da Casa Civil DECRETO No 9.721, DE 30 DESETEMBRODE 2020** *Concede a Medalha Mérito da Inteligência *em Segurança Pública *às autoridades que especifica. * O GOVERNADOR DO ESTADO DE GOIÁS, no uso de suas atribuições constitucionais e legais, tendo em vista o que consta do processo nº 202000016018428 e nos termos do Decreto nº [9.312](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/71510/decreto-9312), de 13 de setembro de 2018, DECRETA: Art. 1º É concedida a “Medalha Mérito da Inteligência em Segurança Pública” às autoridades civis e militares relacionadas no Anexo Único que acompanha este Decreto, pelos relevantes serviços prestados à Atividade de Inteligência do Estado de Goiás. Art. 2º Este Decreto entra em vigor na data de sua publicação. Goiânia, 30 de setembro de 2020; 132º da República. . RONALDO CAIADO Governador do Estado (D.O. de 01-10-2020-Suplemento) **ANEXO ÚNICO RELAÇÃO DAS AUTORIDADES AGRACIADAS COM A MEDALHA MÉRITO DA INTELIGÊNCIA EM SEGURANÇA PÚBLICA Nº Nome Cargo Órgão CPF ** 1 Alexandre Pinto Lourenço Delegado PCGO ***.393.746-** 2 Alexandre Saliba Sales Major PMGO ***.634.811-** 3 Armando Amorosino Neto Agente PCGO ***.968.228-** 4 Daniel Pires Aleixo Tenente-Coronel PMGO ***.493.561-** 5 Daniella Cristina Vieira Cabo PMGO ***.454.651-** 6 Douglas Freire Santana Major PMGO ***.769.181-** 7 Durvalino Câmara dos Santos Júnior Tenente-Coronel PMGO ***.552.721-** 8 Érica Botrel Teixeira Delegada PCGO ***.635.816-** 9 Erival de Souza Melo Agente PCTO ***.141.891-** 10 Esmeraldino Jacinto de Lemos Coronel CBMGO ***.380.011-** 11 Franz Augusto Marlus Rasmussen Rodrigues Major PMGO ***.273.151-** 12 Hugo Leonardo Galdino da Silva Cabo PMGO ***.218.811-** 13 Junio Antônio Ferreira Policial Penal PP ***.720.571-** 14 Kathiane Pereira Alexandre da Silva Dornelas Policial Penal PP ***.215.581-** 15 Liliane Alburquerque Amorim Delegada PCTO ***.209.561-** 16 Marcos Vinicius Seguti Luis Cabo PMGO ***.540.871-** 17 Michelssen Rodrigues de Faria Tenente-Coronel CBMGO ***.521.981-** 18 Renato Brum dos Santos Coronel PMGO ***.375.761-** 19 Roberto Machado Borges Coronel CBMGO ***.348.441-** 20 Tatiane Teixeira Teles Agente PCGO ***.572.751-** 21 Vinicius Fleuri Badona de Souza Sargento PMGO ***.708.141-**
-
- 
-
- 
-
- 
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 01-10-2020._

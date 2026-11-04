@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado Suplemento do D.O. de 17-03-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.637 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -33,5 +39,3 @@ PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 17 de março de 2020; 132�
 RONALDO RAMOS CAIADO
 
 (D.O. de 17-03-2020-Suplemento)
-
-*Este texto não substitui o publicado Suplemento do D.O. de 17-03-2020.*

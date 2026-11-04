@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 03-11-2020
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.742 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -29,6 +35,5 @@ Governador do Estado
 
 [Errata D.O. 09-11-2020 (Suplemento)](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17143)
 
-*Este texto não substitui o publicado no Suplemento do D.O. de 03-11-2020*
 * .
 *

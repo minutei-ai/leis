@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 30-12-2020~~ .
+
+<!-- nota-edicao:fim -->
+
 LEI Nº 20.951, DE 30 DE DEZEMBRO DE 2020
 
 Concede o título de cidadania que especifica.
@@ -17,5 +23,3 @@ Governador do Estado
 LÊDA BORGES
 
 Deputada Estadual
-
-Este texto não substitui o publicado no Suplemento do D.O. de 30-12-2020~~ .~~

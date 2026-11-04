@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 23-11-2020
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.905 / 2020
 
 LEI Nº 20.905, DE 23 DE NOVEMBRO DE 2020
@@ -33,7 +39,4 @@ Governador do Estado
 TALLES BARRETO
 
 Deputado Estadual
-
-Este texto não substitui o publicado no Suplemento do D.O. de 23-11-2020
-
 ..

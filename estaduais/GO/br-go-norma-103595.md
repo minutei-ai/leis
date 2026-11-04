@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 09-11-2020**.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 306 / 2020
 
 <table border="0" cellpadding="0" id="table1" width="100%"><tbody><tr><td width="100%">
@@ -25,7 +31,5 @@ QUADRO 2
 <table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18"> </td></tr><tr><td colspan="5"> **2850 - FUNDO ESTADUAL DE SAÚDE - FES** </td><td height="18"> </td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 10 302 1043 2.149 </td><td valign="top"> ATENDIMENTO ASSISTENCIAL EM SAÚDE </td><td valign="top"> 3 - OUTRAS DESPESAS CORRENTES </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 0,00 </td><td valign="top"> R$ 17.500.000,00 </td><td colspan="2" valign="top"> R$ 17.500.000,00 </td><td height="8"> </td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 10 303 1022 2.081 </td><td valign="top"> ASSISTÊNCIA FARMACÊUTICA E INSUMOS ESTRATÉGICOS NA ATENÇÃO À SAÚDE </td><td valign="top"> 3 - OUTRAS DESPESAS CORRENTES </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 0,00 </td><td valign="top"> R$ 7.710.672,08 </td><td colspan="2" valign="top"> R$ 7.710.672,08 </td><td height="8"> </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 25.210.672,08 </td><td height="8"> </td></tr></tbody></table>
 
 &nbsp; &nbsp;
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 09-11-2020**.*
 
 </td></tr></tbody></table>

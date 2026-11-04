@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 03-08-2020.*
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 148 / 2020
 
 <table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
@@ -23,9 +29,5 @@ Portaria Orçamentária n° 148 / 2020
 <table cellpadding="0"><tbody><tr><td nowrap="" colspan="2"> **REDUÇÃO** </td></tr><tr><td colspan="2"> **1700 - SECRETARIA DE ESTADO DA ECONOMIA 1702 – ENCARGOS FINANCEIROS DO ESTADO** </td></tr><tr><td nowrap=""> **CLASSIFICAÇÃO ORÇAMENTÁRIA** </td><td nowrap=""> **VALOR** </td></tr><tr><td nowrap=""> 2020.1702.99.999.9999.9000.09.100.90 </td><td nowrap=""> 4.000.000,00 </td></tr><tr><td nowrap=""> **VALOR A REDUZIR** </td><td nowrap=""> **4.000.000,00** </td></tr><tr><td nowrap=""> &nbsp; </td><td nowrap=""> **VALOR TOTAL A REDUZIR** </td></tr><tr><td nowrap=""> &nbsp; </td><td nowrap=""> **4.000.000,00** </td></tr></tbody></table>
 
 # &nbsp;
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 03-08-2020.*
-
-&nbsp;
 
 </td></tr></tbody></table>

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 14-07-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.693 / 2020 ![](/assets/brasao_goias.gif) **GOVERNO DO ESTADO DE GOIÁSSecretaria de Estado da Casa Civil DECRETO N o 9.693, DE 14 DE JULHO DE 2020** Concede a Medalha da Ordem do Mérito Tiradentes às autoridades militares, civis e eclesiásticas que especifica. O GOVERNADOR DO ESTADO DE GOIÁS, no uso de suas atribuições constitucionais, nos termos dos arts. 1º, 2º incisos I, II e III, 6º, 8º incisos I, II e III, do Decreto nº [6.758](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/63170/decreto-6758), de 18 de Julho de 2008, e tendo em vista o que consta do Processo nº 202000013000945 ,  **DECRETA :  ** Art. 1º É concedida a Medalha da Ordem do Mérito Tiradentes, nos graus “Grã-Cruz”, “Grande-Oficial” e “Comendador”, às autoridades militares, civis e eclesiásticas relacionadas no Anexo Único que acompanha este Decreto, pelas relevantes ações desenvolvidas em prol da Segurança Pública do Estado de Goiás. Parágrafo único. As medalhas físicas serão entregues, oportunamente, aos agraciados após o período de emergência em saúde pública vigente no Estado de Goiás, em razão da pandemia pelo novo coronavírus (Sars-CoV-2). Art. 2º Este Decreto entra em vigor na data de sua publicação. Goiânia, 14 de julho de 2020; 132º da República. 
 
 # 
@@ -59,9 +65,3 @@ B) AUTORIDADES CIVIS E ECLESIÁSTICAS
  
 
 Nº DE ORDEM NOME 1 CÉSAR HELOU 2 DANIEL MAROTTA MARTINEZ 3 DOM ADAIR JOSÉ GUIMARÃES 4 ERIVAL DE SOUZA MELO 5 FERNANDO ANTÔNIO VINHAL DOS SANTOS 6 FRANCISCO SÉRVULO FREIRE NOGUEIRA 7 JÚLIO CESAR CAPPARELLI 8 LUCIANO DE MOURA CARVALHO 9 MARCELO TORQUATO DE SIQUEIRA E SILVA 10 MÚCIO SANTANA MARTINS 11 OZIRES RIBEIRO SILVA 12 RODOLFO OTÁVIO PEREIRA DA MOTA
-
- 
-
- 
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 14-07-2020._

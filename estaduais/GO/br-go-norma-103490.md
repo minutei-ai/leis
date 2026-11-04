@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 16-10-2020.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 234 / 2020             DECRETO Nº 9.626, DE 10 DE MARÇO DE 2020.
 
 ![](/assets/brasao_goias.gif)
@@ -13,7 +19,5 @@ Portaria Orçamentária n° 234 / 2020             DECRETO Nº 9.626, DE 10 DE M
 &nbsp;
 
 &nbsp;
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 16-10-2020.*
 
 </td></tr></tbody></table>

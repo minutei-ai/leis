@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 11-03-20200.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 002 / 2020
 
 ![](/assets/brasao_goias.gif)
@@ -30,8 +36,4 @@ QUADRO 1
 
 QUADRO 2
 
-<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18"> &nbsp; </td></tr><tr><td colspan="5"> **4000 - SECRETARIA-GERAL DA GOVERNADORIA 4001 - GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA** </td><td height="18"> &nbsp; </td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 04 122 4100 4.140 </td><td valign="top"> FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA GOVERNADORIA </td><td valign="top"> 1 - PESSOAL E ENCARGOS SOCIAIS </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 7.725.195,84 </td><td valign="top"> R$ 33.147,60 </td><td colspan="2" valign="top"> R$ 33.147,60 </td><td height="8"> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 33.147,60 </td><td height="8"> &nbsp; </td></tr></tbody></table>
-
- 
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 11-03-20200._
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18"> &nbsp; </td></tr><tr><td colspan="5"> **4000 - SECRETARIA-GERAL DA GOVERNADORIA 4001 - GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA** </td><td height="18"> &nbsp; </td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 04 122 4100 4.140 </td><td valign="top"> FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA GOVERNADORIA </td><td valign="top"> 1 - PESSOAL E ENCARGOS SOCIAIS </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 7.725.195,84 </td><td valign="top"> R$ 33.147,60 </td><td colspan="2" valign="top"> R$ 33.147,60 </td><td height="8"> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 33.147,60 </td><td height="8"> &nbsp;

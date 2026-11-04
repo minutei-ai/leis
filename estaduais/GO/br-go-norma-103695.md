@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 12-01-2021
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.960 / 2021
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -27,6 +33,5 @@ Governador do Estado
 DELEGADO HUMBERTO TEÓFILO
 Deputado Estadual
 
-*Este texto não substitui o publicado no Suplemento do D.O. de 12-01-2021*
 *.
 *

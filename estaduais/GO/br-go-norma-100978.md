@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 28-01-2020
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.754 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -354,6 +360,6 @@ PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 28 de janeiro de 2020, 132
 ](https://legisla.casacivil.go.gov.br/api/v1/arquivos/8762)
 **
 
- *Este texto não substitui o publicado no Suplemento do D.O. de 28-01-2020*
+ 
 * .
 *

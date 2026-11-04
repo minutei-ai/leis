@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 18-08-2020.
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.824 / 2020 DECRETO Nº 9.626, DE 10 DE MARÇO DE 2020. ![](/assets/brasao_goias.gif) **GOVERNO DO ESTADO DE GOIÁSSecretaria de Estado da Casa Civil ** LEI Nº 20.824, DE 18 DE AGOSTO DE 2020 Autoriza a abertura de crédito especial à Agência Estadual de Turismo – Goiás Turismo, e dá outras providências. **A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS **, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei: Art. 1º Fica o Chefe do Poder Executivo autorizado a abrir, no corrente exercício, crédito especial à Agência Estadual de Turismo – Goiás Turismo, até o valor de R$ 86.761,28 (oitenta e seis mil, setecentos e sessenta e um reais e vinte e oito centavos), destinado a cobrir despesas a serem realizadas no Grupo (04) Investimentos, fonte (100) – Receitas Ordinárias, conforme especificado a seguir: Exercício 2020 Órgão 3361 – GOIÁS TURISMO – AGÊNCIA ESTADUAL DE TURISMO Unidade 3361 – GOIÁS TURISMO – AGÊNCIA ESTADUAL DE TURISMO Função 23 – COMÉRCIO E SERVIÇOS Subfunção 695 – TURISMO Programa 1028 – MAIS TURISMO Ação 2111 – SUSTENTABILIDADE, ACESSIBILIDADE, INFRAESTRUTURA E TURISMO RESPONSÁVEL Grupo de Despesa 04 – INVESTIMENTOS Fonte 100 – RECEITAS ORDINÁRIAS Modalidade Aplicação 90 – APLICAÇÕES DIRETAS Valor R$ 86.761,28
 
  
@@ -22,7 +28,3 @@ RONALDO CAIADO 
 Governador do Estado
 
 (D.O. de 18-08-2020-Suplemento)
-
-  
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 18-08-2020._

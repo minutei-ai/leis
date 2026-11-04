@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado Suplemento do D.O. de 23-03-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.642 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -30,6 +36,3 @@ Art. 6<sup>o</sup> Este Decreto entrará em vigor na data de sua publicação, d
 **RONALDO RAMOS CAIADO
 
 (D.O. de 23-03-2020-Suplemento)
-**
-
-Este texto não substitui o publicado Suplemento do D.O. de 23-03-2020.

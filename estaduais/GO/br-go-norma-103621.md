@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 08-12-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.764 / 2020
 
 <table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
@@ -43,5 +49,3 @@ RONALDO CAIADO
 Governador do Estado
 
 (D.O. de 08-12-2020) - Suplemento
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 08-12-2020._

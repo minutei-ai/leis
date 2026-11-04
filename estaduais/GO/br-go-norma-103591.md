@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 09-11-2020**.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 302 / 2020
 
 <table border="0" cellpadding="0" id="table1" width="100%"><tbody><tr><td width="100%">
@@ -26,6 +32,5 @@ QUADRO 2
 
 &nbsp;
 
-&nbsp; *Este texto não substitui o publicado no Suplemento do D.O. de 09-11-2020**.*
-
+&nbsp; 
 </td></tr></tbody></table>

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no D.P.L de 20/10/2016.
+
+<!-- nota-edicao:fim -->
+
 ![](https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/brasao.png)
 
 EMENDA CONSTITUCIONAL Nº 105, DE 19 DE OUTUBRO DE 2016
@@ -32,6 +38,4 @@ THEODORICO FERRAÇO
 
 **_CACAU LORENZONI_**
 
-**_2º Secretário_**
-
-Este texto não substitui o publicado no D.P.L de 20/10/2016.
+**_2º Secretário

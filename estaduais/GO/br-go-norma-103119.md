@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 03-04-2020.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 92 / 2020
 
 ![](/assets/brasao_goias.gif)
@@ -40,6 +46,4 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 QUADRO 1
  
 
-<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="5" valign="top"> **SUPLEMENTAÇÃO** </td><td height="18"> </td></tr><tr><td colspan="5"> **2500 - SECRETARIA DE ESTADO DE CULTURA 2501 - GABINETE DO SECRETÁRIO DE ESTADO DE CULTURA** </td><td height="18"> </td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 13 392 1026 2.098 </td><td valign="top"> FOMENTO E INCENTIVO ÀCULTURA GOIANA </td><td valign="top"> 3 - OUTRAS DESPESAS CORRENTES </td><td valign="top"> 280 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO CRÉD. SUPLEMENTAR** </td><td valign="top"> **VALOR DA DESPESA** </td><td colspan="2" valign="top"> **VALOR A SUPLEMENTAR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 10.000,00 </td><td valign="top"> R$ 1.962.479,41 </td><td colspan="2" valign="top"> R$ 1.952.479,41 </td><td height="8"> </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A SUPLEMENTAR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 1.952.479,41 </td><td height="8"> </td></tr></tbody></table>
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 03-04-2020._
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="5" valign="top"> **SUPLEMENTAÇÃO** </td><td height="18"> </td></tr><tr><td colspan="5"> **2500 - SECRETARIA DE ESTADO DE CULTURA 2501 - GABINETE DO SECRETÁRIO DE ESTADO DE CULTURA** </td><td height="18"> </td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 13 392 1026 2.098 </td><td valign="top"> FOMENTO E INCENTIVO ÀCULTURA GOIANA </td><td valign="top"> 3 - OUTRAS DESPESAS CORRENTES </td><td valign="top"> 280 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO CRÉD. SUPLEMENTAR** </td><td valign="top"> **VALOR DA DESPESA** </td><td colspan="2" valign="top"> **VALOR A SUPLEMENTAR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 10.000,00 </td><td valign="top"> R$ 1.962.479,41 </td><td colspan="2" valign="top"> R$ 1.952.479,41 </td><td height="8"> </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A SUPLEMENTAR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 1.952.479,41

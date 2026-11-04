@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 11-03-20200_ _.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 006 / 2020
 
 ![](/assets/brasao_goias.gif)
@@ -31,6 +37,4 @@ QUADRO 1
 
   QUADRO 2 
 
-<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18">&nbsp;</td></tr><tr><td colspan="5"> **2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO 2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO** </td><td height="18">&nbsp;</td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 12 122 4200 4.218 </td><td valign="top"> GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA SEDUC </td><td valign="top"> 4 - INVESTIMENTOS </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 21.540.000,00 </td><td valign="top"> R$ 14.637.710,68 </td><td colspan="2" valign="top"> R$ 14.637.710,68 </td><td height="8">&nbsp;</td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 14.637.710,68 </td><td height="8">&nbsp;</td></tr></tbody></table>
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 11-03-20200_ _._
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18">&nbsp;</td></tr><tr><td colspan="5"> **2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO 2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO** </td><td height="18">&nbsp;</td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 12 122 4200 4.218 </td><td valign="top"> GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA SEDUC </td><td valign="top"> 4 - INVESTIMENTOS </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 21.540.000,00 </td><td valign="top"> R$ 14.637.710,68 </td><td colspan="2" valign="top"> R$ 14.637.710,68 </td><td height="8">&nbsp;</td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 14.637.710,68 </td><td height="8">&nbsp;

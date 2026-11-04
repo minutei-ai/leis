@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 21-12-2020_ _.
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.930 / 2020  Lei Ordinária n° 20.930 / 2020           Lei Ordinária n° 20.913 / 2020
 
 <img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
@@ -62,8 +68,6 @@ RAFAEL GOUVEIA
 
 Deputado Estadual
 
-_Este texto não substitui o publicado no Suplemento do D.O. de 21-12-2020_ _._
-
  Lei Ordinária n° 20.913 / 2020
 
 <img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
@@ -127,5 +131,3 @@ Deputado Estadual
 RAFAEL GOUVEIA
 
 Deputado Estadual
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 21-12-2020_ _._

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 30-11-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.758 / 2020
 
 ![](/assets/brasao_goias.gif)
@@ -23,5 +29,3 @@ Goiânia, 30 de novembro de 2020;  132º  da  República.
 RONALDO CAIADO
 
 Governador do Estado
-
- _Este texto não substitui o publicado no Suplemento do D.O. de 30-11-2020._

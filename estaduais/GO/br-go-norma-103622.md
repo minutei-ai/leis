@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 08-12-2020.
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.912 / 2020
 
 <img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
@@ -339,5 +345,3 @@ Modalidade Aplicação
 Valor
 
 R$ 713.546,82
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 08-12-2020._

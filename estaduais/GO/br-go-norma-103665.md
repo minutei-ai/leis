@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no D.A. de 28-12-2020_ _.
+
+<!-- nota-edicao:fim -->
+
 Emenda Constitucional n° 68 / 2020
 
 <table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
@@ -63,7 +69,5 @@ Deputado CLÁUDIO MEIRELLES
 Deputado JULIO PINA
 
 \-2º SECRETÁRIO-
-
-_Este texto não substitui o publicado no D.A. de 28-12-2020_ _._
 
 _D.O. de 30-12-2020_

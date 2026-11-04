@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 22-01-2021
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.795 / 2021
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -79,7 +85,5 @@ Goiânia, 22 de janeiro de 2021, 133<sup>o</sup> da República.
 RONALDO CAIADO
 Governador do Estado
 
-*
-Este texto não substitui o publicado no Suplemento do D.O. de 22-01-2021*
 *.
 *

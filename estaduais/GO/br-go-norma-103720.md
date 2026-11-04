@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 26-01-2021
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.798 / 2021
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -39,6 +45,5 @@ Goiânia, 26 de janeiro de  2021;  133º  da  República.
 RONALDO CAIADO
 Governador do Estado
 
-*Este texto não substitui o publicado no Suplemento do D.O. de 26-01-2021*
 *.
 *

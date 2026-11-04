@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 03-08-2020.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 158 / 2020
 
 <table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
@@ -24,6 +30,5 @@ QUADRO 2
 
 &nbsp;
 
-&nbsp;&nbsp; *Este texto não substitui o publicado no Suplemento do D.O. de 03-08-2020.*
-
+&nbsp;&nbsp; 
 </td></tr></tbody></table>

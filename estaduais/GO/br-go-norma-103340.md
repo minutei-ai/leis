@@ -1,11 +1,7 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no no D.O. de 28-08-2020.
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.836 / 2020 DECRETO Nº 9.626, DE 10 DE MARÇO DE 2020. ![](/assets/brasao_goias.gif) **GOVERNO DO ESTADO DE GOIÁSSecretaria de Estado da Casa Civil LEI Nº 20.836, DE 27 DE AGOSTO DE 2020** Autoriza a abertura de crédito especial à Secretaria de Estado de Indústria, Comércio e Serviços. A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei: Art. 1º Fica o Chefe do Poder Executivo autorizado a abrir, no corrente exercício, crédito especial à Secretaria de Estado de Indústria, Comércio e Serviços, até o valor de R$ 4.000 **. 000,00 ** (quatro milhões de reais), destinado a cobrir as despesas a serem realizadas na fonte (110) – Operações de Crédito Internas, Grupo: (05) – Inversões Financeiras, conforme Anexo Único. Art. 2º Os recursos necessários à abertura do crédito especial autorizado no art. 1º serão provenientes de superávit financeiro apurado em balanço patrimonial do exercício anterior, até o valor de R$ 4.000 **.000,00** (quatro milhões de reais), em conformidade com o disposto no art. 43, § 1º, inciso I, da Lei federal nº 4.320, de 17 de março de 1964. Parágrafo único. Após a abertura do crédito especial autorizado nesta Lei, fica permitida a sua suplementação, desde que a indicação de recursos seja proveniente da anulação parcial ou total de dotações orçamentárias, superávit financeiro apurado em balanço patrimonial do exercício anterior ou de excesso de arrecadação. Art. 3º Esta Lei entra em vigor na data de sua publicação. Goiânia, 27 de agosto de 2020; 132ª da República. RONALDO CAIADO Governador do Estado (D.O. de 28-08-2020) **ANEXO ÚNICO ** DETALHAMENTO DA CLASSIFICAÇÃO ORÇAMENTÁRIA Exercício 2020 Órgão 3300 – SECRETARIA DE INDÚSTRIA, COMÉRCIO E SERVIÇOS Unidade 3301 – GAB. SEC. DE INDÚS, COMÉRCIO E SERVIÇOS Função 23 – COMÉRCIO E SERVIÇOS Sub f unção 691 – PROMOÇÃO COMERCIAL Programa 1015 – GOIÁS EMPREENDEDOR Ação 2060 – GOIÁS EMPREENDEDOR Grupo de Despesa 05 – INVERSÕES FINANCEIRAS Fonte 110 – OPERAÇÕES DE CRÉDITO INTERNAS Modalidade Aplicação 90 – APLICAÇÕES DIRETAS Valor 4.000.000,00
-
- 
-
- 
-
- 
-
- 
-
-_Este texto não substitui o publicado no no D.O. de 28-08-2020._

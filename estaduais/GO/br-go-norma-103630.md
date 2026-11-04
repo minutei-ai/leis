@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 18-12-2020__.
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.914 / 2020           Lei Ordinária n° 20.913 / 2020
 
 <img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
@@ -117,5 +123,3 @@ Modalidade Aplicação
 Valor
 
 R$ 171.000.000,00
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 18-12-2020__._

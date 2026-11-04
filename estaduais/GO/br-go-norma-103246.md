@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 24-06-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.681 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -148,5 +154,3 @@ RONALDO CAIADO
 **[ANEXOS DA LEI](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17109)
 
 **([Clique aqui para acessar](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17109))
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 24-06-2020.*

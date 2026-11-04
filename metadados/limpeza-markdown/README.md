@@ -12,7 +12,7 @@ O script `scripts/limpeza_markdown.py` remove do corpo pesquisável:
 | HTML de apresentação (`strong`, `em`, `br`, `font`, `span`, `p`, …) | Convertido para Markdown | — |
 | Tabelas com `rowspan`/`colspan` | Permanecem como `<table>` simples (CONTRATO) | — |
 | Imagens `data:image` | Extraídas para `assets/md-inline/{sha256}.{ext}` ou omitidas se brasão/logo de cabeçalho | `imagens.jsonl` |
-| Chrome de portal (Câmara, ALESP, MG, SP capital, D.O./DOU) | Removido do corpo; contagens agregadas | `portais-removidos.json` |
+| Chrome de portal (Câmara, ALESP, MG, SP capital, D.O./DOU/Suplemento/DPL/DOE) | Removido do corpo pesquisável; avisos «não substitui…» migram para `<!-- nota-edicao -->` | `portais-removidos.json` |
 
 ## Allowlists
 

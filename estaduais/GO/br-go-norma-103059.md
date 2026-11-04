@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado Suplemento do D.O. de 23-03-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.641 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -32,6 +38,3 @@ Art. 2<sup>o</sup> Este Decreto entra em vigor na data de sua publicação, prod
 **RONALDO RAMOS CAIADO
 
 (D.O. de 23-03-2020-Suplemento)
-**
-
- Este texto não substitui o publicado Suplemento do D.O. de 23-03-2020.

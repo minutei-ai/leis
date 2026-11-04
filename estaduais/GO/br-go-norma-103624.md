@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 08-12-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.763 / 2020
 
 <table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
@@ -45,5 +51,3 @@ Governador do Estado
 <table cellspacing="0" cellpadding="0" id="table4"><tbody><tr><td colspan="9" valign="top"> “Anexo XIII - Atos normativos não vigentes - Decretos Diversos </td></tr><tr><td valign="top"> ITEMM (1) </td><td valign="top"> ATOS (2) </td><td valign="top"> NÚMERO (3) </td><td valign="top"> EMENTA OU ASSUNTO (4) </td><td valign="top"> DISPOSITIVO ESPECÍFICO (5) </td><td valign="top"> PUBLICAÇÃO NO D.O.E (6) </td><td valign="top"> TERMO INICIAL (7) </td><td valign="top"> TERMO FINAL (8) </td><td valign="top"> OBSERVAÇÕES (9) </td></tr><tr><td valign="top"> .. </td><td valign="top"> ... </td><td valign="top"> ...... </td><td valign="top"> ............................. </td><td valign="top"> ............. </td><td valign="top"> .................... </td><td valign="top"> .................... </td><td valign="top"> .................... </td><td valign="top"> "-" </td></tr><tr><td valign="top"> 32 </td><td valign="top"> Decreto </td><td valign="top"> <a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/64930/decreto-3145">3.145</a> </td><td valign="top"> Regulamenta a Lei nº 10.720, de 29 de dezembro de 1988, e dá outras providências. </td><td valign="top"> "-" </td><td valign="top"> 3/4/1989 </td><td valign="top"> 1º/3/1989 </td><td valign="top"> 31/12/1997 </td><td valign="top"> ''-'' </td></tr></tbody></table>
 
   ....................................................................................................................................................” (NR)
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 08-12-2020._

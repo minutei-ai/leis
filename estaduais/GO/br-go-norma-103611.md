@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 30-11-2020_ _.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.753 / 2020
 
 ![](/assets/brasao_goias.gif)
@@ -957,5 +963,3 @@ AVANI RODRIGUES DE SOUSA CUNHA
 231
 
 SANDRA REJANNE DE ALENCAR BEZERRA.
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 30-11-2020_ _._

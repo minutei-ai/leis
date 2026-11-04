@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 28-04-2019.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.657 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -314,5 +320,3 @@ RONALDO CAIADO
 </del>
 
 (D.O. de 28-04-2019-Suplemento)
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 28-04-2019.*

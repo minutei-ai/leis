@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 9-07-2020.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 144 / 2020
 
 <table border="0" cellpadding="0" id="table1" width="100%"><tbody><tr><td width="100%">
@@ -22,8 +28,4 @@ QUADRO 2
 
 &nbsp;
 
-<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18"> </td></tr><tr><td colspan="5"> **2850 - FUNDO ESTADUAL DE SAÚDE - FES** </td><td height="18"> </td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 10 122 4100 4.121 </td><td valign="top"> FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA SES </td><td valign="top"> 1 - PESSOAL E ENCARGOS SOCIAIS </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 379.872.925,45 </td><td valign="top"> R$ 7.957.738,97 </td><td colspan="2" valign="top"> R$ 7.957.738,97 </td><td height="8"> </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 7.957.738,97 </td><td height="8"> </td></tr></tbody></table>
-
-</td></tr></tbody></table>
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 9-07-2020._
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18"> </td></tr><tr><td colspan="5"> **2850 - FUNDO ESTADUAL DE SAÚDE - FES** </td><td height="18"> </td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 10 122 4100 4.121 </td><td valign="top"> FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DA SES </td><td valign="top"> 1 - PESSOAL E ENCARGOS SOCIAIS </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 379.872.925,45 </td><td valign="top"> R$ 7.957.738,97 </td><td colspan="2" valign="top"> R$ 7.957.738,97 </td><td height="8"> </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 7.957.738,97

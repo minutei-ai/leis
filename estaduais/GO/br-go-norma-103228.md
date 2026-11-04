@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 08-06-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.673 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -25,4 +31,3 @@ Goiânia, 08 de junho de  2020;  132º  da  República.
 
 RONALDO CAIADO
 (D.O. de 08-06-2020-Suplemento)
-*Este texto não substitui o publicado no Suplemento do D.O. de 08-06-2020.*

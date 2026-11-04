@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 24-08-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.705 / 2020         DECRETO Nº 9.626, DE 10 DE MARÇO DE 2020.
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -33,5 +39,3 @@ RONALDO CAIADO
 Governador do Estado
 
 (D.O. de 24-08-2020-Suplemento)
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 24-08-2020.*

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 10-11-2020
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.900 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -34,8 +40,5 @@ KARLOS CABRAL
 Deputado
  Estadual
 
-<h2 style="text-align:justify;line-height:80%">
-
-</h2>*Este texto não substitui o publicado no Suplemento do D.O. de 10-11-2020*
 * ..
 *

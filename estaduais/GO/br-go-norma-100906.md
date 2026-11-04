@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 13-01-2020.
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.702 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -23,5 +29,3 @@ PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 13 de janeiro de 2020, 132
 RONALDO RAMOS CAIADO
 
 (D.O. de 13-01-2020-Suplemento)
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 13-01-2020.*

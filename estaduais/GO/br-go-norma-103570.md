@@ -1,8 +1,11 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 04-11-2020_ _..
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.895 / 2020 ![](/assets/brasao_goias.gif) **GOVERNO DO ESTADO DE GOIÁSSecretaria de Estado da Casa Civil LEI Nº 20.895, DE 04 DE NOVEMBRO DE 2020** Autoriza a abertura de crédito especial à Secretaria de Estado da Cultura – SECULT. A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual-) , decreta e eu sanciono a seguinte Lei: Art. 1º Fica o Chefe do Poder Executivo autorizado a abrir, no corrente exercício, 1 (um) crédito especial à Secretaria de Estado da Cultura – SECULT, até o valor de R$ 49.164.493,00 (quarenta e nove milhões, cento e sessenta e quatro mil e quatrocentos e noventa e três reais), destinado a cobrir as despesas a serem realizadas na Fonte (241) – TRANSFERÊNCIAS DA UNIÃO – LEI ALDIR BLANC, conforme o Anexo Único desta Lei. Art. 2º Os recursos necessários à abertura do crédito especial autorizado no art. 1º serão provenientes de excesso de arrecadação, em conformidade com o disposto no art. 43, § 1º, inciso II, da Lei federal nº 4.320, de 17 de março de 1964. Parágrafo único. Após a abertura do crédito especial estabelecida por esta Lei, fica autorizada a sua suplementação, desde que a sua indicação de recursos seja proveniente da anulação parcial ou total de dotações orçamentárias, superavit financeiro apurado em balanço patrimonial do exercício anterior ou de excesso de arrecadação. Art. 3º Esta Lei entra em vigor na data de sua publicação. Goiânia, 04 de novembro de 2020; 132º da República.  RONALDO CAIADO Governador do Estado ANEXO ÚNICO DETALHAMENTO DA CLASSIFICAÇÃO ORÇAMENTÁRIA Exercício 2020 Órgão 2500 – SECRETARIA DE ESTADO DA CULTURA Unidade 2501 – GABINETE DO SECRETÁRIO DE ESTADO DA CULTURA Função 13 – CULTURA Subfunção 392 – DIFUSÃO CULTURAL Programa 1026 – MAIS CULTURA E ARTE Ação 2098 – FOMENTO E INCENTIVO À CULTURA Grupo de Despesa 03 – OUTRAS DESPESAS CORRENTES Fonte 241 – TRANSFERÊNCIAS DA UNIÃO – LEI ALDIR BLANC Modalidade Aplicação 90 – APLICAÇÕES DIRETAS Valor 49.164.493,00
 
   
 
-_Este texto não substitui o publicado no Suplemento do D.O. de 04-11-2020_ _.._  
-   
-  
  |

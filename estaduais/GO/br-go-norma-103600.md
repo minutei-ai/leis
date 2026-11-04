@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 23-11-2020
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.907 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -54,9 +60,5 @@ Deputado Estadual
 DELEGADA ADRIANA ACCORSI
 Deputada Estadual
 
-<h2 style="text-align:justify;margin-top:0; margin-bottom:0">
-
-</h2>*Este texto não substitui o publicado no Suplemento do D.O. de 23-11-2020
- *
 *..
 *

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no D.P.L de 18/10/2016.
+
+<!-- nota-edicao:fim -->
+
 ![](https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/brasao.png)
 
 EMENDA CONSTITUCIONAL Nº 104, DE 17 DE OUTUBRO DE 2016
@@ -24,6 +30,4 @@ nos termos do artigo 62, § 3º da Constituição Estadual, promulga a seguinte 
 
 **_THEODORICO FERRAÇO_**
 
-**_Presidente_**
-
-Este texto não substitui o publicado no D.P.L de 18/10/2016.
+**_Presidente

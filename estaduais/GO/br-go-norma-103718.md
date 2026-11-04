@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 26-01-2021** e
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.801 / 2021
 
 <img src="../../assets/brasao_goias.gif" alt="" width="68" height="90" border="0">
@@ -583,5 +589,4 @@ Goiânia, 26 de janeiro de  2021, 133º da República.
 RONALDO CAIADO
 Governador do Estado
 
-*Este texto não substitui o publicado no Suplemento do D.O. de 26-01-2021** e
 a Errata do D.O. de 03-02-2021.*

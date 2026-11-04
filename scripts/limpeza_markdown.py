@@ -9,8 +9,9 @@ Regras:
   rowspan/colspan permanecem como <table> simples (CONTRATO.md).
 - Imagens data:URI vão para assets/md-inline/{sha256}.{ext} com referência relativa,
   ou são omitidas quando decorativas (brasão/logo de cabeçalho).
-- Linhas de portal conhecidas são removidas; proveniência útil fica nos metadados.
-- Corpos históricos com SHA travado (núcleo/LGPD) entram na allowlist documentada.
+- Linhas de portal conhecidas saem do corpo pesquisável; avisos
+  «Este texto não substitui…» migram para `<!-- nota-edicao -->` (proveniência #100).
+- Allowlists de data:image / CEDI permanecem vazias: geradores omitem chrome na fonte.
 """
 
 from __future__ import annotations
@@ -69,12 +70,14 @@ PORTAL_MG_RE = re.compile(
 PORTAL_SP_CITY_RE = re.compile(
     r'\n*Este texto não substitui o original publicado no Diário Oficial da Cidade de São Paulo\s*$',
 )
+# Avisos de proveniência de diário (D.O., DOU, Suplemento, Edição Extra, DPL, DOE…).
+# Variantes OCR/markdown (ênfase, \\*, links quebrados) entram no mesmo padrão;
+# o strip move o aviso para nota-edicao em vez de apagar a proveniência.
 PORTAL_DO_RE = re.compile(
-    r'(?:<[^>]+>\s*)*(?:\*|_|~~|<em>|<i>){0,4}\s*'
-    r'Este texto não substitui o publicado\s+(?:n[oa]|d[oe])\s+D\.?\s*O\.?\s*U?\.?'
-    r'(?:[^<\n*]{0,120})?'
-    r'(?:\*|_|~~|</em>|</i>){0,4}\s*(?:</[^>]+>\s*)*',
-    re.I,
+    r'(?:<[^>]+>\s*)*(?:\\?\*|_|~~|\*\*|__|<em>|<i>){0,6}\s*'
+    r'Este texto não substitui\b[^\n]*?'
+    r'(?:(?:\*|_|~~|\*\*|__|</em>|</i>|&nbsp;|\s)*)$',
+    re.I | re.M,
 )
 
 # Presentation HTML (not structural table/sup/sub with legal meaning beyond ordinals)
@@ -578,11 +581,22 @@ _NOTE_BLOCK_RE = re.compile(
 )
 
 
+def _dou_aviso_plain(raw: str) -> str:
+    """Extrai o texto do aviso a partir de «Este texto não substitui»."""
+    m = re.search(r'Este texto não substitui\b.*', raw, re.I | re.S)
+    if not m:
+        return raw.strip()
+    text = m.group(0).strip()
+    text = re.sub(r'(?:\*|_|~~|\*\*|__|&nbsp;)+$', '', text).strip()
+    return text
+
+
 def strip_portals(body: str, md_rel: str) -> tuple[str, list[str]]:
     """Remove chrome de portal do corpo pesquisável.
 
-    Blocos `<!-- nota-edicao -->` são preservados: avisos DOU ali são proveniência
-    editorial (#100 / #70), não chrome de `_source`.
+    Blocos `<!-- nota-edicao -->` existentes são preservados. Avisos
+    «Este texto não substitui…» encontrados no corpo migram para a nota
+    (criada se necessário): saem do texto pesquisável sem perder proveniência (#100).
     """
     removed = []
     allow_camara = md_rel in ALLOWLIST_PORTAL_CAMARA
@@ -607,7 +621,46 @@ def strip_portals(body: str, md_rel: str) -> tuple[str, list[str]]:
     body = apply('alesp', PORTAL_ALESP_RE, body)
     body = apply('mg_atualizacao', PORTAL_MG_RE, body)
     body = apply('sp_capital', PORTAL_SP_CITY_RE, body)
-    body = apply('diario_oficial', PORTAL_DO_RE, body)
+
+    dou_avisos: list[str] = []
+
+    def take_dou(m: re.Match) -> str:
+        plain = _dou_aviso_plain(m.group(0))
+        if plain:
+            dou_avisos.append(plain)
+        return ''
+
+    body, n_dou = PORTAL_DO_RE.subn(take_dou, body)
+    if n_dou:
+        removed.extend(['diario_oficial'] * n_dou)
+
+    if dou_avisos:
+        # Dedup preservando ordem (reaplicações / ênfase duplicada).
+        seen: set[str] = set()
+        unique: list[str] = []
+        for a in dou_avisos:
+            key = re.sub(r'\s+', ' ', a).casefold()
+            if key in seen:
+                continue
+            seen.add(key)
+            unique.append(a)
+        aviso_md = '\n\n'.join(f'> {a}' for a in unique)
+        if notes:
+            notes[0] = re.sub(
+                r'<!--\s*nota-edicao:fim\s*-->',
+                f'\n{aviso_md}\n\n<!-- nota-edicao:fim -->',
+                notes[0],
+                count=1,
+                flags=re.I,
+            )
+        else:
+            notes.append(
+                '<!-- nota-edicao:inicio -->\n\n'
+                f'{aviso_md}\n\n'
+                '<!-- nota-edicao:fim -->'
+            )
+            body = f'@@LIMPEZA_NOTE_{len(notes) - 1}@@\n\n' + body
+
     for i, note in enumerate(notes):
         body = body.replace(f'@@LIMPEZA_NOTE_{i}@@', note)
     body = re.sub(r'\n{3,}', '\n\n', body)

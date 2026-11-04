@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 15-10-2020
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.726 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -34,5 +40,3 @@ Goiânia, 15 de outubro de 2020; 132º da República.
 
 RONALDO CAIADO
 Governador do Estado
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 15-10-2020*

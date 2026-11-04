@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 21-12-2020_ _.
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.922 / 2020           Lei Ordinária n° 20.913 / 2020
 
 <table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
@@ -31,5 +37,3 @@ Governador do Estado
 DELEGADO HUMBERTO TEÓFILO
 
 Deputado Estadual
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 21-12-2020_ _._

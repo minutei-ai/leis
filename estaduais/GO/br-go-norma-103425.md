@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 14-09-2020.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 228 / 2020
 
 <table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
@@ -27,7 +33,5 @@ QUADRO 2
 <table cellpadding="0" id="table2"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td></tr><tr><td colspan="5"> **700 - MINISTÉRIO PÚBLICO 701 - GABINETE DO PROCURADOR GERAL DE JUSTICA** </td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td></tr><tr><td valign="top"> 03 091 4200 4.241 </td><td valign="top"> GESTÃO E MANUTENÇÃO DAS ATIVIDADES DO MINISTÉRIO PÚBLICO </td><td valign="top"> 3 - OUTRAS DESPESAS CORRENTES </td><td valign="top"> 100 </td><td valign="top"> 90 </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td></tr><tr><td colspan="2" valign="top"> R$ 19.032.142,92 </td><td valign="top"> R$ 10.400.000,00 </td><td colspan="2" valign="top"> R$ 10.400.000,00 </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 10.400.000,00 </td></tr></tbody></table>
 
 &nbsp;
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 14-09-2020.*
 
 </td></tr></tbody></table>

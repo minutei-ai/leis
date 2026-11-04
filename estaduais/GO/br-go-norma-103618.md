@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 30-11-2020 .
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.760 / 2020
 
 ![](/assets/brasao_goias.gif)
@@ -47,5 +53,3 @@ Governador do Estado
 **ANEXO III**
 
 ![](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17163)
-
-  _Este texto não substitui o publicado no Suplemento do D.O. de 30-11-2020 ._

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 11-05-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.661 / 2020 ![](/assets/brasao_goias.gif) **GOVERNO DO ESTADO DE GOIÁSSecretaria de Estado da Casa Civil DECRETO Nº 9.661, DE 11 DE MAIO DE 2020** Abre 4 (quatro) créditos extraordinários ao Fundo Estadual de Saúde - FES, no valor total de R$ 351.588.281,72 (trezentos e cinquenta e um milhões, quinhentos e oitenta e oito mil, duzentos e oitenta e um reais e setenta e dois centavos). O GOVERNADOR DO ESTADO DE GOIÁS, no uso de suas atribuições constitucionais e legais, nos termos dos arts. 41, inciso III e 44 da Lei federal nº 4.320, de 17 de março de 1964, da Lei nº [20.772](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103158/lei-20772), de 8 de maio de 2020, e tendo em vista o que consta do Processo nº 202000004028123, DECRETA: Art. 1º Ficam abertos ao Fundo Estadual de Saúde - FES, 4 (quatro) créditos extraordinários no valor total de R$ 351.588.281,72 (trezentos e cinquenta e um milhões, quinhentos e oitenta e oito mil, duzentos e oitenta e um reais e setenta e dois centavos), destinados a suportar as despesas discriminadas no Anexo Único deste Decreto. Art. 2º A abertura dos créditos extraordinários nos termos do art. 1º deste Decreto está em conformidade com o disposto nos arts. 41, inciso III, e 44 da Lei federal nº 4.320, de 17 de março de 1964, pois estão sendo destinados a suportar despesas urgentes e imprevistas motivadas por calamidade pública, em virtude da crise da saúde pública decorrente da pandemia da COVID-19. Art. 3º Este Decreto entra em vigor na data de sua publicação. PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 11 de maio de 2020; 132º da República. **RONALDO CAIADO** D.O. de 11-05-2020-Suplemento) **ANEXO ÚNICO ** Unidade 2850 - FUNDO ESTADUAL DE SAÚDE - FES Função 10 - SAÚDE Sub-Função 302 - ASSISTÊNCIA HOSPITALAR E AMBULATORIAL Programa 1043 - SAÚDE INTEGRAL Ação 2168 - ESTRATÉGIAS DE IMPLANTAÇÃO E IMPLEMENTAÇÃO AO ENFRENTAMENTO DO NOVO CORONAVÍRUS - APLICAÇÃO DE RECURSOS ESTADUAIS Grupo de Despesa 03 - OUTRAS DESPESAS CORRENTES Fonte 100 - RECEITAS ORDINÁRIAS Modalidade Aplicação 90 - APLICAÇÕES DIRETAS Valor R$110.032.311,59
 
   
@@ -11,7 +17,3 @@ Unidade 2850 - FUNDO ESTADUAL DE SAÚDE- FES Função 10 - SAÚDE Sub-Função 3
   
 
 Unidade 2850 - FUNDO ESTADUAL DE SAÚDE- FES Função 10 - SAÚDE Sub-Função 302 - ASSISTÊNCIA HOSPITALAR E AMBULATORIAL Programa 1043 - SAÚDE INTEGRAL Ação 2168 - ESTRATÉGIAS DE IMPLANTAÇÃO E IMPLEMENTAÇÃO AO ENFRENTAMENTO DO NOVO CORONAVÍRUS - APLICAÇÃO DE RECURSOS ESTADUAIS Grupo de Despesa 03 - OUTRAS DESPESAS CORRENTES Fonte 245 - RECURSOS VINCULADOS A FUNDOS ESPECIAIS Modalidade Aplicação 90 - APLICAÇÕES DIRETAS Valor R$21.500.000,00
-
- 
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 11-05-2020._

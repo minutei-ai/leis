@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado do Suplemento do D.O. de 08-05-2020.
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.772 / 2020 Lei Ordinária n° 20.772 / 2020 ![](/assets/brasao_goias.gif) **GOVERNO DO ESTADO DE GOIÁSSecretaria de Estado da Casa Civil LEI Nº 20.772, DE 08 DE MAIO DE 2020.** Autoriza a abertura de 4 (quatro) créditos extraordinários ao Fundo Estadual de Saúde - FES, no valor de R$ 351.588.281,72 (trezentos e cinquenta e um milhões, quinhentos e oitenta e oito mil, duzentos e oitenta e um reais e setenta e dois centavos). A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei: Art. 1º Fica o Chefe do Poder Executivo autorizado a abrir, no corrente exercício, ao Fundo Estadual de Saúde - FES, 4 (quatro) créditos extraordinários no valor total de R$ 351.588.281,72 (trezentos e cinquenta e um milhões, quinhentos e oitenta e oito mil, duzentos e oitenta e um reais e setenta e dois centavos), destinados a suportar as despesas discriminadas no Anexo Único desta Lei. Art. 2º A abertura dos créditos extraordinários nos termos do art. 1º desta Lei está em conformidade com o disposto nos arts. 41, inciso III, e 44 da Lei federal nº 4.320, de 17 de março de 1964, pois estão sendo destinados a suportar despesas urgentes e imprevistas motivadas por calamidade pública, em virtude da crise da saúde pública decorrente da pandemia da COVID-19. Art. 3º O art. 62 da Lei nº 20.539, de 06 de agosto de 2019, passa a ter a seguinte redação: “Art. 62. Será permitida a alteração de objeto e de beneficiário da emenda parlamentar aprovada, pelo(a) deputado(a) autor(a), quando houver necessidade, mantendo, para tanto, a ação orçamentária e valor original.” (NR) Art. 4º Esta Lei entra em vigor na data de sua publicação. PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 08 de maio de 2020; 132º da República. **RONALDO CAIADO** D.O. de 08-05-2020-Suplemento) **ANEXO ÚNICO [- Vide Lei nº 20.817, de 27-07-2020, art. 7º.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103297/lei-20817) ** Unidade 2850 - FUNDO ESTADUAL DE SAÚDE - FES Função 10 - SAÚDE Sub-Função 302 - ASSISTÊNCIA HOSPITALAR E AMBULATORIAL Programa 1043 - SAÚDE INTEGRAL Ação 2168 - ESTRATÉGIAS DE IMPLANTAÇÃO E IMPLEMENTAÇÃO AO ENFRENTAMENTO DO NOVO CORONAVÍRUS - APLICAÇÃO DE RECURSOS ESTADUAIS Grupo de Despesa 03 - OUTRAS DESPESAS CORRENTES Fonte 100 - RECEITAS ORDINÁRIAS Modalidade Aplicação 90 - APLICAÇÕES DIRETAS Valor R$110.032.311,59
 
    
@@ -11,9 +17,3 @@ Unidade 2850 - FUNDO ESTADUAL DE SAÚDE- FES Função 10 - SAÚDE Sub-Função 3
   
 
 Unidade 2850 - FUNDO ESTADUAL DE SAÚDE- FES Função 10 - SAÚDE Sub-Função 302 - ASSISTÊNCIA HOSPITALAR E AMBULATORIAL Programa 1043 - SAÚDE INTEGRAL Ação 2168 - ESTRATÉGIAS DE IMPLANTAÇÃO E IMPLEMENTAÇÃO AO ENFRENTAMENTO DO NOVO CORONAVÍRUS - APLICAÇÃO DE RECURSOS ESTADUAIS Grupo de Despesa 03 - OUTRAS DESPESAS CORRENTES Fonte 245 - RECURSOS VINCULADOS A FUNDOS ESPECIAIS Modalidade Aplicação 90 - APLICAÇÕES DIRETAS Valor R$21.500.000,00
-
- 
-
- 
-
-_Este texto não substitui o publicado do Suplemento do D.O. de 08-05-2020._

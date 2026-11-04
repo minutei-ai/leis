@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no DPL. de 24/05/2017.
+
+<!-- nota-edicao:fim -->
+
 **![](https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/brasao.png)**
 
 **EMENDA CONSTITUCIONAL** **N.º 108, DE 22 DE MAIO DE 2017**
@@ -30,6 +36,4 @@ Palácio Domingos Martins, em Vitória, 22 de maio de 2017.
 
 **_ENIVALDO DOS ANJOS_**
 
-**_2º Secretário_**
-
-Este texto não substitui o publicado no DPL. de 24/05/2017.
+**_2º Secretário

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no S.D.O. de 06.-07-2023._](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18396)
+
+<!-- nota-edicao:fim -->
+
 LEI COMPLEMENTAR Nº 184, DE 6 DE JULHO DE 2023
 
 Altera a [Lei Complementar nº 25](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101023), de 06 de julho de 1998, a [Lei Complementar nº 103](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101090), de 1º de outubro de 2013, a [Lei Complementar nº 156](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103302), de 07 de agosto de 2020, a [Lei nº 13.162](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82255), de 05 de novembro de 1997, e dá outras providências.
@@ -166,4 +172,4 @@ Tabelas das tarefas típicas e pré-requisitos para cargos de provimento em comi
 
 ..........................................................................................................................”(NR)
 
-[_Este texto não substitui o publicado no S.D.O. de 06.-07-2023._](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18396)
+[

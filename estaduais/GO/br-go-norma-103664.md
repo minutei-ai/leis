@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no D.A. de 28-12-2020
+
+<!-- nota-edicao:fim -->
+
 Emenda Constitucional n° 67 / 2020           Lei Ordinária n° 20.913 / 2020
 
 <table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%">
@@ -41,7 +47,5 @@ Deputado CLÁUDIO MEIRELLES
 Deputado JULIO PINA
 
 \-2º SECRETÁRIO-
-
-_Este texto não substitui o publicado no D.A. de 28-12-2020_
 
 _D.O .de 30-12-2020_

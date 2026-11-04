@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 02-09-2020.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.709 / 2020        Decreto Numerado n° 9.566 / 2019
 
 <table border="0" cellpadding="0" id="table1" width="100%"><tbody><tr><td width="100%">
@@ -25,7 +31,5 @@ Decreto Numerado n° 9.709 / 2020        Decreto Numerado n° 9.566 / 2019
 &nbsp;
 
 &nbsp;
-
-*Este texto não substitui o publicado no Suplemento do D.O. de 02-09-2020.*
 
 </td></tr></tbody></table>

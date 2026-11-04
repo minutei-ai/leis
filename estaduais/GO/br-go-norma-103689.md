@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 07-01-2021.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.778 / 2021           Decreto Numerado n° 9.778 / 2021
 
 ![](/assets/brasao_goias.gif)
@@ -31,5 +37,3 @@ Decreto Numerado n° 9.778 / 2021           Decreto Numerado n° 9.778 / 2021
 ~~RONALDO CAIADO~~
 
 ~~Governador do Estado~~
-
-~~_Este texto não substitui o publicado no Suplemento do D.O. de 07-01-2021._~~

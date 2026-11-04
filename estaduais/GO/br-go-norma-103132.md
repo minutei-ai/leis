@@ -44,5 +44,3 @@ Deputado LISSAUER VIEIRA
 Deputado DELEGADO HUMBERTO TEÓFILO
 
 (D.O. de 28-04-2020)
-
-*Este texto não substitui o publicado do D.O. de 28-04-2020.*

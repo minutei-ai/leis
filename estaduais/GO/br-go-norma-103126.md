@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 03-04-2020.
+
+<!-- nota-edicao:fim -->
+
 Portaria Orçamentária n° 100 / 2020
 
 ![](/assets/brasao_goias.gif)
@@ -49,6 +55,4 @@ QUADRO 1
  QUADRO 2 
  
 
-<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18"> </td></tr><tr><td colspan="5"> **2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO 2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO** </td><td height="18"> </td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 12 368 1008 2.010 </td><td valign="top"> APOIO TÉCNICO, ADMINISTRATIVO E PEDAGÓGICO AO DESENVOLVIMENTO DAS ATIVIDADES DO ENSINO </td><td valign="top"> 4 - INVESTIMENTOS </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 1.183.156,76 </td><td valign="top"> R$ 1.080.539,26 </td><td colspan="2" valign="top"> R$ 1.080.539,26 </td><td height="8"> </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 1.080.539,26 </td><td height="8"> </td></tr></tbody></table>
-
-Este texto não substitui o publicado no Suplemento do D.O. de 03-04-2020.
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="5" valign="top"> **REDUÇÃO** </td><td height="18"> </td></tr><tr><td colspan="5"> **2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO 2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO** </td><td height="18"> </td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 12 368 1008 2.010 </td><td valign="top"> APOIO TÉCNICO, ADMINISTRATIVO E PEDAGÓGICO AO DESENVOLVIMENTO DAS ATIVIDADES DO ENSINO </td><td valign="top"> 4 - INVESTIMENTOS </td><td valign="top"> 100 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO A PROGRAMAR** </td><td valign="top"> **VALOR BLOQUEADO** </td><td colspan="2" valign="top"> **VALOR A REDUZIR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 1.183.156,76 </td><td valign="top"> R$ 1.080.539,26 </td><td colspan="2" valign="top"> R$ 1.080.539,26 </td><td height="8"> </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A REDUZIR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 1.080.539,26

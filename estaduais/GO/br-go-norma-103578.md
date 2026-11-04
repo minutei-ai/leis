@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 10-11-2020
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.901 / 2020
 
 <img alt="" border="0" height="90" src="/assets/brasao_goias.gif" width="68">
@@ -29,6 +35,5 @@ Governador do Estado
 JEFERSON RODRIGUES
 Deputado Estadual
 
-*Este texto não substitui o publicado no Suplemento do D.O. de 10-11-2020*
 * ..
 *
