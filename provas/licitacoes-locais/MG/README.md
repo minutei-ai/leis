@@ -29,4 +29,4 @@ Detalhes e hashes: [`fontes.json`](fontes.json). Cobertura artigo a artigo: [`co
 - Vigência não certificada.
 - Catálogo PGM não prova íntegra.
 - Decreto estadual 48.723/2023 é só reutilizado (`estaduais/MG/...`); sem recaptura nesta entrega.
-- Candidatos 17.813 / 18.096 / 18.240 / 18.242: existência verificada na API; íntegra pendente.
+- Candidatos 17.813 / 18.096 / 18.240 / 18.242: íntegras DOM publicadas nesta entrega (`cobertura-17813.json` etc.); consolidação com alterações posteriores permanece fora.

@@ -1,0 +1,17 @@
+{
+  "capturado_em": "2026-11-04T18:57:00Z",
+  "nota": "Captura HTTP oficial SINJ da Lei Orgânica do DF (texto compilado). Não certifica vigência.",
+  "fontes": [
+    {
+      "chave": "sinj-lei-organica-df-66634",
+      "url": "https://www.sinj.df.gov.br/sinj/Norma/66634/Lei_Org_nica__08_06_1993.html",
+      "arquivo": "provas/constituicoes-estaduais/DF/fontes/sinj-lei-organica-df-66634.html.xz",
+      "sha256_conteudo": "8bf4534dbe69805d9d694516000b073dd1eb567db5fade6acc3c6c15dae855b2",
+      "sha256_arquivo_xz": "9b41ae8a58796ca6352d332cdd8b47690792635e0f4b90200a1bfa0551f9d728",
+      "bytes_fonte": 964908,
+      "capturado_em": "2026-11-04T18:57:00Z",
+      "sha256_corpo_markdown": "c2463749bb13ce6e8a37c5e7310455dcf6797a4f235e193f559330b8fd0d8327",
+      "sha256_markdown": "63f40d209947a00512502101edcfcc7503851835a8b3d0e025bd44d88cb34fae"
+    }
+  ]
+}

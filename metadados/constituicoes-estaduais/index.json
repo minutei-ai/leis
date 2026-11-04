@@ -1,0 +1,224 @@
+{
+  "tema": "constituicoes-estaduais",
+  "cobertura": "parcial",
+  "contrato_versao": 1,
+  "nota": "Catálogo parcial das Constituições estaduais e da Lei Orgânica do DF (issue #86). A reprodução por grep no nome do arquivo subconta: várias cartas estão publicadas sob IDs da fonte (ES, PR, SP). Presença no acervo não certifica vigência nem consolidação completa de emendas.",
+  "criterio_deteccao_issue": "ls estaduais/<UF> | grep -ci constituic — insuficiente para IDs br-*-norma-* / br-*-ato-*",
+  "documentos": [
+    {
+      "uf": "AC",
+      "status": "presente",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-ac-constituicao-1989",
+      "arquivo": "estaduais/AC/br-ac-constituicao-1989.md",
+      "titulo": "Constituição do Estado do Acre",
+      "edicao": {
+        "tipo": "desconhecido",
+        "edicao_integral": "desconhecido",
+        "vigencia_certificada": false
+      },
+      "fonte": {
+        "url": "desconhecido",
+        "nota": "Arquivo já no acervo; captura/hash próprios desta entrega: não."
+      },
+      "emendas_listadas": "desconhecido",
+      "acao": "reutilizar"
+    },
+    {
+      "uf": "BA",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-ba-norma-27298",
+      "arquivo": "estaduais/BA/br-ba-norma-27298.md",
+      "titulo": "Constituição do Estado da Bahia de 05 de outubro de 1989",
+      "edicao": {
+        "tipo": "compilada-informada-pela-fonte",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "leitura": "Texto compilado da Casa Civil/Legisla Bahia; integralidade refere-se à reprodução conferida da página HTML, não à certificação de vigência."
+      },
+      "fonte": {
+        "orgao": "Casa Civil da Bahia — Legisla Bahia",
+        "url": "https://www.legislabahia.ba.gov.br/documentos/constituicao-do-estado-da-bahia-de-05-de-outubro-de-1989",
+        "sha256_fonte": "3af9d63a7899618595d6b0f38fa0eeaaa2b6a1e1c74c1e4a269b666ac2520e1e",
+        "capturado_em": "2026-11-04T18:57:00Z"
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/BA/fontes.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "historicas_no_acervo": [
+        "br-ba-norma-34147 (1935)",
+        "br-ba-norma-34149 (1891)",
+        "br-ba-norma-34156 (1947)",
+        "br-ba-norma-34168 (1967)"
+      ],
+      "acao": "publicar"
+    },
+    {
+      "uf": "DF",
+      "status": "publicado-nesta-entrega",
+      "papel": "lei-organica-df",
+      "norma_id": "br-df-lei-organica-1993-06-08",
+      "arquivo": "estaduais/DF/br-df-lei-organica-1993-06-08.md",
+      "titulo": "Lei Orgânica do Distrito Federal",
+      "edicao": {
+        "tipo": "compilada-sinj",
+        "edicao_integral": true,
+        "vigencia_certificada": false
+      },
+      "fonte": {
+        "orgao": "SINJ/DF",
+        "url": "https://www.sinj.df.gov.br/sinj/Norma/66634/Lei_Org_nica__08_06_1993.html",
+        "sha256_fonte": "8bf4534dbe69805d9d694516000b073dd1eb567db5fade6acc3c6c15dae855b2",
+        "capturado_em": "2026-11-04T18:57:00Z"
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/DF/fontes.json",
+        "provas/constituicoes-estaduais/DF/cobertura-lei-organica.json"
+      ],
+      "emendas_listadas": "pendente-inventario",
+      "acao": "publicar"
+    },
+    {
+      "uf": "ES",
+      "status": "presente",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-es-norma-33122",
+      "arquivo": "estaduais/ES/br-es-norma-33122.md",
+      "titulo": "Constituição do Estado do Espírito Santo, 05 de outubro de 1989",
+      "edicao": {
+        "tipo": "desconhecido",
+        "edicao_integral": "desconhecido",
+        "vigencia_certificada": false
+      },
+      "fonte": {
+        "url": "https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/COE11989.html",
+        "nota": "URL no arquivo publicado; sem nova captura nesta entrega."
+      },
+      "emendas_listadas": "desconhecido",
+      "acao": "reutilizar",
+      "nota_deteccao": "Ausente do grep constituic no nome; ID da fonte ALEES."
+    },
+    {
+      "uf": "MG",
+      "status": "presente",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-mg-constituicao-1989-09-21-1989",
+      "arquivo": "estaduais/MG/br-mg-constituicao-1989-09-21-1989.md",
+      "titulo": "Constituição do Estado de Minas Gerais (1989)",
+      "edicao": {
+        "tipo": "desconhecido",
+        "edicao_integral": "desconhecido",
+        "vigencia_certificada": false
+      },
+      "fonte": {
+        "url": "https://www.almg.gov.br/atividade-parlamentar/leis/constituicao-estadual",
+        "nota": "Portal ALMG; arquivo já no acervo sem nova captura nesta entrega."
+      },
+      "historicas_no_acervo": [
+        "br-mg-constituicao-1891-06-15-1891",
+        "br-mg-constituicao-1935-07-30-1935",
+        "br-mg-constituicao-1945-10-29-1945",
+        "br-mg-constituicao-1947-07-14-1947",
+        "br-mg-constituicao-1967-05-13-1967"
+      ],
+      "emendas_listadas": "desconhecido",
+      "acao": "reutilizar"
+    },
+    {
+      "uf": "PR",
+      "status": "presente",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-pr-ato-9779",
+      "arquivo": "estaduais/PR/br-pr-ato-9779.md",
+      "titulo": "Constituição do Estado do Paraná",
+      "edicao": {
+        "tipo": "desconhecido",
+        "edicao_integral": "desconhecido",
+        "vigencia_certificada": false
+      },
+      "fonte": {
+        "url": "desconhecido",
+        "nota": "Arquivo Sistema Legislação PR (codAto aparente 9779); sem nova captura nesta entrega."
+      },
+      "emendas_listadas": "parcial-no-corpo-como-vide",
+      "acao": "reutilizar",
+      "nota_deteccao": "Ausente do grep constituic no nome."
+    },
+    {
+      "uf": "SC",
+      "status": "publicado-nesta-entrega",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-sc-constituicao-1989",
+      "arquivo": "estaduais/SC/br-sc-constituicao-1989.md",
+      "titulo": "Constituição do Estado de Santa Catarina de 1989",
+      "edicao": {
+        "tipo": "atualizada-informada-pelo-portal",
+        "edicao_integral": true,
+        "vigencia_certificada": false,
+        "atualizacao_informada": "EC/101, de 2026"
+      },
+      "fonte": {
+        "orgao": "ALESC",
+        "url": "http://leis.alesc.sc.gov.br/html/constituicao_estadual_1989.html",
+        "sha256_fonte": "3ca0860ec368a52712bfb2c9ff456e1061986dbef0eb8b7cfabae1dc2a4a1f72",
+        "capturado_em": "2026-11-04T18:57:00Z"
+      },
+      "provas": [
+        "provas/constituicoes-estaduais/SC/fontes.json",
+        "provas/constituicoes-estaduais/SC/cobertura-constituicao.json"
+      ],
+      "emendas_listadas": "pendente-inventario-autonomo",
+      "acao": "publicar"
+    },
+    {
+      "uf": "SP",
+      "status": "presente",
+      "papel": "constituicao-estadual",
+      "norma_id": "br-sp-norma-155101",
+      "arquivo": "estaduais/SP/br-sp-norma-155101.md",
+      "titulo": "Constituição Estadual de 05 de outubro de 1989",
+      "edicao": {
+        "tipo": "compilado-alesp-informado",
+        "edicao_integral": "desconhecido",
+        "vigencia_certificada": false,
+        "ultima_atualizacao_informada_no_arquivo": "ADI - STF n° 7436, de 23/08/2023"
+      },
+      "fonte": {
+        "url": "https://www.al.sp.gov.br/repositorio/legislacao/constituicao/1989/compilacao-constituicao-0-05.10.1989.html",
+        "nota": "Link no arquivo; sem nova captura nesta entrega."
+      },
+      "emendas_listadas": "desconhecido",
+      "acao": "reutilizar",
+      "nota_deteccao": "Ausente do grep constituic no nome."
+    }
+  ],
+  "ausentes": [
+    "AL",
+    "AM",
+    "AP",
+    "CE",
+    "GO",
+    "MA",
+    "MS",
+    "MT",
+    "PA",
+    "PB",
+    "PE",
+    "PI",
+    "RJ",
+    "RN",
+    "RO",
+    "RR",
+    "RS",
+    "SE",
+    "TO"
+  ],
+  "pendencias": [
+    "Publicar Constituições consolidadas das 19 UFs ainda ausentes, com lista de emendas aplicadas.",
+    "Inventariar emendas constitucionais estaduais aplicadas às cartas já presentes (AC, BA, DF/LO, ES, MG, PR, SC, SP).",
+    "Recaptura/hash próprios de AC, ES, MG, PR e SP para sair de edicao_integral=desconhecido.",
+    "GO: falso positivo de detecção por título (norma que 'Constitui o Fórum...'); não é Constituição estadual."
+  ]
+}

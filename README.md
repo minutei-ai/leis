@@ -4,7 +4,7 @@ O texto da lei, em um formato aberto, legível e fácil de usar.
 
 Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, estado e município. Cada norma tem seu próprio arquivo Markdown, com o texto disponibilizado pela fonte oficial.
 
-**230.054 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
+**230.061 normas e 2 anexos em arquivos próprios publicados.** O objetivo é reunir a legislação de todo o Brasil, incluindo textos históricos e revogados. O acervo ainda está em construção.
 
 ## Comece por aqui
 
@@ -23,9 +23,9 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Alagoas](estaduais/AL/) | 5 |
 | Estadual | [Amapá](estaduais/AP/) | 24 |
 | Estadual | [Amazonas](estaduais/AM/) | 8 |
-| Estadual | [Bahia](estaduais/BA/) | 14.377 |
+| Estadual | [Bahia](estaduais/BA/) | 14.378 |
 | Estadual | [Ceará](estaduais/CE/) | 110 |
-| Distrital | [Distrito Federal](estaduais/DF/) | 8 |
+| Distrital | [Distrito Federal](estaduais/DF/) | 9 |
 | Estadual | [Espírito Santo](estaduais/ES/) | 20 |
 | Estadual | [Goiás](estaduais/GO/) | 9.668 |
 | Estadual | [Maranhão](estaduais/MA/) | 6 |
@@ -42,14 +42,14 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Rio Grande do Sul](estaduais/RS/) | 16 |
 | Estadual | [Rondônia](estaduais/RO/) | 3 |
 | Estadual | [Roraima](estaduais/RR/) | 1 |
-| Estadual | [Santa Catarina](estaduais/SC/) | 266 |
+| Estadual | [Santa Catarina](estaduais/SC/) | 267 |
 | Estadual | [São Paulo](estaduais/SP/) | 19.906 |
 | Estadual | [Sergipe](estaduais/SE/) | 21 |
 | Estadual | [Tocantins](estaduais/TO/) | 28 |
 | Municipal | [Adamantina · SP](municipais/3500105/) | 2 |
 | Municipal | [Águas Formosas · MG](municipais/3100906/) | 1 |
 | Municipal | [Alfenas · MG](municipais/3101607/) | 1 |
-| Municipal | [Belo Horizonte · MG](municipais/3106200/) | 12 |
+| Municipal | [Belo Horizonte · MG](municipais/3106200/) | 16 |
 | Municipal | [Craíbas · AL](municipais/2702355/) | 2 |
 | Municipal | [Japaratinga · AL](municipais/2703601/) | 2 |
 | Municipal | [Marechal Deodoro · AL](municipais/2704708/) | 7 |

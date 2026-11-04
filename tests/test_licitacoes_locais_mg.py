@@ -118,17 +118,22 @@ class TestLicitacoesLocaisMG(unittest.TestCase):
         # sem duplicar o estadual como documento novo
         self.assertNotEqual(doc['norma_id'], reut['norma_id'])
 
-    def test_pendencias_candidatos_verificados_sem_publicar_integra(self):
+    def test_pendencias_candidatos_complementares_publicados(self):
         pend = self.cat['pendencias']
         cand = next(p for p in pend if p['id'] == 'bh-candidatos-complementares')
-        ids = {i['dom_ato_id'] for i in cand['itens']}
-        self.assertEqual(ids, {7494, 23012, 30089, 30413})
+        self.assertEqual(cand['tipo'], 'recuperacao-integral-concluida-parcial')
         publicados = [p.name for p in (ROOT / 'municipais/3106200').glob('*.md')]
         self.assertTrue(any('decreto-2023-03-28-18289' in n for n in publicados))
         for num in ('17813', '18096', '18240', '18242'):
-            self.assertFalse(any(num in n for n in publicados), num)
-        for item in cand['itens']:
-            self.assertIn('Íntegra não publicada', item['verificacao'])
+            self.assertTrue(any(num in n for n in publicados), num)
+        ids = {d['norma_id'] for d in self.cat['documentos']}
+        for nid in cand['itens_publicados']:
+            self.assertIn(nid, ids)
+            doc = next(d for d in self.cat['documentos'] if d['norma_id'] == nid)
+            self.assertTrue((ROOT / doc['arquivo']).is_file())
+            self.assertIs(doc['vigencia_certificada'], False)
+            cob = ROOT / doc['provas']['cobertura']
+            self.assertTrue(cob.is_file(), cob)
 
     def test_negativo_nao_confundir_com_estadual_nem_inventar_vigencia(self):
         doc = self.cat['documentos'][0]

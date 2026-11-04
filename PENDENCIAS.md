@@ -200,3 +200,16 @@ Os 184 registros abaixo têm peças acompanhantes não recuperadas. A descriçã
 | [br-federal-decreto-1969-12-30-66013](federal/br-federal-decreto-1969-12-30-66013.md) | planta |
 
 Esta lista contém lacunas identificadas na revisão destes lotes; não é um censo de todas as omissões do acervo. A obtenção de uma peça exige conferir sua identidade, versão e limites antes de retirar o aviso.
+
+
+## Regulamentação estadual da Lei 14.133 (issue #73)
+
+Inventário parcial em `metadados/regulamentacao-14133-ufs/index.json`. No acervo, há decreto geral publicado para o Paraná (10.086/2022); cobertura parcial/específica em MG (48.723/2023), GO (10.247/2023) e SP (67.608/2023 transitório). As demais UFs constam como não encontradas no acervo até a data do inventário — a ausência não prova inexistência na fonte oficial. Pendente: localizar e publicar decretos gerais, alterações, SRP e pesquisa de preços por UF; em seguida o lote das capitais (issue #101).
+
+## Constituições estaduais e Lei Orgânica do DF (issue #86)
+
+Catálogo parcial em `metadados/constituicoes-estaduais/index.json`. Já presentes (incluindo IDs que o `grep constituic` no nome não detecta): AC, BA (1989, nesta entrega), DF/LO (nesta entrega), ES, MG, PR, SC (nesta entrega), SP. Ausentes: AL, AM, AP, CE, GO, MA, MS, MT, PA, PB, PE, PI, RJ, RN, RO, RR, RS, SE, TO. Pendente: lista de emendas aplicadas a cada carta e recaptura/hash das já presentes com `edicao_integral=desconhecido`.
+
+## Capitais — Lei Orgânica e decreto da Lei 14.133 (issue #101)
+
+Inventário em `metadados/capitais-lei-organica-14133/index.json`. São Paulo tem Lei Orgânica e Decreto 62.100/2022; Belo Horizonte tem o Decreto 18.289/2023 (sem LO); Goiânia tem o Decreto 2.469/2024 só do art. 60 (parcial, sem LO). As demais capitais seguem sem pasta ou sem essas normas no acervo.

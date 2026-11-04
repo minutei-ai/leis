@@ -1,0 +1,318 @@
+{
+  "tema": "regulamentacao-estadual-lei-14133",
+  "cobertura": "parcial",
+  "contrato_versao": 1,
+  "issue": 73,
+  "nota": "Inventário dirigido da regulamentação estadual da Lei 14.133 nas 27 UFs. Amostra a partir do acervo em 2026-11-04 (commit base desta branch). Não inventaria capitais (issue #101). Ausência neste catálogo não prova inexistência no ordenamento. Não certifica vigência.",
+  "ufs": [
+    {
+      "uf": "AC",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.al.ac.leg.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "AL",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.al.al.leg.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "AM",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.aleam.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "AP",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.al.ap.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "BA",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.legislabahia.ba.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "CE",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.al.ce.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "DF",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.sinj.df.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "ES",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.al.es.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "GO",
+      "status_acervo": "decreto-parcial-publicado",
+      "decretos_14133": [
+        {
+          "norma_id": "br-go-norma-106877",
+          "titulo": "Decreto 10.247/2023",
+          "arquivo": "estaduais/GO/br-go-norma-106877.md",
+          "carater": "pregao-eletronico",
+          "fonte_url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106877/decreto-numerado-10247"
+        }
+      ],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://legisla.casacivil.go.gov.br/",
+      "pendencias": [
+        "Localizar decreto geral estadual de regulamentação da 14.133 além do pregão 10.247; SRP e pesquisa de preços."
+      ]
+    },
+    {
+      "uf": "MA",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.al.ma.leg.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "MG",
+      "status_acervo": "decreto-parcial-publicado",
+      "decretos_14133": [
+        {
+          "norma_id": "br-mg-decreto-2023-11-24-48723",
+          "titulo": "Decreto 48.723/2023",
+          "arquivo": "estaduais/MG/br-mg-decreto-2023-11-24-48723.md",
+          "carater": "menor-preco-maior-desconto-eletronico",
+          "fonte_url": "https://www.almg.gov.br/legislacao-mineira/texto/DEC/48723/2023/atualizado"
+        }
+      ],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.almg.gov.br/",
+      "pendencias": [
+        "Mapear decretos estaduais de SRP e pesquisa de preços; conferir se há regulamento geral além do 48.723."
+      ]
+    },
+    {
+      "uf": "MS",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.spdo.ms.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "MT",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.al.mt.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "PA",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.alepa.pa.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "PB",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.al.pb.leg.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "PE",
+      "status_acervo": "leis-pontuais-sem-decreto-geral-no-acervo",
+      "decretos_14133": [],
+      "leis_relacionadas_no_acervo": [
+        "br-pe-norma-75054 (Lei 18.384/2023 gratificações agentes 14.133; cita Decreto 55.916/2023)",
+        "br-pe-norma-61182 (regras transitórias art. 191)"
+      ],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://legis.alepe.pe.gov.br/",
+      "pendencias": [
+        "Recuperar Decreto estadual geral de regulamentação da 14.133; recuperar Decreto 55.916/2023 se for SRP/procedimento."
+      ]
+    },
+    {
+      "uf": "PI",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.alepi.pi.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "PR",
+      "status_acervo": "decreto-geral-publicado",
+      "decretos_14133": [
+        {
+          "norma_id": "br-pr-ato-259084",
+          "titulo": "Decreto 10.086/2022",
+          "arquivo": "estaduais/PR/br-pr-ato-259084.md",
+          "carater": "regulamento-geral-estadual",
+          "fonte_url": "https://www.legislacao.pr.gov.br/legislacao/exibirAto.do?action=iniciarProcesso&codAto=259084&codItemAto=1634885"
+        }
+      ],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.legislacao.pr.gov.br/",
+      "pendencias": []
+    },
+    {
+      "uf": "RJ",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.alerj.rj.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "RN",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.al.rn.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "RO",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.al.ro.leg.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "RR",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.al.rr.leg.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "RS",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://ww3.al.rs.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "SC",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.alesc.sc.gov.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "SE",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://al.se.leg.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    },
+    {
+      "uf": "SP",
+      "status_acervo": "decreto-transitorio-publicado",
+      "decretos_14133": [
+        {
+          "norma_id": "br-sp-norma-207462",
+          "titulo": "Decreto 67.608/2023",
+          "arquivo": "estaduais/SP/br-sp-norma-207462.md",
+          "carater": "aplicacao-transitoria-regulamentos-federais",
+          "fonte_url": "https://www.al.sp.gov.br/norma/207462"
+        }
+      ],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.al.sp.gov.br/",
+      "pendencias": [
+        "Verificar se há regulamentação estadual específica posterior ao 67.608; preservar caráter transitório."
+      ]
+    },
+    {
+      "uf": "TO",
+      "status_acervo": "nao-encontrado-no-acervo",
+      "decretos_14133": [],
+      "srp_pesquisa_precos": "desconhecido",
+      "fonte_oficial_indicada": "https://www.al.to.leg.br/",
+      "pendencias": [
+        "Localizar na fonte oficial o(s) decreto(s) que regulamenta(m) a Lei 14.133, alterações, SRP e pesquisa de preços; registrar URL e publicar íntegra ou pendência explícita de acesso."
+      ]
+    }
+  ],
+  "pendencias_gerais": [
+    "Completar coleta das 23 UFs sem decreto geral no acervo (além de aprofundar GO/MG/SP/PE).",
+    "Depois do lote estadual, repetir o inventário para as capitais (issue #101).",
+    "Não inferir vigência pela presença de arquivo."
+  ]
+}
