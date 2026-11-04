@@ -1,0 +1,23 @@
+name: Cobertura nacional e metadados BM25
+on:
+  pull_request:
+    paths:
+      - '.github/workflows/cobertura-nacional.yml'
+      - 'scripts/cobertura_nacional.py'
+      - 'tests/test_cobertura_nacional.py'
+      - 'metadados/CONTRATO-acervo.md'
+      - 'provas/cobertura-nacional/**'
+      - 'assets/federal/br-federal-decreto-lei-1941-10-03-3689/**'
+      - 'federal/br-federal-decreto-lei-1941-10-03-3689.md'
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verificar inventários, contrato e export BM25 offline
+        run: python3 scripts/cobertura_nacional.py verify
+      - name: Regressões
+        run: python3 -m unittest tests.test_cobertura_nacional -v

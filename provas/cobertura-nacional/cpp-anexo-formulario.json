@@ -1,0 +1,12 @@
+{
+  "arquivo": "federal/br-federal-decreto-lei-1941-10-03-3689.md",
+  "peca": "anexo-formulario-boletim-individual",
+  "asset": "assets/federal/br-federal-decreto-lei-1941-10-03-3689/anexo-formulario-boletim-individual.png",
+  "sha256_imagem": "d8811277f5d8730d50454357d574094a0ff06a97a55d933a698f410f0880c9b1",
+  "bytes": 233673,
+  "referencia_edicao": "https://www2.camara.leg.br/legin/fed/declei/1940-1949/decreto-lei-3992-30-dezembro-1941-414017-anexo-pe.pdf",
+  "cobertura_transcricao": "ausente",
+  "cobertura_ocr": "ausente",
+  "vigencia_campos_formulario": "nao-atribuida",
+  "operacao": "base64-inline-extraido-para-asset; markdown atualizado com alerta de pendência; demais imagens inline preservadas"
+}

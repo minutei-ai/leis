@@ -1,0 +1,518 @@
+{
+  "contrato_versao": 1,
+  "regra": "Nenhum campo é coberto só porque apareceu em amostra.",
+  "lotes": {
+    "nucleo-licitacoes": {
+      "contrato": "metadados/CONTRATO.md",
+      "manifesto": "metadados/nucleo-licitacoes.json",
+      "campos_cabecalho": "conhecidos-no-lote"
+    },
+    "lgpd": {
+      "contrato": "metadados/CONTRATO-lgpd.md",
+      "manifesto": "metadados/lgpd.json",
+      "campos_cabecalho": "conhecidos-no-lote"
+    },
+    "cdc-eca": {
+      "contrato": "metadados/CONTRATO-cdc-eca.md",
+      "manifesto": "metadados/nucleo-cdc-eca.json",
+      "campos_cabecalho": "conhecidos-no-lote"
+    },
+    "licitacoes-locais": {
+      "contrato": "metadados/licitacoes-locais/",
+      "campos_cabecalho": "conhecidos-no-lote-tematico"
+    },
+    "acervo-geral-sem-cabecalho": {
+      "contrato": "metadados/CONTRATO-acervo.md",
+      "campos_cabecalho": "ausente-na-maioria",
+      "evidencia": "provas/cobertura-nacional/path-metadata-audit.json"
+    }
+  },
+  "campos": {
+    "norma_id": {
+      "acervo_geral": "conhecido-em-lotes-setoriais-ausente-ou-desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "edicao_id": {
+      "acervo_geral": "conhecido-em-lotes-setoriais-ausente-ou-desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "especie": {
+      "acervo_geral": "conhecido-em-lotes-setoriais-ausente-ou-desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "numero": {
+      "acervo_geral": "conhecido-em-lotes-setoriais-ausente-ou-desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "complemento": {
+      "acervo_geral": "parcialmente-modelado-neste-contrato",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "numero_estado": {
+      "acervo_geral": "parcialmente-modelado-neste-contrato",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "provedor_id": {
+      "acervo_geral": "parcialmente-modelado-neste-contrato",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "esfera": {
+      "acervo_geral": "conhecido-em-lotes-setoriais-ausente-ou-desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "uf": {
+      "acervo_geral": "desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "ibge": {
+      "acervo_geral": "desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "orgao_emissor": {
+      "acervo_geral": "desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "poder": {
+      "acervo_geral": "desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "titulo": {
+      "acervo_geral": "conhecido-em-lotes-setoriais-ausente-ou-desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "ementa": {
+      "acervo_geral": "desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "data_ato": {
+      "acervo_geral": "desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "data_publicacao": {
+      "acervo_geral": "desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "edicao_tipo": {
+      "acervo_geral": "conhecido-em-lotes-setoriais-ausente-ou-desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "representacao": {
+      "acervo_geral": "parcialmente-modelado-neste-contrato",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "cobertura_transcricao": {
+      "acervo_geral": "parcialmente-modelado-neste-contrato",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "situacao": {
+      "acervo_geral": "conhecido-em-lotes-setoriais-ausente-ou-desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "vigencia_certificada": {
+      "acervo_geral": "conhecido-em-lotes-setoriais-ausente-ou-desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "sha256_markdown": {
+      "acervo_geral": "conhecido-em-lotes-setoriais-ausente-ou-desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "fonte_url": {
+      "acervo_geral": "conhecido-em-lotes-setoriais-ausente-ou-desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    },
+    "relacoes": {
+      "acervo_geral": "desconhecido-no-acervo-geral",
+      "lotes_setoriais": "consultar-contrato-do-lote"
+    }
+  },
+  "amostras_publicadas": [
+    {
+      "arquivo": "federal/br-federal-constituicao-1988-10-05.md",
+      "tem_frontmatter_estruturado": false,
+      "campos_frontmatter": [],
+      "sha256_corpo_ou_arquivo": "acbbbc93df8da8ced077476bf7de1d52e34749db9e0f42755e180172f263ff47",
+      "identidade_caminho": {
+        "arquivo": "federal/br-federal-constituicao-1988-10-05.md",
+        "stem": "br-federal-constituicao-1988-10-05",
+        "caminho_opaco": false,
+        "numero": null,
+        "numero_estado": "desconhecido",
+        "complemento": null,
+        "provedor_id": null,
+        "provedor_token": null,
+        "esfera": "federal",
+        "uf": null,
+        "ibge": null,
+        "especie_candidata": "constituicao",
+        "data_candidata": "1988-10-05",
+        "estado_identidade": "derivada-do-caminho-candidata"
+      },
+      "representacao": {
+        "representacao": "mista",
+        "cobertura_transcricao": "desconhecida",
+        "cobertura_ocr": "desconhecida",
+        "fac_simile_oficial": false,
+        "imagens_markdown": 1,
+        "data_uris": 1,
+        "imagens_asset": 0,
+        "texto_integral_pesquisavel": false,
+        "fonte_integral_preservada": true
+      }
+    },
+    {
+      "arquivo": "federal/br-federal-lei-2002-01-10-10406.md",
+      "tem_frontmatter_estruturado": false,
+      "campos_frontmatter": [],
+      "sha256_corpo_ou_arquivo": "08ec3c528e6f055029422657cf3772615927ab415d697f80940024de33074730",
+      "identidade_caminho": {
+        "arquivo": "federal/br-federal-lei-2002-01-10-10406.md",
+        "stem": "br-federal-lei-2002-01-10-10406",
+        "caminho_opaco": false,
+        "numero": "10406",
+        "numero_estado": "informado",
+        "complemento": null,
+        "provedor_id": null,
+        "provedor_token": null,
+        "esfera": "federal",
+        "uf": null,
+        "ibge": null,
+        "especie_candidata": "lei",
+        "data_candidata": "2002-01-10",
+        "estado_identidade": "derivada-do-caminho-candidata"
+      },
+      "representacao": {
+        "representacao": "mista",
+        "cobertura_transcricao": "desconhecida",
+        "cobertura_ocr": "desconhecida",
+        "fac_simile_oficial": false,
+        "imagens_markdown": 1,
+        "data_uris": 1,
+        "imagens_asset": 0,
+        "texto_integral_pesquisavel": false,
+        "fonte_integral_preservada": true
+      }
+    },
+    {
+      "arquivo": "federal/br-federal-lei-2015-03-16-13105.md",
+      "tem_frontmatter_estruturado": false,
+      "campos_frontmatter": [],
+      "sha256_corpo_ou_arquivo": "f8861aea2392f316b70bdc51469899d64928b7f03eb897e177eb09a1e8587186",
+      "identidade_caminho": {
+        "arquivo": "federal/br-federal-lei-2015-03-16-13105.md",
+        "stem": "br-federal-lei-2015-03-16-13105",
+        "caminho_opaco": false,
+        "numero": "13105",
+        "numero_estado": "informado",
+        "complemento": null,
+        "provedor_id": null,
+        "provedor_token": null,
+        "esfera": "federal",
+        "uf": null,
+        "ibge": null,
+        "especie_candidata": "lei",
+        "data_candidata": "2015-03-16",
+        "estado_identidade": "derivada-do-caminho-candidata"
+      },
+      "representacao": {
+        "representacao": "mista",
+        "cobertura_transcricao": "desconhecida",
+        "cobertura_ocr": "desconhecida",
+        "fac_simile_oficial": false,
+        "imagens_markdown": 1,
+        "data_uris": 1,
+        "imagens_asset": 0,
+        "texto_integral_pesquisavel": false,
+        "fonte_integral_preservada": true
+      }
+    },
+    {
+      "arquivo": "federal/br-federal-lei-1990-09-11-8078.md",
+      "tem_frontmatter_estruturado": true,
+      "campos_frontmatter": [
+        "anexos_no_corpo",
+        "area",
+        "capturado_em",
+        "contrato_versao",
+        "edicao_id",
+        "edicao_integral",
+        "edicao_tipo",
+        "efeitos_diferidos",
+        "esfera",
+        "fonte_conferencia",
+        "fonte_formato",
+        "fonte_orgao",
+        "fonte_url",
+        "id",
+        "imagens_omitidas",
+        "lote",
+        "manifesto",
+        "norma_data",
+        "norma_id",
+        "norma_numero",
+        "norma_tipo",
+        "sha256_fonte",
+        "sha256_markdown",
+        "situacao",
+        "situacao_fundamento",
+        "tabelas",
+        "texto_riscado",
+        "titulo",
+        "vigencia_certificada"
+      ],
+      "sha256_corpo_ou_arquivo": "c4ce1f2b350dab50633fe3a2e84e00f8111aa60d45562b6b23b4ffe53fdc4408",
+      "identidade_caminho": {
+        "arquivo": "federal/br-federal-lei-1990-09-11-8078.md",
+        "stem": "br-federal-lei-1990-09-11-8078",
+        "caminho_opaco": false,
+        "numero": "8078",
+        "numero_estado": "informado",
+        "complemento": null,
+        "provedor_id": null,
+        "provedor_token": null,
+        "esfera": "federal",
+        "uf": null,
+        "ibge": null,
+        "especie_candidata": "lei",
+        "data_candidata": "1990-09-11",
+        "estado_identidade": "derivada-do-caminho-candidata"
+      },
+      "representacao": {
+        "representacao": "texto",
+        "cobertura_transcricao": "desconhecida",
+        "cobertura_ocr": "nao-aplicavel",
+        "fac_simile_oficial": false,
+        "imagens_markdown": 0,
+        "data_uris": 0,
+        "imagens_asset": 0,
+        "texto_integral_pesquisavel": false,
+        "fonte_integral_preservada": false
+      }
+    },
+    {
+      "arquivo": "estaduais/AC/br-ac-norma-1121.md",
+      "tem_frontmatter_estruturado": false,
+      "campos_frontmatter": [],
+      "sha256_corpo_ou_arquivo": "dcb4d31470a4ad4f5d9edfba8ca821b10f38cc151bef5dd663b95e13a53598e6",
+      "identidade_caminho": {
+        "arquivo": "estaduais/AC/br-ac-norma-1121.md",
+        "stem": "br-ac-norma-1121",
+        "caminho_opaco": true,
+        "numero": null,
+        "numero_estado": "desconhecido",
+        "complemento": null,
+        "provedor_id": "1121",
+        "provedor_token": null,
+        "esfera": "estadual",
+        "uf": "AC",
+        "ibge": null,
+        "especie_candidata": null,
+        "data_candidata": null,
+        "estado_identidade": "provedor-id-nao-e-numero-legal",
+        "provedor_id_namespace": "fonte-local-norma-id"
+      },
+      "representacao": {
+        "representacao": "texto",
+        "cobertura_transcricao": "desconhecida",
+        "cobertura_ocr": "nao-aplicavel",
+        "fac_simile_oficial": false,
+        "imagens_markdown": 0,
+        "data_uris": 0,
+        "imagens_asset": 0,
+        "texto_integral_pesquisavel": false,
+        "fonte_integral_preservada": false
+      }
+    },
+    {
+      "arquivo": "estaduais/AC/br-ac-norma-120.md",
+      "tem_frontmatter_estruturado": false,
+      "campos_frontmatter": [],
+      "sha256_corpo_ou_arquivo": "6af3e7c02a475a4fd3c4bb68086b1791d037430ba01c2bfee92a9fa7b0652746",
+      "identidade_caminho": {
+        "arquivo": "estaduais/AC/br-ac-norma-120.md",
+        "stem": "br-ac-norma-120",
+        "caminho_opaco": true,
+        "numero": null,
+        "numero_estado": "desconhecido",
+        "complemento": null,
+        "provedor_id": "120",
+        "provedor_token": null,
+        "esfera": "estadual",
+        "uf": "AC",
+        "ibge": null,
+        "especie_candidata": null,
+        "data_candidata": null,
+        "estado_identidade": "provedor-id-nao-e-numero-legal",
+        "provedor_id_namespace": "fonte-local-norma-id"
+      },
+      "representacao": {
+        "representacao": "texto",
+        "cobertura_transcricao": "desconhecida",
+        "cobertura_ocr": "nao-aplicavel",
+        "fac_simile_oficial": false,
+        "imagens_markdown": 0,
+        "data_uris": 0,
+        "imagens_asset": 0,
+        "texto_integral_pesquisavel": false,
+        "fonte_integral_preservada": false
+      }
+    },
+    {
+      "arquivo": "federal/br-federal-decreto-1954-02-25-35110.md",
+      "tem_frontmatter_estruturado": false,
+      "campos_frontmatter": [],
+      "sha256_corpo_ou_arquivo": "07029a5432af074af6172be9a5ff1e14880a57aa30f073c078d3ca19ef85ff50",
+      "identidade_caminho": {
+        "arquivo": "federal/br-federal-decreto-1954-02-25-35110.md",
+        "stem": "br-federal-decreto-1954-02-25-35110",
+        "caminho_opaco": false,
+        "numero": "35110",
+        "numero_estado": "informado",
+        "complemento": null,
+        "provedor_id": null,
+        "provedor_token": null,
+        "esfera": "federal",
+        "uf": null,
+        "ibge": null,
+        "especie_candidata": "decreto",
+        "data_candidata": "1954-02-25",
+        "estado_identidade": "derivada-do-caminho-candidata"
+      },
+      "representacao": {
+        "representacao": "fac-simile",
+        "cobertura_transcricao": "ausente",
+        "cobertura_ocr": "ausente",
+        "fac_simile_oficial": true,
+        "imagens_markdown": 4,
+        "data_uris": 0,
+        "imagens_asset": 4,
+        "texto_integral_pesquisavel": false,
+        "fonte_integral_preservada": true
+      }
+    },
+    {
+      "arquivo": "federal/br-federal-lei-2021-04-01-14133.md",
+      "tem_frontmatter_estruturado": true,
+      "campos_frontmatter": [
+        "anexos_no_corpo",
+        "capturado_em",
+        "contrato_versao",
+        "edicao_id",
+        "edicao_integral",
+        "edicao_relacionada",
+        "edicao_tipo",
+        "efeitos_diferidos",
+        "esfera",
+        "fonte_conferencia",
+        "fonte_formato",
+        "fonte_orgao",
+        "fonte_url",
+        "id",
+        "imagens_omitidas",
+        "manifesto",
+        "norma_data",
+        "norma_id",
+        "norma_numero",
+        "norma_tipo",
+        "sha256_corpo_preservado",
+        "sha256_fonte",
+        "sha256_markdown",
+        "situacao",
+        "situacao_fundamento",
+        "tabelas",
+        "texto_riscado",
+        "titulo",
+        "vigencia_certificada"
+      ],
+      "sha256_corpo_ou_arquivo": "2acf58e0837f070dbf46ccfc27c27e305d5696702121650728cf6e2ced90cd60",
+      "identidade_caminho": {
+        "arquivo": "federal/br-federal-lei-2021-04-01-14133.md",
+        "stem": "br-federal-lei-2021-04-01-14133",
+        "caminho_opaco": false,
+        "numero": "14133",
+        "numero_estado": "informado",
+        "complemento": null,
+        "provedor_id": null,
+        "provedor_token": null,
+        "esfera": "federal",
+        "uf": null,
+        "ibge": null,
+        "especie_candidata": "lei",
+        "data_candidata": "2021-04-01",
+        "estado_identidade": "derivada-do-caminho-candidata"
+      },
+      "representacao": {
+        "representacao": "texto",
+        "cobertura_transcricao": "desconhecida",
+        "cobertura_ocr": "nao-aplicavel",
+        "fac_simile_oficial": false,
+        "imagens_markdown": 0,
+        "data_uris": 0,
+        "imagens_asset": 0,
+        "texto_integral_pesquisavel": false,
+        "fonte_integral_preservada": false
+      }
+    },
+    {
+      "arquivo": "federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md",
+      "tem_frontmatter_estruturado": true,
+      "campos_frontmatter": [
+        "anexos_no_corpo",
+        "capturado_em",
+        "contrato_versao",
+        "edicao_id",
+        "edicao_integral",
+        "edicao_relacionada",
+        "edicao_tipo",
+        "efeitos_diferidos",
+        "esfera",
+        "fonte_conferencia",
+        "fonte_formato",
+        "fonte_orgao",
+        "fonte_url",
+        "id",
+        "imagens_omitidas",
+        "manifesto",
+        "norma_data",
+        "norma_id",
+        "norma_numero",
+        "norma_tipo",
+        "sha256_fonte",
+        "sha256_markdown",
+        "situacao",
+        "situacao_fundamento",
+        "tabelas",
+        "texto_riscado",
+        "titulo",
+        "vigencia_certificada"
+      ],
+      "sha256_corpo_ou_arquivo": "7a32ad9ea4ce8710afd4afd5481c256607fcc069575a79a2b59f536a93adbaa5",
+      "identidade_caminho": {
+        "arquivo": "federal/edicoes/br-federal-lei-2021-04-01-14133-consolidada.md",
+        "stem": "br-federal-lei-2021-04-01-14133-consolidada",
+        "caminho_opaco": false,
+        "numero": "14133",
+        "numero_estado": "informado",
+        "complemento": null,
+        "provedor_id": null,
+        "provedor_token": null,
+        "esfera": "federal",
+        "uf": null,
+        "ibge": null,
+        "especie_candidata": "lei",
+        "data_candidata": "2021-04-01",
+        "estado_identidade": "derivada-do-caminho-candidata"
+      },
+      "representacao": {
+        "representacao": "texto",
+        "cobertura_transcricao": "desconhecida",
+        "cobertura_ocr": "nao-aplicavel",
+        "fac_simile_oficial": false,
+        "imagens_markdown": 0,
+        "data_uris": 0,
+        "imagens_asset": 0,
+        "texto_integral_pesquisavel": false,
+        "fonte_integral_preservada": false
+      }
+    }
+  ]
+}
