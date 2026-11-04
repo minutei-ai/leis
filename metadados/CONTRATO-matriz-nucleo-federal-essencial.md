@@ -47,3 +47,7 @@ issue #62 **por área e identidade normativa** (`norma_id` + número + data +
 arquivos presentes, hashes do manifesto alinhados aos cabeçalhos, separação de
 `PENDENCIAS.md`, e que o gate não se reduz a “existe algum arquivo com o
 número”.
+
+## Integridade
+
+`edicao_integral=true` nos documentos desta matriz espelha o cabeçalho do lote que publicou a norma. Significa reprodução conferida da **fonte principal** daquele lote. Não afirma identidade byte a byte com toda fonte de conferência, nem vigência. Divergências oficiais conhecidas (ex.: CDC Planalto×Câmara) permanecem no manifesto do lote e são apontadas em `integridade.divergencias_conhecidas_no_lote` quando existirem. Hashes e contagens de artigos **não** substituem a leitura das provas.

@@ -41,3 +41,7 @@ Padrão observado nos três lotes: **identificada e ainda não coletada**.
 - `vigencia_certificada` permanece `false`; situação e efeitos seguem o que cada lote e fonte registram.
 - Não inventaria atos infralegais (#72/#75), decretos legislativos (#65) nem resoluções do Senado (#66).
 - Não altera README agregado nem o manifesto do núcleo de licitações.
+
+## Integridade vs. hash
+
+A presença dos seis arquivos em `main` com `sha256_markdown` coerente prova publicação e rastreio ao lote. A íntegra jurídica/editorial é a do lote (snapshots + reconciliação). No CDC, o Markdown segue o Planalto; artigos só na Câmara (11-A, 111–119) e outras divergências conhecidas ficam no manifesto `metadados/nucleo-cdc-eca.json`.

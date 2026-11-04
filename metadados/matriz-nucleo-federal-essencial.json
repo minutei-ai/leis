@@ -5,7 +5,7 @@
     "https://github.com/minutei-ai/leis/issues/62"
   ],
   "descricao": "Matriz unificada de cobertura do núcleo federal essencial (CDC, ECA, CTN, SUS, benefícios previdenciários, Lei Maria da Penha). Controla por área e identidade normativa; contagem de arquivos não é o único gate.",
-  "gerado_em": "2026-11-04T19:23:16Z",
+  "gerado_em": "2026-11-04T20:00:17Z",
   "vigencia_certificada": false,
   "escopo": {
     "inclui": [
@@ -124,7 +124,47 @@
         "arquivo_existe": true,
         "contagem_arquivos_insuficiente": true,
         "gate": "identidade-area-numero-data"
-      }
+      },
+      "integridade": {
+        "edicao_integral_no_cabecalho": true,
+        "leitura": "edicao_integral=true no Markdown significa reprodução conferida da fonte principal do lote; não equivale a ausência de divergência com fontes de conferência nem a certificação de vigência. Hashes e contagens não substituem a leitura das provas do lote.",
+        "divergencias_conhecidas_no_lote": {
+          "manifesto": "metadados/nucleo-cdc-eca.json",
+          "apenas_na_conferencia": [
+            "11-A",
+            "111",
+            "112",
+            "113",
+            "114",
+            "115",
+            "116",
+            "117",
+            "118",
+            "119"
+          ],
+          "divergencias_substanciais": [
+            "11",
+            "39",
+            "65",
+            "90",
+            "110"
+          ],
+          "divergencias_de_forma": [
+            "8",
+            "18",
+            "51",
+            "54",
+            "75",
+            "79",
+            "99",
+            "102",
+            "103",
+            "104"
+          ],
+          "tratamento": "Markdown segue o Planalto; a Câmara permanece só como conferência. Redações não foram combinadas. O acervo não escolhe vigência."
+        }
+      },
+      "prova_lote": "provas/nucleo-cdc-eca/reconciliacao-br-federal-lei-1990-09-11-8078.json"
     },
     {
       "area": "infancia-adolescencia",
@@ -168,7 +208,54 @@
         "arquivo_existe": true,
         "contagem_arquivos_insuficiente": true,
         "gate": "identidade-area-numero-data"
-      }
+      },
+      "integridade": {
+        "edicao_integral_no_cabecalho": true,
+        "leitura": "edicao_integral=true no Markdown significa reprodução conferida da fonte principal do lote; não equivale a ausência de divergência com fontes de conferência nem a certificação de vigência. Hashes e contagens não substituem a leitura das provas do lote.",
+        "divergencias_conhecidas_no_lote": {
+          "manifesto": "metadados/nucleo-cdc-eca.json",
+          "apenas_na_conferencia": [],
+          "divergencias_substanciais": [
+            "4",
+            "34",
+            "36",
+            "37",
+            "42",
+            "48",
+            "51",
+            "52",
+            "85",
+            "92",
+            "93",
+            "120",
+            "166",
+            "196",
+            "221",
+            "240",
+            "241",
+            "241-A",
+            "241-B",
+            "241-C",
+            "241-D",
+            "243",
+            "244-A",
+            "247",
+            "254"
+          ],
+          "divergencias_de_forma": [
+            "47",
+            "94",
+            "102",
+            "148",
+            "256",
+            "260-E",
+            "263",
+            "267"
+          ],
+          "tratamento": "Markdown segue o Planalto; a Câmara permanece só como conferência. Redações não foram combinadas. O acervo não escolhe vigência."
+        }
+      },
+      "prova_lote": "provas/nucleo-cdc-eca/reconciliacao-br-federal-lei-1990-07-13-8069.json"
     },
     {
       "area": "tributario",
@@ -210,6 +297,10 @@
         "arquivo_existe": true,
         "contagem_arquivos_insuficiente": true,
         "gate": "identidade-area-numero-data"
+      },
+      "integridade": {
+        "edicao_integral_no_cabecalho": true,
+        "leitura": "edicao_integral=true no Markdown significa reprodução conferida da fonte principal do lote; não equivale a ausência de divergência com fontes de conferência nem a certificação de vigência. Hashes e contagens não substituem a leitura das provas do lote."
       }
     },
     {
@@ -252,6 +343,10 @@
         "arquivo_existe": true,
         "contagem_arquivos_insuficiente": true,
         "gate": "identidade-area-numero-data"
+      },
+      "integridade": {
+        "edicao_integral_no_cabecalho": true,
+        "leitura": "edicao_integral=true no Markdown significa reprodução conferida da fonte principal do lote; não equivale a ausência de divergência com fontes de conferência nem a certificação de vigência. Hashes e contagens não substituem a leitura das provas do lote."
       }
     },
     {
@@ -294,6 +389,10 @@
         "arquivo_existe": true,
         "contagem_arquivos_insuficiente": true,
         "gate": "identidade-area-numero-data"
+      },
+      "integridade": {
+        "edicao_integral_no_cabecalho": true,
+        "leitura": "edicao_integral=true no Markdown significa reprodução conferida da fonte principal do lote; não equivale a ausência de divergência com fontes de conferência nem a certificação de vigência. Hashes e contagens não substituem a leitura das provas do lote."
       }
     },
     {
@@ -336,6 +435,10 @@
         "arquivo_existe": true,
         "contagem_arquivos_insuficiente": true,
         "gate": "identidade-area-numero-data"
+      },
+      "integridade": {
+        "edicao_integral_no_cabecalho": true,
+        "leitura": "edicao_integral=true no Markdown significa reprodução conferida da fonte principal do lote; não equivale a ausência de divergência com fontes de conferência nem a certificação de vigência. Hashes e contagens não substituem a leitura das provas do lote."
       }
     }
   ],

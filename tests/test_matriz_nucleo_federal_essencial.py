@@ -118,6 +118,22 @@ class TestMatrizNucleoFederalEssencial(unittest.TestCase):
             self.matriz['issue_refs'],
         )
 
+    def test_integridade_nao_e_so_hash(self):
+        """edicao_integral aponta à fonte principal do lote; divergências CDC ficam explícitas."""
+        self.assertIs(self.matriz['vigencia_certificada'], False)
+        docs = {d['norma_id']: d for d in self.matriz['documentos']}
+        for doc in self.matriz['documentos']:
+            integ = doc['integridade']
+            self.assertIn('leitura', integ)
+            self.assertIn('Hashes e contagens não substituem', integ['leitura'])
+            self.assertEqual(integ['edicao_integral_no_cabecalho'], doc['edicao_integral'])
+        cdc = docs['br-federal-lei-1990-09-11-8078']
+        div = cdc['integridade']['divergencias_conhecidas_no_lote']
+        self.assertIn('11-A', div['apenas_na_conferencia'])
+        for art in ['111', '112', '113', '114', '115', '116', '117', '118', '119']:
+            self.assertIn(art, div['apenas_na_conferencia'])
+        self.assertTrue((ROOT / 'metadados/nucleo-cdc-eca.json').is_file())
+
 
 if __name__ == '__main__':
     unittest.main()
