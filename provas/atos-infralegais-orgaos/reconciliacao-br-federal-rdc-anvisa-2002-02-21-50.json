@@ -1,0 +1,40 @@
+{
+  "id": "br-federal-rdc-anvisa-2002-02-21-50",
+  "fonte": "rdc50-anvisa-bvs",
+  "sha256_fonte": "70242edb6edf6b244224d9cdf2e9936bd57ea97954e8809f1cc8bd1a18a1fbd1",
+  "sha256_markdown": "680be1b6287b3d12c53953195f24ce6df65b73698dd58faee5942b0a386cd5fa",
+  "tabelas": 52,
+  "anexos_no_corpo": 1,
+  "fac_simile": {
+    "arquivo": "provas/atos-infralegais-orgaos/fac-similes/rdc-anvisa-50-2002-fig1.jpg",
+    "origem_url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/IMG/rdc0050_21_02_2002_fig1.jpg",
+    "sha256": "4c1ed67da5be104de46755bd041a1d193d816c24d9918cffa01b693729a584e1",
+    "largura": 1254,
+    "altura": 687,
+    "natureza": "diagrama-normativo",
+    "descricao": "Diagrama oficial do Anexo da RDC 50/2002: relações funcionais entre unidades de um estabelecimento de saúde (urgência/emergência, centro cirúrgico, UTI, internação, diagnóstico, apoio, etc.). Fac-símile preservado; não omitido."
+  },
+  "imagens_omitidas_detalhe": [
+    {
+      "origem": "brasao.gif",
+      "tratamento": "omitida — institucional sem texto jurídico"
+    },
+    {
+      "origem": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/IMG/rdc0050_21_02_2002_fig1.jpg",
+      "tratamento": "preservada como fac-símile normativo",
+      "arquivo": "provas/atos-infralegais-orgaos/fac-similes/rdc-anvisa-50-2002-fig1.jpg"
+    }
+  ],
+  "cobertura_marcadores": {
+    "tem_resolucao_rdc": true,
+    "tem_art_1": true,
+    "tem_tabela": true,
+    "tem_facsimile": true,
+    "aviso_dou": true
+  },
+  "vigencia_certificada": false,
+  "limites": [
+    "Edição BVS; atualização deve ser conferida no sistema normativo da ANVISA sem presumir vigência pela disponibilidade da página",
+    "Figura normativa preservada como imagem; tabelas convertidas para Markdown/HTML simples"
+  ]
+}

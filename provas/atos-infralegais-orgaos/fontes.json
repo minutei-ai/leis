@@ -1,0 +1,60 @@
+{
+  "especie_e_nome": {
+    "padroes": {
+      "rdc": "br-federal-rdc-<orgao>-<AAAA-MM-DD>-<numero>",
+      "in": "br-federal-in-<orgao>-<AAAA-MM-DD>-<numero>",
+      "resolucao-cmn": "br-federal-resolucao-cmn-<AAAA-MM-DD>-<numero>"
+    },
+    "nota": "Órgão e espécie entram na identidade. Resolução CMN ≠ Resolução BCB ≠ Comunicado."
+  },
+  "rdc50-anvisa-bvs": {
+    "chave": "rdc50-anvisa-bvs",
+    "url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/rdc0050_21_02_2002.html",
+    "orgao": "ANVISA",
+    "formato": "html",
+    "charset": "latin-1",
+    "capturado_em": "2026-11-04T19:31:55Z",
+    "sha256": "70242edb6edf6b244224d9cdf2e9936bd57ea97954e8809f1cc8bd1a18a1fbd1",
+    "snapshot": "provas/atos-infralegais-orgaos/fontes/br-federal-rdc-anvisa-2002-02-21-50.html.xz",
+    "sha256_snapshot_armazenado": "bc48bbdab744b4df2d3a12030435c7129cc2d3302e8e13ae6a312ebd349e86fc",
+    "http_status": 200,
+    "aviso_fonte": "Este texto não substitui o publicado no Diário Oficial da União",
+    "rfb-2110-shell": {
+      "papel": "evidencia-estado-acesso",
+      "sha256": "9f9413e20884b24680269927744a2abbf407243127ba5087a1489fd91fc8153a",
+      "snapshot": "provas/atos-infralegais-orgaos/fontes/rfb-2110-shell.html.xz",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T19:31:55Z"
+    },
+    "cmn-4966-shell": {
+      "papel": "evidencia-estado-acesso",
+      "sha256": "e64d3a8ecfc66b359e640b507d59ff35fe4ac1be596e969812068cc0aa3fb1d4",
+      "snapshot": "provas/atos-infralegais-orgaos/fontes/cmn-4966-shell.html.xz",
+      "http_status": 200,
+      "capturado_em": "2026-11-04T19:31:55Z"
+    }
+  },
+  "fac_simile_rdc50_fig1": {
+    "arquivo": "provas/atos-infralegais-orgaos/fac-similes/rdc-anvisa-50-2002-fig1.jpg",
+    "origem_url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/IMG/rdc0050_21_02_2002_fig1.jpg",
+    "sha256": "4c1ed67da5be104de46755bd041a1d193d816c24d9918cffa01b693729a584e1",
+    "largura": 1254,
+    "altura": 687,
+    "natureza": "diagrama-normativo",
+    "descricao": "Diagrama oficial do Anexo da RDC 50/2002: relações funcionais entre unidades de um estabelecimento de saúde (urgência/emergência, centro cirúrgico, UTI, internação, diagnóstico, apoio, etc.). Fac-símile preservado; não omitido."
+  },
+  "rfb-2110-shell": {
+    "papel": "evidencia-estado-acesso",
+    "sha256": "9f9413e20884b24680269927744a2abbf407243127ba5087a1489fd91fc8153a",
+    "snapshot": "provas/atos-infralegais-orgaos/fontes/rfb-2110-shell.html.xz",
+    "http_status": 200,
+    "capturado_em": "2026-11-04T19:31:55Z"
+  },
+  "cmn-4966-shell": {
+    "papel": "evidencia-estado-acesso",
+    "sha256": "e64d3a8ecfc66b359e640b507d59ff35fe4ac1be596e969812068cc0aa3fb1d4",
+    "snapshot": "provas/atos-infralegais-orgaos/fontes/cmn-4966-shell.html.xz",
+    "http_status": 200,
+    "capturado_em": "2026-11-04T19:31:55Z"
+  }
+}

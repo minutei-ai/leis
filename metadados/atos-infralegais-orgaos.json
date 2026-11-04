@@ -1,0 +1,155 @@
+{
+  "contrato": "metadados/CONTRATO-atos-infralegais-orgaos.md",
+  "contrato_versao": 1,
+  "lote": "atos-infralegais-orgaos",
+  "issue_refs": [
+    "https://github.com/minutei-ai/leis/issues/75"
+  ],
+  "descricao": "Inventário inicial de atos infralegais por órgão (ANVISA, RFB, CMN/BCB): publica RDC 50/2002 integral com tabelas e fac-símile; cataloga IN RFB 2110 e Resolução CMN 4966 com estado de acesso explícito.",
+  "gerado_em": "2026-11-04T19:31:55Z",
+  "vigencia_certificada": false,
+  "catalogo_orgaos": {
+    "anvisa": {
+      "orgao_id": "anvisa",
+      "label": "Agência Nacional de Vigilância Sanitária",
+      "especies_neste_lote": [
+        "rdc"
+      ],
+      "fontes_oficiais": [
+        {
+          "sistema": "BVS Saúde Legis",
+          "url_base": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/"
+        },
+        {
+          "sistema": "Portal ANVISA (conferência futura)",
+          "url_base": "https://www.gov.br/anvisa/",
+          "estado": "nao-inventariado-neste-lote"
+        }
+      ],
+      "ainda_nao_inventariado": "Demais RDCs, INs e Portarias ANVISA fora da RDC 50/2002"
+    },
+    "rfb": {
+      "orgao_id": "rfb",
+      "label": "Receita Federal do Brasil",
+      "especies_neste_lote": [
+        "in"
+      ],
+      "fontes_oficiais": [
+        {
+          "sistema": "SIJUT2 Normas",
+          "url_base": "https://normas.receita.fazenda.gov.br/sijut2consulta/",
+          "idAto_exemplo": 126687
+        }
+      ],
+      "ainda_nao_inventariado": "Demais INs/AD/Portarias RFB; modos multivigente/original/relacional do SIJUT2"
+    },
+    "cmn-bcb": {
+      "orgao_id": "cmn",
+      "label": "Conselho Monetário Nacional / Banco Central do Brasil",
+      "especies_neste_lote": [
+        "resolucao-cmn"
+      ],
+      "fontes_oficiais": [
+        {
+          "sistema": "BCB Exibe Normativo",
+          "url_base": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo"
+        },
+        {
+          "sistema": "BCB Busca Normas",
+          "url_base": "https://www.bcb.gov.br/estabilidadefinanceira/buscanormas"
+        }
+      ],
+      "ainda_nao_inventariado": "Resoluções BCB, Circulares, Comunicados e demais Resoluções CMN; número sozinho não é chave"
+    }
+  },
+  "documentos": [
+    {
+      "id": "br-federal-rdc-anvisa-2002-02-21-50",
+      "arquivo": "federal/br-federal-rdc-anvisa-2002-02-21-50.md",
+      "norma_tipo": "rdc",
+      "orgao_emissor": "anvisa",
+      "norma_numero": "50",
+      "norma_data": "2002-02-21",
+      "titulo": "RESOLUÇÃO-RDC Nº 50, DE 21 DE FEVEREIRO DE 2002",
+      "edicao_id": "br-federal-rdc-anvisa-2002-02-21-50@bvs-ms",
+      "fonte": "rdc50-anvisa-bvs",
+      "fonte_url": "https://bvsms.saude.gov.br/bvs/saudelegis/anvisa/2002/rdc0050_21_02_2002.html",
+      "estado_recuperacao": "publicado",
+      "estado_acesso": "ok",
+      "sha256_fonte": "70242edb6edf6b244224d9cdf2e9936bd57ea97954e8809f1cc8bd1a18a1fbd1",
+      "sha256_markdown": "680be1b6287b3d12c53953195f24ce6df65b73698dd58faee5942b0a386cd5fa",
+      "tabelas": 52,
+      "fac_similes": 1,
+      "prova": "provas/atos-infralegais-orgaos/reconciliacao-br-federal-rdc-anvisa-2002-02-21-50.json",
+      "vigencia_certificada": false
+    }
+  ],
+  "pendencias_acesso": [
+    {
+      "slug_previsto": "br-federal-in-rfb-2022-10-17-2110",
+      "norma_tipo": "in",
+      "orgao_emissor": "rfb",
+      "norma_numero": "2110",
+      "norma_data": "2022-10-17",
+      "titulo": "INSTRUÇÃO NORMATIVA RFB Nº 2.110, DE 17 DE OUTUBRO DE 2022",
+      "fonte_oficial": "https://normas.receita.fazenda.gov.br/sijut2consulta/link.action?idAto=126687",
+      "id_oficial": {
+        "sistema": "SIJUT2",
+        "idAto": 126687
+      },
+      "estado_acesso": "shell-spa-sem-corpo-normativo-nesta-captura",
+      "captura": {
+        "em": "2026-11-04T19:31:55Z",
+        "http_status": 200,
+        "sha256_pagina": "9f9413e20884b24680269927744a2abbf407243127ba5087a1489fd91fc8153a",
+        "resultado": "Aplicação Angular/SPA; HTML estático sem texto do ato (só shell). Não confundir com inexistência."
+      },
+      "modos_fonte_a_preservar_quando_acessivel": [
+        "original",
+        "vigente",
+        "multivigente",
+        "relacional"
+      ],
+      "leitura": "Portal inacessível ao coletor HTTP simples ≠ norma inexistente. Markdown integral pendente de captura do corpo (API/exportação oficial ou renderização autenticada)."
+    },
+    {
+      "slug_previsto": "br-federal-resolucao-cmn-2021-11-25-4966",
+      "norma_tipo": "resolucao-cmn",
+      "orgao_emissor": "cmn",
+      "norma_numero": "4966",
+      "norma_data": "2021-11-25",
+      "titulo": "RESOLUÇÃO CMN Nº 4.966, DE 25 DE NOVEMBRO DE 2021",
+      "fonte_oficial": "https://www.bcb.gov.br/estabilidadefinanceira/exibenormativo?tipo=Resolu%C3%A7%C3%A3o%20CMN&numero=4966",
+      "id_oficial": {
+        "sistema": "BCB",
+        "tipoDocumento": "Resolução CMN",
+        "numero": "4966"
+      },
+      "estado_acesso": "pagina-depende-de-javascript",
+      "captura": {
+        "em": "2026-11-04T19:31:55Z",
+        "http_status": 200,
+        "sha256_pagina": "e64d3a8ecfc66b359e640b507d59ff35fe4ac1be596e969812068cc0aa3fb1d4",
+        "resultado": "HTML de 2.8KB exigindo JavaScript; sem corpo normativo na captura curl. Número 4966 também existe em outros tipos de ato — tipoDocumento é obrigatório na identidade."
+      },
+      "leitura": "Falha de renderização JS ≠ inexistência. Não intercambiar Resolução CMN, Resolução BCB ou Comunicado com o mesmo número."
+    }
+  ],
+  "escopo": {
+    "estado": "parcial",
+    "inclui": [
+      "br-federal-rdc-anvisa-2002-02-21-50"
+    ],
+    "catalogado_sem_markdown_integral": [
+      "br-federal-in-rfb-2022-10-17-2110",
+      "br-federal-resolucao-cmn-2021-11-25-4966"
+    ],
+    "nao_cataloga": [
+      "censo completo de ANVISA/RFB/CMN/BCB",
+      "INs SEGES (issue #72)",
+      "resoluções do Senado (#66) e decretos legislativos (#65)",
+      "notícias, consultas públicas, propostas e atos individuais misturados nas buscas dos portais"
+    ],
+    "nota": "Três exemplos oficiais da issue #75; não declara cobertura nacional."
+  }
+}
