@@ -87,7 +87,7 @@ def nota_edicao() -> str:
 
 > **Decreto municipal de Belo Horizonte recuperado do DOM-PBH (API oficial).** Fonte do ato: https://api-dom.pbh.gov.br/api/v1/edicoes/atos/200561/publicado (ato DOM id `200561`; visualização https://dom-web.pbh.gov.br/visualizacao/ato/200561). Documento HTML do ato: https://api-dom.pbh.gov.br/api/v1/documentos/823a985c9f5d9d387b2327f529adaf8f0e8e20a02d6e555724ef4718f956f8a7/download (`conteudoAto_id200561.html`). Catálogo da PGM (identificação/ementa, sem validar a íntegra): https://prefeitura.pbh.gov.br/procuradoria/regulamentacao-municipal. Captura em 2026-11-04T11:47:38Z. SHA-256 do HTML do ato `3fae24568f0c82e5ae543daa3f11424dae32af818e3ef3110d9441d5c390c38d`; SHA-256 do JSON do ato `ca251d17670c40b4fb8c54bf1b2cfa913c1ebaa63727dcbf69dc0ef638dc128d`. Snapshots: `provas/licitacoes-locais/MG/fontes/`. Publicação no Diário Oficial do Município, edição 6730 (id 6824), em 2023-03-29; PDF do jornal `Dom6730.pdf` SHA-256 `e9b1e293198bc3cccabf939611d76ca12a1284751b23c7263c3e8634bfdff671`.
 >
-> Esta edição reproduz o texto do ato na publicação do DOM (28/03/2023). Não incorpora alterações posteriores (o catálogo da PGM aponta o Decreto nº 18.621, de 5/02/2024, como alterador). Não certifica vigência. Âmbito literal do art. 1º: administração municipal direta e indireta e entidades vinculadas ou controladas direta ou indiretamente pelo Poder Executivo; § 2º admite adoção, no que couber, por empresas públicas, sociedades de economia mista e subsidiárias. O art. 47 preserva exclusão transitória de procedimentos regidos pela Lei 10.520/2001 e pela Lei 12.462/2011. Anexos separados do ato: nenhum na API de anexos publicados. Não confundir com o Decreto estadual MG 48.723/2023.
+> Esta edição reproduz o texto do ato de 28/03/2023 na publicação do DOM (edição 6730, publicada em 29/03/2023). Não incorpora alterações posteriores (o catálogo da PGM aponta o Decreto nº 18.621, de 5/02/2024, como alterador). Não certifica vigência. Âmbito literal do art. 1º: administração municipal direta e indireta e entidades vinculadas ou controladas direta ou indiretamente pelo Poder Executivo; § 2º admite adoção, no que couber, por empresas públicas, sociedades de economia mista e subsidiárias. O art. 47 preserva exclusão transitória de procedimentos regidos pela Lei 10.520/2001 e pela Lei 12.462/2011. Anexos separados do ato: nenhum na API de anexos publicados. Não confundir com o Decreto estadual MG 48.723/2023.
 
 <!-- nota-edicao:fim -->
 
@@ -127,10 +127,26 @@ def verify() -> None:
     corpo_pub = strip_note(published)
     if corpo_pub != corpo_esperado:
         raise SystemExit('corpo publicado diverge da reconversão do snapshot')
+    # Fonte completa → Markdown: igualdade byte a byte do corpo, não só sentinelas.
+    if sha256_bytes(corpo_pub.encode()) != SHA256_CORPO:
+        raise SystemExit('hash do corpo publicado divergiu')
 
     arts = re.findall(r'^Art\.\s*(\d+)', corpo_pub, re.M)
     if arts != [str(i) for i in range(1, 49)]:
         raise SystemExit(f'artigos inesperados: {arts}')
+    if 'Belo Horizonte, 28 de março de 2023' not in corpo_pub:
+        raise SystemExit('data do ato ausente no corpo normativo')
+
+    note = published[: published.find('<!-- nota-edicao:fim -->') + len('<!-- nota-edicao:fim -->')]
+    if 'publicação do DOM (28/03/2023)' in note or 'publicação DOM de 28/03/2023' in note:
+        raise SystemExit('nota confunde data do ato com publicação do DOM')
+    if 'ato de 28/03/2023' not in note or 'publicada em 29/03/2023' not in note:
+        raise SystemExit('nota deve separar data do ato (28/03) e publicação DOM (29/03)')
+
+    edicao = json.loads((ROOT / 'provas/licitacoes-locais/MG/fontes/dom-edicao-6824.json').read_text(encoding='utf-8'))
+    ed = edicao.get('data') or edicao
+    if ed.get('numero_edicao') != 6730 or ed.get('dt_publicacao') != '2023-03-29':
+        raise SystemExit('snapshot da edição DOM diverge (esperado 6730 / 2023-03-29)')
 
     cat = json.loads(CATALOGO.read_text(encoding='utf-8'))
     if cat.get('uf') != 'MG' or cat.get('cobertura') != 'parcial':
@@ -140,6 +156,9 @@ def verify() -> None:
         raise SystemExit('documento 18.289 ausente no catálogo')
     if docs[0].get('hashes', {}).get('corpo_markdown') != SHA256_CORPO:
         raise SystemExit('hash do corpo no catálogo divergiu')
+    ed_desc = (docs[0].get('edicao') or {}).get('descricao') or ''
+    if '28/03/2023' not in ed_desc or '2023-03-29' not in ed_desc:
+        raise SystemExit('catálogo deve registrar assinatura 28/03 e publicação 2023-03-29')
     reut = cat.get('reutilizados') or []
     if not any(r.get('arquivo') == 'estaduais/MG/br-mg-decreto-2023-11-24-48723.md' for r in reut):
         raise SystemExit('reuso do Decreto estadual 48.723 ausente')
@@ -149,6 +168,11 @@ def verify() -> None:
     cob = json.loads(COBERTURA.read_text(encoding='utf-8'))
     if cob.get('sha256_corpo_markdown') != SHA256_CORPO or cob.get('n_artigos') != 48:
         raise SystemExit('cobertura-18289.json inconsistente')
+    limites = '\n'.join(cob.get('limites') or [])
+    if 'publicação DOM de 28/03/2023' in limites or 'DOM de 28/03/2023' in limites:
+        raise SystemExit('limites da cobertura confundem data do ato com publicação DOM')
+    if '28/03/2023' not in limites or '29/03/2023' not in limites:
+        raise SystemExit('limites devem separar data do ato e publicação DOM')
 
     fontes = json.loads(FONTES.read_text(encoding='utf-8'))
     chaves = {f['chave'] for f in fontes.get('fontes', [])}

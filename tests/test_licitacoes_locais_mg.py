@@ -53,6 +53,47 @@ class TestLicitacoesLocaisMG(unittest.TestCase):
         recon = mg.html_to_corpo(html)
         self.assertEqual(recon, self.corpo)
 
+    def test_fonte_completa_para_markdown_byte_a_byte(self):
+        """Reconversão do HTML integral deve coincidir com o corpo publicado inteiro."""
+        html = lzma.open(ROOT / 'provas/licitacoes-locais/MG/fontes/conteudoAto_id200561.html.xz').read()
+        recon = mg.html_to_corpo(html)
+        self.assertEqual(recon, self.corpo)
+        self.assertEqual(hashlib.sha256(recon.encode()).hexdigest(), mg.SHA256_CORPO)
+        # Não basta checar sentinelas: o corpo inteiro (48 arts + encerramento) entra no hash.
+        self.assertGreater(len(self.corpo), 10_000)
+        self.assertTrue(self.corpo.startswith('DECRETO Nº 18.289, DE 28 DE MARÇO DE 2023.'))
+        self.assertTrue(self.corpo.rstrip().endswith('Prefeito de Belo Horizonte'))
+        # Erro de fonte no art. 47 (citação da Lei 10.520) permanece literal; não "corrigir".
+        self.assertIn('Lei Federal nº 10.520, de 17 de junho de 2001', self.corpo)
+
+    def test_separa_data_ato_e_publicacao_dom(self):
+        note = self.md[: self.md.find('<!-- nota-edicao:fim -->')]
+        self.assertIn('ato de 28/03/2023', note)
+        self.assertIn('publicada em 29/03/2023', note)
+        self.assertNotIn('publicação do DOM (28/03/2023)', note)
+        self.assertNotIn('publicação DOM de 28/03/2023', note)
+        # Corpo normativo mantém a data do ato; publicação DOM fica só na nota/metadados.
+        self.assertIn('Belo Horizonte, 28 de março de 2023', self.corpo)
+        self.assertNotIn('29/03/2023', self.corpo)
+        self.assertNotIn('29 de março de 2023', self.corpo)
+
+        edicao = json.loads(
+            (ROOT / 'provas/licitacoes-locais/MG/fontes/dom-edicao-6824.json').read_text(encoding='utf-8')
+        )
+        ed = edicao['data']
+        self.assertEqual(ed['numero_edicao'], 6730)
+        self.assertEqual(ed['dt_publicacao'], '2023-03-29')
+
+        cob = json.loads((ROOT / 'provas/licitacoes-locais/MG/cobertura-18289.json').read_text(encoding='utf-8'))
+        limites = '\n'.join(cob['limites'])
+        self.assertIn('data do ato 28/03/2023', limites)
+        self.assertIn('29/03/2023', limites)
+        self.assertNotIn('publicação DOM de 28/03/2023', limites)
+
+        doc = self.cat['documentos'][0]
+        self.assertIn('assinatura 28/03/2023', doc['edicao']['descricao'])
+        self.assertIn('2023-03-29', doc['edicao']['descricao'])
+
     def test_catalogo_separa_estado_e_municipio(self):
         self.assertEqual(self.cat['uf'], 'MG')
         self.assertEqual(self.cat['cobertura'], 'parcial')

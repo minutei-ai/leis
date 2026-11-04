@@ -1,6 +1,6 @@
 # Provas — licitações locais MG
 
-Recuperação do **Decreto municipal de Belo Horizonte nº 18.289, de 28/03/2023** (IBGE `3106200`, ato DOM `200561`) para a issue #57.
+Recuperação do **Decreto municipal de Belo Horizonte nº 18.289, de 28/03/2023** (data do ato; publicação no DOM edição 6730 em 29/03/2023; IBGE `3106200`, ato DOM `200561`) para a issue #57.
 
 ## Reprodução offline
 
@@ -25,7 +25,7 @@ Detalhes e hashes: [`fontes.json`](fontes.json). Cobertura artigo a artigo: [`co
 
 ## Limites
 
-- Edição histórica da publicação; Decreto 18.621/2024 (alteração) não incorporado.
+- Edição histórica: data do ato 28/03/2023; publicação DOM 29/03/2023; Decreto 18.621/2024 (alteração) não incorporado.
 - Vigência não certificada.
 - Catálogo PGM não prova íntegra.
 - Decreto estadual 48.723/2023 é só reutilizado (`estaduais/MG/...`); sem recaptura nesta entrega.
