@@ -1,0 +1,18 @@
+{
+  "arquivo": "federal/br-federal-lei-2026-02-25-15352.md",
+  "sha256_markdown_publicado": "21fcca780b75a385b46a8842facee60664fb0cc9676c12489a2fbed48965ec4c",
+  "contem_art55A_agencia": true,
+  "contem_art5_VIII_agencia": true,
+  "contem_cap_ix_agencia": true,
+  "contem_secao_i_agencia": true,
+  "contem_VB_auditoria": true,
+  "preserva_autoridade_em_transicao": true,
+  "anexos_tabulares_no_markdown_publicado": false,
+  "anexos_tabulares_no_snapshot_planalto": true,
+  "limite": "O Markdown publicado de br-federal-lei-2026-02-25-15352.md não reproduz as tabelas dos Anexos I–III; os bytes oficiais estão em provas/lgpd/fontes/planalto-l15352.htm.xz para reconversão offline. A norma não foi republicada neste PR.",
+  "camara_original_contem_art55A": true,
+  "fontes": {
+    "camara-lei-15352-original": "151eb7a3b02d4f812fe5a5f962e93ba10a1533f3bdbb74611bcfc519ec5241a9",
+    "planalto-lei-15352": "cb426cc787842d616434b5b547a270952272b679493f2e8f209431b7c0ffa074"
+  }
+}

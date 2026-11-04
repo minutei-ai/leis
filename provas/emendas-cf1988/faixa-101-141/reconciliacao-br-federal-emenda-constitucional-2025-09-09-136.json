@@ -1,0 +1,80 @@
+{
+  "documento": "br-federal-emenda-constitucional-2025-09-09-136",
+  "fonte_principal": "planalto-emc136",
+  "sha256_fonte_principal": "ac05dd8a7cef2fc1d0a759e74eacea04e9597a1fefacd005ad36c4c5bc76cf8f",
+  "sha256_conteudo": "9848ca3f019d207552f230e805c891d22341b76f13ff3dce9b0ecac834de8cad",
+  "capturado_em": "2026-11-04T12:54:08Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc136.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc136.htm.xz",
+  "sha256_snapshot_armazenado": "713c24a6e084f680367b5ac4ba4a6035b1ae710ca193dcf184344eff12a08d91",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": null,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 21371,
+    "caracteres_normalizados_markdown": 21371,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 50,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/LEIS/QUADRO/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 15,
+        "colunas_max": 3,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 116,
+    "artigos": 9,
+    "primeiros_artigos": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5"
+    ],
+    "ultimos_artigos": [
+      "5",
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2025-09-09-136",
+    "numero": "136",
+    "data": "2025-09-09",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 136, DE 9 DE SETEMBRO DE 2025",
+    "ementa": "Altera a Constituição Federal, o Ato das Disposições Constitucionais Transitórias e a Emenda Constitucional nº 113, de 8 de dezembro de 2021, a fim de instituir limite para o pagamento de precatórios pelos Estados, pelo Distrito Federal e pelos Municípios e de estipular novo prazo de parcelamento especial de débitos dos Estados, dos Municípios e do Distrito Federal com seus regimes próprios de previdência social e dos Municípios com o Regime Geral de Previdência Social; e dá outras providências.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2025-09-09;136",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}

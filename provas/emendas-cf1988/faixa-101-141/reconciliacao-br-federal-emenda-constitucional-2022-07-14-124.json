@@ -1,0 +1,74 @@
+{
+  "documento": "br-federal-emenda-constitucional-2022-07-14-124",
+  "fonte_principal": "planalto-emc124",
+  "sha256_fonte_principal": "121c008dcbbb567b3bc7201bf7fadf5d25cc3e31e15d3a986b0b4636c87cccba",
+  "sha256_conteudo": "eb4842b848944006babba2136e4a733344b6a2d8bcddd134bd0837ee399f309a",
+  "capturado_em": "2026-11-04T12:54:08Z",
+  "url": "https://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc124.htm",
+  "snapshot": "provas/emendas-cf1988/faixa-101-141/fontes/planalto-emc124.htm.xz",
+  "sha256_snapshot_armazenado": "44b67011cfa7808846d461529510596ba285503e038f50db82feea6864cee41b",
+  "fontes_conferencia": [],
+  "camara_catalogo_url": null,
+  "cobertura_texto": {
+    "descricao": "texto integral da página da fonte (sem imagens) == texto do Markdown publicado (corpo convertido, sem nota de edição), após normalização",
+    "equivalente": true,
+    "caracteres_normalizados_fonte": 1443,
+    "caracteres_normalizados_markdown": 1443,
+    "metodo": "strip_fold(source_text_chars_from_html) == strip_fold(md_text_all(body_convertido))"
+  },
+  "conversao": {
+    "trechos_riscados": 0,
+    "links": 4,
+    "tabelas_markdown": 1,
+    "tabelas_html": 0,
+    "imagens": [
+      {
+        "alt": "Brastra.gif (4376 bytes)",
+        "largura": "74",
+        "altura": "82",
+        "origem": "https://www.planalto.gov.br/ccivil_03/decreto/Brastra.gif",
+        "tipo_midia": "desconhecido",
+        "tratamento": "omitida do Markdown; elemento institucional/decorativo sem texto jurídico associado (cabeçalho da página da fonte)"
+      }
+    ],
+    "tabelas": [
+      {
+        "linhas": 8,
+        "colunas_max": 2,
+        "com_mesclagem": false
+      }
+    ],
+    "blocos": 14,
+    "artigos": 2,
+    "primeiros_artigos": [
+      "1",
+      "2"
+    ],
+    "ultimos_artigos": [
+      "1",
+      "2"
+    ],
+    "titulos_e_capitulos": 0
+  },
+  "identidade": {
+    "norma_id": "br-federal-emenda-constitucional-2022-07-14-124",
+    "numero": "124",
+    "data": "2022-07-14",
+    "titulo_fonte": "EMENDA CONSTITUCIONAL Nº 124, DE 14 DE JULHO DE 2022",
+    "ementa": "Institui o piso salarial nacional do enfermeiro, do técnico de enfermagem, do auxiliar de enfermagem e da parteira.",
+    "urn": "urn:lex:br:federal:emenda.constitucional:2022-07-14;124",
+    "serie": "emenda-constitucional-cf1988",
+    "edicao": {
+      "tipo": "consolidada",
+      "identidade": "planalto",
+      "integral": true
+    }
+  },
+  "limites": [
+    "Fonte principal: Planalto (emcN.htm). fonte_conferencia=nenhuma nesta entrega.",
+    "Texto autônomo da emenda; não substitui a Constituição consolidada nem edições alternativas.",
+    "O acervo não certifica vigência nem reconstrói texto ausente a partir de citações.",
+    "Imagens institucionais do cabeçalho foram omitidas; tabelas/notas/riscados da fonte foram preservados.",
+    "Não confundir com Emenda Constitucional de Revisão nem emendas a constituições históricas."
+  ]
+}
