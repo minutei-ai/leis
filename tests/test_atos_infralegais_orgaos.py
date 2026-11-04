@@ -54,10 +54,15 @@ class TestAtosInfralegaisOrgaos(unittest.TestCase):
         self.assertIn('"idAto": 126687', v)
         self.assertIn('sijut-vigente', v)
         self.assertIn('sijut-original', o)
+        self.assertIn('visao_path: "original"', o)
+        self.assertIn('visao_payload: "conjunta"', o)
+        self.assertEqual(docs[SLUG_RFB_O].get('visao_payload'), 'conjunta')
         self.assertRegex(v, r'(?m)^Art\.\s*1')
         self.assertRegex(o, r'(?m)^Art\.\s*1')
         self.assertNotEqual(v, o)
         self.assertIn('previd', v.lower())
+        multi = ROOT / 'provas/atos-infralegais-orgaos/fontes/rfb-2110-multivigente.json.xz'
+        self.assertTrue(multi.is_file())
 
     def test_cmn_4966_dou_publicada(self):
         docs = {d['id']: d for d in MANIFEST['documentos']}
@@ -68,6 +73,7 @@ class TestAtosInfralegaisOrgaos(unittest.TestCase):
         self.assertRegex(text, r'(?m)^Art\.\s*1')
         self.assertIn('instrumento financeiro', text.lower())
         self.assertTrue(SLUG_CMN.startswith('br-federal-resolucao-cmn-'))
+        self.assertEqual(docs[SLUG_CMN].get('edicao_tipo'), 'original')
 
     def test_pendencias_residuais_sem_falso_negativo(self):
         pend = MANIFEST['pendencias_acesso']
@@ -84,11 +90,69 @@ class TestAtosInfralegaisOrgaos(unittest.TestCase):
         self.assertTrue(SLUG_CMN.startswith('br-federal-resolucao-cmn-'))
         for d in MANIFEST['documentos']:
             self.assertIn(d['orgao_emissor'], d['id'])
+        especie = MANIFEST.get('especie') or {}
+        self.assertIn('rdc', especie.get('norma_tipos') or [])
+        self.assertIn('Resolução CMN', (especie.get('nota') or ''))
 
     def test_escopo_parcial(self):
         escopo = MANIFEST.get('escopo') or {}
         self.assertEqual(escopo.get('estado'), 'parcial')
         self.assertTrue(escopo.get('nao_cataloga_como_cobertura_completa'))
+
+    def test_catalogos_paginacao_periodo_ids_estados(self):
+        ptr = MANIFEST.get('catalogos_paginacao')
+        self.assertTrue(ptr)
+        cats = json.loads((ROOT / ptr).read_text(encoding='utf-8'))
+        for org in ('anvisa', 'rfb', 'cmn-bcb'):
+            self.assertIn(org, cats['por_orgao'])
+        rfb = cats['por_orgao']['rfb']['fontes_catalogo']
+        idx = next(f for f in rfb if 'indexa' in f['sistema'].lower() or 'pesquisar' in (f.get('url') or ''))
+        self.assertTrue(idx['paginacao_parametros_tentados'])
+        self.assertTrue(idx['ids_oficiais_preservados'])
+        self.assertIn(126687, {i.get('idAto') for i in idx['ids_oficiais_preservados'] if 'idAto' in i})
+        self.assertIn('inexist', idx['leitura'].lower())
+        anvisa = cats['por_orgao']['anvisa']['fontes_catalogo']
+        self.assertTrue(any(f.get('estado_acesso') == 'http-403' for f in anvisa))
+        cmn = cats['por_orgao']['cmn-bcb']['fontes_catalogo']
+        self.assertTrue(any(f.get('estado_acesso') == 'shell-javascript' for f in cmn))
+
+    def test_diferencas_edicoes_rfb_e_cmn_dou_neq_bcb(self):
+        ptr = MANIFEST.get('diferencas_edicoes')
+        dif = json.loads((ROOT / ptr).read_text(encoding='utf-8'))
+        rfb = dif['rfb_2110']
+        hashes = {
+            rfb['variantes']['original_path']['sha256_segmentos'],
+            rfb['variantes']['vigente']['sha256_segmentos'],
+            rfb['variantes']['multivigente']['sha256_segmentos'],
+        }
+        self.assertEqual(len(hashes), 3)
+        self.assertTrue(rfb['diferenca_markdown_original_vs_vigente'])
+        self.assertGreaterEqual(len(rfb['modificadores_no_historico_sijut']), 3)
+        cmn = dif['cmn_4966']
+        self.assertIs(cmn['equivalencia'], False)
+        self.assertEqual(cmn['edicao_publicada']['tipo'], 'original')
+        self.assertEqual(cmn['edicao_nao_recuperada']['tipo'], 'consolidada')
+        leitura = cmn['leitura'].lower().replace('nao', 'não')
+        self.assertTrue('não equivale' in leitura or '≠' in cmn['leitura'])
+
+    def test_relacoes_com_desconhecidos(self):
+        relacoes = MANIFEST.get('relacoes') or []
+        self.assertGreaterEqual(len(relacoes), 5)
+        tipos = {r['tipo'] for r in relacoes}
+        self.assertIn('alteracao', tipos)
+        self.assertIn('variante-edicao', tipos)
+        self.assertIn('edicao-nao-equivalente', tipos)
+        for r in relacoes:
+            self.assertTrue(r.get('desconhecidos'), r.get('id'))
+            self.assertTrue(r.get('fonte') or r.get('leitura'), r.get('id'))
+
+    def test_classificacao_normativo_vs_nao_normativo(self):
+        ptr = MANIFEST.get('classificacao_fontes')
+        clf = json.loads((ROOT / ptr).read_text(encoding='utf-8'))
+        self.assertGreaterEqual(len(clf['incluidos_como_normativos_neste_lote']), 4)
+        excl = {e['tipo'] for e in clf['excluidos_explicitamente']}
+        for tipo in ('consulta-publica', 'noticia', 'ato-individual', 'resolucao-bcb-ou-comunicado-mesmo-numero'):
+            self.assertIn(tipo, excl)
 
     def test_verify(self):
         import os, subprocess, sys

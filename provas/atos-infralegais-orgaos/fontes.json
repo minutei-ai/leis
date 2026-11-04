@@ -65,7 +65,9 @@
     "capturado_em": "2026-11-04T21:30:00Z",
     "sha256": "7a004a4963b1e2ccf8729c849c142ed80c23ef645a68650edefb6909de8bc6f2",
     "snapshot": "provas/atos-infralegais-orgaos/fontes/rfb-2110-original.json.xz",
-    "http_status": 200
+    "http_status": 200,
+    "visao_payload": "conjunta",
+    "nota_visao": "Path /visao/original retorna campo visao=conjunta no JSON SIJUT."
   },
   "rfb-2110-multivigente-json": {
     "chave": "rfb-2110-multivigente-json",
@@ -100,5 +102,17 @@
     "sha256": "9c9f23963a3f8e6b709ea308e8ff30c5b9158079f1601589f7c63d2592f48d04",
     "snapshot": "provas/atos-infralegais-orgaos/fontes/br-federal-resolucao-cmn-2021-11-25-4966.html.xz",
     "http_status": 200
+  },
+  "catalogos_paginacao": {
+    "arquivo": "provas/atos-infralegais-orgaos/catalogos-orgaos-paginacao.json",
+    "capturado_em": "2026-11-04T22:00:00Z"
+  },
+  "diferencas_edicoes": {
+    "arquivo": "provas/atos-infralegais-orgaos/diferencas-edicoes-rfb-cmn.json",
+    "capturado_em": "2026-11-04T22:00:00Z"
+  },
+  "classificacao_fontes": {
+    "arquivo": "provas/atos-infralegais-orgaos/classificacao-fontes-orgaos.json",
+    "capturado_em": "2026-11-04T22:00:00Z"
   }
 }

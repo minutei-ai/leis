@@ -143,12 +143,21 @@ def verify() -> list[str]:
     if SLUG_RFB_V in docs and SLUG_RFB_O in docs:
         v = (ROOT / docs[SLUG_RFB_V]['arquivo']).read_text(encoding='utf-8')
         o = (ROOT / docs[SLUG_RFB_O]['arquivo']).read_text(encoding='utf-8')
+        mo, bo = parse_frontmatter(o)
         _, bv = parse_frontmatter(v)
-        _, bo = parse_frontmatter(o)
         if bv == bo:
             errors.append('edições RFB vigente e original não devem ser idênticas')
         if 'sijut-vigente' not in v or 'sijut-original' not in o:
             errors.append('edicao_id SIJUT ausente nas INs RFB')
+        if mo.get('visao_path') != 'original':
+            errors.append('RFB original: visao_path deve ser original')
+        if mo.get('visao_payload') != 'conjunta':
+            errors.append('RFB original: path /original devolve visao_payload=conjunta (literal SIJUT)')
+        if docs[SLUG_RFB_O].get('visao_payload') != 'conjunta':
+            errors.append('manifesto RFB original: visao_payload conjunta ausente')
+        orig_fonte = fontes.get('rfb-2110-original-json') or {}
+        if orig_fonte.get('visao_payload') != 'conjunta':
+            errors.append('fontes.json RFB original: visao_payload conjunta ausente')
 
     # CMN
     for key in ('cmn-4966-dou', 'cmn-4966-shell'):
@@ -168,6 +177,8 @@ def verify() -> list[str]:
             errors.append('CMN 4966 sem menção a instrumentos financeiros')
         if 'resolucao-cmn' not in text:
             errors.append('CMN sem norma_tipo resolucao-cmn no frontmatter')
+        if docs[SLUG_CMN].get('edicao_tipo') != 'original':
+            errors.append('CMN 4966 publicada deve ser edicao_tipo original (DOU)')
 
     # Residual access notes — never falso negativo
     pend = manifest.get('pendencias_acesso') or []
@@ -183,6 +194,117 @@ def verify() -> list[str]:
     escopo = manifest.get('escopo') or {}
     if escopo.get('nao_cataloga_como_cobertura_completa') is not True and escopo.get('estado') != 'parcial':
         errors.append('escopo deve declarar parcialidade / não-cobertura completa')
+
+    # Critério: catálogos com paginação/período + IDs/estados
+    cat_ptr = manifest.get('catalogos_paginacao') or (fontes.get('catalogos_paginacao') or {}).get('arquivo')
+    if not cat_ptr:
+        errors.append('ponteiro catalogos_paginacao ausente do manifesto')
+    else:
+        cat_path = ROOT / cat_ptr
+        if not cat_path.is_file():
+            errors.append('catalogos-orgaos-paginacao.json ausente')
+        else:
+            cats = json.loads(cat_path.read_text(encoding='utf-8'))
+            for org in ('anvisa', 'rfb', 'cmn-bcb'):
+                if org not in (cats.get('por_orgao') or {}):
+                    errors.append(f'catálogo paginado sem órgão {org}')
+            rfb_cat = ((cats.get('por_orgao') or {}).get('rfb') or {}).get('fontes_catalogo') or []
+            idx = next(
+                (
+                    f
+                    for f in rfb_cat
+                    if 'indexa' in (f.get('sistema') or '').lower()
+                    or 'pesquisar' in (f.get('url') or '').lower()
+                ),
+                None,
+            )
+            if not idx:
+                errors.append('RFB: fonte de indexação/paginação ausente do catálogo')
+            else:
+                if not idx.get('paginacao_parametros_tentados'):
+                    errors.append('RFB: parâmetros de paginação/período ausentes')
+                if not idx.get('ids_oficiais_preservados'):
+                    errors.append('RFB: IDs oficiais ausentes do catálogo')
+                if not idx.get('estado_acesso'):
+                    errors.append('RFB: estado_acesso do catálogo ausente')
+                leitura_idx = (idx.get('leitura') or '').lower()
+                if 'inexist' not in leitura_idx:
+                    errors.append('RFB: leitura do catálogo deve negar inexistência por lista vazia')
+            anvisa_cat = ((cats.get('por_orgao') or {}).get('anvisa') or {}).get('fontes_catalogo') or []
+            if not any(f.get('estado_acesso') == 'http-403' for f in anvisa_cat):
+                errors.append('ANVISA: estado http-403 do índice deve estar registrado (≠ inexistência)')
+            cmn_cat = ((cats.get('por_orgao') or {}).get('cmn-bcb') or {}).get('fontes_catalogo') or []
+            if not any(f.get('estado_acesso') == 'shell-javascript' for f in cmn_cat):
+                errors.append('CMN/BCB: shell-javascript deve constar do catálogo')
+
+    # Critério: diferenças de edição RFB + CMN DOU ≠ BCB
+    dif_ptr = manifest.get('diferencas_edicoes') or (fontes.get('diferencas_edicoes') or {}).get('arquivo')
+    if not dif_ptr:
+        errors.append('ponteiro diferencas_edicoes ausente')
+    else:
+        dif_path = ROOT / dif_ptr
+        if not dif_path.is_file():
+            errors.append('diferencas-edicoes-rfb-cmn.json ausente')
+        else:
+            dif = json.loads(dif_path.read_text(encoding='utf-8'))
+            rfb = dif.get('rfb_2110') or {}
+            vars_ = rfb.get('variantes') or {}
+            for key in ('original_path', 'vigente', 'multivigente'):
+                if key not in vars_:
+                    errors.append(f'RFB: variante {key} ausente de diferencas-edicoes')
+            hashes = {
+                (vars_.get('original_path') or {}).get('sha256_segmentos'),
+                (vars_.get('vigente') or {}).get('sha256_segmentos'),
+                (vars_.get('multivigente') or {}).get('sha256_segmentos'),
+            }
+            if None in hashes or len(hashes) < 3:
+                errors.append('RFB: hashes de segmentos das três visões devem ser distintos')
+            if rfb.get('diferenca_markdown_original_vs_vigente') is not True:
+                errors.append('RFB: diferença markdown original vs vigente deve ser explícita')
+            if len(rfb.get('modificadores_no_historico_sijut') or []) < 3:
+                errors.append('RFB: histórico SIJUT deve listar ao menos 3 modificadores literais')
+            cmn = dif.get('cmn_4966') or {}
+            if cmn.get('equivalencia') is not False:
+                errors.append('CMN: equivalencia DOU↔BCB deve ser false')
+            if (cmn.get('edicao_publicada') or {}).get('tipo') != 'original':
+                errors.append('CMN: edição publicada deve ser original DOU')
+            if (cmn.get('edicao_nao_recuperada') or {}).get('tipo') != 'consolidada':
+                errors.append('CMN: consolidada BCB deve constar como não recuperada')
+            leitura_cmn = (cmn.get('leitura') or '').lower()
+            if 'não equivale' not in leitura_cmn and 'nao equivale' not in leitura_cmn and '≠' not in (cmn.get('leitura') or ''):
+                errors.append('CMN: leitura deve declarar DOU ≠ consolidada BCB')
+
+    # Critério: relações / efeitos com desconhecidos explícitos
+    relacoes = manifest.get('relacoes') or []
+    if len(relacoes) < 5:
+        errors.append(f'relacoes insuficientes ({len(relacoes)}); esperado ≥5')
+    rel_tipos = {r.get('tipo') for r in relacoes}
+    for required in ('alteracao', 'variante-edicao', 'edicao-nao-equivalente'):
+        if required not in rel_tipos:
+            errors.append(f'relação obrigatória ausente: {required}')
+    for r in relacoes:
+        if not r.get('desconhecidos'):
+            errors.append(f"{r.get('id')}: desconhecidos explícitos ausentes")
+        if not (r.get('fonte') or r.get('leitura')):
+            errors.append(f"{r.get('id')}: evidência/fonte ausente")
+
+    # Critério: classificação normativa vs notícia/consulta/ato individual
+    class_ptr = manifest.get('classificacao_fontes') or (fontes.get('classificacao_fontes') or {}).get('arquivo')
+    if not class_ptr:
+        errors.append('ponteiro classificacao_fontes ausente')
+    else:
+        class_path = ROOT / class_ptr
+        if not class_path.is_file():
+            errors.append('classificacao-fontes-orgaos.json ausente')
+        else:
+            clf = json.loads(class_path.read_text(encoding='utf-8'))
+            if len(clf.get('incluidos_como_normativos_neste_lote') or []) < 4:
+                errors.append('classificação: documentos normativos insuficientes')
+            excl = {e.get('tipo') for e in (clf.get('excluidos_explicitamente') or [])}
+            for tipo in ('consulta-publica', 'noticia', 'ato-individual', 'resolucao-bcb-ou-comunicado-mesmo-numero'):
+                if tipo not in excl:
+                    errors.append(f'classificação: exclusão {tipo} ausente')
+
     return errors
 
 

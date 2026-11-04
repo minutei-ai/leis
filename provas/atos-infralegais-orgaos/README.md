@@ -15,9 +15,21 @@ Inventário **parcial** (amostra ≠ cobertura completa).
 
 | Variante | Artefato |
 | --- | --- |
+| RFB path `/original` → payload `conjunta` | `federal/...-2110-original.md` + nota em `fontes.json` |
+| RFB vigente | `federal/...-2110.md` |
 | RFB multivigente | `fontes/rfb-2110-multivigente.json.xz` |
 | RFB DOU (conferência) | `fontes/rfb-2110-dou.html.xz` |
 | Shells SPA (evidência de acesso) | `fontes/rfb-2110-shell.html.xz`, `fontes/cmn-4966-shell.html.xz` |
+| CMN DOU original ≠ BCB consolidada | `diferencas-edicoes-rfb-cmn.json` (`equivalencia: false`) |
+
+## Catálogos, relações e classificação
+
+| Artefato | Conteúdo |
+| --- | --- |
+| `catalogos-orgaos-paginacao.json` | Paginação/período, IDs (`idAto` 126687 + modificadores), estados (403 / lista vazia / shell JS) |
+| `diferencas-edicoes-rfb-cmn.json` | Hashes distintos das 3 visões SIJUT; DOU ≠ BCB |
+| `classificacao-fontes-orgaos.json` | Normativos incluídos vs consulta/notícia/ato individual/espécie distinta |
+| `relacoes` no manifesto | Alterações SIJUT 2185/2289/2321 + variante-edição + edição-não-equivalente, com `desconhecidos` |
 
 ## Auditoria RDC 50
 
@@ -29,8 +41,10 @@ Inventário **parcial** (amostra ≠ cobertura completa).
 
 | Tema | Motivo |
 | --- | --- |
-| BCB exibenormativo consolidada | Shell JS; íntegra original via DOU já publicada |
+| BCB exibenormativo consolidada | Shell JS; íntegra original via DOU já publicada; DOU ≠ consolidada |
 | SIJUT `link.action` shell | Angular sem corpo; API `consulta-externa` recuperou original/vigente/multivigente |
+| SIJUT indexação | `quantidadeTotal` com `atos=[]` nesta captura ≠ inexistência |
+| BVS índice anual ANVISA | HTTP 403 no índice; ato RDC 50 individual permanece acessível |
 | Demais atos por órgão | Inventário aberto — amostra ≠ cobertura |
 
 ## Artefatos

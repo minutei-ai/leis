@@ -12,6 +12,8 @@ lei_regulamentada: ["br-federal-lei-1991-07-24-8212", "br-federal-lei-1991-07-24
 tema: "tributacao-previdenciaria-arrecadacao"
 edicao_id: "br-federal-in-rfb-2022-10-17-2110@sijut-original"
 edicao_tipo: "original"
+visao_path: "original"
+visao_payload: "conjunta"
 edicao_integral: true
 visao_fonte: "original"
 id_oficial: {"sistema": "SIJUT2", "idAto": 126687}

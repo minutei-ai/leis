@@ -1,12 +1,12 @@
 {
   "contrato": "metadados/CONTRATO-atos-infralegais-orgaos.md",
-  "contrato_versao": 1,
+  "contrato_versao": 2,
   "lote": "atos-infralegais-orgaos",
   "issue_refs": [
     "https://github.com/minutei-ai/leis/issues/75"
   ],
-  "descricao": "Inventário inicial de atos infralegais por órgão (ANVISA, RFB, CMN/BCB): publica RDC 50/2002 (tabelas pesquisáveis + fac-símile do diagrama), IN RFB 2.110 (visões original e vigente SIJUT; multivigente em prova), Resolução CMN 4.966 (DOU original). Escopo parcial; amostra ≠ cobertura completa.",
-  "gerado_em": "2026-11-04T21:30:00Z",
+  "descricao": "Inventário inicial de atos infralegais por órgão (ANVISA, RFB, CMN/BCB): fontes por órgão/espécie, catálogos com paginação/período e estados/IDs, RDC 50, IN RFB 2.110 (original/vigente + multivigente em prova), Resolução CMN 4.966 (DOU original ≠ consolidada BCB). Relações/efeitos/classificação com desconhecidos explícitos. Escopo parcial; amostra ≠ cobertura completa.",
+  "gerado_em": "2026-11-04T22:30:00Z",
   "vigencia_certificada": false,
   "catalogo_orgaos": {
     "anvisa": {
@@ -137,7 +137,9 @@
       },
       "prova": "provas/atos-infralegais-orgaos/reconciliacao-br-federal-in-rfb-2022-10-17-2110.json",
       "vigencia_certificada": false,
-      "tabelas": 0
+      "tabelas": 0,
+      "fonte": "rfb-2110-vigente-json",
+      "idAto": 126687
     },
     {
       "id": "br-federal-in-rfb-2022-10-17-2110-original",
@@ -161,7 +163,11 @@
       },
       "prova": "provas/atos-infralegais-orgaos/reconciliacao-br-federal-in-rfb-2022-10-17-2110-original.json",
       "vigencia_certificada": false,
-      "tabelas": 0
+      "tabelas": 0,
+      "fonte": "rfb-2110-original-json",
+      "idAto": 126687,
+      "visao_payload": "conjunta",
+      "visao_path": "original"
     },
     {
       "id": "br-federal-resolucao-cmn-2021-11-25-4966",
@@ -187,7 +193,8 @@
       },
       "prova": "provas/atos-infralegais-orgaos/reconciliacao-br-federal-resolucao-cmn-2021-11-25-4966.json",
       "vigencia_certificada": false,
-      "tabelas": 0
+      "tabelas": 0,
+      "fonte": "cmn-4966-dou"
     }
   ],
   "pendencias_acesso": [
@@ -226,5 +233,129 @@
     ],
     "nao_cataloga_como_cobertura_completa": true,
     "nota": "Amostra dos três órgãos da issue #75; não declara cobertura nacional nem inventário exaustivo por autoridade."
-  }
+  },
+  "especie": {
+    "norma_tipos": [
+      "rdc",
+      "in",
+      "resolucao-cmn"
+    ],
+    "padroes": {
+      "rdc": "br-federal-rdc-<orgao>-<AAAA-MM-DD>-<numero>",
+      "in": "br-federal-in-<orgao>-<AAAA-MM-DD>-<numero>",
+      "resolucao-cmn": "br-federal-resolucao-cmn-<AAAA-MM-DD>-<numero>"
+    },
+    "nota": "Órgão e espécie entram na identidade. Resolução CMN ≠ Resolução BCB ≠ Comunicado. Visões SIJUT original/vigente/multivigente são identidades distintas."
+  },
+  "relacoes": [
+    {
+      "id": "alteracao-historico-rfb-2110-in-2185",
+      "tipo": "alteracao",
+      "origem": {
+        "norma_id": "br-federal-in-rfb-2022-10-17-2110",
+        "arquivo": "federal/br-federal-in-rfb-2022-10-17-2110.md"
+      },
+      "alvo": {
+        "idAto": 137160,
+        "rotulo_literal": "Instrução Normativa RFB nº 2185, de 5 de abril de 2024"
+      },
+      "fonte": {
+        "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/126687/visao/vigente",
+        "campo": "historico[0]",
+        "texto_literal": "[Alterado(a) pelo(a) Instrução Normativa RFB nº 2185, de 5 de abril de 2024]"
+      },
+      "desconhecidos": [
+        "texto integral do ato modificador não publicado neste lote",
+        "vigência aplicável a casos concretos"
+      ],
+      "leitura": "Histórico SIJUT da IN 2.110 registra alteração pela IN RFB 2185/2024; evidência literal no JSON vigente."
+    },
+    {
+      "id": "alteracao-historico-rfb-2110-in-2289",
+      "tipo": "alteracao",
+      "origem": {
+        "norma_id": "br-federal-in-rfb-2022-10-17-2110",
+        "arquivo": "federal/br-federal-in-rfb-2022-10-17-2110.md"
+      },
+      "alvo": {
+        "idAto": 147671,
+        "rotulo_literal": "Instrução Normativa RFB nº 2289, de 30 de outubro de 2025"
+      },
+      "fonte": {
+        "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/126687/visao/vigente",
+        "campo": "historico[1]",
+        "texto_literal": "[Alterado(a) pelo(a) Instrução Normativa RFB nº 2289, de 30 de outubro de 2025]"
+      },
+      "desconhecidos": [
+        "texto integral do ato modificador não publicado neste lote"
+      ],
+      "leitura": "Histórico SIJUT registra alteração pela IN RFB 2289/2025."
+    },
+    {
+      "id": "alteracao-historico-rfb-2110-in-2321",
+      "tipo": "alteracao",
+      "origem": {
+        "norma_id": "br-federal-in-rfb-2022-10-17-2110",
+        "arquivo": "federal/br-federal-in-rfb-2022-10-17-2110.md"
+      },
+      "alvo": {
+        "idAto": 150565,
+        "rotulo_literal": "Instrução Normativa RFB nº 2321, de 6 de abril de 2026"
+      },
+      "fonte": {
+        "url": "https://normasinternet2.receita.fazenda.gov.br/api/consulta-externa/ato/126687/visao/vigente",
+        "campo": "historico[2]",
+        "texto_literal": "[Alterado(a) pelo(a) Instrução Normativa RFB nº 2321, de 6 de abril de 2026]"
+      },
+      "desconhecidos": [
+        "texto integral do ato modificador não publicado neste lote"
+      ],
+      "leitura": "Histórico SIJUT registra alteração pela IN RFB 2321/2026."
+    },
+    {
+      "id": "variante-edicao-rfb-2110-original-vigente",
+      "tipo": "variante-edicao",
+      "origem": {
+        "norma_id": "br-federal-in-rfb-2022-10-17-2110-original",
+        "arquivo": "federal/br-federal-in-rfb-2022-10-17-2110-original.md"
+      },
+      "alvo": {
+        "norma_id": "br-federal-in-rfb-2022-10-17-2110",
+        "arquivo": "federal/br-federal-in-rfb-2022-10-17-2110.md"
+      },
+      "fonte": {
+        "prova": "provas/atos-infralegais-orgaos/diferencas-edicoes-rfb-cmn.json",
+        "idAto": 126687
+      },
+      "desconhecidos": [
+        "equivalência jurídica caso a caso entre visões"
+      ],
+      "leitura": "Visões SIJUT distinctas (path original→payload conjunta vs vigente); não concatenar."
+    },
+    {
+      "id": "edicao-nao-equivalente-cmn-4966-dou-vs-bcb",
+      "tipo": "edicao-nao-equivalente",
+      "origem": {
+        "norma_id": "br-federal-resolucao-cmn-2021-11-25-4966",
+        "arquivo": "federal/br-federal-resolucao-cmn-2021-11-25-4966.md",
+        "edicao": "original-DOU"
+      },
+      "alvo": {
+        "fonte": "BCB exibenormativo",
+        "edicao": "consolidada",
+        "estado_acesso": "shell-javascript"
+      },
+      "fonte": {
+        "prova": "provas/atos-infralegais-orgaos/diferencas-edicoes-rfb-cmn.json"
+      },
+      "desconhecidos": [
+        "texto literal da consolidada BCB (não recuperado)",
+        "lista completa de alterações posteriores ao DOU"
+      ],
+      "leitura": "DOU original ≠ consolidada BCB. Pendência de acesso à consolidada sem falso negativo."
+    }
+  ],
+  "catalogos_paginacao": "provas/atos-infralegais-orgaos/catalogos-orgaos-paginacao.json",
+  "diferencas_edicoes": "provas/atos-infralegais-orgaos/diferencas-edicoes-rfb-cmn.json",
+  "classificacao_fontes": "provas/atos-infralegais-orgaos/classificacao-fontes-orgaos.json"
 }
