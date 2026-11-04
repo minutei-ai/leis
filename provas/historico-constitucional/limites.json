@@ -12,10 +12,15 @@
   ],
   "n_publicados": 8,
   "n_retidos": 0,
-  "nota": "8 constituições/ADCT + EC1/1969 via Câmara div.texto; EC1969 prova privada fora do repo público.",
+  "nota": "8 constituições/ADCT + EC1/1969 via Câmara div.texto (EC1969 via Senado/normas.leg.br); prova privada adicional da EC1969 fora do repo público quando citada.",
   "regras": [
     "Não inferir vigência/completude de presença de arquivo ou HTTP.",
     "Provas privadas fora do repo público; divergências literais preservadas.",
-    "ADCT 1946 tem identidade própria mesmo quando a página da Constituição 1946 também a reproduz."
-  ]
+    "ADCT 1946 tem identidade própria mesmo quando a página da Constituição 1946 também a reproduz.",
+    "Publicação dos 8 Markdown com cobertura de blocos não garante anexos/fac-símiles de outras edições nem inventário completo de emendas das séries anteriores.",
+    "Ver auditoria-criterios-79.md para critérios comprovados vs pendentes."
+  ],
+  "emendas_series_anteriores": "Emendas às Constituições de 1891, 1934, 1937, 1946 e 1967 (exceto EC 1/1969 deste lote) não foram inventariadas neste PR.",
+  "edicoes_consolidadas": "Consolidações modernas das Constituições históricas não foram publicadas sob rótulo de texto original; edicao_relacionada permanece nenhuma neste lote.",
+  "filtros_serie": "Integração de filtros de edição/série (#70) e rastreador (#83) fica com esses lotes; este manifesto declara serie_historica no cabeçalho."
 }
