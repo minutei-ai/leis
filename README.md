@@ -34,7 +34,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Estadual | [Minas Gerais](estaduais/MG/) | 65.933 |
 | Estadual | [Pará](estaduais/PA/) | 85 |
 | Estadual | [Paraíba](estaduais/PB/) | 2 |
-| Estadual | [Paraná](estaduais/PR/) | 60 |
+| Estadual | [Paraná](estaduais/PR/) | 61 |
 | Estadual | [Pernambuco](estaduais/PE/) | 2.346 |
 | Estadual | [Piauí](estaduais/PI/) | 1 |
 | Estadual | [Rio de Janeiro](estaduais/RJ/) | 1.661 |
