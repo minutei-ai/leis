@@ -53,7 +53,7 @@ Um acervo público do [Minutei](https://minutei.legal), organizado por esfera, e
 | Municipal | [Marechal Deodoro · AL](municipais/2704708/) | 7 |
 | Municipal | [Parauapebas · PA](municipais/1505536/) | 4 |
 | Municipal | [Rio Largo · AL](municipais/2707701/) | 2 |
-| Municipal | [São Paulo · SP](municipais/3550308/) | 7.473 |
+| Municipal | [São Paulo · SP](municipais/3550308/) | 7.474 |
 | Municipal | [Tomé-Açu · PA](municipais/1508001/) | 1 |
 | Municipal | [Aparecida de Goiânia · GO](municipais/5201405/) | 4.229 |
 | Municipal | [Rio Verde · GO](municipais/5218805/) | 1.089 |
